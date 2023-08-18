@@ -48,4 +48,7 @@ flags = [
     # TODO(joeo): Remove the default here. Maybe for platform builds not having
     # a version should be an error and should be allowed for unbundled builds.
     flag("RELEASE_PLATFORM_VERSION", ALL, "VP1A"),
+
+    # Set to true when the current platform version should be marked as REL.
+    flag("RELEASE_PLATFORM_VERSION_CODENAME_REL", ALL, ""),
 ]
