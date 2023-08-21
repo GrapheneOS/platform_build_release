@@ -27,4 +27,5 @@ values = [
     value("RELEASE_AIDL_USE_UNFROZEN", False),
     value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", "false"),
     value("RELEASE_PLATFORM_VERSION", "UP1A"),
+    value("RELEASE_PLATFORM_VERSION_CODENAME_REL", "true"),
 ]
