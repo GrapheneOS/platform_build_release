@@ -41,6 +41,9 @@ flags = [
     # they always have.
     flag("RELEASE_AIDL_USE_UNFROZEN", ALL, True),
 
+    # Enables running multiple payloads in the same Microdroid VM instance.
+    flag("RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM", SYSTEM, False),
+
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, "true"),
 
