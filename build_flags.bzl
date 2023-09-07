@@ -44,6 +44,14 @@ flags = [
     # Enables running multiple payloads in the same Microdroid VM instance.
     flag("RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM", SYSTEM, False),
 
+    # Enables assigning hardware devices to the guest VMs.
+    # If this flag is enabled, then RELEASE_AVF_ENABLE_MICRODROID_VENDOR_MODULES
+    # must also be enabled.
+    flag("RELEASE_AVF_ENABLE_DEVICE_ASSIGNMENT", ALL, False),
+
+    # Enables loading vendor modules (both kernel & userspace) in Microdroid VM.
+    flag("RELEASE_AVF_ENABLE_VENDOR_MODULES", ALL, False),
+
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, "true"),
 
