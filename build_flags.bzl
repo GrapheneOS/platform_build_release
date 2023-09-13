@@ -55,11 +55,17 @@ flags = [
     # Enables new llPvm functionality in Microdroid VMs.
     flag("RELEASE_AVF_ENABLE_LLPVM_CHANGES", ALL, False),
 
+    # Enables pVM remote attestation in Microdroid VM.
+    flag("RELEASE_AVF_ENABLE_REMOTE_ATTESTATION", ALL, False),
+
     # Enables loading vendor modules (both kernel & userspace) in Microdroid VM.
     flag("RELEASE_AVF_ENABLE_VENDOR_MODULES", ALL, False),
 
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, "true"),
+
+    # The version of mainline prebuilts used when prebuilts are enabled.
+    flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline-module-prebuilt_nightly"),
 
     # The platform version.
     # TODO(joeo): Remove the default here. Maybe for platform builds not having
