@@ -25,7 +25,7 @@ values = [
     value("RELEASE_ACONFIG_FLAG_DEFAULT_PERMISSION", "READ_ONLY"),
     value("RELEASE_ACONFIG_VALUE_SETS", "aconfig_value_set-aosp-next"),
     value("RELEASE_AIDL_USE_UNFROZEN", False),
-    value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", "false"),
     value("RELEASE_PLATFORM_VERSION", "UP1A"),
     value("RELEASE_PLATFORM_VERSION_CODENAME_REL", "true"),
+    value("RELEASE_PLATFORM_VNDK_VERSION", "35"),
 ]

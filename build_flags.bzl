@@ -62,10 +62,10 @@ flags = [
     flag("RELEASE_AVF_ENABLE_VENDOR_MODULES", ALL, False),
 
     # The behavior for the tree wrt building mainline modules or using prebuilts
-    flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, "true"),
+    flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, False),
 
     # The version of mainline prebuilts used when prebuilts are enabled.
-    flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline-module-prebuilt_nightly"),
+    flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
     # The platform version.
     # TODO(joeo): Remove the default here. Maybe for platform builds not having
@@ -74,4 +74,12 @@ flags = [
 
     # Set to true when the current platform version should be marked as REL.
     flag("RELEASE_PLATFORM_VERSION_CODENAME_REL", ALL, ""),
+
+    # The PLATFORM_VNDK_VERSION will be set to this version when the
+    # PLATFORM_VERSION_CODENAME is REL. This VNDK version flag will be removed
+    # when the VNDK is deprecated
+    flag("RELEASE_PLATFORM_VNDK_VERSION", ALL, ""),
+
+    # feature flag for removing legacy emoji font from system image.
+    flag("RELEASE_REMOVE_LEGACY_EMOJI_FONT", SYSTEM, "false"),
 ]
