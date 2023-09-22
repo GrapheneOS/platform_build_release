@@ -41,8 +41,8 @@ flags = [
     # they always have.
     flag("RELEASE_AIDL_USE_UNFROZEN", ALL, True),
 
-    # Enables running multiple payloads in the same Microdroid VM instance.
-    flag("RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM", SYSTEM, False),
+    # Enables acces to the AVF APIs to pre-installed apps.
+    flag("RELEASE_AVF_ALLOW_PREINSTALLED_APPS", SYSTEM, False),
 
     # Enables assigning hardware devices to the guest VMs.
     # If this flag is enabled, then RELEASE_AVF_ENABLE_MICRODROID_VENDOR_MODULES
@@ -54,6 +54,9 @@ flags = [
 
     # Enables new llPvm functionality in Microdroid VMs.
     flag("RELEASE_AVF_ENABLE_LLPVM_CHANGES", ALL, False),
+
+    # Enables running multiple payloads in the same Microdroid VM instance.
+    flag("RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM", SYSTEM, False),
 
     # Enables pVM remote attestation in Microdroid VM.
     flag("RELEASE_AVF_ENABLE_REMOTE_ATTESTATION", ALL, False),
