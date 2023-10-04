@@ -70,6 +70,9 @@ flags = [
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, False),
 
+    # Enables flagged apis to be exposed.
+    flag("RELEASE_EXPOSE_FLAGGED_API", ALL, True),
+
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 

@@ -22,5 +22,5 @@ load("//build/make/core/release_config.bzl", "value")
 
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
-    value("RELEASE_ACONFIG_VALUE_SETS", "aconfig_value_set-aosp-trunk_staging"),
+    value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/trunk_staging:aconfig_value_set-aosp-trunk_staging"),
 ]
