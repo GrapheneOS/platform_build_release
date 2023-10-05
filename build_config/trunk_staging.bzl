@@ -23,4 +23,10 @@ load("//build/make/core/release_config.bzl", "value")
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
     value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/trunk_staging:aconfig_value_set-aosp-trunk_staging"),
+    value("RELEASE_AVF_ALLOW_PREINSTALLED_APPS", True),
+    value("RELEASE_AVF_ENABLE_DEVICE_ASSIGNMENT", True),
+    value("RELEASE_AVF_ENABLE_DICE_CHANGES", True),
+    value("RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM", True),
+    value("RELEASE_AVF_ENABLE_REMOTE_ATTESTATION", True),
+    value("RELEASE_AVF_ENABLE_VENDOR_MODULES", True),
 ]
