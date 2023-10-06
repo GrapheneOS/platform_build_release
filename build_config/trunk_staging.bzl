@@ -29,4 +29,5 @@ values = [
     value("RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM", True),
     value("RELEASE_AVF_ENABLE_REMOTE_ATTESTATION", True),
     value("RELEASE_AVF_ENABLE_VENDOR_MODULES", True),
+    value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
 ]
