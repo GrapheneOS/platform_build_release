@@ -25,6 +25,7 @@ values = [
     value("RELEASE_ACONFIG_FLAG_DEFAULT_PERMISSION", "READ_ONLY"),
     value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/next:aconfig_value_set-aosp-next"),
     value("RELEASE_AIDL_USE_UNFROZEN", False),
+    value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", False),
     value("RELEASE_EXPOSE_FLAGGED_API", True),
     value("RELEASE_PLATFORM_VERSION", "UP1A"),
     value("RELEASE_PLATFORM_VERSION_CODENAME_REL", "true"),

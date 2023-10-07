@@ -68,7 +68,7 @@ flags = [
     flag("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", ALL, False),
 
     # The behavior for the tree wrt building mainline modules or using prebuilts
-    flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, False),
+    flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, True),
 
     # Enables flagged apis to be exposed.
     flag("RELEASE_EXPOSE_FLAGGED_API", ALL, True),
