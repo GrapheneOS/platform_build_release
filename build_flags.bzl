@@ -1,3 +1,6 @@
+"""
+Build flag definitions.
+"""
 # Copyright (C) 2023 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,10 +22,10 @@
 load(
     "//build/make/core/release_config.bzl",
     "ALL",
-    "PRODUCT",
-    "SYSTEM",
-    "SYSTEM_EXT",
-    "VENDOR",
+    "PRODUCT",  # buildifier: disable=load
+    "SYSTEM",  # buildifier: disable=load
+    "SYSTEM_EXT",  # buildifier: disable=load
+    "VENDOR",  # buildifier: disable=load
     "flag",
 )
 
