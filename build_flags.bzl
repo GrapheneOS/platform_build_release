@@ -79,6 +79,9 @@ flags = [
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
+    # This flag will control the rollout of new versions of the SoundPicker app.
+    flag("RELEASE_PACKAGE_SOUND_PICKER", ALL, "SoundPicker"),
+
     # The name of the virtual camera package to add to the system partition.
     flag("RELEASE_PACKAGE_VIRTUAL_CAMERA", SYSTEM, ""),
 

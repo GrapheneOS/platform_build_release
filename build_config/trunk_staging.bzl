@@ -34,4 +34,5 @@ values = [
     value("RELEASE_AVF_ENABLE_REMOTE_ATTESTATION", True),
     value("RELEASE_AVF_ENABLE_VENDOR_MODULES", True),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
+    value("RELEASE_DEPRECATE_VNDK", True),
 ]
