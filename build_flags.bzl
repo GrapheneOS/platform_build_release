@@ -73,6 +73,9 @@ flags = [
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, True),
 
+    # feature flag to deprecate VNDK
+    flag("RELEASE_DEPRECATE_VNDK", ALL, False),
+
     # Enables flagged apis to be exposed.
     flag("RELEASE_EXPOSE_FLAGGED_API", ALL, True),
 
@@ -100,7 +103,4 @@ flags = [
 
     # feature flag for removing legacy emoji font from system image.
     flag("RELEASE_REMOVE_LEGACY_EMOJI_FONT", SYSTEM, "false"),
-
-    # feature flag to deprecate VNDK
-    flag("RELEASE_DEPRECATE_VNDK", ALL, False),
 ]

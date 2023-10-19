@@ -35,4 +35,5 @@ values = [
     value("RELEASE_AVF_ENABLE_VENDOR_MODULES", True),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
     value("RELEASE_DEPRECATE_VNDK", True),
+    value("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", True),
 ]
