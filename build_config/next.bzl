@@ -23,6 +23,19 @@ Build flag values for release config next.
 
 load("//build/make/core/release_config.bzl", "value")
 
+# Platform version variables
+platform_version_flags = [
+    value("RELEASE_PLATFORM_VERSION", "UP1A"),
+    value("RELEASE_PLATFORM_SDK_VERSION", "34"),
+    value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "10"),
+    value("RELEASE_PLATFORM_SECURITY_PATCH", "2023-12-05"),
+    value("RELEASE_PLATFORM_VERSION_CODENAME", "REL"),
+    value("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "REL"),
+    value("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", "REL,VanillaIceCream"),
+    value("RELEASE_PLATFORM_VERSION_LAST_STABLE", "14"),
+    value("RELEASE_PLATFORM_VNDK_VERSION", "35"),
+]
+
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
     value("RELEASE_ACONFIG_FLAG_DEFAULT_PERMISSION", "READ_ONLY"),
@@ -30,7 +43,4 @@ values = [
     value("RELEASE_AIDL_USE_UNFROZEN", False),
     value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", False),
     value("RELEASE_EXPOSE_FLAGGED_API", True),
-    value("RELEASE_PLATFORM_VERSION", "UP1A"),
-    value("RELEASE_PLATFORM_VERSION_CODENAME_REL", "true"),
-    value("RELEASE_PLATFORM_VNDK_VERSION", "35"),
-]
+] + platform_version_flags

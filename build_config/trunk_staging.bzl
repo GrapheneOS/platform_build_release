@@ -22,6 +22,7 @@ Build flag values for release config trunk_staging.
 #
 
 load("//build/make/core/release_config.bzl", "value")
+load("//build/release/build_config/trunk_versions.bzl", "platform_version_flags")
 
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
@@ -36,4 +37,4 @@ values = [
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", True),
-]
+] + platform_version_flags
