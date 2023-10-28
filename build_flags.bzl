@@ -89,7 +89,7 @@ flags = [
     flag("RELEASE_PACKAGE_VIRTUAL_CAMERA", SYSTEM, ""),
 
     # The platform version. This is the 4 letter code, e.g. UD1A, UPB1, ZP1A, etc.
-    flag("RELEASE_PLATFORM_VERSION", ALL, "VP1A"),
+    flag("RELEASE_PLATFORM_VERSION", ALL, "ZP1A"),
 
     #  Used to indicate the security patch that has been applied to the device.
     #  It must signify that the build includes all security patches issued up through the designated Android Public Security Bulletin.
@@ -112,10 +112,10 @@ flags = [
     # A comma separated list of all codenames that are in preview.
     # This variable is sort of a lie for historical reasons and only
     # includes codenames up to and including the currently active codename
-    flag("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", ALL, "VanillaIceCream"),
+    flag("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", ALL, "UpsideDownCake,VanillaIceCream"),
 
     # A comma separated list of all preview codenames the platform will accept apps built against
-    flag("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", ALL, "VanillaIceCream"),
+    flag("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", ALL, "UpsideDownCake,VanillaIceCream"),
 
     # The last stable version name of the platform that was released.  During
     # development, this stays at that previous version, while the codename indicates
@@ -125,7 +125,7 @@ flags = [
     # The PLATFORM_VNDK_VERSION will be set to this version when the
     # PLATFORM_VERSION_CODENAME is REL. This VNDK version flag will be removed
     # when the VNDK is deprecated
-    flag("RELEASE_PLATFORM_VNDK_VERSION", ALL, ""),
+    flag("RELEASE_PLATFORM_VNDK_VERSION", ALL, "35"),
 
     # feature flag for removing legacy emoji font from system image.
     flag("RELEASE_REMOVE_LEGACY_EMOJI_FONT", SYSTEM, False),
