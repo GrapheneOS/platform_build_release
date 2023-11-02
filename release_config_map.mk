@@ -12,6 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# FLAG_DECLARATION_FILES gives the path(s) of flag declaration files that
+# should be included in the build.
+FLAG_DECLARATION_FILES := build/release/build_flags.bzl
+
+# Attach the flag value definitions to the various release configurations.
 $(call declare-release-config, next, build/release/build_config/next.bzl)
 $(call declare-release-config, trunk, build/release/build_config/trunk.bzl)
 $(call declare-release-config, trunk_food, build/release/build_config/trunk_food.bzl)
