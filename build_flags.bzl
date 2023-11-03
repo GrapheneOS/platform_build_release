@@ -44,6 +44,9 @@ flags = [
     # they always have.
     flag("RELEASE_AIDL_USE_UNFROZEN", ALL, True),
 
+    # Move ANGLE libraries from vendor partition to system partition.
+    flag("RELEASE_ANGLE_ON_SYSTEM", ALL, False),
+
     # The contributions made by apexes (source or prebuilts) to the rest of the build.
     flag("RELEASE_APEX_CONTRIBUTIONS_ADSERVICES", ALL, None),
     flag("RELEASE_APEX_CONTRIBUTIONS_APPSEARCH", ALL, None),
