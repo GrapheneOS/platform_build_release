@@ -21,7 +21,7 @@ Build flag values for release config next.
 # See go/build-system-flags
 #
 
-load("//build/make/core/release_config.bzl", "value")
+load("//build/make/core/release_config.scl", "value")
 
 # Platform version variables
 platform_version_flags = [

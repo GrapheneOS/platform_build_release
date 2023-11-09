@@ -15,7 +15,7 @@ Common version flags used by all trunk based release configs.
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-load("//build/make/core/release_config.bzl", "value")
+load("//build/make/core/release_config.scl", "value")
 
 platform_version_flags = [
     value("RELEASE_PLATFORM_VERSION", "ZP1A"),

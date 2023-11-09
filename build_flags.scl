@@ -20,7 +20,7 @@ Build flag definitions.
 # This is for things that must be decided at compile time.
 
 load(
-    "//build/make/core/release_config.bzl",
+    "//build/make/core/release_config.scl",
     "ALL",
     "PRODUCT",  # buildifier: disable=load
     "SYSTEM",  # buildifier: disable=load
