@@ -98,6 +98,12 @@ flags = [
     # If enabled, DeathRecipient is not strongly referenced from JNI.
     flag("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", ALL, False),
 
+    # The API level of current vendor API surface. It has YYYYMM format.
+    flag("RELEASE_BOARD_API_LEVEL", ALL, ""),
+
+    # Set to True to freeze the board API level with vendor FRC
+    flag("RELEASE_BOARD_API_LEVEL_FROZEN", ALL, False),
+
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, True),
 
