@@ -27,4 +27,5 @@ load("//build/release/build_config/trunk_versions.scl", "platform_version_flags"
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
     value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/trunk_food:aconfig_value_set-aosp-trunk_food"),
+    value("RELEASE_ANGLE_ON_SYSTEM", True),
 ] + platform_version_flags
