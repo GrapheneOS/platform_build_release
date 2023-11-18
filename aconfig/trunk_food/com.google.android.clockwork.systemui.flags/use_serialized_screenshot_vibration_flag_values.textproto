@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.google.android.clockwork.systemui.flags"
+  name: "use_serialized_screenshot_vibration"
+  state: ENABLED
+  permission: READ_WRITE
+}

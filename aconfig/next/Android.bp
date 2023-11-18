@@ -15,6 +15,17 @@
 aconfig_value_set {
     name: "aconfig_value_set-aosp-next",
     values: [
+        "aconfig-values-aosp-next-com.android.graphics.surfaceflinger.flags-all",
+        "aconfig-values-aosp-next-com.android.internal.telephony.flags-all",
+        "aconfig-values-aosp-next-com.android.launcher3-all",
+        "aconfig-values-aosp-next-com.android.media.flags-all",
+        "aconfig-values-aosp-next-com.android.server.companion.virtual-all",
+        "aconfig-values-aosp-next-com.android.server.display.feature.flags-all",
+        "aconfig-values-aosp-next-com.android.server.notification-all",
+        "aconfig-values-aosp-next-com.android.settings.flags-all",
+        "aconfig-values-aosp-next-com.android.systemui.accessibility.accessibilitymenu-all",
+        "aconfig-values-aosp-next-com.android.window.flags-all",
+        "aconfig-values-aosp-next-com.example.android.aconfig.demo.flags-all",
         "aconfig_values-aosp-next-all"
     ]
 }

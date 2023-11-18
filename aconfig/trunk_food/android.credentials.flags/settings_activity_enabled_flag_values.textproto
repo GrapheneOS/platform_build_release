@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.credentials.flags"
+  name: "settings_activity_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}

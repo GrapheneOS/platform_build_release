@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "express_metrics"
+  state: ENABLED
+  permission: READ_WRITE
+}
