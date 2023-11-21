@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.server.notification"
+  name: "refactor_attention_helper"
+  state: ENABLED
+  permission: READ_WRITE
+}

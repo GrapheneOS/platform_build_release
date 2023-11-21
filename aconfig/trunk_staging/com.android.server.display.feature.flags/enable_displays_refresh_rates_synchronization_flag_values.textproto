@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_displays_refresh_rates_synchronization"
+  state: ENABLED
+  permission: READ_ONLY
+}

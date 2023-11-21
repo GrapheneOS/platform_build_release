@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.car.feature"
+  name: "variable_update_rate"
+  state: ENABLED
+  permission: READ_WRITE
+}

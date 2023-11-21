@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "load_dds_on_create"
+  state: ENABLED
+  permission: READ_WRITE
+}

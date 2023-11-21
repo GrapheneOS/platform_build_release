@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.app"
+  name: "api_tvextender"
+  state: ENABLED
+  permission: READ_ONLY
+}

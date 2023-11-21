@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.os"
+  name: "allow_private_profile"
+  state: ENABLED
+  permission: READ_WRITE
+}

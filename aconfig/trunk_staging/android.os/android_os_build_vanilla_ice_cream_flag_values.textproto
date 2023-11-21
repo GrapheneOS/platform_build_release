@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.os"
+  name: "android_os_build_vanilla_ice_cream"
+  state: ENABLED
+  permission: READ_WRITE
+}

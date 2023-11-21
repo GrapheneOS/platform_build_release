@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.clockwork.flags"
+  name: "pele_display_offload"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.systemui"
+  name: "sysui_teamfood"
+  state: ENABLED
+  permission: READ_WRITE
+}

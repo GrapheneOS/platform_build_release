@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_overview_icon_menu"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.systemui"
+  name: "floating_menu_overlaps_nav_bars_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}

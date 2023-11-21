@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "fps.flags"
+  name: "sfps_enroll_refinement"
+  state: ENABLED
+  permission: READ_WRITE
+}

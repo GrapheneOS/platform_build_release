@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.window.flags"
+  name: "transfer_gesture_to_embedded"
+  state: ENABLED
+  permission: READ_WRITE
+}

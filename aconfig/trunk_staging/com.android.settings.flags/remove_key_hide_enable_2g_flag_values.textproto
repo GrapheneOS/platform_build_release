@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.settings.flags"
+  name: "remove_key_hide_enable_2g"
+  state: ENABLED
+  permission: READ_WRITE
+}

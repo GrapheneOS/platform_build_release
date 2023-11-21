@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.service.notification"
+  name: "ranking_update_ashmem"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "lyric_flags.placeholder"
+  name: "placeholder_first_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}

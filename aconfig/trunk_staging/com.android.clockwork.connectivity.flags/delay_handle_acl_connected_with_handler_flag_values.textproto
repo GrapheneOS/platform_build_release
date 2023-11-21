@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.clockwork.connectivity.flags"
+  name: "delay_handle_acl_connected_with_handler"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "enable_reboot_notification"
+  state: ENABLED
+  permission: READ_WRITE
+}

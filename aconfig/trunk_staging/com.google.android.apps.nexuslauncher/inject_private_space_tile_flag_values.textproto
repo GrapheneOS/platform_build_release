@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "inject_private_space_tile"
+  state: ENABLED
+  permission: READ_WRITE
+}

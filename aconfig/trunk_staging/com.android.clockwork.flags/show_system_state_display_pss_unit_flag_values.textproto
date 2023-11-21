@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.clockwork.flags"
+  name: "show_system_state_display_pss_unit"
+  state: ENABLED
+  permission: READ_WRITE
+}

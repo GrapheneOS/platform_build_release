@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.intentresolver"
+  name: "scrollable_preview"
+  state: ENABLED
+  permission: READ_WRITE
+}

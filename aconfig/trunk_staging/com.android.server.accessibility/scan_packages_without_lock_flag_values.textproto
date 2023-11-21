@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "scan_packages_without_lock"
+  state: ENABLED
+  permission: READ_WRITE
+}

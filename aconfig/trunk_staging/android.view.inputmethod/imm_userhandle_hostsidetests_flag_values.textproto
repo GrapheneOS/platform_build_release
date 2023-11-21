@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "android.view.inputmethod"
+  name: "imm_userhandle_hostsidetests"
+  state: ENABLED
+  permission: READ_ONLY
+}

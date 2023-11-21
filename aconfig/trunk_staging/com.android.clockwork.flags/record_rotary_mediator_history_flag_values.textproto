@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.clockwork.flags"
+  name: "record_rotary_mediator_history"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "enable_queuing_profile_connection_change"
+  state: ENABLED
+  permission: READ_WRITE
+}
