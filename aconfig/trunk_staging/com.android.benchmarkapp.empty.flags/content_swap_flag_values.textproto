@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "com.android.benchmarkapp.empty.flags"
-  name: "content_swap"
-  state: ENABLED
-  permission: READ_WRITE
-}

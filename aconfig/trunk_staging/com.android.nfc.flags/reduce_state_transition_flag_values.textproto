@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "com.android.nfc.flags"
-  name: "reduce_state_transition"
-  state: ENABLED
-  permission: READ_WRITE
-}

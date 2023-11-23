@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "android.service.autofill"
-  name: "test"
-  state: ENABLED
-  permission: READ_WRITE
-}

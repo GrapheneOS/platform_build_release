@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "lyric_flags.segmentation"
-  name: "skin_mask_enabled"
-  state: ENABLED
-  permission: READ_WRITE
-}

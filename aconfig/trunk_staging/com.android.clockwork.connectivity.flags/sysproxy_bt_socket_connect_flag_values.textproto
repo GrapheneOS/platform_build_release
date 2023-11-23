@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "com.android.clockwork.connectivity.flags"
-  name: "sysproxy_bt_socket_connect"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "com.google.wear.sdk"
-  name: "enable_ambient_options_expiration_api"
-  state: ENABLED
-  permission: READ_WRITE
-}

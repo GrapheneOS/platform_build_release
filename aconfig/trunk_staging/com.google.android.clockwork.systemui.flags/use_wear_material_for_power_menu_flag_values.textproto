@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "com.google.android.clockwork.systemui.flags"
-  name: "use_wear_material_for_power_menu"
-  state: ENABLED
-  permission: READ_WRITE
-}

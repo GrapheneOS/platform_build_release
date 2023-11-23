@@ -1,7 +1,0 @@
-
-flag_value {
-  package: "android.car.feature"
-  name: "batched_subscriptions"
-  state: ENABLED
-  permission: READ_WRITE
-}
