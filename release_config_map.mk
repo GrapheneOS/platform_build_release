@@ -22,7 +22,7 @@ FLAG_DECLARATION_FILES := $(local_dir)build_flags.scl
 # Attach the flag value definitions to the various release configurations.
 $(call declare-release-config, next, $(local_dir)build_config/next.scl)
 $(call declare-release-config, trunk, $(local_dir)build_config/trunk.scl)
-$(call declare-release-config, trunk_food, $(local_dir)build_config/trunk_food.scl)
+$(call declare-release-config, trunk_food, $(local_dir)build_config/trunk_food.scl, trunk)
 $(call declare-release-config, trunk_staging, $(local_dir)build_config/trunk_staging.scl)
 
 # Temporary, until we remove the old "staging" configs

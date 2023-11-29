@@ -28,5 +28,4 @@ load("//build/release/build_config/trunk_versions.scl", "platform_version_flags"
 values = [
     value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/trunk:aconfig_value_set-aosp-trunk"),
     value("RELEASE_ANGLE_ON_SYSTEM", True),
-    value("RELEASE_DEPRECATE_VNDK", True),
 ] + platform_version_flags
