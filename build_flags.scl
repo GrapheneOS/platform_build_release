@@ -137,7 +137,7 @@ flags = [
     flag("RELEASE_PLATFORM_SDK_VERSION", ALL, "34"),
 
     # The sdk extension version of this release configuration.
-    flag("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", ALL, "10"),
+    flag("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", ALL, "11"),
 
     # Set to REL for production platform builds, otherwise the codename string,
     # e.g. UpsideDownCake or VanillaIceCream

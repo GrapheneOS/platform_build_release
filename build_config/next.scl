@@ -27,7 +27,7 @@ load("//build/make/core/release_config.scl", "value")
 platform_version_flags = [
     value("RELEASE_PLATFORM_VERSION", "UP1A"),
     value("RELEASE_PLATFORM_SDK_VERSION", "34"),
-    value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "10"),
+    value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
     value("RELEASE_PLATFORM_SECURITY_PATCH", "2024-01-05"),
     value("RELEASE_PLATFORM_VERSION_CODENAME", "REL"),
     value("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "REL"),
