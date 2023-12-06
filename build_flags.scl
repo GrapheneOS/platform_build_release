@@ -163,4 +163,7 @@ flags = [
 
     # feature flag for removing legacy emoji font from system image.
     flag("RELEASE_REMOVE_LEGACY_EMOJI_FONT", SYSTEM, False),
+
+    # b/292140387: Flag to switch to the new NFC apex
+    flag("RELEASE_PACKAGE_NFC_STACK", SYSTEM, "NfcNci"),
 ]
