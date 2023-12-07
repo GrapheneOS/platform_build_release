@@ -116,6 +116,9 @@ flags = [
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
+    # Enables ABI monitoring of NDK libraries.
+    flag("RELEASE_NDK_ABI_MONITORED", ALL, False),
+
     # This flag will control the rollout of new versions of the SoundPicker app.
     flag("RELEASE_PACKAGE_SOUND_PICKER", ALL, "SoundPicker"),
 
