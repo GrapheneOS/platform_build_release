@@ -38,4 +38,5 @@ values = [
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", True),
+    value("RELEASE_NDK_ABI_MONITORED", True),
 ] + platform_version_flags
