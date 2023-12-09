@@ -32,5 +32,5 @@ load("//build/make/core/release_config.scl", "value")
 # is the only difference at this time.
 ################################################################################
 values = [
-    value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/trunk_food:aconfig_value_set-aosp-trunk_food"),
+    value("RELEASE_ACONFIG_VALUE_SETS", "aconfig_value_set-aosp-trunk_food"),
 ]

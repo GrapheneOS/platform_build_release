@@ -26,7 +26,7 @@ load("//build/release/build_config/trunk_versions.scl", "platform_version_flags"
 
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
-    value("RELEASE_ACONFIG_VALUE_SETS", "//build/release/aconfig/trunk_staging:aconfig_value_set-aosp-trunk_staging"),
+    value("RELEASE_ACONFIG_VALUE_SETS", "aconfig_value_set-aosp-trunk_staging"),
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_AVF_ALLOW_PREINSTALLED_APPS", True),
     value("RELEASE_AVF_ENABLE_DEVICE_ASSIGNMENT", True),
