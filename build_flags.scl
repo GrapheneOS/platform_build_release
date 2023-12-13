@@ -113,6 +113,9 @@ flags = [
     # Enables flagged apis to be exposed.
     flag("RELEASE_EXPOSE_FLAGGED_API", ALL, True),
 
+    # Enables Bluetooth Ranging Service
+    flag("RELEASE_HARDWARE_BLUETOOTH_RANGING_SERVICE", ALL, True),
+
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
