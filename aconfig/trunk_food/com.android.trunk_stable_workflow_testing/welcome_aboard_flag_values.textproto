@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.trunk_stable_workflow_testing"
+  name: "welcome_aboard"
+  state: ENABLED
+  permission: READ_WRITE
+}

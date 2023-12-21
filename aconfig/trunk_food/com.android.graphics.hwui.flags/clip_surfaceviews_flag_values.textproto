@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "clip_surfaceviews"
+  state: ENABLED
+  permission: READ_WRITE
+}

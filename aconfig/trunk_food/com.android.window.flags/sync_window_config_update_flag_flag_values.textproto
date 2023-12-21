@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "sync_window_config_update_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}

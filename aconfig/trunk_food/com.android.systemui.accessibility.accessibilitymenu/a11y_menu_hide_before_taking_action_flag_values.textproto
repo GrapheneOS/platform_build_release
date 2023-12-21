@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.accessibility.accessibilitymenu"
+  name: "a11y_menu_hide_before_taking_action"
+  state: ENABLED
+  permission: READ_WRITE
+}

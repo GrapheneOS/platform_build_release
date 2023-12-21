@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "a11y_overlay_callbacks"
+  state: ENABLED
+  permission: READ_WRITE
+}

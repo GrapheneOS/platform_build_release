@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "deprecate_package_list_observer"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "enable_unattended_reboot"
+  state: ENABLED
+  permission: READ_WRITE
+}

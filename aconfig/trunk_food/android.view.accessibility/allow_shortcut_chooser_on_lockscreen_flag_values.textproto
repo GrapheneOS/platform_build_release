@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "allow_shortcut_chooser_on_lockscreen"
+  state: ENABLED
+  permission: READ_WRITE
+}

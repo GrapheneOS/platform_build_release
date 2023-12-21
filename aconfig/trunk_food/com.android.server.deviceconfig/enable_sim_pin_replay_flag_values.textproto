@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "enable_sim_pin_replay"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "low_latency_lock_listener"
+  state: ENABLED
+  permission: READ_WRITE
+}

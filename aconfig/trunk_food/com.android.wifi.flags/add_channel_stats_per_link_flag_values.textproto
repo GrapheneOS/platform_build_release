@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "add_channel_stats_per_link"
+  state: ENABLED
+  permission: READ_WRITE
+}
