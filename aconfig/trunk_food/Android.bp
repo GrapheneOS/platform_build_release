@@ -15,6 +15,7 @@
 aconfig_value_set {
     name: "aconfig_value_set-aosp-trunk_food",
     values: [
+      "aconfig_values-aosp-root-all",
       "aconfig-values-aosp-trunk_food-android.app-all",
       "aconfig-values-aosp-trunk_food-android.app.usage-all",
       "aconfig-values-aosp-trunk_food-android.chre.flags-all",

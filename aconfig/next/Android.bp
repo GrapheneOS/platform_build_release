@@ -26,6 +26,7 @@ aconfig_value_set {
         "aconfig-values-aosp-next-com.android.systemui.accessibility.accessibilitymenu-all",
         "aconfig-values-aosp-next-com.android.window.flags-all",
         "aconfig-values-aosp-next-com.example.android.aconfig.demo.flags-all",
+        "aconfig_values-aosp-root-all",
         "aconfig_values-aosp-next-all"
     ]
 }

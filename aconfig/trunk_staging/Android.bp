@@ -15,7 +15,8 @@
 aconfig_value_set {
     name: "aconfig_value_set-aosp-trunk_staging",
     values: [
-        "aconfig_values-aosp-trunk_staging-all"
+        "aconfig_values-aosp-root-all",
+        "aconfig_values-aosp-trunk_staging-all",
     ]
 }
 
