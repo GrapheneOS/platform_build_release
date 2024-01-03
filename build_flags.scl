@@ -72,6 +72,9 @@ flags = [
     flag("RELEASE_APEX_CONTRIBUTIONS_UWB", ALL, None),
     flag("RELEASE_APEX_CONTRIBUTIONS_WIFI", ALL, None),
 
+    # Move User avatar picker from SettingsLib to preinstalled app.
+    flag("RELEASE_AVATAR_PICKER_APP", ALL, False),
+
     # Enables acces to the AVF APIs to pre-installed apps.
     flag("RELEASE_AVF_ALLOW_PREINSTALLED_APPS", SYSTEM, False),
 
