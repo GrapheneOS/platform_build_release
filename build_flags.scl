@@ -148,6 +148,9 @@ flags = [
     # The sdk extension version of this release configuration.
     flag("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", ALL, "11"),
 
+    # Allow system property storage node to be 1M to accomodate aconfig flags.
+    flag("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", ALL, False),
+
     # Set to REL for production platform builds, otherwise the codename string,
     # e.g. UpsideDownCake or VanillaIceCream
     flag("RELEASE_PLATFORM_VERSION_CODENAME", ALL, "VanillaIceCream"),
