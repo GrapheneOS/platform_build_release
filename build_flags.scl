@@ -181,4 +181,7 @@ flags = [
 
     # b/292140387: Flag to switch to the new NFC apex
     flag("RELEASE_PACKAGE_NFC_STACK", SYSTEM, "NfcNci"),
+
+    # True for using variable font of the NotoSansCJK
+    flag("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", SYSTEM, False),
 ]
