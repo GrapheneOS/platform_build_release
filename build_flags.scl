@@ -119,6 +119,11 @@ flags = [
     # Enables Bluetooth Ranging Service
     flag("RELEASE_HARDWARE_BLUETOOTH_RANGING_SERVICE", ALL, True),
 
+    # b/319697968: Flag to determine the dependency of hiddenapi to the stubs that contain all
+    # flagged apis ("everything" stubs), or to the stubs that contain only the enabled flagged
+    # apis ("exportable" stubs).
+    flag("RELEASE_HIDDEN_API_EXPORTABLE_STUBS", ALL, False),
+
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
