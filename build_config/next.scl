@@ -28,7 +28,7 @@ platform_version_flags = [
     value("RELEASE_PLATFORM_VERSION", "UP1A"),
     value("RELEASE_PLATFORM_SDK_VERSION", "34"),
     value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
-    value("RELEASE_PLATFORM_SECURITY_PATCH", "2024-02-05"),
+    value("RELEASE_PLATFORM_SECURITY_PATCH", "2024-03-05"),
     value("RELEASE_PLATFORM_VERSION_CODENAME", "REL"),
     value("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "REL"),
     value("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", "REL,VanillaIceCream"),
@@ -43,5 +43,4 @@ values = [
     value("RELEASE_AIDL_USE_UNFROZEN", False),
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", False),
-    value("RELEASE_EXPOSE_FLAGGED_API", True),
 ] + platform_version_flags

@@ -107,14 +107,14 @@ flags = [
     # Set to True to freeze the board API level with vendor FRC
     flag("RELEASE_BOARD_API_LEVEL_FROZEN", ALL, False),
 
+    # Enable build system to create new aconfig storage files.
+    flag("RELEASE_CREATE_ACONFIG_STORAGE_FILE", ALL, False),
+
     # The behavior for the tree wrt building mainline modules or using prebuilts
     flag("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", ALL, True),
 
     # feature flag to deprecate VNDK
     flag("RELEASE_DEPRECATE_VNDK", ALL, False),
-
-    # Enables flagged apis to be exposed.
-    flag("RELEASE_EXPOSE_FLAGGED_API", ALL, True),
 
     # Enables Bluetooth Ranging Service
     flag("RELEASE_HARDWARE_BLUETOOTH_RANGING_SERVICE", ALL, True),
