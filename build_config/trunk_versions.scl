@@ -24,8 +24,8 @@ platform_version_flags = [
     value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
     value("RELEASE_PLATFORM_SECURITY_PATCH", "2024-03-05"),
     value("RELEASE_PLATFORM_VERSION_CODENAME", "VanillaIceCream"),
-    value("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "UpsideDownCake,VanillaIceCream"),
-    value("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", "UpsideDownCake,VanillaIceCream"),
+    value("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "VanillaIceCream"),
+    value("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", "VanillaIceCream"),
     value("RELEASE_PLATFORM_VERSION_LAST_STABLE", "14"),
     value("RELEASE_PLATFORM_VNDK_VERSION", "35"),
 ]
