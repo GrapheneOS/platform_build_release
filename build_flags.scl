@@ -174,6 +174,10 @@ flags = [
     # A comma separated list of all preview codenames the platform will accept apps built against
     flag("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", ALL, "VanillaIceCream"),
 
+    # A comma separated list of all known codenames.
+    # For REL (finalized) configurations, it has to only contain finalized codenames.
+    flag("RELEASE_PLATFORM_VERSION_KNOWN_CODENAMES", ALL, "Base,Base11,Cupcake,Donut,Eclair,Eclair01,EclairMr1,Froyo,Gingerbread,GingerbreadMr1,Honeycomb,HoneycombMr1,HoneycombMr2,IceCreamSandwich,IceCreamSandwichMr1,JellyBean,JellyBeanMr1,JellyBeanMr2,Kitkat,KitkatWatch,Lollipop,LollipopMr1,M,N,NMr1,O,OMr1,P,Q,R,S,Sv2,Tiramisu,UpsideDownCake,VanillaIceCream"),
+
     # The last stable version name of the platform that was released.  During
     # development, this stays at that previous version, while the codename indicates
     # further work based on the previous version.

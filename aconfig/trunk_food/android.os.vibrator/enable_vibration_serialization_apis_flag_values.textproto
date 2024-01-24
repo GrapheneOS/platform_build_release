@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "enable_vibration_serialization_apis"
+  state: ENABLED
+  permission: READ_WRITE
+}

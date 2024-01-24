@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.input.flags"
-  name: "remove_app_switch_drops"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "cache_when_source_crop_layer_only_moved"
+  state: ENABLED
+  permission: READ_ONLY
+}

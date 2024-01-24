@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "refresh_rate_overlay_on_external_display"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "floating_menu_ime_displacement_animation"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "disable_reason_unwanted_low_rssi"
+  state: ENABLED
+  permission: READ_WRITE
+}

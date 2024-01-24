@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "message_queue_tail_tracking"
+  state: ENABLED
+  permission: READ_ONLY
+}

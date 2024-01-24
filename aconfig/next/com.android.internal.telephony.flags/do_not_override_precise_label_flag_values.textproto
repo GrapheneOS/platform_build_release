@@ -1,4 +1,3 @@
-
 flag_value {
   package: "com.android.internal.telephony.flags"
   name: "do_not_override_precise_label"

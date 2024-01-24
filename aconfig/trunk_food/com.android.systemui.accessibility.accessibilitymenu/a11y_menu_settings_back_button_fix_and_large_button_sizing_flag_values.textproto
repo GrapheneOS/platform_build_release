@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui.accessibility.accessibilitymenu"
-  name: "a11y_menu_settings_back_button_fix_and_large_button_sizing"
-  state: ENABLED
-  permission: READ_WRITE
-}

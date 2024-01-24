@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "do_not_check_intersection_when_non_magnifiable_window_transitions"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "draw_magnifier_border_outside_wmlock"
+  state: ENABLED
+  permission: READ_ONLY
+}

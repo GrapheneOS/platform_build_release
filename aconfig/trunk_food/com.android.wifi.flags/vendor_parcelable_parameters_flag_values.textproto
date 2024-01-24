@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "vendor_parcelable_parameters"
+  state: ENABLED
+  permission: READ_WRITE
+}

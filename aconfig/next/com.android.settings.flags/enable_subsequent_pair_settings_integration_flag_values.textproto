@@ -1,4 +1,3 @@
-
 flag_value {
   package: "com.android.settings.flags"
   name: "enable_subsequent_pair_settings_integration"

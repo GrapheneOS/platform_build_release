@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "fp16_client_target"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_magnification_multiple_finger_multiple_tap_gesture"
+  state: ENABLED
+  permission: READ_WRITE
+}

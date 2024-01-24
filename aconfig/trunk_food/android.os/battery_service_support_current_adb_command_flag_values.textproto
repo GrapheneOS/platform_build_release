@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "battery_service_support_current_adb_command"
+  state: ENABLED
+  permission: READ_ONLY
+}

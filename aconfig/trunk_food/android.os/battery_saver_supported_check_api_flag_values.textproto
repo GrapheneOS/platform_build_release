@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "battery_saver_supported_check_api"
+  state: ENABLED
+  permission: READ_WRITE
+}

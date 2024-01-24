@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "game_default_frame_rate"
+  state: ENABLED
+  permission: READ_ONLY
+}

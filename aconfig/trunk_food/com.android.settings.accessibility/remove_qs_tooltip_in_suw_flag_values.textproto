@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "remove_qs_tooltip_in_suw"
+  state: ENABLED
+  permission: READ_WRITE
+}

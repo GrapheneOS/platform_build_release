@@ -1,4 +1,3 @@
-
 flag_value {
   package: "com.android.server.display.feature.flags"
   name: "enable_adaptive_tone_improvements_1"

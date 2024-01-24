@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "get_host_token_api"
+  state: ENABLED
+  permission: READ_ONLY
+}
