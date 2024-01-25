@@ -41,4 +41,5 @@ values = [
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
     value("RELEASE_NDK_ABI_MONITORED", True),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
+    value("RELEASE_PACKAGE_NFC_STACK", "com.android.nfcservices"),
 ] + platform_version_flags
