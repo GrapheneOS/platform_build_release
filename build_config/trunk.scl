@@ -30,5 +30,6 @@ values = [
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
+    value("RELEASE_PACKAGE_TZDATA_MODULE", "com.android.tzdata"),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
 ] + platform_version_flags

@@ -137,7 +137,7 @@ flags = [
     flag("RELEASE_PACKAGE_SOUND_PICKER", ALL, "SoundPicker"),
 
     # tzdata to be installed to the system image.
-    flag("RELEASE_PACKAGE_TZDATA_MODULE", ALL, "com.android.tzdata"),
+    flag("RELEASE_PACKAGE_TZDATA_MODULE", ALL, None),
 
     # The name of the virtual camera package to add to the system partition.
     flag("RELEASE_PACKAGE_VIRTUAL_CAMERA", SYSTEM, ""),

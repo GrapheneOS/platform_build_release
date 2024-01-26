@@ -25,6 +25,7 @@ load("//build/make/core/release_config.scl", "value")
 
 # Platform version variables
 platform_version_flags = [
+    value("RELEASE_BOARD_API_LEVEL", "202404"),
     value("RELEASE_PLATFORM_VERSION", "UP1A"),
     value("RELEASE_PLATFORM_SDK_VERSION", "34"),
     value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
@@ -43,4 +44,5 @@ values = [
     value("RELEASE_AIDL_USE_UNFROZEN", False),
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", False),
+    value("RELEASE_PACKAGE_TZDATA_MODULE", "com.android.tzdata"),
 ] + platform_version_flags
