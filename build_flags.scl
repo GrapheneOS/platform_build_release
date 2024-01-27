@@ -127,17 +127,26 @@ flags = [
     # apis ("exportable" stubs).
     flag("RELEASE_HIDDEN_API_EXPORTABLE_STUBS", ALL, False),
 
+    # Allow system property storage node to be 1M to accomodate aconfig flags.
+    flag("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", ALL, False),
+
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
     # Enables ABI monitoring of NDK libraries.
     flag("RELEASE_NDK_ABI_MONITORED", ALL, False),
 
+    # b/292140387: Flag to switch to the new NFC apex
+    flag("RELEASE_PACKAGE_NFC_STACK", SYSTEM, "NfcNci"),
+
     # This flag will control the rollout of new versions of the SoundPicker app.
     flag("RELEASE_PACKAGE_SOUND_PICKER", ALL, "SoundPicker"),
 
     # tzdata to be installed to the system image.
     flag("RELEASE_PACKAGE_TZDATA_MODULE", ALL, None),
+
+    # True for using variable font of the NotoSansCJK
+    flag("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", SYSTEM, False),
 
     # The name of the virtual camera package to add to the system partition.
     flag("RELEASE_PACKAGE_VIRTUAL_CAMERA", SYSTEM, ""),
@@ -159,13 +168,6 @@ flags = [
     # The sdk extension version of this release configuration.
     flag("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", ALL, "11"),
 
-    # Allow system property storage node to be 1M to accomodate aconfig flags.
-    flag("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", ALL, False),
-
-    # Set to REL for production platform builds, otherwise the codename string,
-    # e.g. UpsideDownCake or VanillaIceCream
-    flag("RELEASE_PLATFORM_VERSION_CODENAME", ALL, "VanillaIceCream"),
-
     # A comma separated list of all codenames that are in preview.
     # This variable is sort of a lie for historical reasons and only
     # includes codenames up to and including the currently active codename
@@ -173,6 +175,10 @@ flags = [
 
     # A comma separated list of all preview codenames the platform will accept apps built against
     flag("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", ALL, "VanillaIceCream"),
+
+    # Set to REL for production platform builds, otherwise the codename string,
+    # e.g. UpsideDownCake or VanillaIceCream
+    flag("RELEASE_PLATFORM_VERSION_CODENAME", ALL, "VanillaIceCream"),
 
     # A comma separated list of all known codenames.
     # For REL (finalized) configurations, it has to only contain finalized codenames.
@@ -190,10 +196,5 @@ flags = [
 
     # feature flag for removing legacy emoji font from system image.
     flag("RELEASE_REMOVE_LEGACY_EMOJI_FONT", SYSTEM, False),
-
-    # b/292140387: Flag to switch to the new NFC apex
-    flag("RELEASE_PACKAGE_NFC_STACK", SYSTEM, "NfcNci"),
-
-    # True for using variable font of the NotoSansCJK
-    flag("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", SYSTEM, False),
 ]
+# Flags should be alphabetical by flag name to reduce merge conflifcts
