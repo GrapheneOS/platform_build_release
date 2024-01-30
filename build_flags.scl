@@ -98,6 +98,9 @@ flags = [
     # Enables loading vendor modules (both kernel & userspace) in Microdroid VM.
     flag("RELEASE_AVF_ENABLE_VENDOR_MODULES", ALL, False),
 
+    # Enables Virtual Cpufreq support in Microdroid VM.
+    flag("RELEASE_AVF_ENABLE_VIRT_CPUFREQ", ALL, False),
+
     # If enabled, DeathRecipient is not strongly referenced from JNI.
     flag("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", ALL, False),
 
@@ -143,7 +146,7 @@ flags = [
     flag("RELEASE_PACKAGE_SOUND_PICKER", ALL, "SoundPicker"),
 
     # tzdata to be installed to the system image.
-    flag("RELEASE_PACKAGE_TZDATA_MODULE", ALL, None),
+    flag("RELEASE_PACKAGE_TZDATA_MODULE", ALL, "com.android.tzdata"),
 
     # True for using variable font of the NotoSansCJK
     flag("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", SYSTEM, False),
