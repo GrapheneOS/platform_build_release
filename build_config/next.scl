@@ -45,3 +45,4 @@ values = [
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", False),
 ] + platform_version_flags
+# Flags should be alphabetical by flag name to reduce merge conflifcts

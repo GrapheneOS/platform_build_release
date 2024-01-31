@@ -32,3 +32,4 @@ values = [
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
 ] + platform_version_flags
+# Flags should be alphabetical by flag name to reduce merge conflifcts

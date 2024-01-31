@@ -139,6 +139,9 @@ flags = [
     # Enables ABI monitoring of NDK libraries.
     flag("RELEASE_NDK_ABI_MONITORED", ALL, False),
 
+    # This flag will control of including Japanese variant (Hentaigana) font.
+    flag("RELEASE_PACKAGE_HENTAIGANA_FONT", SYSTEM, False),
+
     # b/292140387: Flag to switch to the new NFC apex
     flag("RELEASE_PACKAGE_NFC_STACK", SYSTEM, "NfcNci"),
 
