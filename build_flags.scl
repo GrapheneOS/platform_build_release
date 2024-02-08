@@ -203,6 +203,9 @@ flags = [
     # feature flag for removing legacy emoji font from system image.
     flag("RELEASE_REMOVE_LEGACY_EMOJI_FONT", SYSTEM, False),
 
+    # feature flag for a new API to open declared passthrough HAL
+    flag("RELEASE_SM_OPEN_DECLARED_PASSTHROUGH_HAL", ALL, False),
+
     # feature flag for enabling use_resource_processor: true by default
     flag("RELEASE_USE_RESOURCE_PROCESSOR_BY_DEFAULT", ALL, False)
 ]

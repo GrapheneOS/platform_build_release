@@ -42,7 +42,9 @@ values = [
     value("RELEASE_NDK_ABI_MONITORED", True),
     value("RELEASE_PACKAGE_HENTAIGANA_FONT", True),
     value("RELEASE_PACKAGE_NFC_STACK", "com.android.nfcservices"),
+    value("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", True),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
     value("RELEASE_REMOVE_LEGACY_EMOJI_FONT", True),
+    value("RELEASE_SM_OPEN_DECLARED_PASSTHROUGH_HAL", True),
 ] + platform_version_flags
 # Flags should be alphabetical by flag name to reduce merge conflifcts
