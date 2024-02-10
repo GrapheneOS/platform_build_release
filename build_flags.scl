@@ -122,6 +122,10 @@ flags = [
     # feature flag to deprecate VNDK
     flag("RELEASE_DEPRECATE_VNDK", ALL, False),
 
+    # Enable flagged apis marked with READ_WRITE permission aconfig flags to be
+    # exposed and accessible at runtime
+    flag("RELEASE_EXPORT_RUNTIME_APIS", ALL, False),
+
     # Enables Bluetooth Ranging Service
     flag("RELEASE_HARDWARE_BLUETOOTH_RANGING_SERVICE", ALL, True),
 
@@ -207,6 +211,9 @@ flags = [
     flag("RELEASE_SM_OPEN_DECLARED_PASSTHROUGH_HAL", ALL, False),
 
     # feature flag for enabling use_resource_processor: true by default
-    flag("RELEASE_USE_RESOURCE_PROCESSOR_BY_DEFAULT", ALL, False)
+    flag("RELEASE_USE_RESOURCE_PROCESSOR_BY_DEFAULT", ALL, False),
+
+    # b/318717084 - enable the WebViewBootstrap mainline module
+    flag("RELEASE_USE_WEBVIEW_BOOTSTRAP_MODULE", ALL, False),
 ]
 # Flags should be alphabetical by flag name to reduce merge conflifcts
