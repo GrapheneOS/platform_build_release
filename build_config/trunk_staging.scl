@@ -41,6 +41,7 @@ values = [
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
     value("RELEASE_NDK_ABI_MONITORED", True),
+    value("RELEASE_PACKAGE_FLAG_EMOJI_FONT_VERSION", "2.042"),
     value("RELEASE_PACKAGE_HENTAIGANA_FONT", True),
     value("RELEASE_PACKAGE_NFC_STACK", "com.android.nfcservices"),
     value("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", True),
