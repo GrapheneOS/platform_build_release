@@ -150,9 +150,6 @@ flags = [
     # The name of the virtual camera package to add to the system partition.
     flag("RELEASE_PACKAGE_VIRTUAL_CAMERA", SYSTEM, ""),
 
-    # The platform version. This is the 4 letter code, e.g. UD1A, UPB1, ZP1A, etc.
-    flag("RELEASE_PLATFORM_VERSION", ALL, "ZP1A"),
-
     #  Used to indicate the security patch that has been applied to the device.
     #  It must signify that the build includes all security patches issued up through the designated Android Public Security Bulletin.
     #  It must be of the form "YYYY-MM-DD" on production devices.
@@ -166,6 +163,9 @@ flags = [
 
     # The sdk extension version of this release configuration.
     flag("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", ALL, "11"),
+
+    # The platform version. This is the 4 letter code, e.g. UD1A, UPB1, ZP1A, etc.
+    flag("RELEASE_PLATFORM_VERSION", ALL, "ZP1A"),
 
     # A comma separated list of all codenames that are in preview.
     # This variable is sort of a lie for historical reasons and only
