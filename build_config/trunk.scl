@@ -22,21 +22,33 @@ Build flag values for release config trunk.
 #
 
 load("//build/make/core/release_config.scl", "value")
-load("//build/release/build_config/trunk_versions.scl", "platform_version_flags")
 
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
+    # keep-sorted start numeric=yes
     value("RELEASE_ACONFIG_VALUE_SETS", "aconfig_value_set-aosp-trunk"),
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_AVATAR_PICKER_APP", True),
     value("RELEASE_AVF_ALLOW_PREINSTALLED_APPS", True),
     value("RELEASE_AVF_ENABLE_DICE_CHANGES", True),
+    value("RELEASE_BOARD_API_LEVEL", "202404"),
     value("RELEASE_CRASHRECOVERY_MODULE", True),
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
     value("RELEASE_PACKAGE_HENTAIGANA_FONT", True),
-    value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
+    value("RELEASE_PACKAGE_NFC_STACK", "com.android.nfcservices"),
     value("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", True),
+    value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
+    value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
+    value("RELEASE_PLATFORM_SDK_VERSION", "34"),
+    value("RELEASE_PLATFORM_SECURITY_PATCH", "2024-04-05"),
+    value("RELEASE_PLATFORM_VERSION", "ZP1A"),
+    value("RELEASE_PLATFORM_VERSION_ALL_CODENAMES", "VanillaIceCream"),
+    value("RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES", "VanillaIceCream"),
+    value("RELEASE_PLATFORM_VERSION_CODENAME", "VanillaIceCream"),
+    value("RELEASE_PLATFORM_VERSION_LAST_STABLE", "14"),
+    value("RELEASE_PLATFORM_VNDK_VERSION", "35"),
     value("RELEASE_REMOVE_LEGACY_EMOJI_FONT", True),
-] + platform_version_flags
+    # keep-sorted end
+]
 # Flags should be alphabetical by flag name to reduce merge conflifcts
