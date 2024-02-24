@@ -93,6 +93,9 @@ flags = [
     # If true, then crashrecovery module is enabled as an apex
     flag("RELEASE_CRASHRECOVERY_MODULE", ALL, False),
 
+    # If true, then files are moved from platform to apex
+    flag("RELEASE_CRASHRECOVERY_FILE_MOVE", ALL, False),
+
     # Enable build system to create new aconfig storage files.
     flag("RELEASE_CREATE_ACONFIG_STORAGE_FILE", ALL, False),
 
@@ -101,10 +104,6 @@ flags = [
 
     # feature flag to deprecate VNDK
     flag("RELEASE_DEPRECATE_VNDK", ALL, False),
-
-    # Enable flagged apis marked with READ_WRITE permission aconfig flags to be
-    # exposed and accessible at runtime
-    flag("RELEASE_EXPORT_RUNTIME_APIS", ALL, False),
 
     # Enables Bluetooth Ranging Service
     flag("RELEASE_HARDWARE_BLUETOOTH_RANGING_SERVICE", ALL, True),
