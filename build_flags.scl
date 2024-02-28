@@ -119,6 +119,9 @@ flags = [
     # The version of mainline prebuilts used when prebuilts are enabled.
     flag("RELEASE_MAINLINE_MODULE_PREBUILT_VERSION", ALL, "mainline_module_prebuilt_nightly"),
 
+    # If true, then files are moved from platform to apex
+    flag("RELEASE_MOVE_PDFRENDERER_TO_MODULE", ALL, False),
+
     # Enables ABI monitoring of NDK libraries.
     flag("RELEASE_NDK_ABI_MONITORED", ALL, False),
 
@@ -136,6 +139,9 @@ flags = [
 
     # b/292140387: Flag to switch to the new NFC apex
     flag("RELEASE_PACKAGE_NFC_STACK", SYSTEM, "NfcNci"),
+
+    # Flag will control the release of the Profiling module apex.
+    flag("RELEASE_PACKAGE_PROFILING_MODULE", ALL, False),
 
     # This flag will control the rollout of new versions of the SoundPicker app.
     flag("RELEASE_PACKAGE_SOUND_PICKER", ALL, "SoundPicker"),
