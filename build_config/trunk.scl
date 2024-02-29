@@ -38,6 +38,7 @@ values = [
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
     value("RELEASE_PACKAGE_HENTAIGANA_FONT", True),
     value("RELEASE_PACKAGE_NFC_STACK", "com.android.nfcservices"),
+    value("RELEASE_PACKAGE_PROFILING_MODULE", True),
     value("RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK", True),
     value("RELEASE_PACKAGE_VIRTUAL_CAMERA", "virtual_camera"),
     value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
