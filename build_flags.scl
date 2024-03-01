@@ -49,6 +49,9 @@ flags = [
     # Move ANGLE libraries from vendor partition to system partition.
     flag("RELEASE_ANGLE_ON_SYSTEM", ALL, False),
 
+    # jars need to be excluded from Apex Boot Jars for targets with mainline prebuilts enabled.
+    flag("RELEASE_APEX_BOOT_JARS_PREBUILT_EXCLUDED_LIST", ALL, ""),
+
     # Move User avatar picker from SettingsLib to preinstalled app.
     flag("RELEASE_AVATAR_PICKER_APP", ALL, False),
 
