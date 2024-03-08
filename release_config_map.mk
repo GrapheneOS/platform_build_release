@@ -25,6 +25,9 @@ $(call declare-release-config, trunk, $(local_dir)build_config/trunk.scl)
 $(call declare-release-config, trunk_food, $(local_dir)build_config/trunk_food.scl, trunk)
 $(call declare-release-config, trunk_staging, $(local_dir)build_config/trunk_staging.scl)
 
+# 24Q2, aka AP2A
+$(call declare-release-config, ap2a, $(local_dir)build_config/ap2a.scl)
+
 # Temporary, until we remove the old "staging" configs
 $(call declare-release-config, staging, $(local_dir)build_config/trunk_staging.scl)
 

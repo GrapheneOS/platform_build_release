@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.example.android.aconfig.demo.flags"
+  name: "test_flag_gantry"
+  state: ENABLED
+  permission: READ_ONLY
+}
