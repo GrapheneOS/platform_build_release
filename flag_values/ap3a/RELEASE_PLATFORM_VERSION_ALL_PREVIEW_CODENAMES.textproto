@@ -1,0 +1,4 @@
+name: "RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES"
+value: {
+  string_value: "REL,VanillaIceCream"
+}

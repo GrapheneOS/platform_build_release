@@ -1,0 +1,8 @@
+name: "RELEASE_PACKAGE_FLAG_EMOJI_FONT_VERSION"
+namespace: "android_UNKNOWN"
+description: "Version of the flag emoji font file."
+value: {
+  string_value: "2.034"
+}
+workflow: PREBUILT
+containers: "system"

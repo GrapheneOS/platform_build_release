@@ -1,0 +1,11 @@
+name: "RELEASE_MAINLINE_MODULE_PREBUILT_VERSION"
+namespace: "android_UNKNOWN"
+description: "The version of mainline prebuilts used when prebuilts are enabled."
+value: {
+  string_value: "mainline_module_prebuilt_nightly"
+}
+workflow: PREBUILT
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

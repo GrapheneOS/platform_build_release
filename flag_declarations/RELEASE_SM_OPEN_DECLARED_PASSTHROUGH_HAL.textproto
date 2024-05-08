@@ -1,0 +1,11 @@
+name: "RELEASE_SM_OPEN_DECLARED_PASSTHROUGH_HAL"
+namespace: "android_UNKNOWN"
+description: "feature flag for a new API to open declared passthrough HAL"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

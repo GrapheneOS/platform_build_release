@@ -1,0 +1,8 @@
+name: "RELEASE_PACKAGE_HENTAIGANA_FONT"
+namespace: "android_UNKNOWN"
+description: "This flag will control of including Japanese variant (Hentaigana) font."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"

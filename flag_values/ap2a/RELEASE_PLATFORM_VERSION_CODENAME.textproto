@@ -1,0 +1,4 @@
+name: "RELEASE_PLATFORM_VERSION_CODENAME"
+value: {
+  string_value: "REL"
+}

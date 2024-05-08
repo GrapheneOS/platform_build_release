@@ -1,0 +1,11 @@
+name: "RELEASE_PLATFORM_SDK_VERSION"
+namespace: "android_UNKNOWN"
+description: "The SDK version of the platform, e.g. 34 for UDC. This should only be increased when the API is finalized and the codename is set to rel, not during development."
+value: {
+  string_value: "34"
+}
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

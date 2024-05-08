@@ -1,0 +1,8 @@
+name: "RELEASE_PACKAGE_NFC_STACK"
+namespace: "android_UNKNOWN"
+description: "b/292140387: Flag to switch to the new NFC apex"
+value: {
+  string_value: "NfcNci"
+}
+workflow: PREBUILT
+containers: "system"

@@ -1,0 +1,11 @@
+name: "RELEASE_AVF_ENABLE_REMOTE_ATTESTATION"
+namespace: "android_UNKNOWN"
+description: "Enables pVM remote attestation in Microdroid VM."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

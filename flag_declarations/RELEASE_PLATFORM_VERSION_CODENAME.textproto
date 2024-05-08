@@ -1,0 +1,11 @@
+name: "RELEASE_PLATFORM_VERSION_CODENAME"
+namespace: "android_UNKNOWN"
+description: "Set to REL for production platform builds, otherwise the codename string, e.g. UpsideDownCake or VanillaIceCream"
+value: {
+  string_value: "VanillaIceCream"
+}
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

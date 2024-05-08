@@ -28,7 +28,7 @@ $(call declare-release-config, trunk_staging, $(local_dir)build_config/trunk_sta
 # 24Q2, aka AP2A
 $(call declare-release-config, ap2a, $(local_dir)build_config/ap2a.scl)
 
-# Temporary, until we remove the old "staging" configs
-$(call declare-release-config, staging, $(local_dir)build_config/trunk_staging.scl)
+# Temporary config to ease testing build flag migration to protobuf
+$(call declare-release-config, protobuf_flags, $(local_dir)build_config/protobuf_flags.scl, trunk_staging)
 
 local_dir :=

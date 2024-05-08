@@ -1,0 +1,11 @@
+name: "RELEASE_USE_RESOURCE_PROCESSOR_BY_DEFAULT"
+namespace: "android_UNKNOWN"
+description: "feature flag for enabling use_resource_processor: true by default"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

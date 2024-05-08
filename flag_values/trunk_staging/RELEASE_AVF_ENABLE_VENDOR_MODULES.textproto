@@ -1,0 +1,4 @@
+name: "RELEASE_AVF_ENABLE_VENDOR_MODULES"
+value: {
+  bool_value: true
+}

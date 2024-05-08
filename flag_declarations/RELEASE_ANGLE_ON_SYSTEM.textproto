@@ -1,0 +1,11 @@
+name: "RELEASE_ANGLE_ON_SYSTEM"
+namespace: "android_UNKNOWN"
+description: "Move ANGLE libraries from vendor partition to system partition."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

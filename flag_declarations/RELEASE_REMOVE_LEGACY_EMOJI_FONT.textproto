@@ -1,0 +1,8 @@
+name: "RELEASE_REMOVE_LEGACY_EMOJI_FONT"
+namespace: "android_UNKNOWN"
+description: "feature flag for removing legacy emoji font from system image."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"

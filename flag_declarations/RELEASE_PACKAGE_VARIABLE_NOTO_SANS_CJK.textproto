@@ -1,0 +1,8 @@
+name: "RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK"
+namespace: "android_UNKNOWN"
+description: "True for using variable font of the NotoSansCJK"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"

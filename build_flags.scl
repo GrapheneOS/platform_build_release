@@ -93,6 +93,11 @@ flags = [
     # Set to True to freeze the board API level with vendor FRC
     flag("RELEASE_BOARD_API_LEVEL_FROZEN", ALL, False),
 
+    # Enable protobuf version of build flag processing.
+    # When true, the canonical source of truth for build flags is in the
+    # protobuf version of the data.
+    flag("RELEASE_BUILD_FLAGS_IN_PROTOBUF", ALL, False),
+
     # If true, then crashrecovery module is enabled as an apex
     flag("RELEASE_CRASHRECOVERY_MODULE", ALL, False),
 

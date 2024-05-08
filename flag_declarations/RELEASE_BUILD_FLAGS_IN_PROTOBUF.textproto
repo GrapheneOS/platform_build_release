@@ -1,0 +1,11 @@
+name: "RELEASE_BUILD_FLAGS_IN_PROTOBUF"
+namespace: "android_UNKNOWN"
+description: "Enable protobuf version of build flag processing. When true, the canonical source of truth for build flags is in the protobuf version of the data."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

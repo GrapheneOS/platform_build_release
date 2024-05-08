@@ -1,0 +1,8 @@
+name: "RELEASE_PACKAGE_EMOJI_FONT_VERSION"
+namespace: "android_UNKNOWN"
+description: "Version of the emoji font file."
+value: {
+  string_value: "2.042"
+}
+workflow: PREBUILT
+containers: "system"

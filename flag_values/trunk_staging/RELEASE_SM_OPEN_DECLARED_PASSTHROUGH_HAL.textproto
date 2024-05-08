@@ -1,0 +1,4 @@
+name: "RELEASE_SM_OPEN_DECLARED_PASSTHROUGH_HAL"
+value: {
+  bool_value: true
+}

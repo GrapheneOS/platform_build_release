@@ -1,0 +1,4 @@
+name: "RELEASE_DEPRECATE_VNDK"
+value: {
+  bool_value: true
+}
