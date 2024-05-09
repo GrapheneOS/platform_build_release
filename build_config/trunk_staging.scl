@@ -23,6 +23,7 @@ Build flag values for release config trunk_staging.
 
 load("//build/make/core/release_config.scl", "value")
 
+fail("trunk_staging now uses protobuf")
 # Flags should be alphabetical by flag name to reduce merge conflifcts
 values = [
     # keep-sorted start numeric=yes
@@ -40,6 +41,7 @@ values = [
     value("RELEASE_AVF_MICRODROID_KERNEL_VERSION", "android15_61"),
     value("RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI", True),
     value("RELEASE_BOARD_API_LEVEL", "202404"),
+    value("RELEASE_BUILD_FLAGS_IN_PROTOBUF", True),
     value("RELEASE_CRASHRECOVERY_MODULE", True),
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_LARGE_SYSTEM_PROPERTY_NODE", True),
