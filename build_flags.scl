@@ -96,7 +96,7 @@ flags = [
     # Enable protobuf version of build flag processing.
     # When true, the canonical source of truth for build flags is in the
     # protobuf version of the data.
-    flag("RELEASE_BUILD_FLAGS_IN_PROTOBUF", ALL, False),
+    flag("RELEASE_BUILD_FLAGS_IN_PROTOBUF", ALL, True),
 
     # If true, then crashrecovery module is enabled as an apex
     flag("RELEASE_CRASHRECOVERY_MODULE", ALL, False),

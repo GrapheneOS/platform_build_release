@@ -31,6 +31,7 @@ values = [
     value("RELEASE_AIDL_USE_UNFROZEN", False),
     value("RELEASE_ANGLE_ON_SYSTEM", True),
     value("RELEASE_BOARD_API_LEVEL", "202404"),
+    value("RELEASE_BUILD_FLAGS_IN_PROTOBUF", False),
     value("RELEASE_DEPRECATE_VNDK", True),
     value("RELEASE_PLATFORM_SDK_EXTENSION_VERSION", "11"),
     value("RELEASE_PLATFORM_SDK_VERSION", "34"),
