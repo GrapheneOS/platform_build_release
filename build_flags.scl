@@ -83,6 +83,7 @@ flags = [
     flag("RELEASE_APEX_CONTRIBUTIONS_SDKEXTENSIONS", ALL, None, origin="aosp"),
     flag("RELEASE_APEX_CONTRIBUTIONS_STATSD", ALL, None, origin="aosp"),
     flag("RELEASE_APEX_CONTRIBUTIONS_SWCODEC", ALL, None, origin="aosp"),
+    flag("RELEASE_APEX_CONTRIBUTIONS_TELEMETRY_TVP", ALL, None, origin="aosp"),
     flag("RELEASE_APEX_CONTRIBUTIONS_TZDATA", ALL, None, origin="aosp"),
     flag("RELEASE_APEX_CONTRIBUTIONS_UWB", ALL, None, origin="aosp"),
     flag("RELEASE_APEX_CONTRIBUTIONS_WIFI", ALL, None, origin="aosp"),
