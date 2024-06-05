@@ -1,0 +1,11 @@
+name: "RELEASE_PACKAGE_MESSAGEQUEUE_IMPLEMENTATION"
+namespace: "android_platform_system_performance"
+description: "Which MessageQueue implementation to use."
+value: {
+  string_value: "LegacyMessageQueue/MessageQueue.java"
+}
+workflow: PREBUILT
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"
