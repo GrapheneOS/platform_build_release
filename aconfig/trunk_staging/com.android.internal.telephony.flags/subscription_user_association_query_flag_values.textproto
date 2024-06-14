@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "subscription_user_association_query"
+  state: ENABLED
+  permission: READ_WRITE
+}

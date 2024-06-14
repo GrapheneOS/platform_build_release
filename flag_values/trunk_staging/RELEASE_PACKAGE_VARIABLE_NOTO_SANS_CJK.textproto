@@ -1,4 +1,4 @@
-name: "RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK"
-value: {
-  bool_value: true
+name:  "RELEASE_PACKAGE_VARIABLE_NOTO_SANS_CJK"
+value:  {
+  bool_value:  true
 }

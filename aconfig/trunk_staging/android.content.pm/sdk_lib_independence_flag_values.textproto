@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "sdk_lib_independence"
+  state: ENABLED
+  permission: READ_ONLY
+}

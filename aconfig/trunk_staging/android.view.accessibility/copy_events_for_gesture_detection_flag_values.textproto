@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.view.accessibility"
-  name: "copy_events_for_gesture_detection"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "update_route_mask_when_bt_connected"
+  state: ENABLED
+  permission: READ_WRITE
+}

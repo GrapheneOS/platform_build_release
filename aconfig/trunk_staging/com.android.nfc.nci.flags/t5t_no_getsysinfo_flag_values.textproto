@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.nci.flags"
+  name: "t5t_no_getsysinfo"
+  state: ENABLED
+  permission: READ_WRITE
+}

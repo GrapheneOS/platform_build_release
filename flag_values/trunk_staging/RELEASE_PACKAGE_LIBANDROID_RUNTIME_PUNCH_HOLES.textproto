@@ -1,4 +1,4 @@
-name: "RELEASE_PACKAGE_LIBANDROID_RUNTIME_PUNCH_HOLES"
-value: {
-  bool_value: true
+name:  "RELEASE_PACKAGE_LIBANDROID_RUNTIME_PUNCH_HOLES"
+value:  {
+  bool_value:  true
 }

@@ -1,0 +1,11 @@
+name:  "RELEASE_LARGE_SYSTEM_PROPERTY_NODE"
+namespace:  "android_UNKNOWN"
+description:  "Allow system property storage node to be 1M to accomodate aconfig flags."
+value:  {
+  bool_value:  false
+}
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

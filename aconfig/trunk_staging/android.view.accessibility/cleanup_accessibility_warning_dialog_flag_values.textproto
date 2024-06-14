@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "cleanup_accessibility_warning_dialog"
+  state: ENABLED
+  permission: READ_WRITE
+}

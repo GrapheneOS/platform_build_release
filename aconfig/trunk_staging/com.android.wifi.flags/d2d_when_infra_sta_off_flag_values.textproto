@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "d2d_when_infra_sta_off"
+  state: ENABLED
+  permission: READ_ONLY
+}

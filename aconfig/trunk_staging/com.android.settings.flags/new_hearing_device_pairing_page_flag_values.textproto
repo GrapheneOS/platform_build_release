@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "new_hearing_device_pairing_page"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "block_null_action_intents"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "pss_task_switcher"
+  state: ENABLED
+  permission: READ_WRITE
+}

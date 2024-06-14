@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "enable_hearing_aid_volume_offset_control"
+  state: ENABLED
+  permission: READ_WRITE
+}

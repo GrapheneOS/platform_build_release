@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "device_theft_api_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}

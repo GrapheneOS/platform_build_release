@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.internal.telephony.flags"
-  name: "radio_info_is_radio_on"
-  state: ENABLED
-  permission: READ_WRITE
-}

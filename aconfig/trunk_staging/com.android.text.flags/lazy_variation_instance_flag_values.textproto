@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "lazy_variation_instance"
+  state: ENABLED
+  permission: READ_ONLY
+}

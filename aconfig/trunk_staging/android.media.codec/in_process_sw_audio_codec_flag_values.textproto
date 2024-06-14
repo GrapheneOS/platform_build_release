@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "in_process_sw_audio_codec"
+  state: ENABLED
+  permission: READ_WRITE
+}

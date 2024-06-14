@@ -1,0 +1,4 @@
+name:  "RELEASE_CRASHRECOVERY_MODULE"
+value:  {
+  bool_value:  true
+}

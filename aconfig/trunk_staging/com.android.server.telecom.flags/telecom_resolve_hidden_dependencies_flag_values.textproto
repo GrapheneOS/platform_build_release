@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "telecom_resolve_hidden_dependencies"
+  state: ENABLED
+  permission: READ_WRITE
+}

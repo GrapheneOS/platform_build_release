@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.biometrics"
+  name: "de_hidl"
+  state: ENABLED
+  permission: READ_WRITE
+}

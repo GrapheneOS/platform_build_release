@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.frameworks.sensorservice.flags"
+  name: "sensor_device_on_dynamic_sensor_disconnected"
+  state: ENABLED
+  permission: READ_WRITE
+}

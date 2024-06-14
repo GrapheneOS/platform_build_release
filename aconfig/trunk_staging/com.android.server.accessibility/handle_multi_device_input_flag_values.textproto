@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "handle_multi_device_input"
+  state: ENABLED
+  permission: READ_WRITE
+}

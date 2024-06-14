@@ -1,11 +1,11 @@
-name: "RELEASE_HIDDEN_API_EXPORTABLE_STUBS"
-namespace: "android_UNKNOWN"
-description: "b/319697968: Flag to determine the dependency of hiddenapi to the stubs that contain all flagged apis (\"everything\" stubs), or to the stubs that contain only the enabled flagged apis (\"exportable\" stubs)."
-value: {
-  bool_value: false
+name:  "RELEASE_HIDDEN_API_EXPORTABLE_STUBS"
+namespace:  "android_UNKNOWN"
+description:  "b/319697968: Flag to determine the dependency of hiddenapi to the stubs that contain all flagged apis (\"everything\" stubs), or to the stubs that contain only the enabled flagged apis (\"exportable\" stubs)."
+value:  {
+  bool_value:  false
 }
-workflow: LAUNCH
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

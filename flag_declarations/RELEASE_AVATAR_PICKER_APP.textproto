@@ -1,11 +1,11 @@
-name: "RELEASE_AVATAR_PICKER_APP"
-namespace: "android_UNKNOWN"
-description: "Move User avatar picker from SettingsLib to preinstalled app."
-value: {
-  bool_value: false
+name:  "RELEASE_AVATAR_PICKER_APP"
+namespace:  "android_UNKNOWN"
+description:  "Move User avatar picker from SettingsLib to preinstalled app."
+value:  {
+  bool_value:  false
 }
-workflow: LAUNCH
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

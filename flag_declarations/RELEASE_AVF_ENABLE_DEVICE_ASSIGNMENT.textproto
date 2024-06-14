@@ -1,11 +1,11 @@
-name: "RELEASE_AVF_ENABLE_DEVICE_ASSIGNMENT"
-namespace: "android_UNKNOWN"
-description: "Enables assigning hardware devices to the guest VMs. If this flag is enabled, then RELEASE_AVF_ENABLE_MICRODROID_VENDOR_MODULES must also be enabled."
-value: {
-  bool_value: false
+name:  "RELEASE_AVF_ENABLE_DEVICE_ASSIGNMENT"
+namespace:  "android_UNKNOWN"
+description:  "Enables assigning hardware devices to the guest VMs. If this flag is enabled, then RELEASE_AVF_ENABLE_MICRODROID_VENDOR_MODULES must also be enabled."
+value:  {
+  bool_value:  false
 }
-workflow: LAUNCH
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

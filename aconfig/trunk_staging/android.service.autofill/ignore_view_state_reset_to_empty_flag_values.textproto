@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "ignore_view_state_reset_to_empty"
+  state: ENABLED
+  permission: READ_WRITE
+}

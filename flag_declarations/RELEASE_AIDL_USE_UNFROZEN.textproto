@@ -1,11 +1,11 @@
-name: "RELEASE_AIDL_USE_UNFROZEN"
-namespace: "android_UNKNOWN"
-description: "Enables the use of the unfrozen versions of AIDL interfaces. When this is `False` the libraries of the latest unfrozen version of a stable interface will behave like the last frozen version. When this is `True` the libraries behave like the lastest unfrozen version like they always have."
-value: {
-  bool_value: true
+name:  "RELEASE_AIDL_USE_UNFROZEN"
+namespace:  "android_UNKNOWN"
+description:  "Enables the use of the unfrozen versions of AIDL interfaces. When this is `False` the libraries of the latest unfrozen version of a stable interface will behave like the last frozen version. When this is `True` the libraries behave like the lastest unfrozen version like they always have."
+value:  {
+  bool_value:  true
 }
-workflow: LAUNCH
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

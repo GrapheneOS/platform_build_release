@@ -1,2 +1,2 @@
-name: "trunk_staging"
-aconfig_value_sets: "aconfig_value_set-aosp-trunk_staging"
+name:  "trunk_staging"
+aconfig_value_sets:  "aconfig_value_set-platform_build_release-trunk_staging"

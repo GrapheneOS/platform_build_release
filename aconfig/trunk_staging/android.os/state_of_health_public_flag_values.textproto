@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "state_of_health_public"
+  state: ENABLED
+  permission: READ_WRITE
+}

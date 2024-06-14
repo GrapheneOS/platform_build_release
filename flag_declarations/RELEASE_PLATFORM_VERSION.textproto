@@ -1,11 +1,11 @@
-name: "RELEASE_PLATFORM_VERSION"
-namespace: "android_UNKNOWN"
-description: "The platform version. TODO(joeo): Remove the default here. Maybe for platform builds not having a version should be an error and should be allowed for unbundled builds. The platform version. This is the 4 letter code, e.g. UD1A, UPB1, ZP1A, etc."
-value: {
-  string_value: "ZP1A"
+name:  "RELEASE_PLATFORM_VERSION"
+namespace:  "android_UNKNOWN"
+description:  "The platform version. This is the 4 letter code, e.g. UD1A, UPB1, ZP1A, etc."
+value:  {
+  string_value:  "ZP1A"
 }
-workflow: MANUAL
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  MANUAL
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

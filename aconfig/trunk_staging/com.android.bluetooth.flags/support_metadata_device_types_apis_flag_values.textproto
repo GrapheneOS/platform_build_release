@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "support_metadata_device_types_apis"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "uid_importance_listener_for_uids"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,11 +1,11 @@
-name: "RELEASE_READ_FROM_NEW_STORAGE"
-namespace: "android_UNKNOWN"
-description: "Control if we should read from new storage."
-value: {
-  bool_value: false
+name:  "RELEASE_READ_FROM_NEW_STORAGE"
+namespace:  "android_UNKNOWN"
+description:  "Control if we should read from new storage."
+value:  {
+  bool_value:  false
 }
-workflow: LAUNCH
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

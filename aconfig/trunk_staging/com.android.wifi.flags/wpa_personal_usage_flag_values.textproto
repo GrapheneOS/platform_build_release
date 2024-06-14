@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "wpa_personal_usage"
-  state: ENABLED
-  permission: READ_WRITE
-}

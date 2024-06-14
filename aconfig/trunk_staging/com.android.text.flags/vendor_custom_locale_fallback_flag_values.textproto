@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "vendor_custom_locale_fallback"
+  state: ENABLED
+  permission: READ_ONLY
+}

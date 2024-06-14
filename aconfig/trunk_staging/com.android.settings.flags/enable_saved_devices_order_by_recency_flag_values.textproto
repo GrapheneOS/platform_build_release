@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "enable_saved_devices_order_by_recency"
+  state: ENABLED
+  permission: READ_WRITE
+}

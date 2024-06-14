@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.profiling"
+  name: "telemetry_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

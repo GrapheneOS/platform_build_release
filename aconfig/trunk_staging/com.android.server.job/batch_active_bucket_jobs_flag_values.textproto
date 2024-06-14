@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "batch_active_bucket_jobs"
+  state: ENABLED
+  permission: READ_WRITE
+}

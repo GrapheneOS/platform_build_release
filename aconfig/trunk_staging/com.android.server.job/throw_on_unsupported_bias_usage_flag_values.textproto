@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.job"
-  name: "throw_on_unsupported_bias_usage"
-  state: ENABLED
-  permission: READ_WRITE
-}

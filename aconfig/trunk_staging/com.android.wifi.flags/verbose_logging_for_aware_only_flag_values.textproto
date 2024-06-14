@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "verbose_logging_for_aware_only"
-  state: ENABLED
-  permission: READ_WRITE
-}

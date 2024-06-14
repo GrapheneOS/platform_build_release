@@ -1,0 +1,4 @@
+name:  "RELEASE_PACKAGE_NFC_STACK"
+value:  {
+  string_value:  "com.android.nfcservices"
+}

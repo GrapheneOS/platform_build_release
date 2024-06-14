@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "support_system_pinch_zoom_opt_out_apis"
+  state: ENABLED
+  permission: READ_WRITE
+}

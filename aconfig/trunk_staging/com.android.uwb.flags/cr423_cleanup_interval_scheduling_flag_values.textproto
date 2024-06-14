@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "cr423_cleanup_interval_scheduling"
+  state: ENABLED
+  permission: READ_WRITE
+}

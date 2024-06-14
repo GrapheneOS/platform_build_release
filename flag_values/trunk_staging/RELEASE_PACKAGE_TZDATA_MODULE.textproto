@@ -1,4 +1,0 @@
-name: "RELEASE_PACKAGE_TZDATA_MODULE"
-value: {
-  string_value: "com.android.tzdata"
-}

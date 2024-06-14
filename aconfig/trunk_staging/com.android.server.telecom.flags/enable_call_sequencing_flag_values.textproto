@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "enable_call_sequencing"
+  state: ENABLED
+  permission: READ_WRITE
+}

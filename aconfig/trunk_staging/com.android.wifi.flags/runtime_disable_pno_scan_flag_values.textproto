@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "runtime_disable_pno_scan"
-  state: ENABLED
-  permission: READ_WRITE
-}

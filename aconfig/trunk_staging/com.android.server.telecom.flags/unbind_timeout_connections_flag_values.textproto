@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.telecom.flags"
-  name: "unbind_timeout_connections"
-  state: ENABLED
-  permission: READ_WRITE
-}

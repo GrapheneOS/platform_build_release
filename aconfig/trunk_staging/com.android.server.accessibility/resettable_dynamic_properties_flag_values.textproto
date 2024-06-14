@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "resettable_dynamic_properties"
+  state: ENABLED
+  permission: READ_WRITE
+}

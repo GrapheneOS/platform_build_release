@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "use_zero_jank_proxy"
+  state: ENABLED
+  permission: READ_ONLY
+}

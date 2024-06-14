@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.job"
+  name: "backup_jobs_exemption"
+  state: ENABLED
+  permission: READ_WRITE
+}

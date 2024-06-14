@@ -1,11 +1,11 @@
-name: "RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI"
-namespace: "android_UNKNOWN"
-description: "If enabled, DeathRecipient is not strongly referenced from JNI."
-value: {
-  bool_value: false
+name:  "RELEASE_BINDER_DEATH_RECIPIENT_WEAK_FROM_JNI"
+namespace:  "android_UNKNOWN"
+description:  "If enabled, DeathRecipient is not strongly referenced from JNI."
+value:  {
+  bool_value:  false
 }
-workflow: LAUNCH
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

@@ -13,9 +13,9 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-aosp-trunk_staging-android.app.usage-all",
-    package: "android.app.usage",
-    srcs: [
-        "*_flag_values.textproto",
-    ],
+  name: "aconfig-values-platform_build_release-trunk_staging-android.app.usage-all",
+  package: "android.app.usage",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
 }

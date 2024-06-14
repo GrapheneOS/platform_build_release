@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.projection.flags"
+  name: "limit_manage_media_projection"
+  state: ENABLED
+  permission: READ_ONLY
+}

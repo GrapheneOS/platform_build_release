@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "hpke_v_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

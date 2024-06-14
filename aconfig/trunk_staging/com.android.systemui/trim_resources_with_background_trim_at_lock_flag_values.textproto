@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "trim_resources_with_background_trim_at_lock"
+  state: ENABLED
+  permission: READ_WRITE
+}

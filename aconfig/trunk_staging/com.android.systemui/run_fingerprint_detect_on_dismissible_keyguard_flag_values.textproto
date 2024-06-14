@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "run_fingerprint_detect_on_dismissible_keyguard"
+  state: ENABLED
+  permission: READ_WRITE
+}

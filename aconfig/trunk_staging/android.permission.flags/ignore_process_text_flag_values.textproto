@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "ignore_process_text"
+  state: ENABLED
+  permission: READ_WRITE
+}

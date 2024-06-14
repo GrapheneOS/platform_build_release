@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "domain_selection_metrics_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}

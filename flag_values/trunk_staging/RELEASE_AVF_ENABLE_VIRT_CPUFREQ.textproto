@@ -1,4 +1,4 @@
-name: "RELEASE_AVF_ENABLE_VIRT_CPUFREQ"
-value: {
-  bool_value: true
+name:  "RELEASE_AVF_ENABLE_VIRT_CPUFREQ"
+value:  {
+  bool_value:  true
 }

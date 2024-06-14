@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider"
+  name: "backup_tasks_settings_screen"
+  state: ENABLED
+  permission: READ_WRITE
+}

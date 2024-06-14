@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "oomadjuster_correctness_rewrite"
+  state: ENABLED
+  permission: READ_ONLY
+}

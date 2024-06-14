@@ -1,4 +1,4 @@
-name: "RELEASE_CREATE_ACONFIG_STORAGE_FILE"
-value: {
-  bool_value: true
+name:  "RELEASE_CREATE_ACONFIG_STORAGE_FILE"
+value:  {
+  bool_value:  true
 }

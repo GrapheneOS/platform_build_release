@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "fix_drag_pointer_when_ending_drag"
+  state: ENABLED
+  permission: READ_WRITE
+}

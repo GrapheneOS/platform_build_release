@@ -1,4 +1,4 @@
-name: "RELEASE_AVF_MICRODROID_KERNEL_VERSION"
-value: {
-  string_value: "android15_66"
+name:  "RELEASE_AVF_MICRODROID_KERNEL_VERSION"
+value:  {
+  string_value:  "android15_66"
 }

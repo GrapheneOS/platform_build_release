@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "enable_system_pinch_zoom_gesture"
+  state: ENABLED
+  permission: READ_WRITE
+}

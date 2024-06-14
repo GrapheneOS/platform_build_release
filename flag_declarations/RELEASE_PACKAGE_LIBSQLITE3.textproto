@@ -1,8 +1,8 @@
-name: "RELEASE_PACKAGE_LIBSQLITE3"
-namespace: "android_UNKNOWN"
-description: "The sqlite release."
-value: {
-  string_value: "3420000"
+name:  "RELEASE_PACKAGE_LIBSQLITE3"
+namespace:  "android_UNKNOWN"
+description:  "The sqlite release."
+value:  {
+  string_value:  "3420000"
 }
-workflow: PREBUILT
-containers: "system"
+workflow:  PREBUILT
+containers:  "system"

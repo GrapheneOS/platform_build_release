@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sandbox_client_importance_listener"
+  state: ENABLED
+  permission: READ_WRITE
+}

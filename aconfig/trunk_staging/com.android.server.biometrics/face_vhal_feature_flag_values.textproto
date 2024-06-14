@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.biometrics"
+  name: "face_vhal_feature"
+  state: ENABLED
+  permission: READ_WRITE
+}

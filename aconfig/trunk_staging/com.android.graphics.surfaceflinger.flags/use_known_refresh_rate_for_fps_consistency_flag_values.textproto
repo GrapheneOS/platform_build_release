@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.graphics.surfaceflinger.flags"
-  name: "use_known_refresh_rate_for_fps_consistency"
-  state: ENABLED
-  permission: READ_ONLY
-}

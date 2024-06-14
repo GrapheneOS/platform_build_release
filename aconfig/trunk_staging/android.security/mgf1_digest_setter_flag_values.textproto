@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.security"
-  name: "mgf1_digest_setter"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "distinct_epdg_selection_for_emergency_sessions"
+  state: ENABLED
+  permission: READ_WRITE
+}

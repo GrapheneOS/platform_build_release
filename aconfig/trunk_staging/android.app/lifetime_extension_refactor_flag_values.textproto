@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "lifetime_extension_refactor"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "update_always_on_a11y_service"
+  state: ENABLED
+  permission: READ_WRITE
+}

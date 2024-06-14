@@ -1,4 +1,4 @@
-name: "RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM"
-value: {
-  bool_value: true
+name:  "RELEASE_AVF_ENABLE_MULTI_TENANT_MICRODROID_VM"
+value:  {
+  bool_value:  true
 }

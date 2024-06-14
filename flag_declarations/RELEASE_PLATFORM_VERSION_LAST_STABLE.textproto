@@ -1,11 +1,11 @@
-name: "RELEASE_PLATFORM_VERSION_LAST_STABLE"
-namespace: "android_UNKNOWN"
-description: "The last stable version name of the platform that was released.  During development, this stays at that previous version, while the codename indicates further work based on the previous version."
-value: {
-  string_value: "14"
+name:  "RELEASE_PLATFORM_VERSION_LAST_STABLE"
+namespace:  "android_UNKNOWN"
+description:  "The last stable version name of the platform that was released.  During development, this stays at that previous version, while the codename indicates further work based on the previous version."
+value:  {
+  string_value:  "14"
 }
-workflow: MANUAL
-containers: "product"
-containers: "system"
-containers: "system_ext"
-containers: "vendor"
+workflow:  MANUAL
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"

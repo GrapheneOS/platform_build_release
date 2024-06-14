@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "certificate_transparency_configuration"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,5 +1,5 @@
-name: "RELEASE_AVF_MICRODROID_KERNEL_VERSION"
-namespace: "android_UNKNOWN"
-description: "Specify which Microdroid kernel version to use for Microdroid VMs."
-workflow: PREBUILT
-containers: "system"
+name:  "RELEASE_AVF_MICRODROID_KERNEL_VERSION"
+namespace:  "android_UNKNOWN"
+description:  "Specify which Microdroid kernel version to use for Microdroid VMs."
+workflow:  PREBUILT
+containers:  "system"

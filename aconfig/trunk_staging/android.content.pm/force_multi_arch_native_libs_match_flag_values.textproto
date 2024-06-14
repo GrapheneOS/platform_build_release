@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "force_multi_arch_native_libs_match"
+  state: ENABLED
+  permission: READ_ONLY
+}

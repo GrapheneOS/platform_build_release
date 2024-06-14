@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_le_audio_sharing"
+  state: ENABLED
+  permission: READ_WRITE
+}

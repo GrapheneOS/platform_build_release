@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "multi_crop_preview_ui_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}

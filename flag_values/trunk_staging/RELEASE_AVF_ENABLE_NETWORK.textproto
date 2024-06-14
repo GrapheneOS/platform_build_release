@@ -1,4 +1,4 @@
-name: "RELEASE_AVF_ENABLE_NETWORK"
-value: {
-  bool_value: true
+name:  "RELEASE_AVF_ENABLE_NETWORK"
+value:  {
+  bool_value:  true
 }

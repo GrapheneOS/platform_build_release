@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_expanding_pause_work_button"
+  state: ENABLED
+  permission: READ_WRITE
+}

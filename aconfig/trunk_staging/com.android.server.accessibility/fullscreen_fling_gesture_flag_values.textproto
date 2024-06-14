@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "fullscreen_fling_gesture"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "batch_connectivity_jobs_per_network"
+  state: ENABLED
+  permission: READ_WRITE
+}

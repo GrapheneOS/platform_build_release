@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "add_subscription_id"
-  state: ENABLED
-  permission: READ_WRITE
-}

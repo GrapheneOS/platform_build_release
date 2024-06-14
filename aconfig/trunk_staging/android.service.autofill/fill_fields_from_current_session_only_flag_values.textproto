@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "fill_fields_from_current_session_only"
+  state: ENABLED
+  permission: READ_WRITE
+}

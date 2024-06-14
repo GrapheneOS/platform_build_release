@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.tracing"
+  name: "perfetto_transition_tracing"
+  state: ENABLED
+  permission: READ_WRITE
+}

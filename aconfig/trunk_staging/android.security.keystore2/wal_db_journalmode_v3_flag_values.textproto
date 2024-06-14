@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security.keystore2"
+  name: "wal_db_journalmode_v3"
+  state: ENABLED
+  permission: READ_ONLY
+}

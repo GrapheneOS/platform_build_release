@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "stereo_spatialization"
+  state: ENABLED
+  permission: READ_WRITE
+}
