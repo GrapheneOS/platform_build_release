@@ -12,10 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-aconfig_values {
-    name: "aconfig_values-aosp-root-all",
-    package: "com.android.aconfig.test",
-    srcs: [
-        "flag_values.textproto",
+aconfig_value_set {
+    name: "aconfig_value_set-platform_build_release-root",
+    values: [
+        "aconfig-values-platform_build_release-root-com.android.aconfig.test-all"
     ]
 }

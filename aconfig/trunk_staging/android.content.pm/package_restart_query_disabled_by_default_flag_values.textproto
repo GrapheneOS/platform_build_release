@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "package_restart_query_disabled_by_default"
+  state: ENABLED
+  permission: READ_ONLY
+}

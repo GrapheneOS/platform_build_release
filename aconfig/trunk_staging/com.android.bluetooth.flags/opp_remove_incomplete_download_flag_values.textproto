@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "opp_remove_incomplete_download"
-  state: ENABLED
-  permission: READ_WRITE
-}

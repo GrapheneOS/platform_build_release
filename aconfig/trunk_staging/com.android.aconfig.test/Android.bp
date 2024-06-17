@@ -13,7 +13,7 @@
 // limitations under the License.
 
 aconfig_values {
-  name: "aconfig-values-aosp-trunk_staging-com.android.aconfig.test-all",
+  name: "aconfig-values-platform_build_release-trunk_staging-com.android.aconfig.test-all",
   package: "com.android.aconfig.test",
   srcs: [
     "*_flag_values.textproto",

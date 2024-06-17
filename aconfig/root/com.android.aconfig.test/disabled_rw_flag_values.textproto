@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.aconfig.test"
+  name: "disabled_rw"
+  state: DISABLED
+  permission: READ_WRITE
+}

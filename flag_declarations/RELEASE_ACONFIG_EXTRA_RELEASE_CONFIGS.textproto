@@ -1,0 +1,5 @@
+name: "RELEASE_ACONFIG_EXTRA_RELEASE_CONFIGS"
+namespace: "android_UNKNOWN"
+description: "Also generate all_aconfig_declarations for these release configs"
+workflow: MANUAL
+containers: "host"

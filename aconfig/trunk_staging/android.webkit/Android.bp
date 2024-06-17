@@ -13,7 +13,7 @@
 // limitations under the License.
 
 aconfig_values {
-  name: "aconfig-values-aosp-trunk_staging-android.webkit-all",
+  name: "aconfig-values-platform_build_release-trunk_staging-android.webkit-all",
   package: "android.webkit",
   srcs: [
     "*_flag_values.textproto",

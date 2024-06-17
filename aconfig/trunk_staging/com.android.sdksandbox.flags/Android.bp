@@ -13,7 +13,7 @@
 // limitations under the License.
 
 aconfig_values {
-  name: "aconfig-values-aosp-trunk_staging-com.android.sdksandbox.flags-all",
+  name: "aconfig-values-platform_build_release-trunk_staging-com.android.sdksandbox.flags-all",
   package: "com.android.sdksandbox.flags",
   srcs: [
     "*_flag_values.textproto",

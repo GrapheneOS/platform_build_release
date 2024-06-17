@@ -1,0 +1,8 @@
+include platform/build/release:/OWNERS
+
+#Automotive Leads
+stenning@google.com
+ralphthomas@google.com
+
+#Partner Eng Lead
+chriselliott@google.com

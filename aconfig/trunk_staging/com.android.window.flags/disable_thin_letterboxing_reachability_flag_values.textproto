@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.window.flags"
-  name: "disable_thin_letterboxing_reachability"
-  state: ENABLED
-  permission: READ_WRITE
-}

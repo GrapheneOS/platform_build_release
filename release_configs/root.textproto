@@ -1,2 +1,2 @@
 name: "root"
-aconfig_value_sets: "aconfig_values-aosp-root-all"
+aconfig_value_sets: "aconfig_value_set-platform_build_release-root"

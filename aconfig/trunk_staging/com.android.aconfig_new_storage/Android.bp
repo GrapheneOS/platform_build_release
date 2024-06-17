@@ -13,7 +13,7 @@
 // limitations under the License.
 
 aconfig_values {
-  name: "aconfig-values-aosp-trunk_staging-com.android.aconfig_new_storage-all",
+  name: "aconfig-values-platform_build_release-trunk_staging-com.android.aconfig_new_storage-all",
   package: "com.android.aconfig_new_storage",
   srcs: [
     "*_flag_values.textproto",

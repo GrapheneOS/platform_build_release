@@ -13,7 +13,7 @@
 // limitations under the License.
 
 aconfig_values {
-  name: "aconfig-values-aosp-trunk_staging-android.service.chooser-all",
+  name: "aconfig-values-platform_build_release-trunk_staging-android.service.chooser-all",
   package: "android.service.chooser",
   srcs: [
     "*_flag_values.textproto",

@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.launcher3"
-  name: "private_space_floating_mask_view"
-  state: ENABLED
-  permission: READ_WRITE
-}

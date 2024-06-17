@@ -1,0 +1,5 @@
+name:  "RELEASE_LIBPOWER_NO_LOCK_BINDER_TXN"
+namespace:  "android_UNKNOWN"
+description:  "b/343527537: Flag to defer acquiring libpower lock until after binder transaction to optimize wake lock acquisition."
+workflow:  LAUNCH
+containers:  "system"

@@ -1,0 +1,8 @@
+name: "RELEASE_PACKAGE_HEBREW_FONT_VERSION"
+namespace: "android_UNKNOWN"
+description: "Version of the Hebrew font file."
+value: {
+  string_value: "1.04"
+}
+workflow: PREBUILT
+containers: "system"
