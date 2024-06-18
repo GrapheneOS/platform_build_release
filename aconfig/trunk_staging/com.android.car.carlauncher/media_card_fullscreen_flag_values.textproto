@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.car.carlauncher"
+  name: "media_card_fullscreen"
+  state: ENABLED
+  permission: READ_WRITE
+}

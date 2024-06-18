@@ -1,11 +1,11 @@
-name:  "RELEASE_USE_WEBVIEW_BOOTSTRAP_MODULE"
-namespace:  "android_UNKNOWN"
-description:  "b/318717084 - enable the WebViewBootstrap mainline module"
-value:  {
-  bool_value:  false
+name: "RELEASE_USE_WEBVIEW_BOOTSTRAP_MODULE"
+namespace: "android_UNKNOWN"
+description: "b/318717084 - enable the WebViewBootstrap mainline module"
+value: {
+  bool_value: false
 }
-workflow:  LAUNCH
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

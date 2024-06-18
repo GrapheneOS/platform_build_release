@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "offload_doze_override_holds_wakelock"
+  state: ENABLED
+  permission: READ_ONLY
+}

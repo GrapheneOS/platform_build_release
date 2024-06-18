@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.thread.platform.flags"
+  name: "thread_enabled_platform"
+  state: ENABLED
+  permission: READ_WRITE
+}

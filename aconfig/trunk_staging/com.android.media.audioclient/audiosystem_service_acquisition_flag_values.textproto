@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioclient"
+  name: "audiosystem_service_acquisition"
+  state: ENABLED
+  permission: READ_WRITE
+}

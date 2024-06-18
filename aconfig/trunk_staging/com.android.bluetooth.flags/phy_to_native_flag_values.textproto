@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "phy_to_native"
+  state: ENABLED
+  permission: READ_WRITE
+}

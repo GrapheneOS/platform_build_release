@@ -1,11 +1,11 @@
-name:  "RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES"
-namespace:  "android_UNKNOWN"
-description:  "A comma separated list of all preview codenames the platform will accept apps built against"
-value:  {
-  string_value:  "VanillaIceCream"
+name: "RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES"
+namespace: "android_UNKNOWN"
+description: "A comma separated list of all preview codenames the platform will accept apps built against"
+value: {
+  string_value: "VanillaIceCream"
 }
-workflow:  MANUAL
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

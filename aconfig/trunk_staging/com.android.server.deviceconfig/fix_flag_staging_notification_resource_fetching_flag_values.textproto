@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "fix_flag_staging_notification_resource_fetching"
+  state: ENABLED
+  permission: READ_WRITE
+}

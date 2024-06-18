@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "audioserver_permissions"
+  state: ENABLED
+  permission: READ_WRITE
+}

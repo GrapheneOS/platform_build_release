@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.input.flags"
-  name: "a11y_crash_on_inconsistent_event_stream"
-  state: ENABLED
-  permission: READ_WRITE
-}

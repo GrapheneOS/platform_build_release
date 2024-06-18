@@ -1,4 +1,4 @@
-name:  "RELEASE_BOARD_API_LEVEL"
-value:  {
-  string_value:  "202504"
+name: "RELEASE_BOARD_API_LEVEL"
+value: {
+  string_value: "202504"
 }

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthconnect.flags"
+  name: "training_plans"
+  state: ENABLED
+  permission: READ_ONLY
+}

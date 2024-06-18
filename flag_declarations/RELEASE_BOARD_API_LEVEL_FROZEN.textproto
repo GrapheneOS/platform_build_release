@@ -1,11 +1,11 @@
-name:  "RELEASE_BOARD_API_LEVEL_FROZEN"
-namespace:  "android_UNKNOWN"
-description:  "Set to True to freeze the board API level with vendor FRC"
-value:  {
-  bool_value:  false
+name: "RELEASE_BOARD_API_LEVEL_FROZEN"
+namespace: "android_UNKNOWN"
+description: "Set to True to freeze the board API level with vendor FRC"
+value: {
+  bool_value: false
 }
-workflow:  LAUNCH
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

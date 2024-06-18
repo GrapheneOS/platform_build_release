@@ -1,4 +1,4 @@
-name:  "RELEASE_UNLOCKED_STORAGE_API"
-value:  {
-  bool_value:  true
+name: "RELEASE_UNLOCKED_STORAGE_API"
+value: {
+  bool_value: true
 }

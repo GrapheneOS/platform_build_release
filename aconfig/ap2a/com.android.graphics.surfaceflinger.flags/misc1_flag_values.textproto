@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.graphics.surfaceflinger.flags"
-  name: "misc1"
-  state: ENABLED
-  permission: READ_ONLY
-}

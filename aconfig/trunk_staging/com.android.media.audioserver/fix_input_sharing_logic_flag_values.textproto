@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "fix_input_sharing_logic"
+  state: ENABLED
+  permission: READ_WRITE
+}

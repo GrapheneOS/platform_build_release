@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.appprediction.flags"
+  name: "service_features_api"
+  state: ENABLED
+  permission: READ_WRITE
+}

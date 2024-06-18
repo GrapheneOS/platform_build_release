@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "backup_connected_apps_settings"
+  state: ENABLED
+  permission: READ_WRITE
+}

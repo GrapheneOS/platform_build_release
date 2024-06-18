@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "hdr_10bit_plus"
+  state: ENABLED
+  permission: READ_WRITE
+}

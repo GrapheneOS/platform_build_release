@@ -1,4 +1,4 @@
-name:  "RELEASE_CRASHRECOVERY_MODULE"
-value:  {
-  bool_value:  true
+name: "RELEASE_CRASHRECOVERY_MODULE"
+value: {
+  bool_value: true
 }

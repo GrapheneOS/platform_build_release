@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "reset_hover_event_timer_on_action_up"
+  state: ENABLED
+  permission: READ_WRITE
+}

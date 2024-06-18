@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bt_socket_api_l2cap_cid"
+  state: ENABLED
+  permission: READ_WRITE
+}

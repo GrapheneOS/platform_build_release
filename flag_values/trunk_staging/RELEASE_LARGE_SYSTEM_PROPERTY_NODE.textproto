@@ -1,4 +1,4 @@
-name:  "RELEASE_LARGE_SYSTEM_PROPERTY_NODE"
-value:  {
-  bool_value:  true
+name: "RELEASE_LARGE_SYSTEM_PROPERTY_NODE"
+value: {
+  bool_value: true
 }

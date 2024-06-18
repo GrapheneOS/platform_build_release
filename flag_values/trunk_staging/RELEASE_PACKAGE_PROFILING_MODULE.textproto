@@ -1,4 +1,4 @@
-name:  "RELEASE_PACKAGE_PROFILING_MODULE"
-value:  {
-  bool_value:  true
+name: "RELEASE_PACKAGE_PROFILING_MODULE"
+value: {
+  bool_value: true
 }

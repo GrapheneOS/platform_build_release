@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "enable_ad_service_fw"
+  state: ENABLED
+  permission: READ_WRITE
+}

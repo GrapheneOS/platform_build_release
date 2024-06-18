@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "single_wifi_thread"
-  state: ENABLED
-  permission: READ_WRITE
-}

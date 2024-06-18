@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "add_rat_related_suggested_action_to_ims_registration"
+  state: ENABLED
+  permission: READ_WRITE
+}

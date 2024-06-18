@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_obtainview_boost"
+  state: ENABLED
+  permission: READ_ONLY
+}

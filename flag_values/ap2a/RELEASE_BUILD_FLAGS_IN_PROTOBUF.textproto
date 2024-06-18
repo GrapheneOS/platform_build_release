@@ -1,0 +1,4 @@
+name: "RELEASE_BUILD_FLAGS_IN_PROTOBUF"
+value: {
+  bool_value: false
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "even_dimmer"
+  state: ENABLED
+  permission: READ_ONLY
+}

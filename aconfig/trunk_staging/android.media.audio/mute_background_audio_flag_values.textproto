@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "mute_background_audio"
+  state: ENABLED
+  permission: READ_WRITE
+}

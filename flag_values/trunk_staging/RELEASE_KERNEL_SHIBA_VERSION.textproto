@@ -1,0 +1,4 @@
+name: "RELEASE_KERNEL_SHIBA_VERSION"
+value: {
+  string_value: "5.15"
+}

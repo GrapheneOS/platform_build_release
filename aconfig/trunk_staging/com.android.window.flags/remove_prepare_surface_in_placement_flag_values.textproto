@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "remove_prepare_surface_in_placement"
+  state: ENABLED
+  permission: READ_ONLY
+}

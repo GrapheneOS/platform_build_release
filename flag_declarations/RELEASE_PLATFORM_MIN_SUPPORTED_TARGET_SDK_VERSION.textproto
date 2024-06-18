@@ -1,8 +1,8 @@
-name:  "RELEASE_PLATFORM_MIN_SUPPORTED_TARGET_SDK_VERSION"
-namespace:  "android_UNKNOWN"
-description:  "Used to set minimum supported target sdk version. Apps targeting sdk version lower than the set value will result in a warning being shown when any activity from the app is started."
-value:  {
-  string_value:  "28"
+name: "RELEASE_PLATFORM_MIN_SUPPORTED_TARGET_SDK_VERSION"
+namespace: "android_UNKNOWN"
+description: "Used to set minimum supported target sdk version. Apps targeting sdk version lower than the set value will result in a warning being shown when any activity from the app is started."
+value: {
+  string_value: "28"
 }
-workflow:  MANUAL
-containers:  "system"
+workflow: MANUAL
+containers: "system"

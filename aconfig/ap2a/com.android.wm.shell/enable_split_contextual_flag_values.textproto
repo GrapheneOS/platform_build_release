@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wm.shell"
-  name: "enable_split_contextual"
-  state: ENABLED
-  permission: READ_ONLY
-}

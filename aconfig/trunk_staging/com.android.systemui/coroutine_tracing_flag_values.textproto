@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "coroutine_tracing"
+  state: ENABLED
+  permission: READ_WRITE
+}

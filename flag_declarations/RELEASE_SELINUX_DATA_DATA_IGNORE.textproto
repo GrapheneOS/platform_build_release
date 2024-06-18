@@ -1,11 +1,11 @@
-name:  "RELEASE_SELINUX_DATA_DATA_IGNORE"
-namespace:  "android_UNKNOWN"
-description:  "Ignore /data/data relabelling in libselinux."
-value:  {
-  bool_value:  false
+name: "RELEASE_SELINUX_DATA_DATA_IGNORE"
+namespace: "android_UNKNOWN"
+description: "Ignore /data/data relabelling in libselinux."
+value: {
+  bool_value: false
 }
-workflow:  LAUNCH
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

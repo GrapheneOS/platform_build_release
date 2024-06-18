@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_custom_audience_auction_server_request_flags_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

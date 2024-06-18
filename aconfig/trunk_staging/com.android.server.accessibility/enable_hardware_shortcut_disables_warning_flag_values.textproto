@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_hardware_shortcut_disables_warning"
+  state: ENABLED
+  permission: READ_WRITE
+}

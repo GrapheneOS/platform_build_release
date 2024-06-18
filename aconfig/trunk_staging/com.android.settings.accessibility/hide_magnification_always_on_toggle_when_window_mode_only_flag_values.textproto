@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "hide_magnification_always_on_toggle_when_window_mode_only"
+  state: ENABLED
+  permission: READ_WRITE
+}

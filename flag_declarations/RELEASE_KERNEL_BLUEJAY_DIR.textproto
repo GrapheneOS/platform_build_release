@@ -1,0 +1,8 @@
+name: "RELEASE_KERNEL_BLUEJAY_DIR"
+namespace: "android_UNKNOWN"
+description: "Control which version of Kernel 6.1 is installed."
+value: {
+  string_value: ""
+}
+workflow: PREBUILT
+containers: "vendor"

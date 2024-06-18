@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audiopolicy"
+  name: "audio_mix_policy_ordering"
+  state: ENABLED
+  permission: READ_ONLY
+}

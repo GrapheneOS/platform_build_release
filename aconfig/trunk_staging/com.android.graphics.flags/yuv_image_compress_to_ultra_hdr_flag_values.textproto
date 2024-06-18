@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.flags"
+  name: "yuv_image_compress_to_ultra_hdr"
+  state: ENABLED
+  permission: READ_WRITE
+}

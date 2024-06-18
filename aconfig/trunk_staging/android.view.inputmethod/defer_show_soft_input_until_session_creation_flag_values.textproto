@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "defer_show_soft_input_until_session_creation"
+  state: ENABLED
+  permission: READ_ONLY
+}
