@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "enable_hap_by_default"
+  state: ENABLED
+  permission: READ_WRITE
+}

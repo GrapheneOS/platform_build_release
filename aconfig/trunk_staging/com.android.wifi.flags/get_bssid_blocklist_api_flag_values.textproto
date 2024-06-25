@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "get_bssid_blocklist_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

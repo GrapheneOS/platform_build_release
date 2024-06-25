@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "vibration_xml_apis"
+  state: ENABLED
+  permission: READ_WRITE
+}

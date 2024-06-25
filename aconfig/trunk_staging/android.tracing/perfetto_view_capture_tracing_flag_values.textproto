@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.tracing"
+  name: "perfetto_view_capture_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+}

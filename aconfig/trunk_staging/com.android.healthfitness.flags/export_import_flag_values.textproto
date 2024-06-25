@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "export_import"
+  state: ENABLED
+  permission: READ_ONLY
+}
