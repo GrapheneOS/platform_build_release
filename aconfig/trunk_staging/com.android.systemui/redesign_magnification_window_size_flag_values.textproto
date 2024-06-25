@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "redesign_magnification_window_size"
+  state: ENABLED
+  permission: READ_WRITE
+}
