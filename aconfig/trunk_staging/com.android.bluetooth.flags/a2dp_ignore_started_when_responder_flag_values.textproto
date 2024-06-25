@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "a2dp_ignore_started_when_responder"
+  state: ENABLED
+  permission: READ_WRITE
+}
