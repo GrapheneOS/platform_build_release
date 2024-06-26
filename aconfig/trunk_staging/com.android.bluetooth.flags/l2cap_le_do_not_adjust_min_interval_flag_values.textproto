@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "l2cap_le_do_not_adjust_min_interval"
+  state: ENABLED
+  permission: READ_WRITE
+}

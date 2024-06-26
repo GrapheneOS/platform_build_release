@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "rear_display_disable_force_desktop_system_decorations"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_camera_compat_for_desktop_windowing"
+  state: ENABLED
+  permission: READ_WRITE
+}

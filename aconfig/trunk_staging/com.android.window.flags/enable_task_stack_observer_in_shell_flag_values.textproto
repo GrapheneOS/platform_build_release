@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_task_stack_observer_in_shell"
+  state: ENABLED
+  permission: READ_WRITE
+}
