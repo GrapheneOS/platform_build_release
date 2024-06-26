@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ignore_notify_when_already_connected"
+  state: ENABLED
+  permission: READ_WRITE
+}
