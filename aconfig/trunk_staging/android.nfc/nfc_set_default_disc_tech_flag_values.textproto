@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_set_default_disc_tech"
+  state: ENABLED
+  permission: READ_WRITE
+}

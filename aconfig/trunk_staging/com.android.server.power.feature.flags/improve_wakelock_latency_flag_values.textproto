@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "improve_wakelock_latency"
+  state: ENABLED
+  permission: READ_ONLY
+}
