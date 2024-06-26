@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "resolution_and_enable_connected_display_setting"
+  state: ENABLED
+  permission: READ_WRITE
+}
