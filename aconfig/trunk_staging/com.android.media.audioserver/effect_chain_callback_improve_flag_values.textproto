@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "effect_chain_callback_improve"
+  state: ENABLED
+  permission: READ_WRITE
+}
