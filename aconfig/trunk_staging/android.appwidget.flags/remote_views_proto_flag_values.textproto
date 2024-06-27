@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "remote_views_proto"
+  state: ENABLED
+  permission: READ_WRITE
+}

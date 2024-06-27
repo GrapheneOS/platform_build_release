@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "trace_update_app_freeze_state_lsp"
+  state: ENABLED
+  permission: READ_ONLY
+}
