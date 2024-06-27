@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.voice.flags"
+  name: "allow_hotword_bump_egress"
+  state: ENABLED
+  permission: READ_ONLY
+}

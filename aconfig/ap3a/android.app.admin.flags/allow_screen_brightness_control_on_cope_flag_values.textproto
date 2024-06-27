@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "allow_screen_brightness_control_on_cope"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "fix_merged_content_change_event_v2"
+  state: ENABLED
+  permission: READ_ONLY
+}

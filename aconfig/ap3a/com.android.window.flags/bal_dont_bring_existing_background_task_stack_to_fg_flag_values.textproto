@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_dont_bring_existing_background_task_stack_to_fg"
+  state: ENABLED
+  permission: READ_ONLY
+}

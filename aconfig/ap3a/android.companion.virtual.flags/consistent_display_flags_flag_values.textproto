@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "consistent_display_flags"
+  state: ENABLED
+  permission: READ_ONLY
+}

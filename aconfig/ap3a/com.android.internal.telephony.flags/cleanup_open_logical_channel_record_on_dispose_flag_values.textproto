@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "cleanup_open_logical_channel_record_on_dispose"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audiopolicy"
+  name: "enable_fade_manager_configuration"
+  state: ENABLED
+  permission: READ_ONLY
+}

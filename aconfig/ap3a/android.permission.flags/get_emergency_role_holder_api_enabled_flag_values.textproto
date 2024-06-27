@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "get_emergency_role_holder_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

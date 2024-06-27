@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "register_zen_mode_content_observer_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

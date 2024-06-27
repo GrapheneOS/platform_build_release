@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "geoid_heights_via_altitude_hal"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "delay_show_magnification_button"
+  state: ENABLED
+  permission: READ_ONLY
+}

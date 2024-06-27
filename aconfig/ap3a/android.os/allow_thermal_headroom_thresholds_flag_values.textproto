@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "allow_thermal_headroom_thresholds"
+  state: ENABLED
+  permission: READ_ONLY
+}

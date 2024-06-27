@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_surface_native_alloc_registration_ro"
+  state: ENABLED
+  permission: READ_ONLY
+}

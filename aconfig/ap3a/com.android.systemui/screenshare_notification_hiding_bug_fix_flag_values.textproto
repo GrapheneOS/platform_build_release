@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshare_notification_hiding_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

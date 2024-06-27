@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "fix_crash_on_getting_config_when_phone_is_gone"
+  state: ENABLED
+  permission: READ_ONLY
+}

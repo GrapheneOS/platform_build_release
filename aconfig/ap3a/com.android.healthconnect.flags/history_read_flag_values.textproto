@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthconnect.flags"
+  name: "history_read"
+  state: ENABLED
+  permission: READ_ONLY
+}

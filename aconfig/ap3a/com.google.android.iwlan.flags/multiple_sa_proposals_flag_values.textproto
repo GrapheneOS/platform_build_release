@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "multiple_sa_proposals"
+  state: ENABLED
+  permission: READ_ONLY
+}

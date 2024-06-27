@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "a11y_qs_shortcut"
+  state: ENABLED
+  permission: READ_ONLY
+}

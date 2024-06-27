@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "adservices_enablement_check_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

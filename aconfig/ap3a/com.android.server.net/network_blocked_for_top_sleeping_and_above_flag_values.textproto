@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.net"
+  name: "network_blocked_for_top_sleeping_and_above"
+  state: ENABLED
+  permission: READ_ONLY
+}

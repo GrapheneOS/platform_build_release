@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.ipsec.flags"
+  name: "liveness_check_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

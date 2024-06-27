@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_search_spec_filter_properties"
+  state: ENABLED
+  permission: READ_ONLY
+}

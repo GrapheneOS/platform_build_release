@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "asl_in_apk_app_metadata_source"
+  state: ENABLED
+  permission: READ_ONLY
+}

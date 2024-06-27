@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_built_in_speaker_route_suitability_statuses"
+  state: ENABLED
+  permission: READ_ONLY
+}

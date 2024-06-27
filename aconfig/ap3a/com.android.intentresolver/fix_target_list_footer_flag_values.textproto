@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_target_list_footer"
+  state: ENABLED
+  permission: READ_ONLY
+}

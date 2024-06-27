@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.graphics.pdf.flags"
+  name: "enable_pdf_viewer"
+  state: ENABLED
+  permission: READ_ONLY
+}

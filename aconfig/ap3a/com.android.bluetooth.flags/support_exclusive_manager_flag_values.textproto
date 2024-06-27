@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "support_exclusive_manager"
+  state: ENABLED
+  permission: READ_ONLY
+}

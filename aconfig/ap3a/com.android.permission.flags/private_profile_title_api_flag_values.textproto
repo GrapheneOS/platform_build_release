@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "private_profile_title_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

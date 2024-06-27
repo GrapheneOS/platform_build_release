@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.policy.feature.flags"
+  name: "enable_foldables_posture_based_closed_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

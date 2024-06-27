@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "predictive_back_sysui"
+  state: ENABLED
+  permission: READ_ONLY
+}

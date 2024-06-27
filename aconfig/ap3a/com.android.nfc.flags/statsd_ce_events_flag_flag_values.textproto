@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "statsd_ce_events_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

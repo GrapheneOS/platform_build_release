@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_is_mode_change_supported_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

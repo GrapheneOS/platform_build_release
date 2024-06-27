@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "virtual_camera"
+  state: ENABLED
+  permission: READ_ONLY
+}

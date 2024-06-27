@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "protect_screen_timeout_with_auth"
+  state: ENABLED
+  permission: READ_ONLY
+}

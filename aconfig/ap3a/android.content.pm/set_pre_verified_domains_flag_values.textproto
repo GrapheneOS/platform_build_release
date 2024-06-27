@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "set_pre_verified_domains"
+  state: ENABLED
+  permission: READ_ONLY
+}

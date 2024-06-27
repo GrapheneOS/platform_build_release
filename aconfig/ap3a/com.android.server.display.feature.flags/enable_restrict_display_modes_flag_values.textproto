@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_restrict_display_modes"
+  state: ENABLED
+  permission: READ_ONLY
+}

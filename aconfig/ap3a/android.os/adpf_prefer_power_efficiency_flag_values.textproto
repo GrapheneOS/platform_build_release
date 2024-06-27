@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_prefer_power_efficiency"
+  state: ENABLED
+  permission: READ_ONLY
+}

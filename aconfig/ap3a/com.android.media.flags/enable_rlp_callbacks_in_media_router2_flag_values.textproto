@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_rlp_callbacks_in_media_router2"
+  state: ENABLED
+  permission: READ_ONLY
+}

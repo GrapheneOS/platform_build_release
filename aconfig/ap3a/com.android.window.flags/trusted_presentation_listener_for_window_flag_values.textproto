@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "trusted_presentation_listener_for_window"
+  state: ENABLED
+  permission: READ_ONLY
+}

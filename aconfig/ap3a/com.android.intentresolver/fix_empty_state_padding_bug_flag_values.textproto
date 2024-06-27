@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_empty_state_padding_bug"
+  state: ENABLED
+  permission: READ_ONLY
+}

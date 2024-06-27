@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "cross_device_clipboard"
+  state: ENABLED
+  permission: READ_ONLY
+}

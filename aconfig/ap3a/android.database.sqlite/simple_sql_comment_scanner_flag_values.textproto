@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.database.sqlite"
+  name: "simple_sql_comment_scanner"
+  state: ENABLED
+  permission: READ_ONLY
+}

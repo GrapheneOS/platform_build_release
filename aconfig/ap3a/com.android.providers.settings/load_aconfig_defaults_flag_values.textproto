@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "load_aconfig_defaults"
+  state: ENABLED
+  permission: READ_ONLY
+}

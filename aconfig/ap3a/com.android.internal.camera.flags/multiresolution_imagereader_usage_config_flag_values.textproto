@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "multiresolution_imagereader_usage_config"
+  state: ENABLED
+  permission: READ_ONLY
+}

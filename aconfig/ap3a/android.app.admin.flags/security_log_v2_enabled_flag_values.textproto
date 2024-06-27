@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "security_log_v2_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

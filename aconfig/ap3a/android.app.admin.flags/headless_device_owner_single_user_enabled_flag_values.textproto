@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "headless_device_owner_single_user_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "use_actual_address_to_enter_connecting_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

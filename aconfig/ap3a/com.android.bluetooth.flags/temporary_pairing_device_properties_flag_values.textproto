@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "temporary_pairing_device_properties"
+  state: ENABLED
+  permission: READ_ONLY
+}

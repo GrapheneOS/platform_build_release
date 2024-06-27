@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "support_psim_to_esim_conversion"
+  state: ENABLED
+  permission: READ_ONLY
+}

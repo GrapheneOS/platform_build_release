@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "call_extra_for_non_hold_supported_carriers"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "adpf_gpu_sf"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_audio_dynamic_devices"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "query_timestamp_micros"
+  state: ENABLED
+  permission: READ_ONLY
+}

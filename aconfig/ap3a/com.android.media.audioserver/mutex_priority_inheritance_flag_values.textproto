@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "mutex_priority_inheritance"
+  state: ENABLED
+  permission: READ_ONLY
+}

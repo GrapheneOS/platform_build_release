@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "asha_asrc"
+  state: ENABLED
+  permission: READ_ONLY
+}

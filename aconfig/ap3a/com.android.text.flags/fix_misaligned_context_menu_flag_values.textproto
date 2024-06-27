@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "fix_misaligned_context_menu"
+  state: ENABLED
+  permission: READ_ONLY
+}

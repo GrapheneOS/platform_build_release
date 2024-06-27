@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "persist_incomplete_restore_data"
+  state: ENABLED
+  permission: READ_ONLY
+}

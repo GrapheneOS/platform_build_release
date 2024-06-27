@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "sensitive_content_recents_screenshot_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+}
