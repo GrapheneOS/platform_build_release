@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "refine_system_actions"
+  state: ENABLED
+  permission: READ_ONLY
+}

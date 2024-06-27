@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.platform.flags"
+  name: "powered_off_finding_platform"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.contextualsearch.flags"
+  name: "enable_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

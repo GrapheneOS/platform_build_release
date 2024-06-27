@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "enable_native_vdm"
+  state: ENABLED
+  permission: READ_ONLY
+}

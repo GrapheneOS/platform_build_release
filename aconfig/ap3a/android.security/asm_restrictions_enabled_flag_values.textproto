@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "asm_restrictions_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

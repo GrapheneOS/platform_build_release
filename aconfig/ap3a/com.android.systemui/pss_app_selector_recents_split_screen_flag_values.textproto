@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "pss_app_selector_recents_split_screen"
+  state: ENABLED
+  permission: READ_ONLY
+}

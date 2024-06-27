@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "streamlined_battery_stats"
+  state: ENABLED
+  permission: READ_ONLY
+}

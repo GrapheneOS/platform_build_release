@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.usage"
+  name: "get_app_bytes_by_data_type_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

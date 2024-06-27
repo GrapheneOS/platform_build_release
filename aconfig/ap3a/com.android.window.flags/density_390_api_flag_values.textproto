@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "density_390_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

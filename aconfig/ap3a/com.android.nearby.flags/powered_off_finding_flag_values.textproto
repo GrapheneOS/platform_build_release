@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nearby.flags"
+  name: "powered_off_finding"
+  state: ENABLED
+  permission: READ_ONLY
+}

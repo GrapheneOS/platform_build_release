@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "concert_mode"
+  state: ENABLED
+  permission: READ_ONLY
+}

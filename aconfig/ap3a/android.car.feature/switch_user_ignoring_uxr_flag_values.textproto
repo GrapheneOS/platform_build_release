@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "switch_user_ignoring_uxr"
+  state: ENABLED
+  permission: READ_ONLY
+}

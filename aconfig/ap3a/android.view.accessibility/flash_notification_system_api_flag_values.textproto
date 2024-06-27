@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "flash_notification_system_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

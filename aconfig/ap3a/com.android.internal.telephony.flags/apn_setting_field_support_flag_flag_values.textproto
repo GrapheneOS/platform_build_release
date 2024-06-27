@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "apn_setting_field_support_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "use_playback_info_for_routing_controls"
+  state: ENABLED
+  permission: READ_ONLY
+}

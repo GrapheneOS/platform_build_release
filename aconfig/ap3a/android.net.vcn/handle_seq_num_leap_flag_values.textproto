@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "handle_seq_num_leap"
+  state: ENABLED
+  permission: READ_ONLY
+}

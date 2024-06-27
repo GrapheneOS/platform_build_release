@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "idle_screen_refresh_rate_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

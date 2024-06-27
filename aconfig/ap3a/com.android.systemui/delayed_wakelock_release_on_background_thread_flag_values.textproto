@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "delayed_wakelock_release_on_background_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

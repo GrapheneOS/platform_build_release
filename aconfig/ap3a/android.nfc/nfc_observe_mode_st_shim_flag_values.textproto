@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_observe_mode_st_shim"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "carrier_restriction_rules_enhancement"
+  state: ENABLED
+  permission: READ_ONLY
+}

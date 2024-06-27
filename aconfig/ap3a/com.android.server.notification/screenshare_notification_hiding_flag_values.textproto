@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "screenshare_notification_hiding"
+  state: ENABLED
+  permission: READ_ONLY
+}

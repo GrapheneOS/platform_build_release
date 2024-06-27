@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "load_did_config_from_sysprops"
+  state: ENABLED
+  permission: READ_ONLY
+}

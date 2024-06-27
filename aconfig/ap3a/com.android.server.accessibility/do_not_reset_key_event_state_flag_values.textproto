@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "do_not_reset_key_event_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

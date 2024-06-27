@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.compat.flags"
+  name: "skip_old_and_disabled_compat_logging"
+  state: ENABLED
+  permission: READ_ONLY
+}

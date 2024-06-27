@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_audio_min_max_activation_volume"
+  state: ENABLED
+  permission: READ_ONLY
+}

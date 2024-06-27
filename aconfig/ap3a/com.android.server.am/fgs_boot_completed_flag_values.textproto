@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "fgs_boot_completed"
+  state: ENABLED
+  permission: READ_ONLY
+}

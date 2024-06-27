@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "encode_app_intent"
+  state: ENABLED
+  permission: READ_ONLY
+}

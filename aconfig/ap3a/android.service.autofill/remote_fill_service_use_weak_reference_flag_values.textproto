@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "remote_fill_service_use_weak_reference"
+  state: ENABLED
+  permission: READ_ONLY
+}

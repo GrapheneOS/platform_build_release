@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "auto_data_switch_allow_roaming"
+  state: ENABLED
+  permission: READ_ONLY
+}

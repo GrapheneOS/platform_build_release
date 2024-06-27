@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "airplane_mode_x_ble_on"
+  state: ENABLED
+  permission: READ_ONLY
+}

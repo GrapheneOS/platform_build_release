@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_drop_acl_on_out_of_resources_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

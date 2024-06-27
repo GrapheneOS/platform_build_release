@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion"
+  name: "new_association_builder"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "headless_device_owner_provisioning_fix_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

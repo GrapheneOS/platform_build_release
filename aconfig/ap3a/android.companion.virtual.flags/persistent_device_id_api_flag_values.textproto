@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "persistent_device_id_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

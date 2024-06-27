@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "terminate_active_video_call_when_accepting_second_video_call_as_audio_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

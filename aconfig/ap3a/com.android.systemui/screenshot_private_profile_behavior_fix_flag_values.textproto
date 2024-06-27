@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshot_private_profile_behavior_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

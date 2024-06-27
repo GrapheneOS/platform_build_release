@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_launcher_apps_hidden_profile_checks"
+  state: ENABLED
+  permission: READ_ONLY
+}

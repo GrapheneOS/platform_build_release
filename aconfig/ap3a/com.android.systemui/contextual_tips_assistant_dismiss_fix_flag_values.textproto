@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "contextual_tips_assistant_dismiss_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

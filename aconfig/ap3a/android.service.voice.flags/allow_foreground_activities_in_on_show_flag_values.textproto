@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.voice.flags"
+  name: "allow_foreground_activities_in_on_show"
+  state: ENABLED
+  permission: READ_ONLY
+}

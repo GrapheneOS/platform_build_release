@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "persist_ap_settings"
+  state: ENABLED
+  permission: READ_ONLY
+}

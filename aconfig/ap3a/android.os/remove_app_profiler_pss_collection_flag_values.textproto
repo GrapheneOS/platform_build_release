@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "remove_app_profiler_pss_collection"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "mms_disabled_error"
+  state: ENABLED
+  permission: READ_ONLY
+}

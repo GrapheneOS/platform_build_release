@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "big_picture_style_discard_empty_icon_bitmap_drawables"
+  state: ENABLED
+  permission: READ_ONLY
+}

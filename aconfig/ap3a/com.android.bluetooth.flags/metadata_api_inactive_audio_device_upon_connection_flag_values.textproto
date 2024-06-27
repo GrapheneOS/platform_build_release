@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "metadata_api_inactive_audio_device_upon_connection"
+  state: ENABLED
+  permission: READ_ONLY
+}

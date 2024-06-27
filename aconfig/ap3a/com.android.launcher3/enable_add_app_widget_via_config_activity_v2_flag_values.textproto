@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_add_app_widget_via_config_activity_v2"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_hal_client_asrc"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,4 @@
+name: "RELEASE_DISABLE_VERIFY_OVERLAPS_CHECK"
+value: {
+  bool_value: true
+}

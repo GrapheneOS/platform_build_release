@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.adaptiveauth"
+  name: "enable_adaptive_auth"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "power_exemption_bg_usage_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_hiding_profiles"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "device_aware_permission_apis_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

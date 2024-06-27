@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "apex_signature_permission_allowlist_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

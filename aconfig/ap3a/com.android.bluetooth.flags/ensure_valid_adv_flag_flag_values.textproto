@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ensure_valid_adv_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

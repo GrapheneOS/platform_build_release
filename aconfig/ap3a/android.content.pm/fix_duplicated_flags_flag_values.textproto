@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "fix_duplicated_flags"
+  state: ENABLED
+  permission: READ_ONLY
+}
