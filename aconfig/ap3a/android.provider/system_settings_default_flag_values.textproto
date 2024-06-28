@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider"
+  name: "system_settings_default"
+  state: ENABLED
+  permission: READ_ONLY
+}

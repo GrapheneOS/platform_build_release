@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "onboarding_bugreport_storage_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

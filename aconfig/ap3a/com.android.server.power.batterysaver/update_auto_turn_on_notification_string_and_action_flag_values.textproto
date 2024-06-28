@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.batterysaver"
+  name: "update_auto_turn_on_notification_string_and_action"
+  state: ENABLED
+  permission: READ_ONLY
+}

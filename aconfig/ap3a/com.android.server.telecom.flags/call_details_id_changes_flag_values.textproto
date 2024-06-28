@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "call_details_id_changes"
+  state: ENABLED
+  permission: READ_ONLY
+}

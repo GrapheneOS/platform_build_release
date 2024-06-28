@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "stage_all_aconfig_flags"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.editing.flags"
+  name: "add_media_metrics_editing"
+  state: ENABLED
+  permission: READ_ONLY
+}

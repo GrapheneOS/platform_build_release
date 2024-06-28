@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "screen_recording_callbacks"
+  state: ENABLED
+  permission: READ_ONLY
+}

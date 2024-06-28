@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "focus_exclusive_with_recording"
+  state: ENABLED
+  permission: READ_ONLY
+}

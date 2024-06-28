@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "allow_switching_hid_and_hogp"
+  state: ENABLED
+  permission: READ_ONLY
+}

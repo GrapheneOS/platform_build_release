@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "activity_transition_use_largest_window"
+  state: ENABLED
+  permission: READ_ONLY
+}

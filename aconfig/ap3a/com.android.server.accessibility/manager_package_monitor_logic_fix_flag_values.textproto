@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "manager_package_monitor_logic_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

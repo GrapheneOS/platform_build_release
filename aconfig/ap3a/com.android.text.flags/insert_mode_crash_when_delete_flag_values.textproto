@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "insert_mode_crash_when_delete"
+  state: ENABLED
+  permission: READ_ONLY
+}

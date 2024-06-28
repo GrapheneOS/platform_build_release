@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "matrix_44"
+  state: ENABLED
+  permission: READ_ONLY
+}

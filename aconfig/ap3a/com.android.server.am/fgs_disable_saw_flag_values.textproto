@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "fgs_disable_saw"
+  state: ENABLED
+  permission: READ_ONLY
+}

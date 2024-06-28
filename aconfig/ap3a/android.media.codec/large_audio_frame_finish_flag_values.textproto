@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "large_audio_frame_finish"
+  state: ENABLED
+  permission: READ_ONLY
+}

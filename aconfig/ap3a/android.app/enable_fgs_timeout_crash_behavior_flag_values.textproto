@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "enable_fgs_timeout_crash_behavior"
+  state: ENABLED
+  permission: READ_ONLY
+}

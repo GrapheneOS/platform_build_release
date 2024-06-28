@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "create_windowless_window_magnifier"
+  state: ENABLED
+  permission: READ_ONLY
+}

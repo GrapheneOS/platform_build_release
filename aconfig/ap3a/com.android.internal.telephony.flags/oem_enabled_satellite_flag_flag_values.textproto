@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "oem_enabled_satellite_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

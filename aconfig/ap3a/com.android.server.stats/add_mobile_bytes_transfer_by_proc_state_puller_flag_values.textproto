@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.stats"
+  name: "add_mobile_bytes_transfer_by_proc_state_puller"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "new_bugreport_keyboard_shortcut"
+  state: ENABLED
+  permission: READ_ONLY
+}

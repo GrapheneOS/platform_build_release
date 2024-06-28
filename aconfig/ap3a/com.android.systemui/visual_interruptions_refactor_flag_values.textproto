@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "visual_interruptions_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+}

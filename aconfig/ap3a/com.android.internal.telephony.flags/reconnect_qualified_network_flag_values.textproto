@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "reconnect_qualified_network"
+  state: ENABLED
+  permission: READ_ONLY
+}

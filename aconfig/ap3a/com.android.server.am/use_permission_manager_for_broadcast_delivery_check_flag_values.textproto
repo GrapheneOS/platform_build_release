@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "use_permission_manager_for_broadcast_delivery_check"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_gpu_report_actual_work_duration"
+  state: ENABLED
+  permission: READ_ONLY
+}

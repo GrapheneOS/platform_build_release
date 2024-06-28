@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "set_no_reply_timer_for_cfnry"
+  state: ENABLED
+  permission: READ_ONLY
+}

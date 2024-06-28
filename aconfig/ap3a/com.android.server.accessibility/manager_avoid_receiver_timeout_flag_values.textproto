@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "manager_avoid_receiver_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

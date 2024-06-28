@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "device_policy_size_tracking_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

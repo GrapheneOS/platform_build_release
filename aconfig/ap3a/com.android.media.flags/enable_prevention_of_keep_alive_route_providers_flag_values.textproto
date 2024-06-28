@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_prevention_of_keep_alive_route_providers"
+  state: ENABLED
+  permission: READ_ONLY
+}

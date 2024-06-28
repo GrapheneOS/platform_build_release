@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "register_new_wallet_card_in_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

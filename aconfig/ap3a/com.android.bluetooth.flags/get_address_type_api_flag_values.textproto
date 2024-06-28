@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "get_address_type_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

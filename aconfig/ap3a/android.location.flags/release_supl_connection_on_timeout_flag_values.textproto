@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "release_supl_connection_on_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

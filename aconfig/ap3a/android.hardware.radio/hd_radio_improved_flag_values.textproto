@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.radio"
+  name: "hd_radio_improved"
+  state: ENABLED
+  permission: READ_ONLY
+}

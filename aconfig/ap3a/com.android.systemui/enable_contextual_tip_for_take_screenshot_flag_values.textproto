@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_contextual_tip_for_take_screenshot"
+  state: ENABLED
+  permission: READ_ONLY
+}

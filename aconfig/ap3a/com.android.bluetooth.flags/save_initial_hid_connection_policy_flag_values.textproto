@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "save_initial_hid_connection_policy"
+  state: ENABLED
+  permission: READ_ONLY
+}

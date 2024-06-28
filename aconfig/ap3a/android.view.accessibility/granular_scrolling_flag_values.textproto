@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "granular_scrolling"
+  state: ENABLED
+  permission: READ_ONLY
+}

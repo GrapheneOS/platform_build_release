@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "edit_shortcuts_in_full_screen"
+  state: ENABLED
+  permission: READ_ONLY
+}

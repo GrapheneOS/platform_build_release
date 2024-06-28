@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "headless_device_owner_delegate_security_logging_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

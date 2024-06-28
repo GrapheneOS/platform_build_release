@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "component_state_changed_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+}

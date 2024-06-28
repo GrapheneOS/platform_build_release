@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "disable_handwriting_initiator_for_ime"
+  state: ENABLED
+  permission: READ_ONLY
+}

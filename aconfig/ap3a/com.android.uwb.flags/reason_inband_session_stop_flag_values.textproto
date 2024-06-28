@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "reason_inband_session_stop"
+  state: ENABLED
+  permission: READ_ONLY
+}

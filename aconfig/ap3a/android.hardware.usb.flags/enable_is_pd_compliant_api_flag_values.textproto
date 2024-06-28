@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_is_pd_compliant_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

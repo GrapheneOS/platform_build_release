@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "do_not_replace_existing_cod_with_uncategorized_cod"
+  state: ENABLED
+  permission: READ_ONLY
+}

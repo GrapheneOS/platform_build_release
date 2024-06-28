@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "area_id_config_access"
+  state: ENABLED
+  permission: READ_ONLY
+}

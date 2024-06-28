@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_handle_delayed_gesture_callbacks"
+  state: ENABLED
+  permission: READ_ONLY
+}

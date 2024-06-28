@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "factory_reset_prep_permission_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

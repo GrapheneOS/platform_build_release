@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.dreams"
+  name: "use_battery_changed_broadcast"
+  state: ENABLED
+  permission: READ_ONLY
+}

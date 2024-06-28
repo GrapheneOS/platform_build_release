@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "input_surface_throttle"
+  state: ENABLED
+  permission: READ_ONLY
+}

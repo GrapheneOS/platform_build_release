@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "key_missing_broadcast"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_taskbar_navbar_unification"
+  state: ENABLED
+  permission: READ_ONLY
+}

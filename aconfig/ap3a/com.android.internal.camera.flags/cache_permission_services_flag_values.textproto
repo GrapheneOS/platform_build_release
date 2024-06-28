@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "cache_permission_services"
+  state: ENABLED
+  permission: READ_ONLY
+}

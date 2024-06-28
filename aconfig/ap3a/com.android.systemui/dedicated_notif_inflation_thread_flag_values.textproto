@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dedicated_notif_inflation_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

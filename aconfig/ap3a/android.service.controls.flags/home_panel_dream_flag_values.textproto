@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.controls.flags"
+  name: "home_panel_dream"
+  state: ENABLED
+  permission: READ_ONLY
+}

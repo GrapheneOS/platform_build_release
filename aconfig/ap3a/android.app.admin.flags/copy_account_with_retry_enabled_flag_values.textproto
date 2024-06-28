@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "copy_account_with_retry_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

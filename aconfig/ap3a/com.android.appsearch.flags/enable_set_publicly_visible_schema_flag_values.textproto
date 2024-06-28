@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_set_publicly_visible_schema"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "floating_menu_drag_to_edit"
+  state: ENABLED
+  permission: READ_ONLY
+}

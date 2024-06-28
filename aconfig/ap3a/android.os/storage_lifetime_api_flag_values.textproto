@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "storage_lifetime_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

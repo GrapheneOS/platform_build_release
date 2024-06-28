@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_evs_stream_management"
+  state: ENABLED
+  permission: READ_ONLY
+}

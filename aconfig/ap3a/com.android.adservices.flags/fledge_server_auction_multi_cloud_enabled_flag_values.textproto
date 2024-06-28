@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_server_auction_multi_cloud_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

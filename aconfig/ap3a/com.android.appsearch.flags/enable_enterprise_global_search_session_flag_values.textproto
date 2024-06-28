@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_enterprise_global_search_session"
+  state: ENABLED
+  permission: READ_ONLY
+}

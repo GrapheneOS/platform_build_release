@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "handwriting_end_of_line_tap"
+  state: ENABLED
+  permission: READ_ONLY
+}

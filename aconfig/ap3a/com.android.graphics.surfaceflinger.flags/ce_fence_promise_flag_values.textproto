@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "ce_fence_promise"
+  state: ENABLED
+  permission: READ_ONLY
+}
