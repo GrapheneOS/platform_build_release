@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "predictive_back_system_anims"
+  state: ENABLED
+  permission: READ_ONLY
+}

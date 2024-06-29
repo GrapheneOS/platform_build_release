@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.midi"
+  name: "virtual_ump"
+  state: ENABLED
+  permission: READ_ONLY
+}

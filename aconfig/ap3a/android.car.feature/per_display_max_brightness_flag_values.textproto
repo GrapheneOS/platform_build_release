@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "per_display_max_brightness"
+  state: ENABLED
+  permission: READ_ONLY
+}

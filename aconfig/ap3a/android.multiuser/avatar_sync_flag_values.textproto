@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "avatar_sync"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_monitor_source_sync_status"
+  state: ENABLED
+  permission: READ_ONLY
+}

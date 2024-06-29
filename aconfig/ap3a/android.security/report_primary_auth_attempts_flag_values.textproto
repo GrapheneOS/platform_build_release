@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "report_primary_auth_attempts"
+  state: ENABLED
+  permission: READ_ONLY
+}

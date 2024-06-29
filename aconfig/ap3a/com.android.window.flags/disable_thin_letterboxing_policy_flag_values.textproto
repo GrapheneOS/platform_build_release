@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "disable_thin_letterboxing_policy"
+  state: ENABLED
+  permission: READ_ONLY
+}

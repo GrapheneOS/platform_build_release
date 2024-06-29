@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "gnss_api_navic_l1"
+  state: ENABLED
+  permission: READ_ONLY
+}

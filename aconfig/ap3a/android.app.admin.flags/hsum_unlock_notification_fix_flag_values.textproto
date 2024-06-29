@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "hsum_unlock_notification_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

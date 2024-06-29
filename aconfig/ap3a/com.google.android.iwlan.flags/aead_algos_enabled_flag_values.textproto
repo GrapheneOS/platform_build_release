@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "aead_algos_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

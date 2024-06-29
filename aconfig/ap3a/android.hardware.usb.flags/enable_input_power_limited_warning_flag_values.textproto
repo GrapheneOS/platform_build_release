@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_input_power_limited_warning"
+  state: ENABLED
+  permission: READ_ONLY
+}

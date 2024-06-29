@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "picker_recent_selection"
+  state: ENABLED
+  permission: READ_ONLY
+}

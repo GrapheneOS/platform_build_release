@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "support_autolock_for_private_space"
+  state: ENABLED
+  permission: READ_ONLY
+}

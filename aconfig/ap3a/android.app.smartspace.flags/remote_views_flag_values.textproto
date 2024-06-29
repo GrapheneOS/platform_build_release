@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.smartspace.flags"
+  name: "remote_views"
+  state: ENABLED
+  permission: READ_ONLY
+}

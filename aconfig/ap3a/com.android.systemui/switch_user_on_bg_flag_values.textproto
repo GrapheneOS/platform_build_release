@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "switch_user_on_bg"
+  state: ENABLED
+  permission: READ_ONLY
+}

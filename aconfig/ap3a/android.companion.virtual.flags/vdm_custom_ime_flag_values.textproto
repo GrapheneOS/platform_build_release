@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "vdm_custom_ime"
+  state: ENABLED
+  permission: READ_ONLY
+}

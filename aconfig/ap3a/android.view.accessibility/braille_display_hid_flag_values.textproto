@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "braille_display_hid"
+  state: ENABLED
+  permission: READ_ONLY
+}

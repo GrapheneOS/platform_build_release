@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "media_controls_user_initiated_deleteintent"
+  state: ENABLED
+  permission: READ_ONLY
+}

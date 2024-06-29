@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "bind_wallpaper_service_on_its_own_thread_during_a_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+}

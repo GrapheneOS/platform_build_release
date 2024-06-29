@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "vgs_vss_sync_mute_order"
+  state: ENABLED
+  permission: READ_ONLY
+}

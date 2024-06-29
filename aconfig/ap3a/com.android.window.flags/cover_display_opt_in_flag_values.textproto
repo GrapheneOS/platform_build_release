@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "cover_display_opt_in"
+  state: ENABLED
+  permission: READ_ONLY
+}

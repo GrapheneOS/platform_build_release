@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "draw_data_parcel"
+  state: ENABLED
+  permission: READ_ONLY
+}

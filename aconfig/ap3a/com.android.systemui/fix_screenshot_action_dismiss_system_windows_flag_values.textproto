@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "fix_screenshot_action_dismiss_system_windows"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,4 @@
+name: "RELEASE_HIDDEN_API_EXPORTABLE_STUBS"
+value: {
+  bool_value: true
+}

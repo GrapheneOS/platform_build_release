@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_unsupported_operation_status_code"
+  state: ENABLED
+  permission: READ_ONLY
+}

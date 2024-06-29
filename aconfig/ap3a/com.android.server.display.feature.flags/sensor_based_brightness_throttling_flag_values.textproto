@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "sensor_based_brightness_throttling"
+  state: ENABLED
+  permission: READ_ONLY
+}

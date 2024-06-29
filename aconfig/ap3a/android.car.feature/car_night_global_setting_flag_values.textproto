@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_night_global_setting"
+  state: ENABLED
+  permission: READ_ONLY
+}

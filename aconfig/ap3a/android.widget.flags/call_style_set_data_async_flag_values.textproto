@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "call_style_set_data_async"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.car.dockutil"
+  name: "dock_feature"
+  state: ENABLED
+  permission: READ_ONLY
+}

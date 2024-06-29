@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "minimal_telephony_managers_conditional_on_features"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "dump_attestation_verifications"
+  state: ENABLED
+  permission: READ_ONLY
+}

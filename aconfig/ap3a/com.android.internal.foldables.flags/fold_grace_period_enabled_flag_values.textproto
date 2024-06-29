@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.foldables.flags"
+  name: "fold_grace_period_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

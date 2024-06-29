@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_multiple_vocs_instances_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

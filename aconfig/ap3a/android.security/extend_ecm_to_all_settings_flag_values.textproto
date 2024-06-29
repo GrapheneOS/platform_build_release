@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "extend_ecm_to_all_settings"
+  state: ENABLED
+  permission: READ_ONLY
+}

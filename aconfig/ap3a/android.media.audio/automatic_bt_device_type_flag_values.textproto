@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "automatic_bt_device_type"
+  state: ENABLED
+  permission: READ_ONLY
+}

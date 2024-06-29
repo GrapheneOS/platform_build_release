@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "set_audio_mode_before_abandon_focus"
+  state: ENABLED
+  permission: READ_ONLY
+}

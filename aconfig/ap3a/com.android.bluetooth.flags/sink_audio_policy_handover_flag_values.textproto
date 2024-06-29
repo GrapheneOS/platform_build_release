@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "sink_audio_policy_handover"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "network_metric_monitor"
+  state: ENABLED
+  permission: READ_ONLY
+}

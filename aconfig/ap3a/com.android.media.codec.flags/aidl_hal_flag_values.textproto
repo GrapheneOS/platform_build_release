@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.codec.flags"
+  name: "aidl_hal"
+  state: ENABLED
+  permission: READ_ONLY
+}

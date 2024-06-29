@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_privileged_routing_for_media_routing_control"
+  state: ENABLED
+  permission: READ_ONLY
+}

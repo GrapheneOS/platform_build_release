@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "opp_fix_multiple_notifications_issues"
+  state: ENABLED
+  permission: READ_ONLY
+}

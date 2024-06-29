@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.net"
+  name: "use_metered_firewall_chains"
+  state: ENABLED
+  permission: READ_ONLY
+}

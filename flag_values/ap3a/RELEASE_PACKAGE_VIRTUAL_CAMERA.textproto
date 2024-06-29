@@ -1,0 +1,4 @@
+name: "RELEASE_PACKAGE_VIRTUAL_CAMERA"
+value: {
+  string_value: "virtual_camera"
+}

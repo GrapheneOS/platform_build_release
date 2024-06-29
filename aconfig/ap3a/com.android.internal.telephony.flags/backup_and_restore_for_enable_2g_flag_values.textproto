@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "backup_and_restore_for_enable_2g"
+  state: ENABLED
+  permission: READ_ONLY
+}

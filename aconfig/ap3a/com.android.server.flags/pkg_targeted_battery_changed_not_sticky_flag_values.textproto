@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "pkg_targeted_battery_changed_not_sticky"
+  state: ENABLED
+  permission: READ_ONLY
+}

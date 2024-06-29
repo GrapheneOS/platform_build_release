@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "update_inquiry_result_on_flag_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

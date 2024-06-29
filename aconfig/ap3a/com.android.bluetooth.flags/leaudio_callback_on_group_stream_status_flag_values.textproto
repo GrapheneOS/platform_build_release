@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_callback_on_group_stream_status"
+  state: ENABLED
+  permission: READ_ONLY
+}

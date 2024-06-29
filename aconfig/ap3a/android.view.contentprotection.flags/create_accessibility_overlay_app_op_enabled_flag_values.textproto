@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.contentprotection.flags"
+  name: "create_accessibility_overlay_app_op_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

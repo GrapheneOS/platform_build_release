@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_prevention_of_manager_scans_when_no_apps_scan"
+  state: ENABLED
+  permission: READ_ONLY
+}

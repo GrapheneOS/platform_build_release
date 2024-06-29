@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "load_apex_aconfig_protobufs"
+  state: ENABLED
+  permission: READ_ONLY
+}

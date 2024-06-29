@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_audio_policies_device_and_bluetooth_controller"
+  state: ENABLED
+  permission: READ_ONLY
+}

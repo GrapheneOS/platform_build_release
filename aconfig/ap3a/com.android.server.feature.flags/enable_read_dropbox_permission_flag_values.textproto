@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.feature.flags"
+  name: "enable_read_dropbox_permission"
+  state: ENABLED
+  permission: READ_ONLY
+}

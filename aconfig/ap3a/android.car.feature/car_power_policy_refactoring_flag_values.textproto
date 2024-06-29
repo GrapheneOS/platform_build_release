@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_power_policy_refactoring"
+  state: ENABLED
+  permission: READ_ONLY
+}
