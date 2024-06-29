@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.settingslib.flags"
-  name: "allow_all_widgets_on_lockscreen_by_default"
-  state: ENABLED
-  permission: READ_WRITE
-}
