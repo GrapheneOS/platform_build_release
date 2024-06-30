@@ -15,7 +15,17 @@ joeo@google.com # Temporary primary
 lamontjones@google.com # Temporary primary
 morrislin@google.com # Temporary primary
 
+per-file aconfig/?p??/*,aconfig/?p??/*/*=ankurbakshi@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=bkhalife@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=chapin@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=jainne@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=lokeshgoel@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=lubomir@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=pscovanner@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=rajukulkarni@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=ramprasathd@google.com # For Nextfood promotion requests
+per-file aconfig/?p??/*,aconfig/?p??/*/*=zoeyhsieh@google.com # For Nextfood promotion requests
+
 jham@google.com # emergency backup #{LAST_RESORT_SUGGESTION}
 amithds@google.com # emergency backup #{LAST_RESORT_SUGGESTION}
 rassb@google.com # emergency backup #{LAST_RESORT_SUGGESTION}
-
