@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "offload_session_cancel_block_screen_on"
+  state: ENABLED
+  permission: READ_ONLY
+}
