@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "create_car_use_notifications"
+  state: ENABLED
+  permission: READ_WRITE
+}
