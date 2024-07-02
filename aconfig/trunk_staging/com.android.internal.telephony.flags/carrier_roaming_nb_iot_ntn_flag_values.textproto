@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "carrier_roaming_nb_iot_ntn"
+  state: ENABLED
+  permission: READ_WRITE
+}
