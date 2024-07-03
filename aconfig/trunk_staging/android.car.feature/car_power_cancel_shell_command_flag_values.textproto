@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_power_cancel_shell_command"
+  state: ENABLED
+  permission: READ_WRITE
+}
