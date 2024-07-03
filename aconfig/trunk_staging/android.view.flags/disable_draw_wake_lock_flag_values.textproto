@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "disable_draw_wake_lock"
+  state: ENABLED
+  permission: READ_ONLY
+}
