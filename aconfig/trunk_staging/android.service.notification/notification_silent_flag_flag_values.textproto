@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.notification"
+  name: "notification_silent_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}
