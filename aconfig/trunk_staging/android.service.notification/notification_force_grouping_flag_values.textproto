@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.notification"
+  name: "notification_force_grouping"
+  state: ENABLED
+  permission: READ_WRITE
+}
