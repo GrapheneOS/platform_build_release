@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "notification_force_group_singletons"
+  state: ENABLED
+  permission: READ_WRITE
+}
