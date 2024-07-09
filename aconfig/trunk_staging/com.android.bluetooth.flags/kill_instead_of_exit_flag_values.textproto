@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "kill_instead_of_exit"
+  state: ENABLED
+  permission: READ_WRITE
+}
