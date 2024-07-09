@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_windowing_transition_handlers_observers"
+  state: ENABLED
+  permission: READ_WRITE
+}
