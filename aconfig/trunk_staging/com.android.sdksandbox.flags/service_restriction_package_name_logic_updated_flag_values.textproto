@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "service_restriction_package_name_logic_updated"
+  state: ENABLED
+  permission: READ_ONLY
+}
