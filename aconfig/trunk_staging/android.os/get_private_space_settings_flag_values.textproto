@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "get_private_space_settings"
+  state: ENABLED
+  permission: READ_WRITE
+}
