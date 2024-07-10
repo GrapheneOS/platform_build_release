@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_vector_cursor_a11y_settings"
+  state: ENABLED
+  permission: READ_ONLY
+}
