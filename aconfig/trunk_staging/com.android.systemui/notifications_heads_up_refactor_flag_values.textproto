@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "notifications_heads_up_refactor"
-  state: ENABLED
-  permission: READ_WRITE
-}
