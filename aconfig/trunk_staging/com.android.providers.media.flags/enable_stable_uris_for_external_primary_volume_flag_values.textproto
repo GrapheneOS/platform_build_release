@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "enable_stable_uris_for_external_primary_volume"
+  state: ENABLED
+  permission: READ_ONLY
+}
