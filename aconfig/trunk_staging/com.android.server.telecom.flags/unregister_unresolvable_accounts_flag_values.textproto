@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "unregister_unresolvable_accounts"
+  state: ENABLED
+  permission: READ_WRITE
+}
