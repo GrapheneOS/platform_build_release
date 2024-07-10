@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_bubble_bar_in_persistent_task_bar"
+  state: ENABLED
+  permission: READ_WRITE
+}
