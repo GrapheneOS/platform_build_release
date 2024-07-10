@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.am"
-  name: "defer_outgoing_broadcasts"
-  state: ENABLED
-  permission: READ_ONLY
-}
