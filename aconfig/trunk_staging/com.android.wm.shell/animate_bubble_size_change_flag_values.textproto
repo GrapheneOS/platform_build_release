@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "animate_bubble_size_change"
+  state: ENABLED
+  permission: READ_WRITE
+}
