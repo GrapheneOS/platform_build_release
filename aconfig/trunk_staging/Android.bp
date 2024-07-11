@@ -202,6 +202,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-com.android.managedprovisioning.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-android.os.vibrator-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.internal.telephony.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.devicelock.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-android.media.tv.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.job-all",
         "aconfig-values-platform_build_release-trunk_staging-android.webkit-all",
