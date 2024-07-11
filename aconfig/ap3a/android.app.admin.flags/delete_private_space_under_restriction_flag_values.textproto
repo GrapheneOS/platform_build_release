@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "delete_private_space_under_restriction"
+  state: ENABLED
+  permission: READ_ONLY
+}
