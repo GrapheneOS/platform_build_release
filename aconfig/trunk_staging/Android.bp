@@ -31,6 +31,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.multiuser-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.policy-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.systemui.accessibility.accessibilitymenu-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.providers.contacts.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-android.media.codec-all",
         "aconfig-values-platform_build_release-trunk_staging-android.service.dreams-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.providers.media.flags-all",

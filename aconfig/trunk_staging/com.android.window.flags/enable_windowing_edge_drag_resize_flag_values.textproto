@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_windowing_edge_drag_resize"
+  state: ENABLED
+  permission: READ_WRITE
+}

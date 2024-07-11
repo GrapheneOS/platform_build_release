@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "allow_n_vsyncs_in_targeter"
+  state: ENABLED
+  permission: READ_ONLY
+}
