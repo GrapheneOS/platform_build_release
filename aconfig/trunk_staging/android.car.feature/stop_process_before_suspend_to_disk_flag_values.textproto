@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "stop_process_before_suspend_to_disk"
+  state: ENABLED
+  permission: READ_WRITE
+}

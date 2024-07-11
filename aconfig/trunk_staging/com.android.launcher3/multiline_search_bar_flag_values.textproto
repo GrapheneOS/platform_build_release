@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "multiline_search_bar"
+  state: ENABLED
+  permission: READ_WRITE
+}
