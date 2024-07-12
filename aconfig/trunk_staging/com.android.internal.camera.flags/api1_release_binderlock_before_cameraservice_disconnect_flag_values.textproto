@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "api1_release_binderlock_before_cameraservice_disconnect"
+  state: ENABLED
+  permission: READ_WRITE
+}
