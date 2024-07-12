@@ -127,6 +127,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.graphics.pdf.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.healthfitness.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.deviceaswebcam.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.server.updates-all",
         "aconfig-values-platform_build_release-trunk_staging-android.database.sqlite-all",
         "aconfig-values-platform_build_release-trunk_staging-android.service.chooser-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.car.carlauncher-all",
