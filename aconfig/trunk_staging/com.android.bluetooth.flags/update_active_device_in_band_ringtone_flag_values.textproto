@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "update_active_device_in_band_ringtone"
+  state: ENABLED
+  permission: READ_WRITE
+}
