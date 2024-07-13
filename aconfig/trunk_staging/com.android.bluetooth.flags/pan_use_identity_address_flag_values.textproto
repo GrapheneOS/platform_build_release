@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "phy_to_native"
+  name: "pan_use_identity_address"
   state: ENABLED
   permission: READ_WRITE
 }
