@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "collect_logcat_on_run_synchronously"
+  state: ENABLED
+  permission: READ_ONLY
+}

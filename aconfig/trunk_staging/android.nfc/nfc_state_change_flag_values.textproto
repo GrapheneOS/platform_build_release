@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_state_change"
+  state: ENABLED
+  permission: READ_WRITE
+}
