@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "doze_brightness_float"
+  state: ENABLED
+  permission: READ_ONLY
+}
