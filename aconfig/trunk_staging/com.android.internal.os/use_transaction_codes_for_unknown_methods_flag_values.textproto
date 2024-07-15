@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.os"
+  name: "use_transaction_codes_for_unknown_methods"
+  state: ENABLED
+  permission: READ_ONLY
+}
