@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.flags"
+  name: "ok_lab_colorspace"
+  state: ENABLED
+  permission: READ_ONLY
+}
