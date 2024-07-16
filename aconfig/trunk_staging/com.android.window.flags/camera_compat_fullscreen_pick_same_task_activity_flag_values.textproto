@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "camera_compat_fullscreen_pick_same_task_activity"
+  state: ENABLED
+  permission: READ_WRITE
+}
