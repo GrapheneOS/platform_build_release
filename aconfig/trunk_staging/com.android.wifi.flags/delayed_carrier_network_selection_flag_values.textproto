@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "delayed_carrier_network_selection"
-  state: ENABLED
-  permission: READ_ONLY
-}
