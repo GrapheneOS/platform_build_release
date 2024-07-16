@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.security.keystore2"
-  name: "database_loop_timeout"
-  state: ENABLED
-  permission: READ_ONLY
-}

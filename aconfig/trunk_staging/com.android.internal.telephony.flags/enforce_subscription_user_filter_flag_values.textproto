@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.internal.telephony.flags"
-  name: "enforce_subscription_user_filter"
-  state: ENABLED
-  permission: READ_WRITE
-}
