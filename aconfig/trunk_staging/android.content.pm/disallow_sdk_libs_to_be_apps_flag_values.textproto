@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.content.pm"
-  name: "disallow_sdk_libs_to_be_apps"
-  state: ENABLED
-  permission: READ_ONLY
-}
