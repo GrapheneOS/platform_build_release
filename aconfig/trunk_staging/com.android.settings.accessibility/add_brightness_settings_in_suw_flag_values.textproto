@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.settings.accessibility"
-  name: "add_brightness_settings_in_suw"
-  state: ENABLED
-  permission: READ_WRITE
-}
