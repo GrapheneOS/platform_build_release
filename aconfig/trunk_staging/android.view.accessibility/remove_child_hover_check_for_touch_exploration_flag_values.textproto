@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "remove_child_hover_check_for_touch_exploration"
+  state: ENABLED
+  permission: READ_WRITE
+}
