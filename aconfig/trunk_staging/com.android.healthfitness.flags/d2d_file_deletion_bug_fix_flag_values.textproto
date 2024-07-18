@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "d2d_file_deletion_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}
