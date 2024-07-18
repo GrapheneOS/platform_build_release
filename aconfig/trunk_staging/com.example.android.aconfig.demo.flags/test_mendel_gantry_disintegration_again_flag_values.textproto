@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.example.android.aconfig.demo.flags"
+  name: "test_mendel_gantry_disintegration_again"
+  state: ENABLED
+  permission: READ_WRITE
+}

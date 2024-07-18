@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "m2024_09_ramp"
+  state: ENABLED
+  permission: READ_ONLY
+}
