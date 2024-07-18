@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "draw_snapshot_aspect_ratio_match"
+  state: ENABLED
+  permission: READ_ONLY
+}
