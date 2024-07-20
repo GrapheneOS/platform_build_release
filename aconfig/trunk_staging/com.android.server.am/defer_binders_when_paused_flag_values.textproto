@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "defer_binders_when_paused"
+  state: ENABLED
+  permission: READ_ONLY
+}

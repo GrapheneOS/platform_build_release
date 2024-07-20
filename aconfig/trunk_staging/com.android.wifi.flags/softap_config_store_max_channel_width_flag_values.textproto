@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "softap_config_store_max_channel_width"
+  state: ENABLED
+  permission: READ_ONLY
+}

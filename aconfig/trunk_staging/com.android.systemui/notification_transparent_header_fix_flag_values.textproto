@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "register_content_observers_async"
+  name: "notification_transparent_header_fix"
   state: ENABLED
   permission: READ_WRITE
 }
