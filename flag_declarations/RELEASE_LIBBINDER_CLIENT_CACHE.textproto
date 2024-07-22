@@ -1,0 +1,9 @@
+name: "RELEASE_LIBBINDER_CLIENT_CACHE"
+namespace: "system_performance"
+description: "Enables caching in libbinder for client side when it is True."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"
+
