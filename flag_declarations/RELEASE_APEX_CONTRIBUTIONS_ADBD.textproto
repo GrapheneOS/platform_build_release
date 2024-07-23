@@ -1,7 +1,7 @@
 name: "RELEASE_APEX_CONTRIBUTIONS_ADBD"
 namespace: "android_UNKNOWN"
 description: "The contributions made by apexes (source or prebuilts) to the rest of the build."
-workflow: PREBUILT
+workflow: MANUAL
 containers: "product"
 containers: "system"
 containers: "system_ext"
