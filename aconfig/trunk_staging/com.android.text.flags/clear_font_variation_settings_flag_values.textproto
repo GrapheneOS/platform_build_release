@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "clear_font_variation_settings"
+  state: ENABLED
+  permission: READ_WRITE
+}
