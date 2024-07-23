@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "global_action_menu"
+  state: ENABLED
+  permission: READ_WRITE
+}

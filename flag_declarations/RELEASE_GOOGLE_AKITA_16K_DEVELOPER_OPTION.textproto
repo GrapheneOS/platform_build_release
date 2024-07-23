@@ -4,5 +4,5 @@ description: "Enables 16KB developer option in settings"
 value: {
   bool_value: false
 }
-workflow: PREBUILT
+workflow: LAUNCH
 containers: "vendor"

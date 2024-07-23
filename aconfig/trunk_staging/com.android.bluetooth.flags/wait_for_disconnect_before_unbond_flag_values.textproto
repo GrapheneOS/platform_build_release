@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "avrcp_sdp_records"
+  name: "wait_for_disconnect_before_unbond"
   state: ENABLED
   permission: READ_WRITE
 }

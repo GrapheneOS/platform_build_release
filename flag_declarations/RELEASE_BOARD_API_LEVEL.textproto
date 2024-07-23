@@ -4,7 +4,7 @@ description: "The API level of current vendor API surface. It has YYYYMM format.
 value: {
   string_value: ""
 }
-workflow: PREBUILT
+workflow: MANUAL
 containers: "product"
 containers: "system"
 containers: "system_ext"
