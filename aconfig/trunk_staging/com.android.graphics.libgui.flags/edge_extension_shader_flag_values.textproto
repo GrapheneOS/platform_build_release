@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "edge_extension_shader"
+  state: ENABLED
+  permission: READ_ONLY
+}
