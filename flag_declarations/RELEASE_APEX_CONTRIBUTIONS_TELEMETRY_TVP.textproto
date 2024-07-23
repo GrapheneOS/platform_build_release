@@ -1,5 +1,5 @@
 name: "RELEASE_APEX_CONTRIBUTIONS_TELEMETRY_TVP"
 namespace: "android_UNKNOWN"
 description: "flag to enable prebuilts for mainline telemetry tvp"
-workflow: PREBUILT
+workflow: MANUAL
 containers: "system"
