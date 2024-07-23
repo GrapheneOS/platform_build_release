@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "skip_bg_mem_trim_on_fg_app"
+  state: ENABLED
+  permission: READ_ONLY
+}
