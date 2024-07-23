@@ -1,5 +1,5 @@
 name: "RELEASE_APEX_CONTRIBUTIONS_PRIMARY_LIBS"
 namespace: "android_UNKNOWN"
 description: "flag to enable prebuilts for primary libs module (DCLA)"
-workflow: PREBUILT
+workflow: MANUAL
 containers: "system"

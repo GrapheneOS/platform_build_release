@@ -1,7 +1,7 @@
 name: "RELEASE_APEX_CONTRIBUTIONS_HEALTHFITNESS"
 namespace: "android_UNKNOWN"
 description: ""
-workflow: PREBUILT
+workflow: MANUAL
 containers: "product"
 containers: "system"
 containers: "system_ext"

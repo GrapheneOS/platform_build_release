@@ -4,7 +4,7 @@ description: "jars need to be excluded from Apex Boot Jars for targets with main
 value: {
   string_value: ""
 }
-workflow: PREBUILT
+workflow: MANUAL
 containers: "product"
 containers: "system"
 containers: "system_ext"

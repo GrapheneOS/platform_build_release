@@ -1,7 +1,7 @@
 name: "RELEASE_APEX_CONTRIBUTIONS_TZDATA"
 namespace: "android_UNKNOWN"
 description: ""
-workflow: PREBUILT
+workflow: MANUAL
 containers: "product"
 containers: "system"
 containers: "system_ext"

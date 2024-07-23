@@ -1,4 +1,4 @@
-name: "RELEASE_GOOGLE_HUSKY_16K_DEVELOPER_OPTION"
+name: "RELEASE_GOOGLE_AKITA_16K_DEVELOPER_OPTION"
 namespace: "android_UNKNOWN"
 description: "Enables 16KB developer option in settings"
 value: {
