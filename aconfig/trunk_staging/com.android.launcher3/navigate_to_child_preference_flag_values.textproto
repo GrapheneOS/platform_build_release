@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "navigate_to_child_preference"
+  state: ENABLED
+  permission: READ_WRITE
+}
