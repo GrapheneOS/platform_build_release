@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_register_setting_observer_on_bg_thread"
+  name: "communal_scene_ktf_refactor"
   state: ENABLED
   permission: READ_WRITE
 }

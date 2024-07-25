@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_caption_compat_inset_force_consumption"
+  state: ENABLED
+  permission: READ_WRITE
+}
