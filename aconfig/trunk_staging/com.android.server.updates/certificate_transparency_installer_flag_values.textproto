@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.updates"
+  name: "certificate_transparency_installer"
+  state: ENABLED
+  permission: READ_WRITE
+}
