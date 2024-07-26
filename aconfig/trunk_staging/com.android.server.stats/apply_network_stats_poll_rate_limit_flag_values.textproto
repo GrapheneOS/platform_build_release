@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.stats"
+  name: "apply_network_stats_poll_rate_limit"
+  state: ENABLED
+  permission: READ_ONLY
+}
