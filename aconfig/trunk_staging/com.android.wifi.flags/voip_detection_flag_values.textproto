@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "voip_detection"
-  state: ENABLED
-  permission: READ_ONLY
-}
