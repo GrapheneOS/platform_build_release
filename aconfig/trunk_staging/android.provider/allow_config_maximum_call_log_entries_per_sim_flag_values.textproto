@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider"
+  name: "allow_config_maximum_call_log_entries_per_sim"
+  state: ENABLED
+  permission: READ_WRITE
+}
