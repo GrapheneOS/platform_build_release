@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "disable_contextual_tips_frequency_check"
+  name: "qs_new_tiles"
   state: ENABLED
   permission: READ_WRITE
 }

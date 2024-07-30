@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "portid_volume_management"
+  state: ENABLED
+  permission: READ_WRITE
+}

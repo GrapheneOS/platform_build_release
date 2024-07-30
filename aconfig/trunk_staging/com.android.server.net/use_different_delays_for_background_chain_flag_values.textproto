@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.net"
-  name: "use_different_delays_for_background_chain"
-  state: ENABLED
-  permission: READ_WRITE
-}
