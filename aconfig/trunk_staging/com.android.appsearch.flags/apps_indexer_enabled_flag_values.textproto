@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "apps_indexer_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}
