@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "update_corner_radius_on_display_changed"
-  state: ENABLED
-  permission: READ_WRITE
-}
