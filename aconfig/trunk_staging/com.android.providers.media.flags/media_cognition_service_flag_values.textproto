@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "media_cognition_service"
+  state: ENABLED
+  permission: READ_ONLY
+}
