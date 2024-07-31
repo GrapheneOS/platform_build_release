@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "development_database"
+  state: ENABLED
+  permission: READ_ONLY
+}
