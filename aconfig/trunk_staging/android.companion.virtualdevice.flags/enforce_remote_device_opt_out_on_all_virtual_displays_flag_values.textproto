@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "enforce_remote_device_opt_out_on_all_virtual_displays"
+  state: ENABLED
+  permission: READ_WRITE
+}
