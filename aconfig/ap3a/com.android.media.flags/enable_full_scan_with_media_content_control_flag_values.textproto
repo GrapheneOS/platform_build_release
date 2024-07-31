@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_full_scan_with_media_content_control"
+  state: ENABLED
+  permission: READ_ONLY
+}
