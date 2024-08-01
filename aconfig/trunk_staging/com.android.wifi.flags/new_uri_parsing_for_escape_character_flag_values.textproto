@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "new_uri_parsing_for_escape_character"
+  state: ENABLED
+  permission: READ_ONLY
+}
