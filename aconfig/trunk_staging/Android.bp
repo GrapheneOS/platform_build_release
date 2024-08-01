@@ -185,6 +185,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.view.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.systemui.car-all",
         "aconfig-values-platform_build_release-trunk_staging-android.media.audiopolicy-all",
+        "aconfig-values-platform_build_release-trunk_staging-android.media.soundtrigger-all",
         "aconfig-values-platform_build_release-trunk_staging-android.security.keystore2-all",
         "aconfig-values-platform_build_release-trunk_staging-android.app.smartspace.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.media.audio-all",
