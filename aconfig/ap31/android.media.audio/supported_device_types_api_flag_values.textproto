@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "supported_device_types_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

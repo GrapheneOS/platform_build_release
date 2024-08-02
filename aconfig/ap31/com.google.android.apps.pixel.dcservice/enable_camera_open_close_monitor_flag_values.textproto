@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.pixel.dcservice"
+  name: "enable_camera_open_close_monitor"
+  state: DISABLED
+  permission: READ_ONLY
+}

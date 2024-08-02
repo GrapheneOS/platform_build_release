@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "clear_communication_device_after_audio_ops_complete"
+  state: ENABLED
+  permission: READ_ONLY
+}

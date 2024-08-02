@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "unix_file_socket_creation_failure"
+  state: ENABLED
+  permission: READ_ONLY
+}

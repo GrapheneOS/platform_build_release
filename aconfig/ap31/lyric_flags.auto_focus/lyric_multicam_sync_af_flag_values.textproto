@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.auto_focus"
+  name: "lyric_multicam_sync_af"
+  state: ENABLED
+  permission: READ_ONLY
+}

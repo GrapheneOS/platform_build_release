@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.media.audioclient-all",
+  package: "com.android.media.audioclient",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

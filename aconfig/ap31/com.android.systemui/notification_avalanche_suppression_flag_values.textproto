@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_avalanche_suppression"
+  state: DISABLED
+  permission: READ_ONLY
+}

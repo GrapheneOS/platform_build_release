@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "restart_dream_on_unocclude"
+  state: DISABLED
+  permission: READ_ONLY
+}

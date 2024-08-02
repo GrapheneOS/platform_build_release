@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.server.power.batterysaver-all",
+  package: "com.android.server.power.batterysaver",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

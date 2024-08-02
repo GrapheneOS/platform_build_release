@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.providers.contactkeys.flags-all",
+  package: "com.android.providers.contactkeys.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

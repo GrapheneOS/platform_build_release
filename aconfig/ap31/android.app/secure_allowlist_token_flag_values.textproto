@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "secure_allowlist_token"
+  state: DISABLED
+  permission: READ_ONLY
+}

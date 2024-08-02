@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "vcp_mute_unmute"
+  state: DISABLED
+  permission: READ_ONLY
+}

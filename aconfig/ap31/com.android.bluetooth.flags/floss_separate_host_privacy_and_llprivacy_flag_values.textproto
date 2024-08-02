@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "floss_separate_host_privacy_and_llprivacy"
+  state: DISABLED
+  permission: READ_ONLY
+}

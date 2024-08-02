@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "asm_opt_system_into_enforcement"
+  state: DISABLED
+  permission: READ_ONLY
+}

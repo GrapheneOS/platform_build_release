@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enable_multiple_sa_proposals"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "stack_sdp_disconnect_when_cancel_in_pending_state"
+  state: DISABLED
+  permission: READ_ONLY
+}

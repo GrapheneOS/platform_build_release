@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.three_a"
+  name: "input_slack_frame_alignment_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

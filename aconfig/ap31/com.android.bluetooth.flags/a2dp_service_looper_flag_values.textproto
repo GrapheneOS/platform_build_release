@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "a2dp_service_looper"
+  state: DISABLED
+  permission: READ_ONLY
+}

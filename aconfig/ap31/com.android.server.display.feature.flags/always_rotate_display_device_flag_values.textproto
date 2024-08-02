@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "always_rotate_display_device"
+  state: ENABLED
+  permission: READ_ONLY
+}

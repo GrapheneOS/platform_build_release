@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "gnss_api_measurement_request_work_source"
+  state: ENABLED
+  permission: READ_ONLY
+}

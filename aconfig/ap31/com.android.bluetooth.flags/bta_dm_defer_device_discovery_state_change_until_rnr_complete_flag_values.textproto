@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_dm_defer_device_discovery_state_change_until_rnr_complete"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "use_all_cpus_during_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+}

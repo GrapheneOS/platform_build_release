@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "trace_receiver_registration"
+  state: ENABLED
+  permission: READ_ONLY
+}

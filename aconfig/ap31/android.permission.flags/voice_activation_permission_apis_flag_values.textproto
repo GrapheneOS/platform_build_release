@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "voice_activation_permission_apis"
+  state: DISABLED
+  permission: READ_ONLY
+}

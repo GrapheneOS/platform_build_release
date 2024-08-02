@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "impulse_velocity_strategy_for_touch_navigation"
+  state: ENABLED
+  permission: READ_ONLY
+}

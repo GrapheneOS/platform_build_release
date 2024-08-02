@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "stop_hal_before_surface"
+  state: ENABLED
+  permission: READ_ONLY
+}

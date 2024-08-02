@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.contextualsearch.flags"
+  name: "enable_token_refresh"
+  state: DISABLED
+  permission: READ_ONLY
+}

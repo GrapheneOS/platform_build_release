@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.hint"
+  name: "powerhint_thread_cleanup"
+  state: ENABLED
+  permission: READ_ONLY
+}

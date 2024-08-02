@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "flush_buffer_slots_to_uncache"
+  state: ENABLED
+  permission: READ_ONLY
+}

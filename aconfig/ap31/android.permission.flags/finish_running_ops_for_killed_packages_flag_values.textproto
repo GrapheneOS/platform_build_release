@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "finish_running_ops_for_killed_packages"
+  state: ENABLED
+  permission: READ_ONLY
+}

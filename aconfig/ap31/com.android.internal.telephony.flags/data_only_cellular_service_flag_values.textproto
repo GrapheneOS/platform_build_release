@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "data_only_cellular_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

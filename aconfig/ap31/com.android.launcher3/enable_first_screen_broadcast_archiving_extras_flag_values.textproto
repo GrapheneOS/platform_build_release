@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_first_screen_broadcast_archiving_extras"
+  state: DISABLED
+  permission: READ_ONLY
+}

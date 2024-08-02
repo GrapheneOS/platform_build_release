@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.pixelsystemservice.wirelesscharger.flags"
+  name: "dock_connection_use_iwlcservice"
+  state: DISABLED
+  permission: READ_ONLY
+}

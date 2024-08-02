@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "toast_no_weakref"
+  state: ENABLED
+  permission: READ_ONLY
+}

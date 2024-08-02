@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "stream_permissions"
+  state: ENABLED
+  permission: READ_ONLY
+}

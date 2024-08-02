@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.multiuser-all",
+  package: "android.multiuser",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

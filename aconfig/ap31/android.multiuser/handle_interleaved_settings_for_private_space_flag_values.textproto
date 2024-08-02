@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "handle_interleaved_settings_for_private_space"
+  state: ENABLED
+  permission: READ_ONLY
+}

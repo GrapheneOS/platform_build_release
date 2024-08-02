@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "prevent_system_server_and_phone_deadlock"
+  state: ENABLED
+  permission: READ_ONLY
+}

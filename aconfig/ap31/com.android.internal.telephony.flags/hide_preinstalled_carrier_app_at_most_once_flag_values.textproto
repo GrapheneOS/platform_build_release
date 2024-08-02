@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "hide_preinstalled_carrier_app_at_most_once"
+  state: ENABLED
+  permission: READ_ONLY
+}

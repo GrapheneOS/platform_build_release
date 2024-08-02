@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "qs_new_tiles_future"
+  state: DISABLED
+  permission: READ_ONLY
+}

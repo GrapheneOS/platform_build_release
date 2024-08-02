@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security.keystore2"
+  name: "import_previously_emulated_keys"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "android_v_wifi_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

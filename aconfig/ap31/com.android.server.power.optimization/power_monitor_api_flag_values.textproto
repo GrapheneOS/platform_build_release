@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "power_monitor_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

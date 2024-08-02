@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.wallpaper-all",
+  package: "com.android.wallpaper",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

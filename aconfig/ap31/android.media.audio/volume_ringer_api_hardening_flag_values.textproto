@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "volume_ringer_api_hardening"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "check_session_support_before_session_char"
+  state: ENABLED
+  permission: READ_ONLY
+}

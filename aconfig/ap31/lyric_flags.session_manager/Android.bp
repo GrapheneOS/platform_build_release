@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.session_manager-all",
+  package: "lyric_flags.session_manager",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

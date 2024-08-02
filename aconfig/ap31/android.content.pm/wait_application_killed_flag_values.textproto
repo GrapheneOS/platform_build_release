@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "wait_application_killed"
+  state: DISABLED
+  permission: READ_ONLY
+}

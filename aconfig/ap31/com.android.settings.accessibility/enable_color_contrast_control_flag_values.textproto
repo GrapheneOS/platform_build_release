@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "enable_color_contrast_control"
+  state: ENABLED
+  permission: READ_ONLY
+}

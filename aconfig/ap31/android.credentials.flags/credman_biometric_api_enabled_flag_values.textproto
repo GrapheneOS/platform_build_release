@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.credentials.flags"
+  name: "credman_biometric_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

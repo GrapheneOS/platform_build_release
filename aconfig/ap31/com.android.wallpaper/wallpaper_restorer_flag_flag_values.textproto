@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "wallpaper_restorer_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

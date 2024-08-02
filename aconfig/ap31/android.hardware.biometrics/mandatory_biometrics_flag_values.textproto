@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "mandatory_biometrics"
+  state: DISABLED
+  permission: READ_ONLY
+}

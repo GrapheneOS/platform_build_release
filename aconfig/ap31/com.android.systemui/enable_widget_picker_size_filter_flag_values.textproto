@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_widget_picker_size_filter"
+  state: DISABLED
+  permission: READ_ONLY
+}

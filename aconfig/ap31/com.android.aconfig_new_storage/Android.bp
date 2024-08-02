@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.aconfig_new_storage-all",
+  package: "com.android.aconfig_new_storage",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

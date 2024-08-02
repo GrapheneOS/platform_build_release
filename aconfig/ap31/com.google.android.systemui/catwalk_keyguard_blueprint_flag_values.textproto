@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.systemui"
+  name: "catwalk_keyguard_blueprint"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "zero_state_web_data_loader"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "set_number_of_sim_for_ims_enable"
+  state: ENABLED
+  permission: READ_ONLY
+}

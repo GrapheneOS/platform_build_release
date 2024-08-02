@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "screenshot_fence_preservation"
+  state: ENABLED
+  permission: READ_ONLY
+}

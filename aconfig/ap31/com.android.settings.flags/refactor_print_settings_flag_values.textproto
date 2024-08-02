@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "refactor_print_settings"
+  state: DISABLED
+  permission: READ_ONLY
+}

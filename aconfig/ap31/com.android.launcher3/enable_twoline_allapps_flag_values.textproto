@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_twoline_allapps"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "legacy_le_audio_sharing"
+  state: DISABLED
+  permission: READ_ONLY
+}

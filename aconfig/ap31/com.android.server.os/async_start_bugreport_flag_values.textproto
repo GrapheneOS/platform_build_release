@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.os"
+  name: "async_start_bugreport"
+  state: DISABLED
+  permission: READ_ONLY
+}

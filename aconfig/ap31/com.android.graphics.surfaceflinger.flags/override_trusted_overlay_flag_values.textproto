@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "override_trusted_overlay"
+  state: ENABLED
+  permission: READ_ONLY
+}

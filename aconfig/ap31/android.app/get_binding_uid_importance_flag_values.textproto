@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "get_binding_uid_importance"
+  state: ENABLED
+  permission: READ_ONLY
+}

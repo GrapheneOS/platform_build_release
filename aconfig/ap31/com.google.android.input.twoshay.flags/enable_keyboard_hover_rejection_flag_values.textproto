@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.input.twoshay.flags"
+  name: "enable_keyboard_hover_rejection"
+  state: DISABLED
+  permission: READ_ONLY
+}

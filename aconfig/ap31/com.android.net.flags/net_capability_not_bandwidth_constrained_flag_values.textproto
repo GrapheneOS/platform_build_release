@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "net_capability_not_bandwidth_constrained"
+  state: DISABLED
+  permission: READ_ONLY
+}

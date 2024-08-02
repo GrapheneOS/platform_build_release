@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_recents_in_taskbar"
+  state: DISABLED
+  permission: READ_ONLY
+}

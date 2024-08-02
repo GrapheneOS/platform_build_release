@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "datetime_feedback"
+  state: DISABLED
+  permission: READ_ONLY
+}

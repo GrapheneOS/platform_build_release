@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "add_anomaly_when_notify_config_changed_with_invalid_phone"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "stream_camera"
+  state: DISABLED
+  permission: READ_ONLY
+}

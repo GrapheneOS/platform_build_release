@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.powerstats"
+  name: "alarm_based_powerstats_logging"
+  state: DISABLED
+  permission: READ_ONLY
+}

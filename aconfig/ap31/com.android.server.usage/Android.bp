@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.server.usage-all",
+  package: "com.android.server.usage",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

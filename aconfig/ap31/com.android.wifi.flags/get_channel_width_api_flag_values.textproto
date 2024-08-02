@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "get_channel_width_api"
+  state: DISABLED
+  permission: READ_ONLY
+}

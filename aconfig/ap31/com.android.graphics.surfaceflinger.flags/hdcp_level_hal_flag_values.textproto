@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "hdcp_level_hal"
+  state: DISABLED
+  permission: READ_ONLY
+}

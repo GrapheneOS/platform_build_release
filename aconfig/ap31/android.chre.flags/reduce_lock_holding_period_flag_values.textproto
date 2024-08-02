@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "reduce_lock_holding_period"
+  state: DISABLED
+  permission: READ_ONLY
+}

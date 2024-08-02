@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "use_le_shim_connection_map_guard"
+  state: DISABLED
+  permission: READ_ONLY
+}

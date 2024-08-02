@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.hardware.libsensor.flags-all",
+  package: "com.android.hardware.libsensor.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

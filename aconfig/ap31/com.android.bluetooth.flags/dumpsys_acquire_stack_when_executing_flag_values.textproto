@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "dumpsys_acquire_stack_when_executing"
+  state: ENABLED
+  permission: READ_ONLY
+}

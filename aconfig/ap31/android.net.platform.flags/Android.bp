@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.net.platform.flags-all",
+  package: "android.net.platform.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

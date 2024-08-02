@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "fgs_abuse_detection"
+  state: DISABLED
+  permission: READ_ONLY
+}

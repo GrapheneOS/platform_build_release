@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.example.android.aconfig.demo.flags"
+  name: "support_bugfix_templates_demo_flag_fixed_read_only"
+  state: DISABLED
+  permission: READ_ONLY
+}

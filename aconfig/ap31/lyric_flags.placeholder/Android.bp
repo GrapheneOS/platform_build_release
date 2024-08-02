@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.placeholder-all",
+  package: "lyric_flags.placeholder",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "pin_input_field_styled_focus_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

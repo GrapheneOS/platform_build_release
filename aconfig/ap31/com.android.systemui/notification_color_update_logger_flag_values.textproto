@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_color_update_logger"
+  state: DISABLED
+  permission: READ_ONLY
+}

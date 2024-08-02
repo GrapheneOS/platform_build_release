@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "set_state_early"
+  state: ENABLED
+  permission: READ_ONLY
+}

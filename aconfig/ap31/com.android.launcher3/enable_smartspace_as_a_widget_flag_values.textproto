@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_smartspace_as_a_widget"
+  state: DISABLED
+  permission: READ_ONLY
+}

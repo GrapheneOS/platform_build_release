@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.job"
+  name: "enforce_minimum_time_windows"
+  state: DISABLED
+  permission: READ_ONLY
+}

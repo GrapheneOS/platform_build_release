@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.biometrics"
+  name: "use_vhal_for_testing"
+  state: DISABLED
+  permission: READ_ONLY
+}

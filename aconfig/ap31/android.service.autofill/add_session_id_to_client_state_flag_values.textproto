@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "add_session_id_to_client_state"
+  state: DISABLED
+  permission: READ_ONLY
+}

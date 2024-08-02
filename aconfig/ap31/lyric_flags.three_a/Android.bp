@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.three_a-all",
+  package: "lyric_flags.three_a",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

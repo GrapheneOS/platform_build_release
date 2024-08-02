@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "stay_stopped"
+  state: ENABLED
+  permission: READ_ONLY
+}

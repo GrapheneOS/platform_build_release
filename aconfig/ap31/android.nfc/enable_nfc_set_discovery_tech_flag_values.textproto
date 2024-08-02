@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "enable_nfc_set_discovery_tech"
+  state: ENABLED
+  permission: READ_ONLY
+}

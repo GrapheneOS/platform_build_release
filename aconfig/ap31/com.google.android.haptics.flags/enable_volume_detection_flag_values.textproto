@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.haptics.flags"
+  name: "enable_volume_detection"
+  state: ENABLED
+  permission: READ_ONLY
+}

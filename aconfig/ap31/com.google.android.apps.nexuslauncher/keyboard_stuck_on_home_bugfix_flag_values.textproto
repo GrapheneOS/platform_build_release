@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "keyboard_stuck_on_home_bugfix"
+  state: DISABLED
+  permission: READ_ONLY
+}

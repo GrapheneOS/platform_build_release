@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.connectivity"
+  name: "replace_vpn_profile_store"
+  state: DISABLED
+  permission: READ_ONLY
+}

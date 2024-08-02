@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gdx_service_discovery"
+  state: DISABLED
+  permission: READ_ONLY
+}

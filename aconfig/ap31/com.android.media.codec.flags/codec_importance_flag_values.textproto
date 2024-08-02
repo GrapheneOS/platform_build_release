@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.codec.flags"
+  name: "codec_importance"
+  state: ENABLED
+  permission: READ_ONLY
+}

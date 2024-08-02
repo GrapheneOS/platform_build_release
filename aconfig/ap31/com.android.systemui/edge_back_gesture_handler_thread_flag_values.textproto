@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "edge_back_gesture_handler_thread"
+  state: DISABLED
+  permission: READ_ONLY
+}

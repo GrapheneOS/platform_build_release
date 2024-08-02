@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "light_reveal_migration"
+  state: DISABLED
+  permission: READ_ONLY
+}

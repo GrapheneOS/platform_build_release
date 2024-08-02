@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_increased_bmm_logging_for_restore_at_install"
+  state: ENABLED
+  permission: READ_ONLY
+}

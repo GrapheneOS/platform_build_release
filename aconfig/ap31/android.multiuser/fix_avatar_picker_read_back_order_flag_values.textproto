@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_avatar_picker_read_back_order"
+  state: ENABLED
+  permission: READ_ONLY
+}

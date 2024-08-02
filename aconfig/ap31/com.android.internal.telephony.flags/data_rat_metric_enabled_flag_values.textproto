@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "data_rat_metric_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

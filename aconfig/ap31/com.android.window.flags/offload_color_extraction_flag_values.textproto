@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "offload_color_extraction"
+  state: DISABLED
+  permission: READ_ONLY
+}

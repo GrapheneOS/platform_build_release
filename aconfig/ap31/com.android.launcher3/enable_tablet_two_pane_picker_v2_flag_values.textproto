@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_tablet_two_pane_picker_v2"
+  state: DISABLED
+  permission: READ_ONLY
+}

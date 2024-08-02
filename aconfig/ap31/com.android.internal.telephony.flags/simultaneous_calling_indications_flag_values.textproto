@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "simultaneous_calling_indications"
+  state: ENABLED
+  permission: READ_ONLY
+}

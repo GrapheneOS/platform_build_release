@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "handle_delivery_sending_failure_events"
+  state: DISABLED
+  permission: READ_ONLY
+}

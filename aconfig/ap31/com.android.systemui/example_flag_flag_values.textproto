@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "example_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

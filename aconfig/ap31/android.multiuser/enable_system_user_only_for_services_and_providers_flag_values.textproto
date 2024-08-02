@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_system_user_only_for_services_and_providers"
+  state: ENABLED
+  permission: READ_ONLY
+}

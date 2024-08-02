@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "voip_app_actions_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

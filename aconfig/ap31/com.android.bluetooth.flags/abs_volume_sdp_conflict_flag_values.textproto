@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "abs_volume_sdp_conflict"
+  state: DISABLED
+  permission: READ_ONLY
+}

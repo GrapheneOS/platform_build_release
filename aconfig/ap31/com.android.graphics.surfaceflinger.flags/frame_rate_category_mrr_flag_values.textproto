@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "frame_rate_category_mrr"
+  state: DISABLED
+  permission: READ_ONLY
+}

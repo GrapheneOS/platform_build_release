@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "evaluate_ipsec_loss_on_lp_nc_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

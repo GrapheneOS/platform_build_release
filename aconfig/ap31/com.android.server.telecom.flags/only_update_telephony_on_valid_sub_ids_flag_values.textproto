@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "only_update_telephony_on_valid_sub_ids"
+  state: ENABLED
+  permission: READ_ONLY
+}

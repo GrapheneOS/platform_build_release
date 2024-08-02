@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "blocked_reason_oem_deny_chains"
+  state: DISABLED
+  permission: READ_ONLY
+}

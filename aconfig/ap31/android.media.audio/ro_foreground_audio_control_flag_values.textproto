@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "ro_foreground_audio_control"
+  state: ENABLED
+  permission: READ_ONLY
+}

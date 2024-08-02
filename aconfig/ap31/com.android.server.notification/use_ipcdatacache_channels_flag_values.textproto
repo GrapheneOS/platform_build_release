@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "use_ipcdatacache_channels"
+  state: DISABLED
+  permission: READ_ONLY
+}

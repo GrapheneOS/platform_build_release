@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "skip_home_art_pins"
+  state: DISABLED
+  permission: READ_ONLY
+}

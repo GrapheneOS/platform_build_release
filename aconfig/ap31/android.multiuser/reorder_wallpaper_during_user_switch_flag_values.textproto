@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "reorder_wallpaper_during_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+}

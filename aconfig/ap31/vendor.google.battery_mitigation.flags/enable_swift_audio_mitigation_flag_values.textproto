@@ -1,0 +1,6 @@
+flag_value {
+  package: "vendor.google.battery_mitigation.flags"
+  name: "enable_swift_audio_mitigation"
+  state: ENABLED
+  permission: READ_ONLY
+}

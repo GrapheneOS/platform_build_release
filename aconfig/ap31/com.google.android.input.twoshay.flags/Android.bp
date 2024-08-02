@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.google.android.input.twoshay.flags-all",
+  package: "com.google.android.input.twoshay.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

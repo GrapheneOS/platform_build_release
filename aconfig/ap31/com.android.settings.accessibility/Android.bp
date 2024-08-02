@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.settings.accessibility-all",
+  package: "com.android.settings.accessibility",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

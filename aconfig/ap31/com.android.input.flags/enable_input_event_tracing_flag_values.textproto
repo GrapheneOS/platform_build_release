@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_input_event_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "system_terms_of_address_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.face_detection"
+  name: "use_graph_runner_thread_pool"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "slices_retirement"
+  state: DISABLED
+  permission: READ_ONLY
+}

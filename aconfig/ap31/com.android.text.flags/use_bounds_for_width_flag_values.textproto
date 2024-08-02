@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "use_bounds_for_width"
+  state: ENABLED
+  permission: READ_ONLY
+}

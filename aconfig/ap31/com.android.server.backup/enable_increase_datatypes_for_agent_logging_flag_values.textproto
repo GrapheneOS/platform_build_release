@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_increase_datatypes_for_agent_logging"
+  state: ENABLED
+  permission: READ_ONLY
+}

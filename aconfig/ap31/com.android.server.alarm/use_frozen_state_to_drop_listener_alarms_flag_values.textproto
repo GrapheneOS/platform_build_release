@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.alarm"
+  name: "use_frozen_state_to_drop_listener_alarms"
+  state: ENABLED
+  permission: READ_ONLY
+}

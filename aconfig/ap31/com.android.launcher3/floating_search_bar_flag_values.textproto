@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "floating_search_bar"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_view_capture_tracing"
+  state: DISABLED
+  permission: READ_ONLY
+}

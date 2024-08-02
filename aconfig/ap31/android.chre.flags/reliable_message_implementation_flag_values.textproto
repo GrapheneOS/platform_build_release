@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "reliable_message_implementation"
+  state: ENABLED
+  permission: READ_ONLY
+}

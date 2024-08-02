@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.pixelsystemservice.flags"
+  name: "mee_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

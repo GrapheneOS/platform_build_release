@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "keyboard_docking_indicator"
+  state: DISABLED
+  permission: READ_ONLY
+}

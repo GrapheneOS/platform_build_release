@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.service.autofill-all",
+  package: "android.service.autofill",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

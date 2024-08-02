@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "transit_ready_tracking"
+  state: DISABLED
+  permission: READ_ONLY
+}

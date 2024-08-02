@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.graph-all",
+  package: "lyric_flags.graph",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

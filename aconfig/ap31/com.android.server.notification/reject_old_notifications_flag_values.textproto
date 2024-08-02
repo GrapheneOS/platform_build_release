@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "reject_old_notifications"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "storage_test_mission_1"
+  state: DISABLED
+  permission: READ_ONLY
+}

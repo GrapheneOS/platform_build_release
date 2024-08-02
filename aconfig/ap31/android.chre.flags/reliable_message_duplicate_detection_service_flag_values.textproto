@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "reliable_message_duplicate_detection_service"
+  state: DISABLED
+  permission: READ_ONLY
+}

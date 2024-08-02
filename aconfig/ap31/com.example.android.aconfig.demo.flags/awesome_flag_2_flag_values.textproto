@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.example.android.aconfig.demo.flags"
+  name: "awesome_flag_2"
+  state: DISABLED
+  permission: READ_ONLY
+}

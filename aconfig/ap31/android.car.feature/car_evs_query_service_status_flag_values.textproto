@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_evs_query_service_status"
+  state: ENABLED
+  permission: READ_ONLY
+}

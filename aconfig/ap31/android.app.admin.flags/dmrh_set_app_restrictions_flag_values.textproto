@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "dmrh_set_app_restrictions"
+  state: ENABLED
+  permission: READ_ONLY
+}

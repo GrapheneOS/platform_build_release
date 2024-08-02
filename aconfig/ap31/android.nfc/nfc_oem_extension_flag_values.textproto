@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_oem_extension"
+  state: DISABLED
+  permission: READ_ONLY
+}

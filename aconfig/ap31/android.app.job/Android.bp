@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.app.job-all",
+  package: "android.app.job",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

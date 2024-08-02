@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.server.backup-all",
+  package: "com.android.server.backup",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

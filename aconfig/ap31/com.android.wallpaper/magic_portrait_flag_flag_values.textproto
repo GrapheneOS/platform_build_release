@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "magic_portrait_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "fix_system_apps_first_install_time"
+  state: ENABLED
+  permission: READ_ONLY
+}

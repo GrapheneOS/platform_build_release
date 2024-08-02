@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bluetooth_power_telemetry"
+  state: DISABLED
+  permission: READ_ONLY
+}

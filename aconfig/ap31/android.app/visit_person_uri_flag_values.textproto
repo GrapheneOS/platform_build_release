@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "visit_person_uri"
+  state: DISABLED
+  permission: READ_ONLY
+}
