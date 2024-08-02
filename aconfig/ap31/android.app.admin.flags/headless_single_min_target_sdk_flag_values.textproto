@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "headless_single_min_target_sdk"
+  state: DISABLED
+  permission: READ_ONLY
+}

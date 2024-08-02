@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.usage"
+  name: "report_usage_stats_permission"
+  state: ENABLED
+  permission: READ_ONLY
+}

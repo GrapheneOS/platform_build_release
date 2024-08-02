@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "sensitive_content_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+}

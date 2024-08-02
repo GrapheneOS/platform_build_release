@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "improve_install_freeze"
+  state: DISABLED
+  permission: READ_ONLY
+}

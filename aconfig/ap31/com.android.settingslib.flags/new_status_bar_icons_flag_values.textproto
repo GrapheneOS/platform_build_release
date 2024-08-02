@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "new_status_bar_icons"
+  state: DISABLED
+  permission: READ_ONLY
+}

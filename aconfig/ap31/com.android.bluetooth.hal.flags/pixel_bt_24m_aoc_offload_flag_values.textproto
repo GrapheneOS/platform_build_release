@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.hal.flags"
+  name: "pixel_bt_24m_aoc_offload"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "rnr_store_device_type"
+  state: DISABLED
+  permission: READ_ONLY
+}

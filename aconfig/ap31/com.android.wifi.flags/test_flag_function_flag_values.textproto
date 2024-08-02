@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "test_flag_function"
+  state: DISABLED
+  permission: READ_ONLY
+}

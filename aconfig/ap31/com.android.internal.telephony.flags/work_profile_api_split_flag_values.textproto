@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "work_profile_api_split"
+  state: DISABLED
+  permission: READ_ONLY
+}

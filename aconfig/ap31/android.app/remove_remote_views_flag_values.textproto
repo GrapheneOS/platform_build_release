@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "remove_remote_views"
+  state: DISABLED
+  permission: READ_ONLY
+}

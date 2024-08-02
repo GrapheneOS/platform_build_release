@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "accessibility_customize_text_reading_preview"
+  state: DISABLED
+  permission: READ_ONLY
+}

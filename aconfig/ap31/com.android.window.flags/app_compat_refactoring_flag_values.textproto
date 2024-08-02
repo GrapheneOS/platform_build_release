@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "app_compat_refactoring"
+  state: DISABLED
+  permission: READ_ONLY
+}

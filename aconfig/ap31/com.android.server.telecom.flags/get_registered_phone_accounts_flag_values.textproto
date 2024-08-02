@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "get_registered_phone_accounts"
+  state: ENABLED
+  permission: READ_ONLY
+}

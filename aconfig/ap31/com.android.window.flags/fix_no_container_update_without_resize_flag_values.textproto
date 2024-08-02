@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "fix_no_container_update_without_resize"
+  state: ENABLED
+  permission: READ_ONLY
+}

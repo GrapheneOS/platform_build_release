@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.aaudio"
+  name: "sample_rate_conversion"
+  state: ENABLED
+  permission: READ_ONLY
+}

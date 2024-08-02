@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "wait_for_preloaded_nanoapp_start"
+  state: DISABLED
+  permission: READ_ONLY
+}

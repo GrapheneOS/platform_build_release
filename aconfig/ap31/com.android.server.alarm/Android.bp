@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.server.alarm-all",
+  package: "com.android.server.alarm",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

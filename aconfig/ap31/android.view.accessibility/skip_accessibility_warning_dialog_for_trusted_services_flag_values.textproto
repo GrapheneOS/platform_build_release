@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "skip_accessibility_warning_dialog_for_trusted_services"
+  state: ENABLED
+  permission: READ_ONLY
+}

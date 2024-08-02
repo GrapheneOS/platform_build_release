@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "sec_dont_clear_keys_on_encryption_err"
+  state: DISABLED
+  permission: READ_ONLY
+}

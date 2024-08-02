@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_display_resolution_range_voting"
+  state: DISABLED
+  permission: READ_ONLY
+}

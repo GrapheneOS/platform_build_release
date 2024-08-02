@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.server.connectivity-all",
+  package: "com.android.server.connectivity",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

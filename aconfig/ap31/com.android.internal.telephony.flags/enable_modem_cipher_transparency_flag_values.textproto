@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enable_modem_cipher_transparency"
+  state: ENABLED
+  permission: READ_ONLY
+}

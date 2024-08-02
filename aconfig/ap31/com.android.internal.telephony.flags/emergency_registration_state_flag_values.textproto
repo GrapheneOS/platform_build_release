@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "emergency_registration_state"
+  state: DISABLED
+  permission: READ_ONLY
+}

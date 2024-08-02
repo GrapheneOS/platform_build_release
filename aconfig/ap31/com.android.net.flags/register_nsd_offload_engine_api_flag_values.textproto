@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "register_nsd_offload_engine_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

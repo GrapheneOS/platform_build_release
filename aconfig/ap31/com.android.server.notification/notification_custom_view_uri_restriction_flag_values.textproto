@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "notification_custom_view_uri_restriction"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "feature_combination_query"
+  state: ENABLED
+  permission: READ_ONLY
+}

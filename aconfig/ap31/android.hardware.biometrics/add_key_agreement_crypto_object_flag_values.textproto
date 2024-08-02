@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "add_key_agreement_crypto_object"
+  state: DISABLED
+  permission: READ_ONLY
+}

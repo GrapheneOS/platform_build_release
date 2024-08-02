@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "system_server_messenger"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "skip_unimportant_connections"
+  state: DISABLED
+  permission: READ_ONLY
+}

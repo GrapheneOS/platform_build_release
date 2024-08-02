@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "draw_region"
+  state: DISABLED
+  permission: READ_ONLY
+}

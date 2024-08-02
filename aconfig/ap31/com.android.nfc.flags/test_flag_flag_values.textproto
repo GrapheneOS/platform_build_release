@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "test_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

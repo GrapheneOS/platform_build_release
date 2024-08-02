@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "sdk_desired_present_time"
+  state: ENABLED
+  permission: READ_ONLY
+}

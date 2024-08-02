@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "test"
+  state: DISABLED
+  permission: READ_ONLY
+}

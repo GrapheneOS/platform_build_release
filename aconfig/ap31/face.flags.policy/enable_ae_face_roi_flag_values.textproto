@@ -1,0 +1,6 @@
+flag_value {
+  package: "face.flags.policy"
+  name: "enable_ae_face_roi"
+  state: DISABLED
+  permission: READ_ONLY
+}

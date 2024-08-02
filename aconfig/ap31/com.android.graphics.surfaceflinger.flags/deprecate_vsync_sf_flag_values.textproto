@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "deprecate_vsync_sf"
+  state: DISABLED
+  permission: READ_ONLY
+}

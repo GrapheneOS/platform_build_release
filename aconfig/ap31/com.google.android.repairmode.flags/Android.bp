@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.google.android.repairmode.flags-all",
+  package: "com.google.android.repairmode.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

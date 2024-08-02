@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "window_token_config_thread_safe"
+  state: ENABLED
+  permission: READ_ONLY
+}

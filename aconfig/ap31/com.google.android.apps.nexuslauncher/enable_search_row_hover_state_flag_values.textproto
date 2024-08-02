@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_search_row_hover_state"
+  state: DISABLED
+  permission: READ_ONLY
+}

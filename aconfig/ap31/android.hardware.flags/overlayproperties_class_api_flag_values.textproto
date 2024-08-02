@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.flags"
+  name: "overlayproperties_class_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

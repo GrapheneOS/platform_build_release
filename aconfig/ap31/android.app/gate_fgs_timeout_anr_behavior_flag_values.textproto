@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "gate_fgs_timeout_anr_behavior"
+  state: DISABLED
+  permission: READ_ONLY
+}

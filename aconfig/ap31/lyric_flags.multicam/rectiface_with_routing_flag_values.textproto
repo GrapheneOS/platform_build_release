@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.multicam"
+  name: "rectiface_with_routing"
+  state: DISABLED
+  permission: READ_ONLY
+}

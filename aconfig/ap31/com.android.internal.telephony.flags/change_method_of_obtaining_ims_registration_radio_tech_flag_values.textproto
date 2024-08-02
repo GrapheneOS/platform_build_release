@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "change_method_of_obtaining_ims_registration_radio_tech"
+  state: ENABLED
+  permission: READ_ONLY
+}

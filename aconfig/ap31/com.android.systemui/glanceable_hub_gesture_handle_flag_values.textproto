@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "glanceable_hub_gesture_handle"
+  state: DISABLED
+  permission: READ_ONLY
+}

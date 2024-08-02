@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enable_sip_subscribe_retry"
+  state: ENABLED
+  permission: READ_ONLY
+}

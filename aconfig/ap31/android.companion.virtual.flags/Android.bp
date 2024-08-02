@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.companion.virtual.flags-all",
+  package: "android.companion.virtual.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

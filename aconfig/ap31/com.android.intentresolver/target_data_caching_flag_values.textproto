@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "target_data_caching"
+  state: DISABLED
+  permission: READ_ONLY
+}

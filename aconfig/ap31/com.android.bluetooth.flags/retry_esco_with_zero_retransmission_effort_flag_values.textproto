@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "retry_esco_with_zero_retransmission_effort"
+  state: DISABLED
+  permission: READ_ONLY
+}

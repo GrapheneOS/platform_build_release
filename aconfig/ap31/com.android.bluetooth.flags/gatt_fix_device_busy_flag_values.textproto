@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_fix_device_busy"
+  state: ENABLED
+  permission: READ_ONLY
+}

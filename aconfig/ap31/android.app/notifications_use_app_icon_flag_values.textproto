@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "notifications_use_app_icon"
+  state: DISABLED
+  permission: READ_ONLY
+}

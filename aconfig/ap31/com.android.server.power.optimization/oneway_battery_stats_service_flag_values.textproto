@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "oneway_battery_stats_service"
+  state: DISABLED
+  permission: READ_ONLY
+}

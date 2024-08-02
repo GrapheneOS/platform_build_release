@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "sensitive_content_premature_protection_removed_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

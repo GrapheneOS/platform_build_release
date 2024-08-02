@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "pretend_network_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

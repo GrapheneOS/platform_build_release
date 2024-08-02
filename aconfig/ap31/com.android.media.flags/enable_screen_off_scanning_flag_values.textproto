@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_screen_off_scanning"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "smartspace_relocate_to_bottom"
+  state: DISABLED
+  permission: READ_ONLY
+}

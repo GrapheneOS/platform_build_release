@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "intercept_intents_before_applying_policy"
+  state: ENABLED
+  permission: READ_ONLY
+}

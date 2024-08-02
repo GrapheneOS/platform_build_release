@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.mainline.flags"
+  name: "enable_pid_to_media_session_2"
+  state: ENABLED
+  permission: READ_ONLY
+}

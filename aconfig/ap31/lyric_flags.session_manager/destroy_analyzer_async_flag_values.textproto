@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.session_manager"
+  name: "destroy_analyzer_async"
+  state: ENABLED
+  permission: READ_ONLY
+}

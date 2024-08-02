@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "support_overrides"
+  state: DISABLED
+  permission: READ_ONLY
+}

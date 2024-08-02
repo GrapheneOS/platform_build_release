@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "verify_handle_before_add_accept_list"
+  state: DISABLED
+  permission: READ_ONLY
+}

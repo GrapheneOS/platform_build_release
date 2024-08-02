@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_get_ad_selection_data_seller_configuration_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.media.tv.flags-all",
+  package: "android.media.tv.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

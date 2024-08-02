@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.uwb.flags-all",
+  package: "com.android.uwb.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.system.virtualmachine.flags"
+  name: "avf_v_test_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

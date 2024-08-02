@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "enable_crashrecovery"
+  state: DISABLED
+  permission: READ_ONLY
+}

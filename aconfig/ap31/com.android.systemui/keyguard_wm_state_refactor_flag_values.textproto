@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "keyguard_wm_state_refactor"
+  state: DISABLED
+  permission: READ_ONLY
+}

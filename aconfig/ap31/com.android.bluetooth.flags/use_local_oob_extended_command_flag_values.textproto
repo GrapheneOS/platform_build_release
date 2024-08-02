@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "use_local_oob_extended_command"
+  state: ENABLED
+  permission: READ_ONLY
+}

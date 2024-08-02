@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "extend_vb_chain_to_updated_apk"
+  state: ENABLED
+  permission: READ_ONLY
+}

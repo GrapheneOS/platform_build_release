@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.color_space"
+  name: "display_p3_preview"
+  state: ENABLED
+  permission: READ_ONLY
+}

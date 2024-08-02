@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "esim_management_ux_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "allow_omni_keyguard"
+  state: DISABLED
+  permission: READ_ONLY
+}

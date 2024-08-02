@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "word_style_auto"
+  state: ENABLED
+  permission: READ_ONLY
+}

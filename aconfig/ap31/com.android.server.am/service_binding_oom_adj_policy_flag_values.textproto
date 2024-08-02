@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "service_binding_oom_adj_policy"
+  state: ENABLED
+  permission: READ_ONLY
+}

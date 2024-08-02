@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.hardware.usb.flags-all",
+  package: "android.hardware.usb.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

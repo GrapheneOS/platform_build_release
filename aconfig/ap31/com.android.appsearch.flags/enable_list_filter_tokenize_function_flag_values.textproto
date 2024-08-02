@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_list_filter_tokenize_function"
+  state: DISABLED
+  permission: READ_ONLY
+}

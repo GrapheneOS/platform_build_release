@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "thread_settings_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

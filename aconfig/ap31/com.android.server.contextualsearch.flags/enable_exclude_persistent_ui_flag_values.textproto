@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.contextualsearch.flags"
+  name: "enable_exclude_persistent_ui"
+  state: DISABLED
+  permission: READ_ONLY
+}

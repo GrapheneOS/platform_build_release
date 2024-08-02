@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_layout_tracing"
+  state: DISABLED
+  permission: READ_ONLY
+}

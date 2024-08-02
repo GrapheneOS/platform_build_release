@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "conversation_style_set_avatar_async"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.internal.os-all",
+  package: "com.android.internal.os",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

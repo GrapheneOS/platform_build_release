@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "fix_pip_restore_to_overlay"
+  state: ENABLED
+  permission: READ_ONLY
+}

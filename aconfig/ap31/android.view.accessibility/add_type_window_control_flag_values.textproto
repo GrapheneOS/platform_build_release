@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "add_type_window_control"
+  state: DISABLED
+  permission: READ_ONLY
+}

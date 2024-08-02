@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.res"
+  name: "asset_file_descriptor_frro"
+  state: ENABLED
+  permission: READ_ONLY
+}

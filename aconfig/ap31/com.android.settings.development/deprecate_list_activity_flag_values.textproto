@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.development"
+  name: "deprecate_list_activity"
+  state: DISABLED
+  permission: READ_ONLY
+}

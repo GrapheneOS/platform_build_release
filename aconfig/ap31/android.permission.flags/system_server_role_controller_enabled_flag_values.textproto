@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "system_server_role_controller_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "support_resume_restore_after_reboot"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_ag_cmd_brsf_allow_uint32"
+  state: DISABLED
+  permission: READ_ONLY
+}

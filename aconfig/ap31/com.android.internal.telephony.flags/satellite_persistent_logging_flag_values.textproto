@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "satellite_persistent_logging"
+  state: DISABLED
+  permission: READ_ONLY
+}

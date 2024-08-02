@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "use_network_country_iso"
+  state: DISABLED
+  permission: READ_ONLY
+}

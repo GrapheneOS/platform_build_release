@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "calculate_perf_override_during_session_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

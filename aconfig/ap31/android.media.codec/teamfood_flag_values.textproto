@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "teamfood"
+  state: DISABLED
+  permission: READ_ONLY
+}

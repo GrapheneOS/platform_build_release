@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "single_hop_screenshot"
+  state: ENABLED
+  permission: READ_ONLY
+}

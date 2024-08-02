@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "check_autogroup_before_post"
+  state: DISABLED
+  permission: READ_ONLY
+}

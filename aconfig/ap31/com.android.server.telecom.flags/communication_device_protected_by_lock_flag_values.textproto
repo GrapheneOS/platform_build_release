@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "communication_device_protected_by_lock"
+  state: ENABLED
+  permission: READ_ONLY
+}

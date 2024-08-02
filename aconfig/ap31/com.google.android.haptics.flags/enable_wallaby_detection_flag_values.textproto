@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.haptics.flags"
+  name: "enable_wallaby_detection"
+  state: DISABLED
+  permission: READ_ONLY
+}

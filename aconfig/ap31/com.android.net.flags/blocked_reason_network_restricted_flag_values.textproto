@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "blocked_reason_network_restricted"
+  state: DISABLED
+  permission: READ_ONLY
+}

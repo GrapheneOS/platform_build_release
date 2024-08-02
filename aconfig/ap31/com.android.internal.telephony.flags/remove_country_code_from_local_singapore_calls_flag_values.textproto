@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "remove_country_code_from_local_singapore_calls"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audiopolicy"
+  name: "audio_policy_update_mixing_rules_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

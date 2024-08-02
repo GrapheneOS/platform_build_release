@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "use_handwriting_listener_for_tooltype"
+  state: ENABLED
+  permission: READ_ONLY
+}

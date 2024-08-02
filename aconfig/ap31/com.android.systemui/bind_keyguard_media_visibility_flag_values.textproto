@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "bind_keyguard_media_visibility"
+  state: ENABLED
+  permission: READ_ONLY
+}

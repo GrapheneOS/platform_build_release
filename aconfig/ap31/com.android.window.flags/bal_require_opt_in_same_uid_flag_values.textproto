@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_require_opt_in_same_uid"
+  state: DISABLED
+  permission: READ_ONLY
+}

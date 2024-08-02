@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "activity_snapshot_by_default"
+  state: ENABLED
+  permission: READ_ONLY
+}

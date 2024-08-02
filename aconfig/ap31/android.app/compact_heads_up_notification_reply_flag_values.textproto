@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "compact_heads_up_notification_reply"
+  state: DISABLED
+  permission: READ_ONLY
+}

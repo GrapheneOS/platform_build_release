@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "allow_disable_ipsec_loss_detector"
+  state: ENABLED
+  permission: READ_ONLY
+}

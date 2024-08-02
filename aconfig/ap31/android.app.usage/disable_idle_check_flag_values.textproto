@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.usage"
+  name: "disable_idle_check"
+  state: DISABLED
+  permission: READ_ONLY
+}

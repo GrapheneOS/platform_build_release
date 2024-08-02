@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.libsensor.flags"
+  name: "sensormanager_ping_binder"
+  state: ENABLED
+  permission: READ_ONLY
+}

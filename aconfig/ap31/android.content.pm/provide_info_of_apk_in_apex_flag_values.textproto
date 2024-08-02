@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "provide_info_of_apk_in_apex"
+  state: ENABLED
+  permission: READ_ONLY
+}

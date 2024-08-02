@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ble_gatt_server_use_address_type_in_connection"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "vendor.google.battery_mitigation.flags"
+  name: "enable_modem_crash_mitigation"
+  state: DISABLED
+  permission: READ_ONLY
+}

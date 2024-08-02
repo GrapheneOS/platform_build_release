@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "fix_null_typeface_bolding"
+  state: DISABLED
+  permission: READ_ONLY
+}

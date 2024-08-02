@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "shade_collapse_activity_launch_fix"
+  state: DISABLED
+  permission: READ_ONLY
+}

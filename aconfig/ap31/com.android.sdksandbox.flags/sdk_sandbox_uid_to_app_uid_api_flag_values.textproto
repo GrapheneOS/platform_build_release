@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sdk_sandbox_uid_to_app_uid_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

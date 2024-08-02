@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.color_space-all",
+  package: "lyric_flags.color_space",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_set_preferred_transport_for_le_audio_device"
+  state: ENABLED
+  permission: READ_ONLY
+}

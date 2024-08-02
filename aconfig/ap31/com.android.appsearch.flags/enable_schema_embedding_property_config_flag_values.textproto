@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_schema_embedding_property_config"
+  state: DISABLED
+  permission: READ_ONLY
+}

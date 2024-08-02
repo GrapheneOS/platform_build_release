@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.haptics.flags"
+  name: "enable_light_detection"
+  state: ENABLED
+  permission: READ_ONLY
+}

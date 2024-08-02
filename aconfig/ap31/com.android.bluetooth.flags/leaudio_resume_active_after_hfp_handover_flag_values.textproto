@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_resume_active_after_hfp_handover"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "default_sms_personal_app_suspension_fix_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

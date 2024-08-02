@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "enable_home_delay"
+  state: DISABLED
+  permission: READ_ONLY
+}

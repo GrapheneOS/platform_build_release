@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "activity_embedding_animation_customization_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

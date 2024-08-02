@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.res"
+  name: "manifest_flagging"
+  state: ENABLED
+  permission: READ_ONLY
+}

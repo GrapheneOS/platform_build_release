@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "latch_unsignaled_with_auto_refresh_changed"
+  state: ENABLED
+  permission: READ_ONLY
+}

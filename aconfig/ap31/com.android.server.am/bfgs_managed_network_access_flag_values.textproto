@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "bfgs_managed_network_access"
+  state: DISABLED
+  permission: READ_ONLY
+}

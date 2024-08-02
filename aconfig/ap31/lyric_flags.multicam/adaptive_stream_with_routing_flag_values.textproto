@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.multicam"
+  name: "adaptive_stream_with_routing"
+  state: ENABLED
+  permission: READ_ONLY
+}

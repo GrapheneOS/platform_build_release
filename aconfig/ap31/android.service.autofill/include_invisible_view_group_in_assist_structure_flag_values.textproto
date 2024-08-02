@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "include_invisible_view_group_in_assist_structure"
+  state: DISABLED
+  permission: READ_ONLY
+}

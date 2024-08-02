@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.webkit"
+  name: "update_service_ipc_wrapper"
+  state: DISABLED
+  permission: READ_ONLY
+}

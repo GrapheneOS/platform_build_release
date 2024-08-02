@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "concurrent_input_methods"
+  state: DISABLED
+  permission: READ_ONLY
+}

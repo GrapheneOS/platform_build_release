@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "remove_dream_overlay_hide_on_touch"
+  state: ENABLED
+  permission: READ_ONLY
+}

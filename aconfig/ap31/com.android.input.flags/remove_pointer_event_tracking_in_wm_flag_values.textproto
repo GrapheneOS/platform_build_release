@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "remove_pointer_event_tracking_in_wm"
+  state: ENABLED
+  permission: READ_ONLY
+}
