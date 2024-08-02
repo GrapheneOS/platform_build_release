@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.os"
+  name: "debug_store_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}
