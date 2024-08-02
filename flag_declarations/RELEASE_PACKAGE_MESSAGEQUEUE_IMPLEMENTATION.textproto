@@ -1,5 +1,5 @@
 name: "RELEASE_PACKAGE_MESSAGEQUEUE_IMPLEMENTATION"
-namespace: "android_platform_system_performance"
+namespace: "system_performance"
 description: "Which MessageQueue implementation to use."
 value: {
   string_value: "LegacyMessageQueue/MessageQueue.java"
