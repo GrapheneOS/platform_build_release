@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.accessibility"
-  name: "send_a11y_events_based_on_state"
-  state: ENABLED
-  permission: READ_WRITE
-}
