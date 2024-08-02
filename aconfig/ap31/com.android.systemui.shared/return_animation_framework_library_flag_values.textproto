@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "return_animation_framework_library"
+  state: DISABLED
+  permission: READ_ONLY
+}

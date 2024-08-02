@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.repairmode.flags"
+  name: "rmga_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

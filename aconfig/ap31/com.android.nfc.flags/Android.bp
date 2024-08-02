@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.nfc.flags-all",
+  package: "com.android.nfc.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

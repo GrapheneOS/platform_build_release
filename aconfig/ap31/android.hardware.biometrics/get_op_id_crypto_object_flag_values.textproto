@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "get_op_id_crypto_object"
+  state: ENABLED
+  permission: READ_ONLY
+}

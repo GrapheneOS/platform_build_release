@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_port_in_display_layout"
+  state: ENABLED
+  permission: READ_ONLY
+}

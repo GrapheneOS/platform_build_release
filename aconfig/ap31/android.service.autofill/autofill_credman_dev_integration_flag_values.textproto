@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "autofill_credman_dev_integration"
+  state: ENABLED
+  permission: READ_ONLY
+}

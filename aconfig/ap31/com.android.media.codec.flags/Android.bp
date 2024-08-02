@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.media.codec.flags-all",
+  package: "com.android.media.codec.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

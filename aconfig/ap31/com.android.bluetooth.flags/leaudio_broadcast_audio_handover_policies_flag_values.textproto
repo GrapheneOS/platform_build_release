@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_audio_handover_policies"
+  state: ENABLED
+  permission: READ_ONLY
+}

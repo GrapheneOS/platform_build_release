@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.internal.foldables.flags-all",
+  package: "com.android.internal.foldables.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

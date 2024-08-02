@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "get_effective_target_sdk_version_api"
+  state: DISABLED
+  permission: READ_ONLY
+}

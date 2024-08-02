@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.adservices.flags-all",
+  package: "com.android.adservices.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

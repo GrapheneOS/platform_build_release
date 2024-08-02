@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_tiny_taskbar"
+  state: DISABLED
+  permission: READ_ONLY
+}

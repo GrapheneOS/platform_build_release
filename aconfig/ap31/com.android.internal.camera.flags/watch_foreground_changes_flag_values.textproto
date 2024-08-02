@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "watch_foreground_changes"
+  state: ENABLED
+  permission: READ_ONLY
+}

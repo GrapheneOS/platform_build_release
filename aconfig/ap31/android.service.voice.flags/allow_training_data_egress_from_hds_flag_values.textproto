@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.voice.flags"
+  name: "allow_training_data_egress_from_hds"
+  state: DISABLED
+  permission: READ_ONLY
+}

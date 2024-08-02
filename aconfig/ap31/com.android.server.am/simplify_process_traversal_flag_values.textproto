@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "simplify_process_traversal"
+  state: ENABLED
+  permission: READ_ONLY
+}

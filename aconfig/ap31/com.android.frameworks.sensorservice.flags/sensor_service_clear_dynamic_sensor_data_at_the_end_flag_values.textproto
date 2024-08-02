@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.frameworks.sensorservice.flags"
+  name: "sensor_service_clear_dynamic_sensor_data_at_the_end"
+  state: DISABLED
+  permission: READ_ONLY
+}

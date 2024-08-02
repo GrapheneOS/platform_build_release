@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.systemui"
+  name: "volume_plus_for_pixel"
+  state: ENABLED
+  permission: READ_ONLY
+}

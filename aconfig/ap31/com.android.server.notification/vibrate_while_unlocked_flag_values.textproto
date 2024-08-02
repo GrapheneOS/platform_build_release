@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "vibrate_while_unlocked"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sdk_sandbox_dex_verifier"
+  state: DISABLED
+  permission: READ_ONLY
+}

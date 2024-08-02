@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "transit_route_before_audio_disconnect_bt"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "clear_default_from_a11y_shortcut_target_service_restore"
+  state: ENABLED
+  permission: READ_ONLY
+}

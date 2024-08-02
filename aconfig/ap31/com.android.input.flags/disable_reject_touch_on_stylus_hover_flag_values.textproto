@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "disable_reject_touch_on_stylus_hover"
+  state: DISABLED
+  permission: READ_ONLY
+}

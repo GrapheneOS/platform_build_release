@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "adaptive_haptics_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.libcore-all",
+  package: "com.android.libcore",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_cross_user_routing_in_media_router2"
+  state: ENABLED
+  permission: READ_ONLY
+}

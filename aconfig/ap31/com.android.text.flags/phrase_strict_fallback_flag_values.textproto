@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "phrase_strict_fallback"
+  state: ENABLED
+  permission: READ_ONLY
+}

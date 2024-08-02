@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "fifo_priority_for_major_ui_processes"
+  state: DISABLED
+  permission: READ_ONLY
+}

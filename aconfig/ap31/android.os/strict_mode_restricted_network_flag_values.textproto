@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "strict_mode_restricted_network"
+  state: DISABLED
+  permission: READ_ONLY
+}

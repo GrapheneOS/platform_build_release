@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "update_ranking_time"
+  state: DISABLED
+  permission: READ_ONLY
+}

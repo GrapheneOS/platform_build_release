@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_pip2_implementation"
+  state: DISABLED
+  permission: READ_ONLY
+}

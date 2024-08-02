@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.system.virtualmachine.flags-all",
+  package: "com.android.system.virtualmachine.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

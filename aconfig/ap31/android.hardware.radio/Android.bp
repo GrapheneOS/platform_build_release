@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.hardware.radio-all",
+  package: "android.hardware.radio",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

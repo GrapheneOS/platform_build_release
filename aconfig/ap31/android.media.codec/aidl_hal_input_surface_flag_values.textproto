@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "aidl_hal_input_surface"
+  state: DISABLED
+  permission: READ_ONLY
+}

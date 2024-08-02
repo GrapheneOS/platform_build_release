@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "is_cosmic_ray_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

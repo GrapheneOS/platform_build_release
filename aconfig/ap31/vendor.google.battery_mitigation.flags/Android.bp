@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-vendor.google.battery_mitigation.flags-all",
+  package: "vendor.google.battery_mitigation.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

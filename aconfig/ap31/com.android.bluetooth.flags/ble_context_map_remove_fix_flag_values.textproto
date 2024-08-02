@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ble_context_map_remove_fix"
+  state: DISABLED
+  permission: READ_ONLY
+}

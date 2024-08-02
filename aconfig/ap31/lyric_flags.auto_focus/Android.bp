@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.auto_focus-all",
+  package: "lyric_flags.auto_focus",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

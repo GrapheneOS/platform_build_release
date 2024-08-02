@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "skip_sleeping_when_switching_display"
+  state: ENABLED
+  permission: READ_ONLY
+}

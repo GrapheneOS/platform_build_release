@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "reenable_settings_resets"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "glanceable_hub_shortcut_button"
+  state: DISABLED
+  permission: READ_ONLY
+}

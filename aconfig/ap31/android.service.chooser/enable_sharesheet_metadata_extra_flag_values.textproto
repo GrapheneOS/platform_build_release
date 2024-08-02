@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "enable_sharesheet_metadata_extra"
+  state: ENABLED
+  permission: READ_ONLY
+}

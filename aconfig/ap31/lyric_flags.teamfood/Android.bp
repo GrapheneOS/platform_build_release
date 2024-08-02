@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-lyric_flags.teamfood-all",
+  package: "lyric_flags.teamfood",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

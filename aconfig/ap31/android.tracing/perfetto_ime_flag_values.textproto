@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.tracing"
+  name: "perfetto_ime"
+  state: DISABLED
+  permission: READ_ONLY
+}

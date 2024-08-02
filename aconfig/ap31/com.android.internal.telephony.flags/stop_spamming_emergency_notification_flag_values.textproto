@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "stop_spamming_emergency_notification"
+  state: DISABLED
+  permission: READ_ONLY
+}

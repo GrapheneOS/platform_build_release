@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "recoverability_detection"
+  state: ENABLED
+  permission: READ_ONLY
+}

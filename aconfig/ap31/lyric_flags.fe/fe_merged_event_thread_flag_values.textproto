@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.fe"
+  name: "fe_merged_event_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

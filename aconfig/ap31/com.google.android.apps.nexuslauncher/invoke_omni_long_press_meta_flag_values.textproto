@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "invoke_omni_long_press_meta"
+  state: ENABLED
+  permission: READ_ONLY
+}

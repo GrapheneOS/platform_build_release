@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.database.sqlite-all",
+  package: "android.database.sqlite",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

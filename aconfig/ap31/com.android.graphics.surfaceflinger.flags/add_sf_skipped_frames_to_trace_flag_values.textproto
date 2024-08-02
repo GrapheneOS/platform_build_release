@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "add_sf_skipped_frames_to_trace"
+  state: ENABLED
+  permission: READ_ONLY
+}

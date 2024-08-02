@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_private_space_features"
+  state: ENABLED
+  permission: READ_ONLY
+}

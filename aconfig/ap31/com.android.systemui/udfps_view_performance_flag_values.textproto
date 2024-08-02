@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "udfps_view_performance"
+  state: ENABLED
+  permission: READ_ONLY
+}

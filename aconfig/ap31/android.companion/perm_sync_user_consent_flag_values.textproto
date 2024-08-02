@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion"
+  name: "perm_sync_user_consent"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "new_picker_ui_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

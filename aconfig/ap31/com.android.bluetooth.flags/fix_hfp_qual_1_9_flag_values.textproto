@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_hfp_qual_1_9"
+  state: DISABLED
+  permission: READ_ONLY
+}

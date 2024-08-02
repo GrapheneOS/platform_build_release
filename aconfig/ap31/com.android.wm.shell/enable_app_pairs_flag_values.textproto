@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_app_pairs"
+  state: ENABLED
+  permission: READ_ONLY
+}

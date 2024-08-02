@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_respect_app_switch_state_when_check_bound_by_foreground_uid"
+  state: ENABLED
+  permission: READ_ONLY
+}

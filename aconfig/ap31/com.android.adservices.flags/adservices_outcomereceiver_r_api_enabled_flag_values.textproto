@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "adservices_outcomereceiver_r_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

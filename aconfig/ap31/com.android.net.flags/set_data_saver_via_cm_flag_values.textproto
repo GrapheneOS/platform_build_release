@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "set_data_saver_via_cm"
+  state: ENABLED
+  permission: READ_ONLY
+}

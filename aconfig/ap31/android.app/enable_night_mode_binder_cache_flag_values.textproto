@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "enable_night_mode_binder_cache"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_google_drive_search"
+  state: DISABLED
+  permission: READ_ONLY
+}

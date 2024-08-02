@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_widget_tap_to_add"
+  state: ENABLED
+  permission: READ_ONLY
+}

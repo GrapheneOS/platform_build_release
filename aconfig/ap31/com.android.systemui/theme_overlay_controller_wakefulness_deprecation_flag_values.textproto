@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "theme_overlay_controller_wakefulness_deprecation"
+  state: DISABLED
+  permission: READ_ONLY
+}

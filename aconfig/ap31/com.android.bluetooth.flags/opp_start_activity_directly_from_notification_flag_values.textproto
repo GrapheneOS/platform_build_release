@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "opp_start_activity_directly_from_notification"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_watchdog_memory_profiling"
+  state: ENABLED
+  permission: READ_ONLY
+}

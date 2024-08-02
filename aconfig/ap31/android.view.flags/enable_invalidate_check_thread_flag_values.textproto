@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_invalidate_check_thread"
+  state: DISABLED
+  permission: READ_ONLY
+}

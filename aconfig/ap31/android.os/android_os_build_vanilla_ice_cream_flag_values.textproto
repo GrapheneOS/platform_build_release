@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "android_os_build_vanilla_ice_cream"
+  state: DISABLED
+  permission: READ_ONLY
+}

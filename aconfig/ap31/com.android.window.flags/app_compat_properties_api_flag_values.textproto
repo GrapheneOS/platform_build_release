@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "app_compat_properties_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

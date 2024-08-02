@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_hide_on_display_switch"
+  state: DISABLED
+  permission: READ_ONLY
+}

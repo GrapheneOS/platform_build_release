@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "connectionless_handwriting"
+  state: ENABLED
+  permission: READ_ONLY
+}

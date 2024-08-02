@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-face.flags.policy-all",
+  package: "face.flags.policy",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

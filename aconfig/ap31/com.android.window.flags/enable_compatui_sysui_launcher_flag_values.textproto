@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_compatui_sysui_launcher"
+  state: DISABLED
+  permission: READ_ONLY
+}

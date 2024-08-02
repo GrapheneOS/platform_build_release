@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "support_communal_profile_nextgen"
+  state: DISABLED
+  permission: READ_ONLY
+}

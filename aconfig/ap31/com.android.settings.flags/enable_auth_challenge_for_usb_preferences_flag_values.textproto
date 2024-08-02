@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "enable_auth_challenge_for_usb_preferences"
+  state: ENABLED
+  permission: READ_ONLY
+}

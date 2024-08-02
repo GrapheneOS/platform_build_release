@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.content.pm-all",
+  package: "android.content.pm",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

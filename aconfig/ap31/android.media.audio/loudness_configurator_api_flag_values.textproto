@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "loudness_configurator_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

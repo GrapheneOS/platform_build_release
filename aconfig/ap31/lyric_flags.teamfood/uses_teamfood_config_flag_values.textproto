@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.teamfood"
+  name: "uses_teamfood_config"
+  state: DISABLED
+  permission: READ_ONLY
+}

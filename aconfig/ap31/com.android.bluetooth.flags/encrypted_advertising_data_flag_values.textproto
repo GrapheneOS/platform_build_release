@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "encrypted_advertising_data"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.settingslib.media.flags-all",
+  package: "com.android.settingslib.media.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

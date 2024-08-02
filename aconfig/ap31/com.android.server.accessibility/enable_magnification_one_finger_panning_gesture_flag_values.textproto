@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_magnification_one_finger_panning_gesture"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.multicam"
+  name: "routing_to_eis"
+  state: ENABLED
+  permission: READ_ONLY
+}

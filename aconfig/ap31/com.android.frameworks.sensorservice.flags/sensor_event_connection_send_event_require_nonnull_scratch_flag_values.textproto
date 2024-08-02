@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.frameworks.sensorservice.flags"
+  name: "sensor_event_connection_send_event_require_nonnull_scratch"
+  state: DISABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "show_call_fail_notification_for_2g_toggle"
+  state: ENABLED
+  permission: READ_ONLY
+}

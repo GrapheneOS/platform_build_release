@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "content_uri_permission_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

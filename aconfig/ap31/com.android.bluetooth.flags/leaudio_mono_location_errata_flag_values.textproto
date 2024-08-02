@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_mono_location_errata"
+  state: DISABLED
+  permission: READ_ONLY
+}

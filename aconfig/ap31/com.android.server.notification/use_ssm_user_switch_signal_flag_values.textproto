@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "use_ssm_user_switch_signal"
+  state: DISABLED
+  permission: READ_ONLY
+}

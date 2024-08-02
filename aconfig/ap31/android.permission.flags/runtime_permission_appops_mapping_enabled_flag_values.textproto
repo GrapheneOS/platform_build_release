@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "runtime_permission_appops_mapping_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

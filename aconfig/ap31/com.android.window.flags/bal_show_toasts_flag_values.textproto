@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_show_toasts"
+  state: DISABLED
+  permission: READ_ONLY
+}

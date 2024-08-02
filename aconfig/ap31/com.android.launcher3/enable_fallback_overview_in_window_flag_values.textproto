@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_fallback_overview_in_window"
+  state: DISABLED
+  permission: READ_ONLY
+}

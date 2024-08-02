@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_rich_suggest_layouts_v2"
+  state: DISABLED
+  permission: READ_ONLY
+}

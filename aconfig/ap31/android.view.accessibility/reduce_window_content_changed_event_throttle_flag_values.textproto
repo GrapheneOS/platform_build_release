@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "reduce_window_content_changed_event_throttle"
+  state: DISABLED
+  permission: READ_ONLY
+}

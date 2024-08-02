@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.systemui.shared-all",
+  package: "com.android.systemui.shared",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

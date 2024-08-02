@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.hal.flags"
+  name: "pixel_bluetooth_hr_mode"
+  state: DISABLED
+  permission: READ_ONLY
+}

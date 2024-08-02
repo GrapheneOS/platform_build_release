@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "allow_rescue_party_flag_resets"
+  state: DISABLED
+  permission: READ_ONLY
+}

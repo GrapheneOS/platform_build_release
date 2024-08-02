@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "register_battery_controller_receivers_in_corestartable"
+  state: DISABLED
+  permission: READ_ONLY
+}

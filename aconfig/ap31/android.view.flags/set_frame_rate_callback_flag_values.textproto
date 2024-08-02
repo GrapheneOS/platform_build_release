@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "set_frame_rate_callback"
+  state: DISABLED
+  permission: READ_ONLY
+}

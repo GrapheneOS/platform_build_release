@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_dynamic_ranking_m3"
+  state: ENABLED
+  permission: READ_ONLY
+}

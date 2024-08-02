@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_inbound_event_verification"
+  state: DISABLED
+  permission: READ_ONLY
+}

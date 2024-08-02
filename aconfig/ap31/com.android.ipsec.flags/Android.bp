@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.ipsec.flags-all",
+  package: "com.android.ipsec.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

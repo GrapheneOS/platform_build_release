@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_data_request_observer_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

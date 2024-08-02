@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_property_detailed_error_codes"
+  state: ENABLED
+  permission: READ_ONLY
+}

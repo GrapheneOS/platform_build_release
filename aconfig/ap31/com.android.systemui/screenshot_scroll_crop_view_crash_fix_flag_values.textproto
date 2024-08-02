@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshot_scroll_crop_view_crash_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

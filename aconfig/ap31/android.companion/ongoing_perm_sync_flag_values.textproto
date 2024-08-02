@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion"
+  name: "ongoing_perm_sync"
+  state: DISABLED
+  permission: READ_ONLY
+}

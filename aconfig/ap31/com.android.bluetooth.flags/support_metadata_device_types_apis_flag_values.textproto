@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "support_metadata_device_types_apis"
+  state: DISABLED
+  permission: READ_ONLY
+}

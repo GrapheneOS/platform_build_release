@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "higher_l2cap_flush_threshold"
+  state: DISABLED
+  permission: READ_ONLY
+}

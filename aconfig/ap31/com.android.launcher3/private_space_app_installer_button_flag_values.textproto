@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_app_installer_button"
+  state: ENABLED
+  permission: READ_ONLY
+}

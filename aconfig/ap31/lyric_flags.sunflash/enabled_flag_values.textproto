@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.sunflash"
+  name: "enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

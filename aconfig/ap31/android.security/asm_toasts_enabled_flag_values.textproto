@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "asm_toasts_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

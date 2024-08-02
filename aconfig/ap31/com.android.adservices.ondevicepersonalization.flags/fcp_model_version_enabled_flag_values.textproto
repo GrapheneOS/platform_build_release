@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "fcp_model_version_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

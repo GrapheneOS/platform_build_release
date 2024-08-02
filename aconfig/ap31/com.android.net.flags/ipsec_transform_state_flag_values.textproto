@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "ipsec_transform_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

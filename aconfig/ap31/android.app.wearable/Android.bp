@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.app.wearable-all",
+  package: "android.app.wearable",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "notification_reduce_messagequeue_usage"
+  state: DISABLED
+  permission: READ_ONLY
+}

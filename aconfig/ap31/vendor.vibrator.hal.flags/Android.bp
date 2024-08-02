@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-vendor.vibrator.hal.flags-all",
+  package: "vendor.vibrator.hal.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

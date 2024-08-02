@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "dsrs_diagnostics_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

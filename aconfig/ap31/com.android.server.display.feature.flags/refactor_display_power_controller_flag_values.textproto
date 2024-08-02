@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "refactor_display_power_controller"
+  state: DISABLED
+  permission: READ_ONLY
+}

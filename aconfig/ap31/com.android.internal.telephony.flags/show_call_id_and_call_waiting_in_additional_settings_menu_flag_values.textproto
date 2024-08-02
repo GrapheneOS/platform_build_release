@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "show_call_id_and_call_waiting_in_additional_settings_menu"
+  state: ENABLED
+  permission: READ_ONLY
+}

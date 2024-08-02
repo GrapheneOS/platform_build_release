@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "brightness_int_range_user_perception"
+  state: DISABLED
+  permission: READ_ONLY
+}

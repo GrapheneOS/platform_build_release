@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "glanceable_hub_fullscreen_swipe"
+  state: DISABLED
+  permission: READ_ONLY
+}

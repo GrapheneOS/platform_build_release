@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "edge_to_edge_by_default"
+  state: DISABLED
+  permission: READ_ONLY
+}

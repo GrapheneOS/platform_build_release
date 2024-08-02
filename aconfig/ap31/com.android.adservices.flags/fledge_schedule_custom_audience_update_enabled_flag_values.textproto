@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_schedule_custom_audience_update_enabled"
+  state: DISABLED
+  permission: READ_ONLY
+}

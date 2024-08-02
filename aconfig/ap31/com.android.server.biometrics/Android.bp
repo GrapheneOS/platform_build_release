@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-com.android.server.biometrics-all",
+  package: "com.android.server.biometrics",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

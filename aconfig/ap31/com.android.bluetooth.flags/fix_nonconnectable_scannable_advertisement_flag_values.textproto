@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_nonconnectable_scannable_advertisement"
+  state: ENABLED
+  permission: READ_ONLY
+}

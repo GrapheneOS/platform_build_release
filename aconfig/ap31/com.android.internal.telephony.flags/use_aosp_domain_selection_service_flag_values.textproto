@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "use_aosp_domain_selection_service"
+  state: DISABLED
+  permission: READ_ONLY
+}

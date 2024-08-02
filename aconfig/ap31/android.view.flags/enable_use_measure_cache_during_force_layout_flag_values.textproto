@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_use_measure_cache_during_force_layout"
+  state: DISABLED
+  permission: READ_ONLY
+}

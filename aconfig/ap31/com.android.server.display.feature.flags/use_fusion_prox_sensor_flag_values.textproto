@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "use_fusion_prox_sensor"
+  state: DISABLED
+  permission: READ_ONLY
+}

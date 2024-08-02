@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "floating_menu_animated_tuck"
+  state: DISABLED
+  permission: READ_ONLY
+}

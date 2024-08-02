@@ -1,0 +1,6 @@
+flag_value {
+  package: "face.flags.policy"
+  name: "enable_dsp_offload"
+  state: ENABLED
+  permission: READ_ONLY
+}

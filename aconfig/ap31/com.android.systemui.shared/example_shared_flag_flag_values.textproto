@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "example_shared_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}

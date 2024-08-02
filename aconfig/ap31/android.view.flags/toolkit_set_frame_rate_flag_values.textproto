@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "toolkit_set_frame_rate"
+  state: DISABLED
+  permission: READ_ONLY
+}

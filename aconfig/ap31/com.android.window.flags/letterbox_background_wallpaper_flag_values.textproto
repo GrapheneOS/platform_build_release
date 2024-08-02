@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "letterbox_background_wallpaper"
+  state: DISABLED
+  permission: READ_ONLY
+}

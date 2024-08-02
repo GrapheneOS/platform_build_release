@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "allow_sdk_sandbox_query_intent_activities"
+  state: ENABLED
+  permission: READ_ONLY
+}

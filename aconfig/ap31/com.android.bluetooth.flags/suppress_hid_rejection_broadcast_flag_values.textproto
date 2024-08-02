@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "suppress_hid_rejection_broadcast"
+  state: DISABLED
+  permission: READ_ONLY
+}

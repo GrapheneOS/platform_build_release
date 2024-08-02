@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "refactor_insets_controller"
+  state: DISABLED
+  permission: READ_ONLY
+}

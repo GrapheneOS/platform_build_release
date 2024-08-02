@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "use_entire_message_handle"
+  state: DISABLED
+  permission: READ_ONLY
+}

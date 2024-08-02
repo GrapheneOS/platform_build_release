@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "scroll_feedback_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

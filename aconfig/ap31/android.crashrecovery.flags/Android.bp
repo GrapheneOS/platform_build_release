@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ap31-android.crashrecovery.flags-all",
+  package: "android.crashrecovery.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

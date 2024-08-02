@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.credentials.flags"
+  name: "new_framework_metrics"
+  state: DISABLED
+  permission: READ_ONLY
+}

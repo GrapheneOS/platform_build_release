@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "unlocked_storage_api"
+  state: DISABLED
+  permission: READ_ONLY
+}

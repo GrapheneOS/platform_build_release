@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "set_callback_stall"
+  state: DISABLED
+  permission: READ_ONLY
+}

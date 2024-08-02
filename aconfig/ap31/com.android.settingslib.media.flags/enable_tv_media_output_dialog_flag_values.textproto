@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "enable_tv_media_output_dialog"
+  state: DISABLED
+  permission: READ_ONLY
+}

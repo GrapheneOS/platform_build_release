@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "start_user_before_scheduled_alarms"
+  state: DISABLED
+  permission: READ_ONLY
+}

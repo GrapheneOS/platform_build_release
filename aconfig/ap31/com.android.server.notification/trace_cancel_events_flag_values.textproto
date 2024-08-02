@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "trace_cancel_events"
+  state: DISABLED
+  permission: READ_ONLY
+}

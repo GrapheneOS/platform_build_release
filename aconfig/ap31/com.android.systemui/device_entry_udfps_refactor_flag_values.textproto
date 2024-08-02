@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "device_entry_udfps_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+}
