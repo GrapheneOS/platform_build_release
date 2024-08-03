@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.settings.flags"
-  name: "hide_le_audio_toggle_for_le_audio_only_device"
-  state: ENABLED
-  permission: READ_WRITE
-}
