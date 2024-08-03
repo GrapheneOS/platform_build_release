@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "p2p_ownership"
+  state: ENABLED
+  permission: READ_ONLY
+}
