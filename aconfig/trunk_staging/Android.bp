@@ -24,6 +24,7 @@ aconfig_value_set {
       "aconfig-values-platform_build_release-trunk_staging-com.android.window.flags-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.settingslib.flags-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.libcore-all",
+      "aconfig-values-platform_build_release-trunk_staging-com.android.art.flags-all",
       "aconfig-values-platform_build_release-trunk_staging-android.companion-all",
       "aconfig-values-platform_build_release-trunk_staging-android.media.audiopolicy-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.server.job-all",
