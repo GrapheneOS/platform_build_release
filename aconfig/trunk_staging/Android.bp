@@ -96,6 +96,7 @@ aconfig_value_set {
       "aconfig-values-platform_build_release-trunk_staging-android.media.midi-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.settings.factory_reset-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.libcore-all",
+      "aconfig-values-platform_build_release-trunk_staging-com.android.art.flags-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.input.flags-all",
       "aconfig-values-platform_build_release-trunk_staging-com.android.settings.development-all",
       "aconfig-values-platform_build_release-trunk_staging-android.media.audio-all",
