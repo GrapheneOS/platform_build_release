@@ -1,0 +1,11 @@
+name: "RELEASE_IS_EMR"
+namespace: "android_UNKNOWN"
+description: "Set this flag to true to mark a release build as EMR (Emergency Maintenance Release)."
+value: {
+  bool_value: false
+}
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"
