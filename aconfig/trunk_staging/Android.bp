@@ -135,6 +135,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.app.job-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.egg.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.icu-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.settingslib.widget.selectorwithwidgetpreference.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.media.playback.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.internal.camera.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.systemui.aconfig-all",
