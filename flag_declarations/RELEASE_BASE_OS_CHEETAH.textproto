@@ -1,0 +1,11 @@
+name: "RELEASE_BASE_OS_CHEETAH"
+namespace: "android_UNKNOWN"
+description: "Use this flag to set ro.build.version.base_os or ro.build.version.emergency_base_os for CHEETAHrelease build. The value is set to the last approved build for the device. This is required for the SMR/EMR build to be recognized by the Partner Approvals portal."
+value: {
+  string_value: ""
+}
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

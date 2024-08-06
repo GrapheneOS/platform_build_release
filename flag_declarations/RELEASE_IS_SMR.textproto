@@ -1,0 +1,11 @@
+name: "RELEASE_IS_SMR"
+namespace: "android_UNKNOWN"
+description: "Set this flag to true to mark a release build as SMR (Security Maintenance Release)."
+value: {
+  bool_value: false
+}
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"
