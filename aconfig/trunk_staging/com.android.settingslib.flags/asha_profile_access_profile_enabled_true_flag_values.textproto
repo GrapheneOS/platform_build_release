@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "asha_profile_access_profile_enabled_true"
+  state: ENABLED
+  permission: READ_WRITE
+}
