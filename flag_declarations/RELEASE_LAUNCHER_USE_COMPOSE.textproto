@@ -1,0 +1,9 @@
+name: "RELEASE_ENABLE_COMPOSE_IN_LAUNCHER"
+namespace: "launcher"
+description: "b/346290823: Flag to enable Jetpack Compose dependencies in Launcher."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"
+
