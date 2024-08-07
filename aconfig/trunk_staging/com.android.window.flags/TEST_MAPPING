@@ -1,0 +1,10 @@
+{
+  "imports": [
+    {
+      "path": "frameworks/native"
+    },
+    {
+      "path": "frameworks/native/services/surfaceflinger"
+    }
+  ]
+}
