@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "dumpsys_request_stream_ids"
+  state: ENABLED
+  permission: READ_WRITE
+}
