@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "insert_mode_highlight_range"
+  state: ENABLED
+  permission: READ_WRITE
+}

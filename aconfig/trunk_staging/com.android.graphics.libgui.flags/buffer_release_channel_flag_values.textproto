@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.graphics.libgui.flags"
-  name: "edge_extension_shader"
+  name: "buffer_release_channel"
   state: ENABLED
   permission: READ_ONLY
 }
