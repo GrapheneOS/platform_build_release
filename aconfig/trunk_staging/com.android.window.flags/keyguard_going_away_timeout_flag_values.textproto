@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "keyguard_going_away_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}
