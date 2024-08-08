@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "disable_non_resizable_app_snap_resizing"
+  state: ENABLED
+  permission: READ_WRITE
+}
