@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "clear_auth_collision_state_on_pairing_complete"
+  state: ENABLED
+  permission: READ_WRITE
+}
