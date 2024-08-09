@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "clear_collision_state_on_pairing_complete"
+  name: "update_active_device_in_band_ringtone"
   state: ENABLED
   permission: READ_WRITE
 }
