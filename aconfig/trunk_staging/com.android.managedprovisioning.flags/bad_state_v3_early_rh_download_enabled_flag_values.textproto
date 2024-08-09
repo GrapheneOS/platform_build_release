@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "bad_state_v3_early_rh_download_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}
