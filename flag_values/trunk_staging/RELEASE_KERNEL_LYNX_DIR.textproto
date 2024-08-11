@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_LYNX_DIR"
 value: {
-  string_value: "device/google/lynx-kernels/6.1/trunk-12204704"
+  string_value: "device/google/lynx-kernels/6.1/trunk-12211679"
 }
