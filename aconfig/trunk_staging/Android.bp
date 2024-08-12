@@ -149,6 +149,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-com.android.wifi.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.google.android.platform.launcher.aconfig.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-android.view.accessibility-all",
+        "aconfig-values-platform_build_release-trunk_staging-android.app.appfunctions.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.providers.settings-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.systemui-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.utils-all",
