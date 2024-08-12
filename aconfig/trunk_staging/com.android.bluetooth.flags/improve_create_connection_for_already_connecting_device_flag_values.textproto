@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "improve_create_connection_for_already_connecting_device"
+  state: ENABLED
+  permission: READ_WRITE
+}
