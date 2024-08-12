@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "translucent_occluding_activity_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}
