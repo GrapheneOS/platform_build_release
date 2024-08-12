@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "fix_audio_coupled_haptics_scaling"
+  state: ENABLED
+  permission: READ_WRITE
+}
