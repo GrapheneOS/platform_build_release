@@ -23,4 +23,6 @@ FLAG_DECLARATION_FILES := $(local_dir)build_flags.scl
 $(call declare-release-config, ap2a, $(local_dir)build_config/ap2a.scl)
 $(call declare-release-config, cur, $(local_dir)build_config/ap2a.scl)
 
+$(call declare-release-config, ap2f, $(local_dir)build_config/ap2f.scl)
+
 local_dir :=
