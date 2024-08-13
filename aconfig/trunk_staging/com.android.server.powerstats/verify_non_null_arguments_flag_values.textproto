@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.powerstats"
+  name: "verify_non_null_arguments"
+  state: ENABLED
+  permission: READ_ONLY
+}
