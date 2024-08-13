@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "fix_a11y_settings_search"
+  state: ENABLED
+  permission: READ_WRITE
+}
