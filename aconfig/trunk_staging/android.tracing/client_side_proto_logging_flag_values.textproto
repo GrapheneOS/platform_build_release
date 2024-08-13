@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.tracing"
-  name: "client_side_proto_logging"
-  state: ENABLED
-  permission: READ_ONLY
-}
