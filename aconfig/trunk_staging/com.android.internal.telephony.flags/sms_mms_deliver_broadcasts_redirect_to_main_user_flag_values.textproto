@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "sms_mms_deliver_broadcasts_redirect_to_main_user"
+  state: ENABLED
+  permission: READ_WRITE
+}
