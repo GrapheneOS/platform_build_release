@@ -1,0 +1,6 @@
+name: "RELEASE_SUPERVISION_SERVICE"
+namespace: "supervision"
+description: "Include SupervisionService in the build"
+workflow: LAUNCH
+containers: "system"
+
