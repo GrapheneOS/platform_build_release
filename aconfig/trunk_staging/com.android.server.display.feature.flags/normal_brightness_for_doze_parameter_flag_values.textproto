@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "normal_brightness_for_doze_parameter"
+  state: ENABLED
+  permission: READ_ONLY
+}
