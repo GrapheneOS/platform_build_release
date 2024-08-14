@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "handwriting_gesture_with_transformation"
+  state: ENABLED
+  permission: READ_WRITE
+}

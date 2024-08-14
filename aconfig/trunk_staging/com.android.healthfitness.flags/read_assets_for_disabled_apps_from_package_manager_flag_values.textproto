@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "read_assets_for_disabled_apps_from_package_manager"
+  state: ENABLED
+  permission: READ_ONLY
+}
