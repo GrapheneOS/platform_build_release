@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "dont_remove_existing_uid_states"
+  state: ENABLED
+  permission: READ_ONLY
+}
