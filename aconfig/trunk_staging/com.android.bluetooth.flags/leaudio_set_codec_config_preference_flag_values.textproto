@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_set_codec_config_preference"
+  state: ENABLED
+  permission: READ_WRITE
+}
