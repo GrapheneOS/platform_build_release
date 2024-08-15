@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "handle_property_events_in_binder_thread"
+  state: ENABLED
+  permission: READ_WRITE
+}
