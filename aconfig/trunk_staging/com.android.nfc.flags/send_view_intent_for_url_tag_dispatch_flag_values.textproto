@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "send_view_intent_for_url_tag_dispatch"
+  state: ENABLED
+  permission: READ_WRITE
+}
