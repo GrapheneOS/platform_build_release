@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "check_op_validate_package"
+  state: ENABLED
+  permission: READ_WRITE
+}
