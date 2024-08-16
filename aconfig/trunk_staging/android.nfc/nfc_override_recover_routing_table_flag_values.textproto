@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_override_recover_routing_table"
+  state: ENABLED
+  permission: READ_WRITE
+}
