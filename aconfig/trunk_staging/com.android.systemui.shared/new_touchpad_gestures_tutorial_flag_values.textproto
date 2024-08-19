@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "new_touchpad_gestures_tutorial"
+  state: ENABLED
+  permission: READ_WRITE
+}
