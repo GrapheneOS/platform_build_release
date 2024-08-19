@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_input_start_btpairing_lptt"
+  state: ENABLED
+  permission: READ_WRITE
+}
