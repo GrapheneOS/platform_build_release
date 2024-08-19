@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "stop_previous_user_apps"
+  state: ENABLED
+  permission: READ_WRITE
+}
