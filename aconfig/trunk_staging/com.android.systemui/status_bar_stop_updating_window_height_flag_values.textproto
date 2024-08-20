@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "status_bar_stop_updating_window_height"
-  state: ENABLED
-  permission: READ_WRITE
-}
