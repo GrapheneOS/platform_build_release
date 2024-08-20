@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "safety_center_enabled_no_device_config"
+  state: ENABLED
+  permission: READ_ONLY
+}
