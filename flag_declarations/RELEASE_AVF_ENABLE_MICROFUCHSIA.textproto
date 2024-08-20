@@ -1,8 +1,0 @@
-name: "RELEASE_AVF_ENABLE_MICROFUCHSIA"
-namespace: "android_UNKNOWN"
-description: "Allows microfuchsia to run on AVF."
-value: {
-  bool_value: false
-}
-workflow: LAUNCH
-containers: "system"
