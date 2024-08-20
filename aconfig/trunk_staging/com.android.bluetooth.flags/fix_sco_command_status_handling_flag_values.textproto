@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_sco_command_status_handling"
+  state: ENABLED
+  permission: READ_WRITE
+}
