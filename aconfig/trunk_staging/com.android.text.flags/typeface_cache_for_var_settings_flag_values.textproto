@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.text.flags"
-  name: "typeface_cache_for_var_settings"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_enterprise_empty_batch_result_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

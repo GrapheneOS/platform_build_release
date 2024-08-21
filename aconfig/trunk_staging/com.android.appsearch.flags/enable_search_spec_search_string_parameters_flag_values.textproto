@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_search_spec_search_string_parameters"
+  state: ENABLED
+  permission: READ_ONLY
+}

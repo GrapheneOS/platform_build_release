@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "log_broadcast_sent_event"
+  state: ENABLED
+  permission: READ_ONLY
+}

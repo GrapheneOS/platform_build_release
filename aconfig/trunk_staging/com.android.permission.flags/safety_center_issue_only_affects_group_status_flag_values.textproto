@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "safety_center_issue_only_affects_group_status"
+  state: ENABLED
+  permission: READ_ONLY
+}

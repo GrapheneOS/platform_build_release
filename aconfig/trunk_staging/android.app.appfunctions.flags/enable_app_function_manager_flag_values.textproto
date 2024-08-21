@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.appfunctions.flags"
+  name: "enable_app_function_manager"
+  state: ENABLED
+  permission: READ_ONLY
+}

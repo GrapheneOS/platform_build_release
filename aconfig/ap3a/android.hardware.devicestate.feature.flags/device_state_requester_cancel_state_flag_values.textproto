@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.devicestate.feature.flags"
+  name: "device_state_requester_cancel_state"
+  state: ENABLED
+  permission: READ_ONLY
+}
