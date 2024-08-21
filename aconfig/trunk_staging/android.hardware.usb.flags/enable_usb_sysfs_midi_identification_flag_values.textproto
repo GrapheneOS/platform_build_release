@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.hardware.usb.flags"
-  name: "enable_usb_sysfs_midi_identification"
-  state: ENABLED
-  permission: READ_WRITE
-}
