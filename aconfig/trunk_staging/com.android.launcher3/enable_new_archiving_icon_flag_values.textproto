@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.launcher3"
-  name: "enable_new_archiving_icon"
-  state: ENABLED
-  permission: READ_WRITE
-}
