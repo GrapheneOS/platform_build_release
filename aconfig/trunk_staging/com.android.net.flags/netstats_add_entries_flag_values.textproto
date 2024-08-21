@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "netstats_add_entries"
+  state: ENABLED
+  permission: READ_ONLY
+}
