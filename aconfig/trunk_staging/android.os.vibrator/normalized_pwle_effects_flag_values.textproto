@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "normalized_pwle_effects"
+  state: ENABLED
+  permission: READ_WRITE
+}
