@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-lyric_flags.auto_white_balance-all",
+  package: "lyric_flags.auto_white_balance",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

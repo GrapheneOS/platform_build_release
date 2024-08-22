@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.frontend_request"
+  name: "first_frame_async_buffer_allocation"
+  state: ENABLED
+  permission: READ_WRITE
+}

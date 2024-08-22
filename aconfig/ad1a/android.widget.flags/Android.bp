@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-android.widget.flags-all",
+  package: "android.widget.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

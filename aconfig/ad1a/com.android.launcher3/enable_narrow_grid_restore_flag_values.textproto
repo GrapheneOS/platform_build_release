@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_narrow_grid_restore"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.server.display.feature.flags-all",
+  package: "com.android.server.display.feature.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "vendor.google.aam.flags"
+  name: "enable_aam"
+  state: ENABLED
+  permission: READ_ONLY
+}

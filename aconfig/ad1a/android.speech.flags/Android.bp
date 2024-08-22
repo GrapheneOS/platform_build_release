@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-android.speech.flags-all",
+  package: "android.speech.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

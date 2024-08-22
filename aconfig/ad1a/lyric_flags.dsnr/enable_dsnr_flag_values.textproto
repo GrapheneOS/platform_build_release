@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.dsnr"
+  name: "enable_dsnr"
+  state: ENABLED
+  permission: READ_WRITE
+}
