@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_result_denied_and_result_rate_limited"
+  state: ENABLED
+  permission: READ_ONLY
+}
