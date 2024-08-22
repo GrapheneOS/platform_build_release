@@ -1,0 +1,5 @@
+load("//build/make/core/release_config.scl", "value")
+
+values = [
+    value("RELEASE_BUILD_FLAGS_IN_PROTOBUF", True),
+]
