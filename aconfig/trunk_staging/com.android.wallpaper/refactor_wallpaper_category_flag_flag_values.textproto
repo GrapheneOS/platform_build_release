@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "refactor_wallpaper_category_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}
