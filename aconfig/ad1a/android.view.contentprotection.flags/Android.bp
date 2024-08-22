@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-android.view.contentprotection.flags-all",
+  package: "android.view.contentprotection.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

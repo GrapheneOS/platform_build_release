@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.camera_provider"
+  name: "realtime_tpu_response_handling_thread"
+  state: ENABLED
+  permission: READ_WRITE
+}

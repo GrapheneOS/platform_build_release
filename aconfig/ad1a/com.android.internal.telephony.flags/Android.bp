@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.internal.telephony.flags-all",
+  package: "com.android.internal.telephony.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

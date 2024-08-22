@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "cleanup_le_only_device_type"
+  state: ENABLED
+  permission: READ_ONLY
+}

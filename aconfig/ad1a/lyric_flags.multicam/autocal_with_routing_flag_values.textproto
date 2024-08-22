@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.multicam"
+  name: "autocal_with_routing"
+  state: ENABLED
+  permission: READ_WRITE
+}

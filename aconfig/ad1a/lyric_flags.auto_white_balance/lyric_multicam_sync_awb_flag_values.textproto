@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.auto_white_balance"
+  name: "lyric_multicam_sync_awb"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.bluetooth.flags-all",
+  package: "com.android.bluetooth.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

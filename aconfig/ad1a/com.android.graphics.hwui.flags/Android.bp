@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.graphics.hwui.flags-all",
+  package: "com.android.graphics.hwui.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

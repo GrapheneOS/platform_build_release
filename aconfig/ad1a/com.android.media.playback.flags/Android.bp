@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.media.playback.flags-all",
+  package: "com.android.media.playback.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-android.credentials.flags-all",
+  package: "android.credentials.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

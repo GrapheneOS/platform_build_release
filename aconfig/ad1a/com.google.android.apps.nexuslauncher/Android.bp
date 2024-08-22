@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.google.android.apps.nexuslauncher-all",
+  package: "com.google.android.apps.nexuslauncher",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-android.os.vibrator-all",
+  package: "android.os.vibrator",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

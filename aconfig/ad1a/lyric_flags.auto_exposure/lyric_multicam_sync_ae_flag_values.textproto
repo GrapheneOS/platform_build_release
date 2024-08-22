@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.auto_exposure"
+  name: "lyric_multicam_sync_ae"
+  state: ENABLED
+  permission: READ_WRITE
+}

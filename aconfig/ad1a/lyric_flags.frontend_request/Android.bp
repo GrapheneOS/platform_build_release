@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-lyric_flags.frontend_request-all",
+  package: "lyric_flags.frontend_request",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

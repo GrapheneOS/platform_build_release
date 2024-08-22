@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.hardware.input-all",
+  package: "com.android.hardware.input",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}
