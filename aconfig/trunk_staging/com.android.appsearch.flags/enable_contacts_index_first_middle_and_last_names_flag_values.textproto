@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_contacts_index_first_middle_and_last_names"
+  state: ENABLED
+  permission: READ_ONLY
+}
