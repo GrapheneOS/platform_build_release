@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "allow_omni_splitscreen"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-lyric_flags.dsnr-all",
+  package: "lyric_flags.dsnr",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

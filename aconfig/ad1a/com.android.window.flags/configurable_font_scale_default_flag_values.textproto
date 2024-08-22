@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "configurable_font_scale_default"
+  state: ENABLED
+  permission: READ_ONLY
+}

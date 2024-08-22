@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.fe"
+  name: "realtime_fe_programming_event_thread"
+  state: ENABLED
+  permission: READ_WRITE
+}

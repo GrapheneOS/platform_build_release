@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.wm.shell-all",
+  package: "com.android.wm.shell",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

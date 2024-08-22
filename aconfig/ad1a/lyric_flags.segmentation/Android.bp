@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-lyric_flags.segmentation-all",
+  package: "lyric_flags.segmentation",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

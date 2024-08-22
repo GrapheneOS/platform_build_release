@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-ad1a-com.android.media.audio-all",
+  package: "com.android.media.audio",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

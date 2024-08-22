@@ -1,0 +1,6 @@
+flag_value {
+  package: "lyric_flags.multicam"
+  name: "multicam_activation_resolver_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}

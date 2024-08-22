@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_v_to_u_restore_for_system_components_in_allowlist"
+  state: ENABLED
+  permission: READ_ONLY
+}
