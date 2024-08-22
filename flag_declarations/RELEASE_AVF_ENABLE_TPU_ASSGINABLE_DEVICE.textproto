@@ -1,0 +1,8 @@
+name: "RELEASE_AVF_ENABLE_TPU_ASSGINABLE_DEVICE"
+namespace: "android_UNKNOWN"
+description: "Adds userspace support for assigning TPU device to pVMs"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"

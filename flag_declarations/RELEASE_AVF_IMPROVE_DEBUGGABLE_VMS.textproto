@@ -1,0 +1,8 @@
+name: "RELEASE_AVF_IMPROVE_DEBUGGABLE_VMS"
+namespace: "android_UNKNOWN"
+description: "Improvements to debuggable VMs (e.g. tracing in guest VMs, earlycon)"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "system"
