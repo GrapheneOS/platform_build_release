@@ -29,6 +29,7 @@ $(call declare-release-config, trunk_staging, $(local_dir)build_config/trunk_sta
 $(call declare-release-config, ap2a, $(local_dir)build_config/ap2a.scl)
 
 $(call declare-release-config, ad1a, $(local_dir)build_config/ad1a.scl $(local_dir)build_config/fail.scl, ad1a)
+$(call alias-release-config, cur, ad1a)
 
 # Temporary config to ease testing build flag migration to protobuf
 $(call declare-release-config, protobuf_flags, $(local_dir)build_config/protobuf_flags.scl $(local_dir)build_config/fail.scl, trunk_staging)
