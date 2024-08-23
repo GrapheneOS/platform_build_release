@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "run_clock_recovery_in_worker_thread"
+  state: ENABLED
+  permission: READ_WRITE
+}
