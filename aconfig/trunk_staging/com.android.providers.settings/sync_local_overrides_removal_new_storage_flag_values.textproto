@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "sync_local_overrides_removal_new_storage"
+  state: ENABLED
+  permission: READ_WRITE
+}
