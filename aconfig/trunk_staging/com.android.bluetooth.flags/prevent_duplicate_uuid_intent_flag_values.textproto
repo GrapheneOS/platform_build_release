@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "prevent_duplicate_uuid_intent"
+  state: ENABLED
+  permission: READ_WRITE
+}
