@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshot_ui_controller_refactor"
+  state: ENABLED
+  permission: READ_WRITE
+}
