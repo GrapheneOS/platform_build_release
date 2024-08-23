@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "run_ble_audio_ticks_in_worker_thread"
+  state: ENABLED
+  permission: READ_WRITE
+}
