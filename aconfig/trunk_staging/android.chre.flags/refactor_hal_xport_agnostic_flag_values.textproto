@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "refactor_hal_xport_agnostic"
+  state: ENABLED
+  permission: READ_WRITE
+}

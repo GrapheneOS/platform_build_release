@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.media.audioserver"
-  name: "use_bt_sco_for_media"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "export_import_fast_follow"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "clear_caches_after_switching_user"
+  state: ENABLED
+  permission: READ_ONLY
+}

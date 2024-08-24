@@ -171,6 +171,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.os-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.contextualsearch.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.input.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.net.ct.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.pm-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.libhardware.dynamic.sensors.flags-all",
