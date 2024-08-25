@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "idle_screen_config_in_subscribing_light_sensor"
+  state: ENABLED
+  permission: READ_ONLY
+}
