@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "settings_ext_register_content_observer_on_bg_thread"
+  state: ENABLED
+  permission: READ_WRITE
+}
