@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "rate_limit_get_processes_in_error_state"
+  state: ENABLED
+  permission: READ_ONLY
+}
