@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.ct.flags"
+  name: "certificate_transparency_service"
+  state: ENABLED
+  permission: READ_ONLY
+}
