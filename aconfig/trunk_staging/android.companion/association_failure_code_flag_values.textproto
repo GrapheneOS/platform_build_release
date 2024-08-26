@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion"
+  name: "association_failure_code"
+  state: ENABLED
+  permission: READ_WRITE
+}
