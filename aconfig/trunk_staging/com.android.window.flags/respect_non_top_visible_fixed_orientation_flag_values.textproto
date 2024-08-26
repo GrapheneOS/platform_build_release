@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "respect_non_top_visible_fixed_orientation"
+  state: ENABLED
+  permission: READ_WRITE
+}
