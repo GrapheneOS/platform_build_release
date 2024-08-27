@@ -1,0 +1,4 @@
+name:  "RELEASE_AVF_IMPROVE_DEBUGGABLE_VMS"
+value:  {
+  bool_value:  true
+}
