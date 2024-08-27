@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_udc_sysfs_usb_state_update"
+  state: ENABLED
+  permission: READ_WRITE
+}
