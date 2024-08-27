@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "get_dimmer_on_closing"
+  state: ENABLED
+  permission: READ_ONLY
+}

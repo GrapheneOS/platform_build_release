@@ -1,0 +1,4 @@
+name: "RELEASE_READ_FROM_NEW_STORAGE"
+value: {
+  bool_value: true
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "batching_oom_adj"
+  state: ENABLED
+  permission: READ_ONLY
+}

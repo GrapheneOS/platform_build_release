@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.settings.flags"
-  name: "enable_device_diagnostics_in_settings"
-  state: DISABLED
-  permission: READ_ONLY
-}
