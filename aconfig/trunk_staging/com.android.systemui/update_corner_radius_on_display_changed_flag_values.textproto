@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "settings_ext_register_content_observer_on_bg_thread"
+  name: "update_corner_radius_on_display_changed"
   state: ENABLED
   permission: READ_WRITE
 }
