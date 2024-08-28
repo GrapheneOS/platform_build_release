@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "native_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+}
