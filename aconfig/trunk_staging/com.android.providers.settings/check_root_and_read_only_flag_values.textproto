@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.providers.settings"
-  name: "check_root_and_read_only"
-  state: ENABLED
-  permission: READ_ONLY
-}

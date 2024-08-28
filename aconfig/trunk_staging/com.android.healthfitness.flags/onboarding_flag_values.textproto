@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "onboarding"
+  state: ENABLED
+  permission: READ_ONLY
+}
