@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "always_capture_activity_snapshot"
+  state: ENABLED
+  permission: READ_ONLY
+}
