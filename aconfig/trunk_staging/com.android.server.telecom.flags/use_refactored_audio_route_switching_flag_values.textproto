@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "use_refactored_audio_route_switching"
+  state: ENABLED
+  permission: READ_WRITE
+}
