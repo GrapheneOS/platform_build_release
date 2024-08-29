@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.thread.flags"
+  name: "channel_max_powers_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}
