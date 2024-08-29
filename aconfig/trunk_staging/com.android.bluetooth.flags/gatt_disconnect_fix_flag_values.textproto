@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_disconnect_fix"
+  state: ENABLED
+  permission: READ_WRITE
+}
