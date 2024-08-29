@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "keyboard_touchpad_contextual_education"
+  state: ENABLED
+  permission: READ_WRITE
+}

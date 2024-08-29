@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "hfp_allow_volume_change_without_sco"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_magnification_keyboard_control"
+  state: ENABLED
+  permission: READ_WRITE
+}
