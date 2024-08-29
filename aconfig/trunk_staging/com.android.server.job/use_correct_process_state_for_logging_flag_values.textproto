@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "use_correct_process_state_for_logging"
+  state: ENABLED
+  permission: READ_WRITE
+}
