@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "unselect_final_item"
+  state: ENABLED
+  permission: READ_WRITE
+}
