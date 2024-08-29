@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_taskbar_on_phones"
+  state: ENABLED
+  permission: READ_WRITE
+}
