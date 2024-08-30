@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.input.flags"
-  name: "hide_pointer_indicators_for_secure_windows"
-  state: ENABLED
-  permission: READ_WRITE
-}
