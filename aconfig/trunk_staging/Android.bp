@@ -65,6 +65,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-com.android.hardware.input-all",
         "aconfig-values-platform_build_release-trunk_staging-android.media.midi-all",
         "aconfig-values-platform_build_release-trunk_staging-android.service.appprediction.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.graphics.libvulkan.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.car.settings-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.hardware.camera2-all",
         "aconfig-values-platform_build_release-trunk_staging-android.appwidget.flags-all",
