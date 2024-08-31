@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "disconnect_self_managed_stuck_startup_calls"
+  state: ENABLED
+  permission: READ_WRITE
+}
