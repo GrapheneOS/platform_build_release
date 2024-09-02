@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "modifier_shortcut_manager_refactor"
+  state: ENABLED
+  permission: READ_WRITE
+}
