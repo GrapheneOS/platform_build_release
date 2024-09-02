@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "audio_sample_columns"
+  state: ENABLED
+  permission: READ_ONLY
+}
