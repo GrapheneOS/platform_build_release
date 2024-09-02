@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "inferred_media_date"
+  state: ENABLED
+  permission: READ_ONLY
+}
