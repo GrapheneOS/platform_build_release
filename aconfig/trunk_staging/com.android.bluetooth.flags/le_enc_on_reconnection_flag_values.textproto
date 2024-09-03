@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "le_enc_on_reconnection"
+  state: ENABLED
+  permission: READ_WRITE
+}
