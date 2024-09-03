@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_ORIOLE_DIR"
 value: {
-  string_value: "device/google/raviole-kernels/6.1/trunk-12304491"
+  string_value: "device/google/raviole-kernels/6.1/trunk-12308287"
 }
