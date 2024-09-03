@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_background_icons"
+  state: ENABLED
+  permission: READ_WRITE
+}
