@@ -1,0 +1,8 @@
+name: "RELEASE_ETM_IN_USERDEBUG_ENG"
+namespace: "android_platform_llvm_and_toolchains"
+description: "Add ETM modules in userdebug/eng build"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "vendor"
