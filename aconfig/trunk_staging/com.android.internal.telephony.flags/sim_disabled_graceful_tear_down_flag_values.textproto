@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "sim_disabled_graceful_tear_down"
+  state: ENABLED
+  permission: READ_WRITE
+}
