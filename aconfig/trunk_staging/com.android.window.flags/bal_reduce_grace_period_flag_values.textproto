@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_reduce_grace_period"
+  state: ENABLED
+  permission: READ_WRITE
+}

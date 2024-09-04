@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "shareousel_scroll_offscreen_selections"
+  state: ENABLED
+  permission: READ_WRITE
+}
