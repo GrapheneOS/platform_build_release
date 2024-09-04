@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_send_intent_with_options"
+  state: ENABLED
+  permission: READ_WRITE
+}
