@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "deprecate_provider_request_apis"
+  state: ENABLED
+  permission: READ_WRITE
+}
