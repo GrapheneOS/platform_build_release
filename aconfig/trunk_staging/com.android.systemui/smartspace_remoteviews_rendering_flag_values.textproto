@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "smartspace_remoteviews_rendering"
-  state: ENABLED
-  permission: READ_WRITE
-}
