@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_callback_on_failure"
+  state: ENABLED
+  permission: READ_WRITE
+}
