@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "dsa_over_bt_le_audio"
+  state: ENABLED
+  permission: READ_ONLY
+}

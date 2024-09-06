@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "use_input_method_info_safe_list"
+  state: ENABLED
+  permission: READ_ONLY
+}

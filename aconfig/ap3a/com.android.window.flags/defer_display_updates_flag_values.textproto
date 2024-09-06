@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "defer_display_updates"
+  state: ENABLED
+  permission: READ_ONLY
+}

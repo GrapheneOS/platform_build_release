@@ -1,11 +1,11 @@
-name:  "RELEASE_PLATFORM_SDK_EXTENSION_VERSION"
-namespace:  "android_UNKNOWN"
-description:  "The sdk extension version of this release configuration."
-value:  {
-  string_value:  "11"
+name: "RELEASE_PLATFORM_SDK_EXTENSION_VERSION"
+namespace: "android_UNKNOWN"
+description: "The sdk extension version of this release configuration."
+value: {
+  string_value: "12"
 }
-workflow:  MANUAL
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

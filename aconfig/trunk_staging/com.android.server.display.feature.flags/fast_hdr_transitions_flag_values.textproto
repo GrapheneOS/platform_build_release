@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "fast_hdr_transitions"
+  state: ENABLED
+  permission: READ_ONLY
+}

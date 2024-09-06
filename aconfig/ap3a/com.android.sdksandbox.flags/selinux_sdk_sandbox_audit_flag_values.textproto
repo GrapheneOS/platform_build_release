@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "selinux_sdk_sandbox_audit"
+  state: ENABLED
+  permission: READ_ONLY
+}

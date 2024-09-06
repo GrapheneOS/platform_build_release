@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "enable_pip_ui_state_callback_on_entering"
+  state: ENABLED
+  permission: READ_ONLY
+}

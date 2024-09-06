@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.res"
+  name: "register_resource_paths"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "emoji_and_screenshot_keycodes_available"
+  state: ENABLED
+  permission: READ_ONLY
+}

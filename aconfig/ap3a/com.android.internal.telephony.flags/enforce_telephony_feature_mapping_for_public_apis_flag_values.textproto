@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enforce_telephony_feature_mapping_for_public_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

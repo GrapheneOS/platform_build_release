@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "tethering_request_with_soft_ap_config"
+  state: ENABLED
+  permission: READ_ONLY
+}

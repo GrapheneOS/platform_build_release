@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "fix_line_height_for_locale"
+  state: ENABLED
+  permission: READ_ONLY
+}

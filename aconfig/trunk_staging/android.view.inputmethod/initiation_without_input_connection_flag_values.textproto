@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "initiation_without_input_connection"
+  state: ENABLED
+  permission: READ_ONLY
+}

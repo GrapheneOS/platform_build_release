@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_improved_hun_animation"
+  state: ENABLED
+  permission: READ_ONLY
+}

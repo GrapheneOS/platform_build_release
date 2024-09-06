@@ -1,0 +1,4 @@
+name: "RELEASE_PLATFORM_SDK_VERSION"
+value: {
+  string_value: "35"
+}

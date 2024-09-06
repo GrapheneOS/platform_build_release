@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "ad_id_cache_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "offload_controls_doze_auto_brightness"
+  state: ENABLED
+  permission: READ_ONLY
+}

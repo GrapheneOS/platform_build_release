@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "recoverability_detection"
+  state: ENABLED
+  permission: READ_ONLY
+}

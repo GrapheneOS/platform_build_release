@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "toolkit_frame_rate_velocity_mapping_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

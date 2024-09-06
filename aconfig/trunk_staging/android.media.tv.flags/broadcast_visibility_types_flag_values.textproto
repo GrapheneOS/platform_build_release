@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "broadcast_visibility_types"
+  state: ENABLED
+  permission: READ_WRITE
+}

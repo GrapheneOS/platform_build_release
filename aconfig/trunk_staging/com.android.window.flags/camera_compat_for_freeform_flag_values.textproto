@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "camera_compat_for_freeform"
+  state: ENABLED
+  permission: READ_ONLY
+}

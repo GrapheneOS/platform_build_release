@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_get_transferable_routes"
+  state: ENABLED
+  permission: READ_ONLY
+}

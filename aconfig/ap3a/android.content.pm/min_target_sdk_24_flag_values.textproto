@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "min_target_sdk_24"
+  state: ENABLED
+  permission: READ_ONLY
+}

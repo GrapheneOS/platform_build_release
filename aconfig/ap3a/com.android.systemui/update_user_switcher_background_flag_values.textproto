@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "update_user_switcher_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

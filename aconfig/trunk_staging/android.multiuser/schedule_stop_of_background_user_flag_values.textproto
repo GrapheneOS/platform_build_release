@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "schedule_stop_of_background_user"
+  state: ENABLED
+  permission: READ_WRITE
+}

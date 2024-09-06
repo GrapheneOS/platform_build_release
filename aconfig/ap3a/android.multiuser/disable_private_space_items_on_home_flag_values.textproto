@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "disable_private_space_items_on_home"
+  state: ENABLED
+  permission: READ_ONLY
+}

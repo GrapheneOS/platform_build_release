@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "use_ro_board_api_level_for_vndk_version"
+  state: ENABLED
+  permission: READ_ONLY
+}

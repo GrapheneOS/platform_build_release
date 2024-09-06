@@ -1,11 +1,11 @@
-name:  "RELEASE_WRITE_APPCOMPAT_OVERRIDE_SYSTEM_PROPERTIES"
-namespace:  "android_UNKNOWN"
-description:  "flag to enable the writing of appcompat override system properties. Not expected to go beyond trunk"
-value:  {
-  bool_value:  false
+name: "RELEASE_WRITE_APPCOMPAT_OVERRIDE_SYSTEM_PROPERTIES"
+namespace: "android_UNKNOWN"
+description: "flag to enable the writing of appcompat override system properties. Not expected to go beyond trunk"
+value: {
+  bool_value: false
 }
-workflow:  LAUNCH
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

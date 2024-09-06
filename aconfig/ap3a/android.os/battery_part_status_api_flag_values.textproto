@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "battery_part_status_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

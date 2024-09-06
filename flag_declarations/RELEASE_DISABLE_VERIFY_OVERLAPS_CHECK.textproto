@@ -1,0 +1,11 @@
+name: "RELEASE_DISABLE_VERIFY_OVERLAPS_CHECK"
+namespace: "android_UNKNOWN"
+description: "Disable verify_overlaps check for mainline prebuilts. Only used in non-AOSP builds."
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

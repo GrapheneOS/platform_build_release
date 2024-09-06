@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "introduce_media_processing_type"
+  state: ENABLED
+  permission: READ_ONLY
+}

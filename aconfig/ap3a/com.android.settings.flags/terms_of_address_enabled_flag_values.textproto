@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "terms_of_address_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

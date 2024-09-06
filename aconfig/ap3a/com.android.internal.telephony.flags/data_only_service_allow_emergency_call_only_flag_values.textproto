@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "data_only_service_allow_emergency_call_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

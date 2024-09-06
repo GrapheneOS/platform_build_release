@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "asymmetric_phy_for_unidirectional_cis"
+  state: ENABLED
+  permission: READ_ONLY
+}

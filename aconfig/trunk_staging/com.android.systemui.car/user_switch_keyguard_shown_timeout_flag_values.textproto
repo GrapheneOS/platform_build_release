@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.car"
+  name: "user_switch_keyguard_shown_timeout"
+  state: ENABLED
+  permission: READ_WRITE
+}

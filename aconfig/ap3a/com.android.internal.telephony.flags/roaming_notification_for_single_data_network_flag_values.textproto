@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "roaming_notification_for_single_data_network"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "dynamic_color_aspects"
+  state: ENABLED
+  permission: READ_ONLY
+}

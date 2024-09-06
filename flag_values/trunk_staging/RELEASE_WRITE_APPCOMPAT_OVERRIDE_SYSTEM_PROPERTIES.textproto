@@ -1,4 +1,4 @@
-name:  "RELEASE_WRITE_APPCOMPAT_OVERRIDE_SYSTEM_PROPERTIES"
-value:  {
-  bool_value:  true
+name: "RELEASE_WRITE_APPCOMPAT_OVERRIDE_SYSTEM_PROPERTIES"
+value: {
+  bool_value: true
 }

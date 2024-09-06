@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.webkit"
+  name: "update_service_v2"
+  state: ENABLED
+  permission: READ_ONLY
+}

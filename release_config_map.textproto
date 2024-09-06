@@ -1,9 +1,8 @@
 aliases: {
   name: "aosp_current"
-  target: "ap2a"
+  target: "ap3a"
 }
-description:  "Public open-source flag declarations and values"
-default_containers:  "product"
-default_containers:  "system"
-default_containers:  "system_ext"
-default_containers:  "vendor"
+default_containers: "product"
+default_containers: "system"
+default_containers: "system_ext"
+default_containers: "vendor"

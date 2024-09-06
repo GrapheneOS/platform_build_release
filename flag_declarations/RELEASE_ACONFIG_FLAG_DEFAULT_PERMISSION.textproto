@@ -1,11 +1,11 @@
-name:  "RELEASE_ACONFIG_FLAG_DEFAULT_PERMISSION"
-namespace:  "android_UNKNOWN"
-description:  "The default permission for all flags"
-value:  {
-  string_value:  "READ_WRITE"
+name: "RELEASE_ACONFIG_FLAG_DEFAULT_PERMISSION"
+namespace: "android_UNKNOWN"
+description: "The default permission for all flags"
+value: {
+  string_value: "READ_WRITE"
 }
-workflow:  MANUAL
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

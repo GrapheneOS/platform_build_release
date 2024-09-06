@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "last_authentication_time"
+  state: ENABLED
+  permission: READ_ONLY
+}

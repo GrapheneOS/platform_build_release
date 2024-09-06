@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "headless_single_user_fixes"
+  state: ENABLED
+  permission: READ_ONLY
+}

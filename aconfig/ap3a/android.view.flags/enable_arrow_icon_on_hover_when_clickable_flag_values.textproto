@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_arrow_icon_on_hover_when_clickable"
+  state: ENABLED
+  permission: READ_ONLY
+}

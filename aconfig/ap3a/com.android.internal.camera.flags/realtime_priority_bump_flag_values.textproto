@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "realtime_priority_bump"
+  state: ENABLED
+  permission: READ_ONLY
+}

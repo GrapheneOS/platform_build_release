@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.pm.pkg.component.flags"
+  name: "enable_per_process_use_embedded_dex_attr"
+  state: ENABLED
+  permission: READ_ONLY
+}

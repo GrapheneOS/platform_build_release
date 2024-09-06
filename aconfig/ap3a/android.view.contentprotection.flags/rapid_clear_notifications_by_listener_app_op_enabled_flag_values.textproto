@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.contentprotection.flags"
+  name: "rapid_clear_notifications_by_listener_app_op_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

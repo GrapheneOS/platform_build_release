@@ -1,11 +1,11 @@
-name:  "RELEASE_PLATFORM_VNDK_VERSION"
-namespace:  "android_UNKNOWN"
-description:  "The PLATFORM_VNDK_VERSION will be set to this version when the PLATFORM_VERSION_CODENAME is REL. This VNDK version flag will be removed when the VNDK is deprecated"
-value:  {
-  string_value:  "35"
+name: "RELEASE_PLATFORM_VNDK_VERSION"
+namespace: "android_UNKNOWN"
+description: "The PLATFORM_VNDK_VERSION will be set to this version when the PLATFORM_VERSION_CODENAME is REL. This VNDK version flag will be removed when the VNDK is deprecated"
+value: {
+  string_value: "35"
 }
-workflow:  MANUAL
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

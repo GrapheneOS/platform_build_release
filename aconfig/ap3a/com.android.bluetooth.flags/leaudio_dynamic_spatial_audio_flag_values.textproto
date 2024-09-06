@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_dynamic_spatial_audio"
+  state: ENABLED
+  permission: READ_ONLY
+}

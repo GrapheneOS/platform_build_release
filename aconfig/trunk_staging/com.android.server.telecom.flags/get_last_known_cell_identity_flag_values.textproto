@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "get_last_known_cell_identity"
+  state: ENABLED
+  permission: READ_WRITE
+}

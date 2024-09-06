@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "restrict_nonpreloads_system_shareduids"
+  state: ENABLED
+  permission: READ_ONLY
+}

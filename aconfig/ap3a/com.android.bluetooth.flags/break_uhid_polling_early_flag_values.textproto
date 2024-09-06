@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "break_uhid_polling_early"
+  state: ENABLED
+  permission: READ_ONLY
+}

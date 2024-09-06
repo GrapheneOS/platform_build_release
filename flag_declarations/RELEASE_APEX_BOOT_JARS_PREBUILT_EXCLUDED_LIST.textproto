@@ -1,11 +1,11 @@
-name:  "RELEASE_APEX_BOOT_JARS_PREBUILT_EXCLUDED_LIST"
-namespace:  "android_UNKNOWN"
-description:  "jars need to be excluded from Apex Boot Jars for targets with mainline prebuilts enabled."
-value:  {
-  string_value:  ""
+name: "RELEASE_APEX_BOOT_JARS_PREBUILT_EXCLUDED_LIST"
+namespace: "android_UNKNOWN"
+description: "jars need to be excluded from Apex Boot Jars for targets with mainline prebuilts enabled."
+value: {
+  string_value: ""
 }
-workflow:  PREBUILT
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

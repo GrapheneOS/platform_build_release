@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "shared_connectivity_broadcast_receiver_test_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

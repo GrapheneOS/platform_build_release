@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "animate_hdr_transitions"
+  state: ENABLED
+  permission: READ_ONLY
+}

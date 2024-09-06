@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "register_wallpaper_notifier_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

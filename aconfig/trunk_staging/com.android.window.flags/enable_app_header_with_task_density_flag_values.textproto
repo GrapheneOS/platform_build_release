@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_app_header_with_task_density"
+  state: ENABLED
+  permission: READ_WRITE
+}

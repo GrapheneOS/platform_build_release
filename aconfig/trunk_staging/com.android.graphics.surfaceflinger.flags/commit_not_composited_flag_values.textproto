@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "commit_not_composited"
+  state: ENABLED
+  permission: READ_ONLY
+}

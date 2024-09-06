@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enforce_edge_to_edge"
+  state: ENABLED
+  permission: READ_ONLY
+}

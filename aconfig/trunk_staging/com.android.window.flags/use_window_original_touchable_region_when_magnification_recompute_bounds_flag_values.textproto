@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "use_window_original_touchable_region_when_magnification_recompute_bounds"
+  state: ENABLED
+  permission: READ_WRITE
+}

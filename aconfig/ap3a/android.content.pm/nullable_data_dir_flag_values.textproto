@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "nullable_data_dir"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_restrict_item_drag"
+  state: ENABLED
+  permission: READ_ONLY
+}

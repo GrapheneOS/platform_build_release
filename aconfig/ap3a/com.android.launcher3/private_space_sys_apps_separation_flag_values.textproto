@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_sys_apps_separation"
+  state: ENABLED
+  permission: READ_ONLY
+}

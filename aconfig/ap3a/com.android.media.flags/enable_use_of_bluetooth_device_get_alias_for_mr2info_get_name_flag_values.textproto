@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_use_of_bluetooth_device_get_alias_for_mr2info_get_name"
+  state: ENABLED
+  permission: READ_ONLY
+}

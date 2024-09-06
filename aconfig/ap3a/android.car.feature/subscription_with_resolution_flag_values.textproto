@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "subscription_with_resolution"
+  state: ENABLED
+  permission: READ_ONLY
+}

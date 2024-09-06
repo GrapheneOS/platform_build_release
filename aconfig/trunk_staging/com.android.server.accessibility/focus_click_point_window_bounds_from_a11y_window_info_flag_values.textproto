@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "focus_click_point_window_bounds_from_a11y_window_info"
+  state: ENABLED
+  permission: READ_WRITE
+}

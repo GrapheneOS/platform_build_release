@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sandbox_activity_sdk_based_context"
+  state: ENABLED
+  permission: READ_ONLY
+}

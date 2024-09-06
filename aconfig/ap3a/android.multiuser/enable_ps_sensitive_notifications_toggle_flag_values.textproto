@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_ps_sensitive_notifications_toggle"
+  state: ENABLED
+  permission: READ_ONLY
+}

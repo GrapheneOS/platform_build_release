@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "explicit_refresh_rate_hints"
+  state: ENABLED
+  permission: READ_ONLY
+}

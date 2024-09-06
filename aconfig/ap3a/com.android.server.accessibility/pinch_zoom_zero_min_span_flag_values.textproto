@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "pinch_zoom_zero_min_span"
+  state: ENABLED
+  permission: READ_ONLY
+}

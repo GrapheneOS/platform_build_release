@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "dumpsys_policy_engine_migration_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

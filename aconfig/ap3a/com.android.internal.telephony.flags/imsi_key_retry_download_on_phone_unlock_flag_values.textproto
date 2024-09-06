@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "imsi_key_retry_download_on_phone_unlock"
+  state: ENABLED
+  permission: READ_ONLY
+}

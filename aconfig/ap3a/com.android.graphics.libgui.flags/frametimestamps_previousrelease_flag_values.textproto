@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "frametimestamps_previousrelease"
+  state: ENABLED
+  permission: READ_ONLY
+}

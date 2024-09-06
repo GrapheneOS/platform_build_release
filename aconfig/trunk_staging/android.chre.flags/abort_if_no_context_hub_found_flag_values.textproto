@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "abort_if_no_context_hub_found"
+  state: ENABLED
+  permission: READ_WRITE
+}

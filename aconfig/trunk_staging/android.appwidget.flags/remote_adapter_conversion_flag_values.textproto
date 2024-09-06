@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "remote_adapter_conversion"
+  state: ENABLED
+  permission: READ_WRITE
+}

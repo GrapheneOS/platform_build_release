@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "improve_install_dont_kill"
+  state: ENABLED
+  permission: READ_ONLY
+}

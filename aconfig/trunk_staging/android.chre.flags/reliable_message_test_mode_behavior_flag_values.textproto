@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "reliable_message_test_mode_behavior"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "local_tonemap_screenshots"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.libhardware.dynamic.sensors.flags"
+  name: "dynamic_sensors_hal_disconnect_dynamic_sensor"
+  state: ENABLED
+  permission: READ_ONLY
+}

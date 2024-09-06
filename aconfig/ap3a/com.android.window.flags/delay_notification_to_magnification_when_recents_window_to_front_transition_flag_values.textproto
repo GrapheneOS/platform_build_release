@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "delay_notification_to_magnification_when_recents_window_to_front_transition"
+  state: ENABLED
+  permission: READ_ONLY
+}

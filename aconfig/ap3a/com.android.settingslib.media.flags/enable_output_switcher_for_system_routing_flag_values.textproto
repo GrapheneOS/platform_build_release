@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "enable_output_switcher_for_system_routing"
+  state: ENABLED
+  permission: READ_ONLY
+}

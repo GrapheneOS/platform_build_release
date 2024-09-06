@@ -1,8 +1,8 @@
-name:  "RELEASE_PACKAGE_VIRTUAL_CAMERA"
-namespace:  "android_UNKNOWN"
-description:  "The name of the virtual camera package to add to the system partition."
-value:  {
-  string_value:  ""
+name: "RELEASE_PACKAGE_VIRTUAL_CAMERA"
+namespace: "android_UNKNOWN"
+description: "The name of the virtual camera package to add to the system partition."
+value: {
+  string_value: ""
 }
-workflow:  PREBUILT
-containers:  "system"
+workflow: PREBUILT
+containers: "system"

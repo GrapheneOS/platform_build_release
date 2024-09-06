@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.usb.flags"
+  name: "enable_bind_to_mtp_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

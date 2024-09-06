@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.frameworks.sensorservice.flags"
+  name: "dynamic_sensor_hal_reconnect_handling"
+  state: ENABLED
+  permission: READ_ONLY
+}

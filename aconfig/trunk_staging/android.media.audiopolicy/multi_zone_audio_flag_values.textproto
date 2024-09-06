@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audiopolicy"
+  name: "multi_zone_audio"
+  state: ENABLED
+  permission: READ_WRITE
+}
