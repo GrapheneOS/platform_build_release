@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.os"
+  name: "enable_custom_selinux_flags"
+  state: ENABLED
+  permission: READ_ONLY
+}
