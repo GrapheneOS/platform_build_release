@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "display_power_manager_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}
