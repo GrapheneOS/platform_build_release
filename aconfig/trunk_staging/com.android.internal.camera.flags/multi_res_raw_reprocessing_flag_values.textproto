@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "multi_res_raw_reprocessing"
+  state: ENABLED
+  permission: READ_WRITE
+}
