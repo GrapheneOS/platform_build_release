@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.power.feature.flags"
   name: "enable_early_screen_timeout_detector"
-  state: ENABLED
+  state: DISABLED
   permission: READ_ONLY
 }
