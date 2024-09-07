@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "ring_my_car"
+  state: ENABLED
+  permission: READ_WRITE
+}
