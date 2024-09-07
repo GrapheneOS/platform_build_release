@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_set_schema_visible_to_configs"
+  state: ENABLED
+  permission: READ_ONLY
+}

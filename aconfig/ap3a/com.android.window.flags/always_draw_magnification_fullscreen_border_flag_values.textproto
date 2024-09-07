@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "always_draw_magnification_fullscreen_border"
+  state: ENABLED
+  permission: READ_ONLY
+}

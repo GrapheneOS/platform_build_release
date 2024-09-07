@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "allow_querying_profile_type"
+  state: ENABLED
+  permission: READ_ONLY
+}

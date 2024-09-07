@@ -1,11 +1,11 @@
-name:  "RELEASE_PACKAGE_PROFILING_MODULE"
-namespace:  "android_UNKNOWN"
-description:  "Flag will control the release of the Profiling module apex."
-value:  {
-  bool_value:  false
+name: "RELEASE_PACKAGE_PROFILING_MODULE"
+namespace: "android_UNKNOWN"
+description: "Flag will control the release of the Profiling module apex."
+value: {
+  bool_value: false
 }
-workflow:  LAUNCH
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

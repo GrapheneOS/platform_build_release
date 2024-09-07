@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "new_fgs_restriction_logic"
+  state: ENABLED
+  permission: READ_ONLY
+}

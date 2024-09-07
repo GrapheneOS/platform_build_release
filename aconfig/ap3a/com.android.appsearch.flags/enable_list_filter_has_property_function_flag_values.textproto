@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_list_filter_has_property_function"
+  state: ENABLED
+  permission: READ_ONLY
+}

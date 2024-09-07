@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app"
-  name: "bcast_event_timestamps"
-  state: ENABLED
-  permission: READ_WRITE
-}

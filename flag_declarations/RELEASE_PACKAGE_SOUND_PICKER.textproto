@@ -1,11 +1,11 @@
-name:  "RELEASE_PACKAGE_SOUND_PICKER"
-namespace:  "android_UNKNOWN"
-description:  "This flag will control the rollout of new versions of the SoundPicker app."
-value:  {
-  string_value:  "SoundPicker"
+name: "RELEASE_PACKAGE_SOUND_PICKER"
+namespace: "android_UNKNOWN"
+description: "This flag will control the rollout of new versions of the SoundPicker app."
+value: {
+  string_value: "SoundPicker"
 }
-workflow:  PREBUILT
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: PREBUILT
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

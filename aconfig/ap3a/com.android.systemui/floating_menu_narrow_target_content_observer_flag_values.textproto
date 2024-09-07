@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "floating_menu_narrow_target_content_observer"
+  state: ENABLED
+  permission: READ_ONLY
+}

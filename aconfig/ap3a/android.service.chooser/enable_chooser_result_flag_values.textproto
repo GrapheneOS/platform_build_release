@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "enable_chooser_result"
+  state: ENABLED
+  permission: READ_ONLY
+}

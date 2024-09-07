@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_determining_spatial_audio_attributes_by_profile"
+  state: ENABLED
+  permission: READ_ONLY
+}

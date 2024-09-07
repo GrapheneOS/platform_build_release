@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_add_sampling_frequencies"
+  state: ENABLED
+  permission: READ_ONLY
+}

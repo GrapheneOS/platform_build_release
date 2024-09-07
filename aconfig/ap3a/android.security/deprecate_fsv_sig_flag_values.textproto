@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "deprecate_fsv_sig"
+  state: ENABLED
+  permission: READ_ONLY
+}

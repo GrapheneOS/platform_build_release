@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "data_call_session_stats_captures_cross_sim_calling"
+  state: ENABLED
+  permission: READ_ONLY
+}

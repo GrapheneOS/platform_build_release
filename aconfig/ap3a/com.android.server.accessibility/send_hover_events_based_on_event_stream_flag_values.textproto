@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "send_hover_events_based_on_event_stream"
+  state: ENABLED
+  permission: READ_ONLY
+}

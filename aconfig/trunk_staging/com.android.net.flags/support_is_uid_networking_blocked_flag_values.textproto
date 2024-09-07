@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "support_is_uid_networking_blocked"
+  state: ENABLED
+  permission: READ_ONLY
+}

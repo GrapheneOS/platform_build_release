@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "migrate_full_oomadj_updates"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.display.feature.flags"
-  name: "enable_user_preferred_mode_vote"
-  state: ENABLED
-  permission: READ_ONLY
-}

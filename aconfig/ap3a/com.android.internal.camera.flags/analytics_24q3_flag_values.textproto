@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "analytics_24q3"
+  state: ENABLED
+  permission: READ_ONLY
+}

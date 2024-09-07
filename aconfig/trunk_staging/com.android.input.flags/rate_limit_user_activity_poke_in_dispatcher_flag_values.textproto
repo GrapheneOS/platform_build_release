@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "rate_limit_user_activity_poke_in_dispatcher"
+  state: ENABLED
+  permission: READ_WRITE
+}

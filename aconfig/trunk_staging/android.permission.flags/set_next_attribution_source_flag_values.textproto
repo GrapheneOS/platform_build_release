@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "set_next_attribution_source"
+  state: ENABLED
+  permission: READ_WRITE
+}

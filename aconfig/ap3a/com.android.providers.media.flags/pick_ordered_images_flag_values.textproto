@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "pick_ordered_images"
+  state: ENABLED
+  permission: READ_ONLY
+}

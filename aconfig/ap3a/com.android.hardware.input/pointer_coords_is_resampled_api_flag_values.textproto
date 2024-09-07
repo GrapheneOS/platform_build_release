@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "pointer_coords_is_resampled_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

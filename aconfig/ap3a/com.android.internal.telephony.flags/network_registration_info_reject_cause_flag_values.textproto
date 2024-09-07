@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "network_registration_info_reject_cause"
+  state: ENABLED
+  permission: READ_ONLY
+}

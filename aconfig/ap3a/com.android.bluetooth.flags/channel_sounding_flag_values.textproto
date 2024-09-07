@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "channel_sounding"
+  state: ENABLED
+  permission: READ_ONLY
+}

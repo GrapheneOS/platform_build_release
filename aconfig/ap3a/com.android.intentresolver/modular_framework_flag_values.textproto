@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "modular_framework"
+  state: ENABLED
+  permission: READ_ONLY
+}

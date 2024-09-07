@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthconnect.flags"
+  name: "read_exercise_routes_all_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

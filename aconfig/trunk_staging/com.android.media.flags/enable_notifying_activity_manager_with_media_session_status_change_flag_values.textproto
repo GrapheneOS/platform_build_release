@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.media.flags"
-  name: "enable_notifying_activity_manager_with_media_session_status_change"
-  state: ENABLED
-  permission: READ_WRITE
-}

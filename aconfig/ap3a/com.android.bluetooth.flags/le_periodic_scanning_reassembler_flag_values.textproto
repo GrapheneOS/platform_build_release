@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "le_periodic_scanning_reassembler"
+  state: ENABLED
+  permission: READ_ONLY
+}

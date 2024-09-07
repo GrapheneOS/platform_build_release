@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthconnect.flags"
+  name: "skin_temperature"
+  state: ENABLED
+  permission: READ_ONLY
+}

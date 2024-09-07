@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "privacy_dot_unfold_wrong_corner_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

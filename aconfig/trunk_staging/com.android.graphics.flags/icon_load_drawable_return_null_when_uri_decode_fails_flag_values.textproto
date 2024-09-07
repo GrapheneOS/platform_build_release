@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.flags"
+  name: "icon_load_drawable_return_null_when_uri_decode_fails"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "keyinfo_unlocked_device_required"
+  state: ENABLED
+  permission: READ_WRITE
+}

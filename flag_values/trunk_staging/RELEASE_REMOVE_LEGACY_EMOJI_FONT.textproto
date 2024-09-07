@@ -1,4 +1,4 @@
-name:  "RELEASE_REMOVE_LEGACY_EMOJI_FONT"
-value:  {
-  bool_value:  true
+name: "RELEASE_REMOVE_LEGACY_EMOJI_FONT"
+value: {
+  bool_value: true
 }

@@ -1,11 +1,11 @@
-name:  "RELEASE_PACKAGE_LIBANDROID_RUNTIME_PUNCH_HOLES"
-namespace:  "android_UNKNOWN"
-description:  "b/301631861: Flag to enable punching holes in apks and shared libs"
-value:  {
-  bool_value:  false
+name: "RELEASE_PACKAGE_LIBANDROID_RUNTIME_PUNCH_HOLES"
+namespace: "android_UNKNOWN"
+description: "b/301631861: Flag to enable punching holes in apks and shared libs"
+value: {
+  bool_value: false
 }
-workflow:  LAUNCH
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

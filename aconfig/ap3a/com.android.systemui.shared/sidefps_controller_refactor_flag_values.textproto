@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "sidefps_controller_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+}

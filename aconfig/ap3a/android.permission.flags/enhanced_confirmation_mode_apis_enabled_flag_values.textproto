@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "enhanced_confirmation_mode_apis_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

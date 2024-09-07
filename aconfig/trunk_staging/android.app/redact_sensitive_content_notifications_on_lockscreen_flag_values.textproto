@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "redact_sensitive_content_notifications_on_lockscreen"
+  state: ENABLED
+  permission: READ_WRITE
+}

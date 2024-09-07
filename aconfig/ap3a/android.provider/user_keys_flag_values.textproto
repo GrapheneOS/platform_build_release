@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider"
+  name: "user_keys"
+  state: ENABLED
+  permission: READ_ONLY
+}

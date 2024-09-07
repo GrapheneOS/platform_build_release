@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "safe_mode_config"
+  state: ENABLED
+  permission: READ_ONLY
+}

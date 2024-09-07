@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "ignore_app_preferred_refresh_rate_request"
+  state: ENABLED
+  permission: READ_ONLY
+}

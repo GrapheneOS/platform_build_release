@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "show_set_screen_lock_dialog"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.aconfig_new_storage"
+  name: "enable_aconfig_storage_daemon"
+  state: ENABLED
+  permission: READ_ONLY
+}

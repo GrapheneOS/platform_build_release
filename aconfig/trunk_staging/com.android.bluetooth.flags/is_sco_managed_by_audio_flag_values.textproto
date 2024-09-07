@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "is_sco_managed_by_audio"
+  state: ENABLED
+  permission: READ_WRITE
+}

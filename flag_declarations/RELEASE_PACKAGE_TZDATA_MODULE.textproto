@@ -1,11 +1,11 @@
-name:  "RELEASE_PACKAGE_TZDATA_MODULE"
-namespace:  "android_UNKNOWN"
-description:  "tzdata to be installed to the system image."
-value:  {
-  string_value:  "com.android.tzdata"
+name: "RELEASE_PACKAGE_TZDATA_MODULE"
+namespace: "android_UNKNOWN"
+description: "tzdata to be installed to the system image."
+value: {
+  string_value: "com.android.tzdata"
 }
-workflow:  PREBUILT
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: PREBUILT
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

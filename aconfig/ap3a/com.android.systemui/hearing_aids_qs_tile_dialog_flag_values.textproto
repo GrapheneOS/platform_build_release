@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "hearing_aids_qs_tile_dialog"
+  state: ENABLED
+  permission: READ_ONLY
+}

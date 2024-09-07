@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "use_private_space_icon_in_biometric_prompt"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "enforce_intent_filter_match"
+  state: ENABLED
+  permission: READ_ONLY
+}

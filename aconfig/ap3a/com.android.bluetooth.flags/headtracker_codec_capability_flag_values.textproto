@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "headtracker_codec_capability"
+  state: ENABLED
+  permission: READ_ONLY
+}

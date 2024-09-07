@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_search_spec_set_search_source_log_tag"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "postpone_register_to_leaudio"
+  state: ENABLED
+  permission: READ_WRITE
+}

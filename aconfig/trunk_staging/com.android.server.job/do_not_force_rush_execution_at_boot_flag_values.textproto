@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.job"
-  name: "do_not_force_rush_execution_at_boot"
-  state: ENABLED
-  permission: READ_WRITE
-}

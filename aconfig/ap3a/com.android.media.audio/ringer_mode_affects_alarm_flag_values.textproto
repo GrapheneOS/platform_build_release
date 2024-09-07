@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "ringer_mode_affects_alarm"
+  state: ENABLED
+  permission: READ_ONLY
+}

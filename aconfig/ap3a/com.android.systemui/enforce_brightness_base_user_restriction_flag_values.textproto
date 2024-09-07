@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enforce_brightness_base_user_restriction"
+  state: ENABLED
+  permission: READ_ONLY
+}

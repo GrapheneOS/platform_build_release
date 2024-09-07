@@ -1,11 +1,11 @@
-name:  "RELEASE_PLATFORM_VERSION_ALL_CODENAMES"
-namespace:  "android_UNKNOWN"
-description:  "A comma separated list of all codenames that are in preview. This variable is sort of a lie for historical reasons and only includes codenames up to and including the currently active codename"
-value:  {
-  string_value:  "VanillaIceCream"
+name: "RELEASE_PLATFORM_VERSION_ALL_CODENAMES"
+namespace: "android_UNKNOWN"
+description: "A comma separated list of all codenames that are in preview. This variable is sort of a lie for historical reasons and only includes codenames up to and including the currently active codename"
+value: {
+  string_value: "VanillaIceCream"
 }
-workflow:  MANUAL
-containers:  "product"
-containers:  "system"
-containers:  "system_ext"
-containers:  "vendor"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

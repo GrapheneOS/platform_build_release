@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "tiaf_v_apis"
+  state: ENABLED
+  permission: READ_WRITE
+}

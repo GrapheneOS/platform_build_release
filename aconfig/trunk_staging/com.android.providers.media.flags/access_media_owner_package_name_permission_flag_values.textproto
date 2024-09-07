@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "access_media_owner_package_name_permission"
+  state: ENABLED
+  permission: READ_ONLY
+}

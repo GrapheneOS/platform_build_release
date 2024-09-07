@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "media_controls_lockscreen_shade_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

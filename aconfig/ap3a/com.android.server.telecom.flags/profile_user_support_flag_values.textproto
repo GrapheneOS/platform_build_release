@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "profile_user_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

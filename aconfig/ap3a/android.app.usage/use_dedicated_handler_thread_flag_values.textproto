@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.usage"
+  name: "use_dedicated_handler_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

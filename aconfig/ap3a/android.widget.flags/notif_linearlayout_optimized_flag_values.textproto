@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "notif_linearlayout_optimized"
+  state: ENABLED
+  permission: READ_ONLY
+}

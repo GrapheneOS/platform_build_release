@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "device_id_in_op_proxy_info_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

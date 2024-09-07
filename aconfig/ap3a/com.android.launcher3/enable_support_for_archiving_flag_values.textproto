@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_support_for_archiving"
+  state: ENABLED
+  permission: READ_ONLY
+}

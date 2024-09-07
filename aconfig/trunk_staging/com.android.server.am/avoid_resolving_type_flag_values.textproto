@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "avoid_resolving_type"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "is_mte_policy_enforced"
+  state: ENABLED
+  permission: READ_ONLY
+}

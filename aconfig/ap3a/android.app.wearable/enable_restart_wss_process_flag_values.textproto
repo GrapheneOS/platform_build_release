@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_restart_wss_process"
+  state: ENABLED
+  permission: READ_ONLY
+}

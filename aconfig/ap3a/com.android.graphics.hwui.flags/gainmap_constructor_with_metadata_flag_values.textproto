@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "gainmap_constructor_with_metadata"
+  state: ENABLED
+  permission: READ_ONLY
+}

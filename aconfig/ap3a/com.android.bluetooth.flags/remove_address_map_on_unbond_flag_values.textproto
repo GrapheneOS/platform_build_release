@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "remove_address_map_on_unbond"
+  state: ENABLED
+  permission: READ_ONLY
+}

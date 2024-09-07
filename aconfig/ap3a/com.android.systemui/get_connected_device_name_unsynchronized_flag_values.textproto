@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "get_connected_device_name_unsynchronized"
+  state: ENABLED
+  permission: READ_ONLY
+}

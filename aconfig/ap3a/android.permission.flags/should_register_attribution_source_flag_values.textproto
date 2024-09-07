@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "should_register_attribution_source"
+  state: ENABLED
+  permission: READ_ONLY
+}

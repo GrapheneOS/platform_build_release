@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_hotword_wearable_sensing_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

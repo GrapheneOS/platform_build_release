@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audiopolicy"
+  name: "record_audio_device_aware_permission"
+  state: ENABLED
+  permission: READ_ONLY
+}

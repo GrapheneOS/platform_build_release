@@ -1,0 +1,8 @@
+name: "RELEASE_KERNEL_HUSKY_VERSION"
+namespace: "android_UNKNOWN"
+description: ""
+value: {
+  string_value: ""
+}
+workflow: PREBUILT
+containers: "vendor"

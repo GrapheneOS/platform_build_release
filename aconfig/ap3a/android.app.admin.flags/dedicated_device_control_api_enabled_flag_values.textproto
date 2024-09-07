@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "dedicated_device_control_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

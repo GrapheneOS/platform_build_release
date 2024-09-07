@@ -1,3 +1,6 @@
 per-file RELEASE_KERNEL*.textproto=aaronding@google.com # For updating kernel flag values in trunk_staging
+per-file RELEASE_KERNEL*.textproto=achant@google.com # For updating kernel flag values in trunk_staging
 per-file RELEASE_KERNEL*.textproto=cyanhsieh@google.com # For updating kernel flag values in trunk_staging
 per-file RELEASE_KERNEL*.textproto=wangjj@google.com # For updating kernel flag values in trunk_staging
+per-file RELEASE_KERNEL*.textproto=yichunko@google.com # For updating kernel flag values in trunk_staging
+per-file RELEASE_KERNEL*.textproto=zhengpan@google.com # For updating kernel flag values in trunk_staging

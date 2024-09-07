@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "network_provider_battery_charging_status"
+  state: ENABLED
+  permission: READ_ONLY
+}

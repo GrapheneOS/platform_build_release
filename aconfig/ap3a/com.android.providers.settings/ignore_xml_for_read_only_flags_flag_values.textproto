@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "ignore_xml_for_read_only_flags"
+  state: ENABLED
+  permission: READ_ONLY
+}

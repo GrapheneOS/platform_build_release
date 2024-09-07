@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "confine_notification_touch_to_view_width"
+  state: ENABLED
+  permission: READ_WRITE
+}

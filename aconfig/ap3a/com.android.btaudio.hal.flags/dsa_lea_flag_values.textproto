@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.btaudio.hal.flags"
+  name: "dsa_lea"
+  state: ENABLED
+  permission: READ_ONLY
+}

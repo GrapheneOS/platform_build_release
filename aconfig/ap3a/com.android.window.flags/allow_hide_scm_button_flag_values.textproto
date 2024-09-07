@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "allow_hide_scm_button"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "biometric_settings_provider"
+  state: ENABLED
+  permission: READ_ONLY
+}

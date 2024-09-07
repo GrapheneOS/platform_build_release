@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "anqp_request_wait_for_response"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enable_modem_cipher_transparency_unsol_events"
+  state: ENABLED
+  permission: READ_ONLY
+}

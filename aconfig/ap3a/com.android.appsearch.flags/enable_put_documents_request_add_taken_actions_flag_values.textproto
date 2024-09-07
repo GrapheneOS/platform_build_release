@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_put_documents_request_add_taken_actions"
+  state: ENABLED
+  permission: READ_ONLY
+}

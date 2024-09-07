@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "nsd_subtypes_support_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}
