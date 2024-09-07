@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "use_app_info_not_launched"
+  state: ENABLED
+  permission: READ_ONLY
+}

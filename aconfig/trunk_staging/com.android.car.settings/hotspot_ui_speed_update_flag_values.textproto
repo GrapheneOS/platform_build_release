@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.car.settings"
+  name: "hotspot_ui_speed_update"
+  state: ENABLED
+  permission: READ_WRITE
+}
