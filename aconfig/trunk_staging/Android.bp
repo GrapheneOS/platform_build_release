@@ -207,6 +207,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.content.res-all",
         "aconfig-values-platform_build_release-trunk_staging-android.app.usage-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.nfc.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-android.sdk-all",
         "aconfig-values-platform_build_release-trunk_staging-android.provider-all",
         "aconfig-values-platform_build_release-trunk_staging-android.app-all",
         "aconfig-values-platform_build_release-trunk_staging-android.companion.virtual.flags-all",
