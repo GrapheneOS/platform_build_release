@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.job"
+  name: "cleanup_empty_jobs"
+  state: ENABLED
+  permission: READ_WRITE
+}
