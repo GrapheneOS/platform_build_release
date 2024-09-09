@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_desktop_task_alpha_animation"
+  state: ENABLED
+  permission: READ_WRITE
+}
