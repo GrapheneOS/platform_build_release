@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "ignore_three_finger_trackpad_for_nav_handle_long_press"
+  state: ENABLED
+  permission: READ_WRITE
+}
