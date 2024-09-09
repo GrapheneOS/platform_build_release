@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "skip_eglmanager_telemetry"
+  state: ENABLED
+  permission: READ_WRITE
+}
