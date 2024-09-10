@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.sdk"
+  name: "major_minor_versioning_scheme"
+  state: ENABLED
+  permission: READ_ONLY
+}
