@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "trace_battery_changed_broadcast_event"
+  state: ENABLED
+  permission: READ_ONLY
+}
