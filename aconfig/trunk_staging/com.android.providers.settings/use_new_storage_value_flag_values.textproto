@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.providers.settings"
-  name: "use_new_storage_value"
-  state: ENABLED
-  permission: READ_WRITE
-}
