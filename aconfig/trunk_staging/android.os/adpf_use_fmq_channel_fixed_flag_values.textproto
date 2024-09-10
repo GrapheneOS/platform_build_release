@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.os"
-  name: "adpf_use_fmq_channel_fixed"
-  state: ENABLED
-  permission: READ_ONLY
-}
