@@ -1,0 +1,4 @@
+name:  "RELEASE_LIBBINDER_CLIENT_CACHE"
+value:  {
+  bool_value:  true
+}
