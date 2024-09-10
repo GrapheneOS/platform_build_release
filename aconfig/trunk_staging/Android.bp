@@ -59,6 +59,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-com.android.libcore-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.media.codec.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.nfc.nci.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-android.provider.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.adservices.ondevicepersonalization.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-libgooglecamerahal.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.frameworks.sensorservice.flags-all",
