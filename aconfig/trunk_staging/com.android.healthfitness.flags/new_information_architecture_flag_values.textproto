@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "new_information_architecture"
+  state: ENABLED
+  permission: READ_ONLY
+}
