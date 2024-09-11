@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "wb_platform_api_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+}
