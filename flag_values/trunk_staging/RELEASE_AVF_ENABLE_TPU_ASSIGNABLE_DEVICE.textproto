@@ -1,0 +1,4 @@
+name:  "RELEASE_AVF_ENABLE_TPU_ASSIGNABLE_DEVICE"
+value:  {
+  bool_value:  true
+}
