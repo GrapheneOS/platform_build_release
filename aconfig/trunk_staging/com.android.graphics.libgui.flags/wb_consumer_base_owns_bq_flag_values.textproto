@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "wb_consumer_base_owns_bq"
+  state: ENABLED
+  permission: READ_ONLY
+}
