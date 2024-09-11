@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "camera_timestamp_from_surface"
+  state: ENABLED
+  permission: READ_WRITE
+}

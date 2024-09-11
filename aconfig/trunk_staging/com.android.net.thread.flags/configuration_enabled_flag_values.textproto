@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.thread.flags"
+  name: "configuration_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

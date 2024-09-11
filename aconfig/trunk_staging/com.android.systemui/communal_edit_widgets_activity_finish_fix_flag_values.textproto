@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "communal_edit_widgets_activity_finish_fix"
+  state: ENABLED
+  permission: READ_WRITE
+}
