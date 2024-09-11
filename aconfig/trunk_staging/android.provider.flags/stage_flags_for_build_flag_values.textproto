@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider.flags"
+  name: "stage_flags_for_build"
+  state: ENABLED
+  permission: READ_ONLY
+}
