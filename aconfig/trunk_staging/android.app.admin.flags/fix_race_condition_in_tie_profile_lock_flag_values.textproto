@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "fix_race_condition_in_tie_profile_lock"
+  state: ENABLED
+  permission: READ_WRITE
+}
