@@ -105,6 +105,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-com.android.graphics.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-android.widget.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.net-all",
+        "aconfig-values-platform_build_release-trunk_staging-com.android.aconfig.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.media.audioclient-all",
         "aconfig-values-platform_build_release-trunk_staging-android.net.vcn-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.settingslib.widget.flags-all",
