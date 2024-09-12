@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "highest_hdr_sdr_ratio_api"
+  state: ENABLED
+  permission: READ_ONLY
+}
