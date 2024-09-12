@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.media.codec"
-  name: "dataspace_v0_partial"
-  state: ENABLED
-  permission: READ_WRITE
-}
