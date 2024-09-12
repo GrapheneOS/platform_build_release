@@ -1,0 +1,8 @@
+name: "RELEASE_WLAN_HK3SB3_FW_DIR"
+namespace: "android_UNKNOWN"
+description: ""
+value: {
+  string_value: "."
+}
+workflow: PREBUILT
+containers: "vendor"
