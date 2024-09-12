@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "ordered_broadcast_multiple_permissions"
+  state: ENABLED
+  permission: READ_WRITE
+}
