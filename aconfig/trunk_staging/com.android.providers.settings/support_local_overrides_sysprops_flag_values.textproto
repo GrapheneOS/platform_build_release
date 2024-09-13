@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "support_local_overrides_sysprops"
+  state: ENABLED
+  permission: READ_WRITE
+}
