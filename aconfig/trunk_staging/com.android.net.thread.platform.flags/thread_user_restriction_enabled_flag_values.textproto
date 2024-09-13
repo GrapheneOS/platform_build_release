@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.thread.platform.flags"
+  name: "thread_user_restriction_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}
