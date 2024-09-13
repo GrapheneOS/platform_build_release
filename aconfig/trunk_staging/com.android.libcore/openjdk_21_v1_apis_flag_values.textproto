@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "openjdk_21_v1_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}
