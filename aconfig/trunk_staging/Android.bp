@@ -89,6 +89,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.adaptiveauth-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.car.dockutil-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.media.editing.flags-all",
+        "aconfig-values-platform_build_release-trunk_staging-android.app.jank-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.settings.keyboard-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.companion.virtual-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.settings.flags-all",
