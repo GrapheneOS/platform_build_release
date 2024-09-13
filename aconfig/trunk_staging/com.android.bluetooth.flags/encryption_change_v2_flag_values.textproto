@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "encryption_change_v2"
+  state: ENABLED
+  permission: READ_WRITE
+}
