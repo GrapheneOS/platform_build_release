@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "enable_ringtone_haptics_customization"
+  state: ENABLED
+  permission: READ_WRITE
+}
