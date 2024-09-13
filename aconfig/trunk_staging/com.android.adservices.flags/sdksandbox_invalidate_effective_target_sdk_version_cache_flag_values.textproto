@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "sdksandbox_invalidate_effective_target_sdk_version_cache"
+  state: ENABLED
+  permission: READ_ONLY
+}
