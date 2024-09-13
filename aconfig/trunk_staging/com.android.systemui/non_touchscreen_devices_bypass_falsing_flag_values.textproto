@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "non_touchscreen_devices_bypass_falsing"
+  state: ENABLED
+  permission: READ_WRITE
+}
