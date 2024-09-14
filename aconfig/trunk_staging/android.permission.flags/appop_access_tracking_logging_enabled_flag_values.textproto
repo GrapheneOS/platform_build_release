@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "appop_access_tracking_logging_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}
