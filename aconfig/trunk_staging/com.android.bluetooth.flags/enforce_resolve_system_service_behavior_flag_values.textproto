@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "enforce_resolve_system_service_behavior"
+  state: ENABLED
+  permission: READ_WRITE
+}
