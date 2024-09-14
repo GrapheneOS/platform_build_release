@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.accessibility"
-  name: "enable_a11y_checker_logging"
-  state: ENABLED
-  permission: READ_WRITE
-}
