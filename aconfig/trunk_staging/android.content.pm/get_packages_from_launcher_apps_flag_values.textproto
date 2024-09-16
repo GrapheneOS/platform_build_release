@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "get_packages_from_launcher_apps"
+  state: ENABLED
+  permission: READ_ONLY
+}

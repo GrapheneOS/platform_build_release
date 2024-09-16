@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "sim_pin_bouncer_reset"
+  state: ENABLED
+  permission: READ_WRITE
+}
