@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_watchdog"
+  state: ENABLED
+  permission: READ_WRITE
+}
