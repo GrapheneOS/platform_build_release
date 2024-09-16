@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libvulkan.flags"
+  name: "swapchain_mutable_format_ext"
+  state: ENABLED
+  permission: READ_ONLY
+}
