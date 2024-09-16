@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "optimization_apdu_sender"
+  state: ENABLED
+  permission: READ_WRITE
+}
