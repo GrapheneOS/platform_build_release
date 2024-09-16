@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.locksettings"
+  name: "wait_for_internet_ror"
+  state: ENABLED
+  permission: READ_WRITE
+}
