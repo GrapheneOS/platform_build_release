@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "battery_stats_screen_state_event"
+  state: ENABLED
+  permission: READ_ONLY
+}
