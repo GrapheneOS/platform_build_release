@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_battery_stats_for_all_displays"
+  state: ENABLED
+  permission: READ_ONLY
+}
