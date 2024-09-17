@@ -1,0 +1,11 @@
+name: "RELEASE_BUILD_OBJECT_SIZE_SANITIZER"
+namespace: "android_platform_llvm_and_toolchains"
+description: "Enable object-size sanitizer"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"
