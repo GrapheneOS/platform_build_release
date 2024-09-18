@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_handle_input_fix"
+  state: ENABLED
+  permission: READ_WRITE
+}

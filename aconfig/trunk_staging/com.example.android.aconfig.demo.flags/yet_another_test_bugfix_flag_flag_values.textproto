@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.example.android.aconfig.demo.flags"
-  name: "yet_another_test_bugfix_flag"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_additional_windows_above_status_bar"
+  name: "skip_compat_ui_education_in_desktop_mode"
   state: ENABLED
   permission: READ_WRITE
 }

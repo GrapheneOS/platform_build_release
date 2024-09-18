@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.graphics.hwui.flags"
-  name: "initialize_gl_always"
-  state: ENABLED
-  permission: READ_WRITE
-}
