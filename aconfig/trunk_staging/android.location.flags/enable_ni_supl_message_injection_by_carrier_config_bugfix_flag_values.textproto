@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "enable_ni_supl_message_injection_by_carrier_config_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+}
