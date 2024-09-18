@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "add_missing_access_logs"
+  state: ENABLED
+  permission: READ_ONLY
+}
