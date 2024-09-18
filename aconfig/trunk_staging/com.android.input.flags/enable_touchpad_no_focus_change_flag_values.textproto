@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_touchpad_no_focus_change"
+  state: ENABLED
+  permission: READ_WRITE
+}
