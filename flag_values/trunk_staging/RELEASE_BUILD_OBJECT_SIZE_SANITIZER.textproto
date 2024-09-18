@@ -1,0 +1,4 @@
+name: "RELEASE_BUILD_OBJECT_SIZE_SANITIZER"
+value: {
+  bool_value: true
+}
