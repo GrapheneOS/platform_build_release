@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider"
+  name: "reduce_binder_transaction_size_for_get_all_properties"
+  state: ENABLED
+  permission: READ_ONLY
+}
