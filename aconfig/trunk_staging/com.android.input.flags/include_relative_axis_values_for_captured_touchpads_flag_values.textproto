@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "include_relative_axis_values_for_captured_touchpads"
+  state: ENABLED
+  permission: READ_WRITE
+}
