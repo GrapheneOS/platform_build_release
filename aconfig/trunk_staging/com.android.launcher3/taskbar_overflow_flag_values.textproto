@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "taskbar_overflow"
+  state: ENABLED
+  permission: READ_WRITE
+}
