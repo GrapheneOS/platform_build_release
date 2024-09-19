@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "filter_frames_before_trace_starts"
+  state: ENABLED
+  permission: READ_ONLY
+}
