@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "power_stats"
+  state: ENABLED
+  permission: READ_WRITE
+}

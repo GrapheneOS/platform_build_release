@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "notification_vibration_in_sound_uri"
+  state: ENABLED
+  permission: READ_WRITE
+}
