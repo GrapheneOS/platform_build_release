@@ -1,0 +1,8 @@
+name: "RELEASE_WLAN_CM4KM4TK4_FW_DIR"
+namespace: "android_UNKNOWN"
+description: ""
+value: {
+  string_value: "."
+}
+workflow: PREBUILT
+containers: "vendor"
