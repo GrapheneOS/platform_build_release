@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "touchpad_visualizer"
+  state: ENABLED
+  permission: READ_WRITE
+}
