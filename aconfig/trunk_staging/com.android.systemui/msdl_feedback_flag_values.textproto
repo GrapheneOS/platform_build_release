@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "msdl_feedback"
+  state: ENABLED
+  permission: READ_WRITE
+}
