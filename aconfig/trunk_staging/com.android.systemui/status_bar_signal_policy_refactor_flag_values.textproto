@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_signal_policy_refactor"
+  state: ENABLED
+  permission: READ_WRITE
+}
