@@ -1,0 +1,5 @@
+name: "RELEASE_APPFUNCTION_SIDECAR"
+namespace: "machine_learning"
+description: "Release flag for appfunction sidecar jar"
+workflow: LAUNCH
+containers: "system_ext"
