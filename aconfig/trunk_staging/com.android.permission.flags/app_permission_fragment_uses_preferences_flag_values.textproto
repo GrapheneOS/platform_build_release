@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "app_permission_fragment_uses_preferences"
+  state: ENABLED
+  permission: READ_ONLY
+}
