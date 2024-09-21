@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.provider"
+  name: "a11y_standalone_gesture_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}
