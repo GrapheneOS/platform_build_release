@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "mainline_vcn_platform_api"
+  state: ENABLED
+  permission: READ_WRITE
+}

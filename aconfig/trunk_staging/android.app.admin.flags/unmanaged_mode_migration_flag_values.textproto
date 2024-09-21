@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "unmanaged_mode_migration"
+  state: ENABLED
+  permission: READ_WRITE
+}

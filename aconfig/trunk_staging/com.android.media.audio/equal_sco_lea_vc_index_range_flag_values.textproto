@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "equal_sco_lea_vc_index_range"
+  state: ENABLED
+  permission: READ_WRITE
+}

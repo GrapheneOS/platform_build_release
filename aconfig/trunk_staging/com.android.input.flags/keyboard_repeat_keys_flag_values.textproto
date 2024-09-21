@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "keyboard_repeat_keys"
+  state: ENABLED
+  permission: READ_WRITE
+}
