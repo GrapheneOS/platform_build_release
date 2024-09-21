@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "remove_one_time_get_name_and_address"
+  state: ENABLED
+  permission: READ_WRITE
+}
