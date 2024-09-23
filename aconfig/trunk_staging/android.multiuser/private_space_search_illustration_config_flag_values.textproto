@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "private_space_search_illustration_config"
+  state: ENABLED
+  permission: READ_WRITE
+}
