@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "show_different_creation_error_for_unsupported_devices"
+  state: ENABLED
+  permission: READ_WRITE
+}
