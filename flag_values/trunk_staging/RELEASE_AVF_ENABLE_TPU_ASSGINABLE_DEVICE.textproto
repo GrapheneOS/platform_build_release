@@ -1,4 +1,0 @@
-name:  "RELEASE_AVF_ENABLE_TPU_ASSGINABLE_DEVICE"
-value:  {
-  bool_value:  true
-}
