@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "serialize_hogp_and_dis"
+  state: ENABLED
+  permission: READ_WRITE
+}
