@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "non_wake_alarm_for_rpa_rotation"
+  state: ENABLED
+  permission: READ_WRITE
+}
