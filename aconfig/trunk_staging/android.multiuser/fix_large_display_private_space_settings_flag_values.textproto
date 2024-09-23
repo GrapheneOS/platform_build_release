@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_large_display_private_space_settings"
+  state: ENABLED
+  permission: READ_WRITE
+}
