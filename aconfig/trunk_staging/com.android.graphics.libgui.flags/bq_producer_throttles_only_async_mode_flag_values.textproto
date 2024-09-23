@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "bq_producer_throttles_only_async_mode"
+  state: ENABLED
+  permission: READ_ONLY
+}
