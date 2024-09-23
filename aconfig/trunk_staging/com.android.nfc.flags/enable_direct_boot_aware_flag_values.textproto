@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "enable_direct_boot_aware"
+  state: ENABLED
+  permission: READ_WRITE
+}

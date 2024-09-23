@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "save_peer_csrk_after_ltk_gen"
+  state: ENABLED
+  permission: READ_WRITE
+}

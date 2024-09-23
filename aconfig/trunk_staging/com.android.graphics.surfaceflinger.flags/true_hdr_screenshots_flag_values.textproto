@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "true_hdr_screenshots"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "correct_dpi_with_display_size"
+  state: ENABLED
+  permission: READ_ONLY
+}

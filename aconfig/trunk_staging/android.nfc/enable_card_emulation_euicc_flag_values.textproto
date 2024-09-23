@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "enable_card_emulation_euicc"
+  state: ENABLED
+  permission: READ_WRITE
+}

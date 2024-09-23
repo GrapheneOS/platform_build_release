@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "donot_push_error_code_to_app_when_connected"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.healthfitness.flags"
-  name: "add_missing_access_logs"
+  name: "personal_health_record_database"
   state: ENABLED
   permission: READ_ONLY
 }
