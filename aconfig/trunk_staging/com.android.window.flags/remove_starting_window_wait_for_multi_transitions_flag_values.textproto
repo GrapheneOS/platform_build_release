@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "remove_starting_window_wait_for_multi_transitions"
+  state: ENABLED
+  permission: READ_ONLY
+}
