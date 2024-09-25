@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "faster_unlock_transition"
+  state: ENABLED
+  permission: READ_ONLY
+}

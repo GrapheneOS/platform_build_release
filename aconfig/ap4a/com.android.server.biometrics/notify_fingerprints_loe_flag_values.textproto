@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.biometrics"
+  name: "notify_fingerprints_loe"
+  state: ENABLED
+  permission: READ_ONLY
+}

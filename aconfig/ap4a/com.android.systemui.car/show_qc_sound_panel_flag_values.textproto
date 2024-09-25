@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.car"
+  name: "show_qc_sound_panel"
+  state: ENABLED
+  permission: READ_ONLY
+}

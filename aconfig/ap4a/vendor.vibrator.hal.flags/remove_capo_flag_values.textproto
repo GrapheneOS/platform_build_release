@@ -1,0 +1,6 @@
+flag_value {
+  package: "vendor.vibrator.hal.flags"
+  name: "remove_capo"
+  state: ENABLED
+  permission: READ_ONLY
+}

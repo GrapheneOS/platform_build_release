@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "move_animation_options_to_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

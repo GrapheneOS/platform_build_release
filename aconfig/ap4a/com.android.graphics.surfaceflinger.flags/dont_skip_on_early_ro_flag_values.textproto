@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "dont_skip_on_early_ro"
+  state: ENABLED
+  permission: READ_ONLY
+}

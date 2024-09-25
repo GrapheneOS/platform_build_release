@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_update_metadata_callback"
+  state: ENABLED
+  permission: READ_ONLY
+}

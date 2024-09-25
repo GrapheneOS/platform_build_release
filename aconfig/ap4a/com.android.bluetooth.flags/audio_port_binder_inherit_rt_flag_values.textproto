@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "audio_port_binder_inherit_rt"
+  state: ENABLED
+  permission: READ_ONLY
+}

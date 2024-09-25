@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.accessibility.accessibilitymenu"
+  name: "a11y_menu_snackbar_live_region"
+  state: ENABLED
+  permission: READ_ONLY
+}

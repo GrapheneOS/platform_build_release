@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.res"
+  name: "font_scale_converter_public"
+  state: ENABLED
+  permission: READ_ONLY
+}

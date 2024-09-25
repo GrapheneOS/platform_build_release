@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dream_overlay_bouncer_swipe_direction_filtering"
+  state: ENABLED
+  permission: READ_ONLY
+}

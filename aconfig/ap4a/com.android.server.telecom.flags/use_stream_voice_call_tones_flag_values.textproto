@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "use_stream_voice_call_tones"
+  state: ENABLED
+  permission: READ_ONLY
+}

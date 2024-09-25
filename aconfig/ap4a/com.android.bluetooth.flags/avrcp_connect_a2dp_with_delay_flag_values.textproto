@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "avrcp_connect_a2dp_with_delay"
+  state: ENABLED
+  permission: READ_ONLY
+}

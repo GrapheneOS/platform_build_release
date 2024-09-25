@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_efficient_display_repository"
+  state: ENABLED
+  permission: READ_ONLY
+}

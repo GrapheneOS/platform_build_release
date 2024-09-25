@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "no_duplicate_surface_destroyed_events"
+  state: ENABLED
+  permission: READ_ONLY
+}

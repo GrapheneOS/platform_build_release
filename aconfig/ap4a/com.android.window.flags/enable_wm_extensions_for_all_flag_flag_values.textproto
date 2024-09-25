@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_wm_extensions_for_all_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

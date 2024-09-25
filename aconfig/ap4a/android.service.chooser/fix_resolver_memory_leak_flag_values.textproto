@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "fix_resolver_memory_leak"
+  state: ENABLED
+  permission: READ_ONLY
+}

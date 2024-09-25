@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.flags"
+  name: "add_schandle_to_vri_surface"
+  state: ENABLED
+  permission: READ_ONLY
+}

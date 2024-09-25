@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "clipboard_noninteractive_on_lockscreen"
+  state: ENABLED
+  permission: READ_ONLY
+}

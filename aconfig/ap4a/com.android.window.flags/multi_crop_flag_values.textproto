@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "multi_crop"
+  state: ENABLED
+  permission: READ_ONLY
+}

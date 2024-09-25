@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_avatar_picker_not_responding_for_new_user"
+  state: ENABLED
+  permission: READ_ONLY
+}

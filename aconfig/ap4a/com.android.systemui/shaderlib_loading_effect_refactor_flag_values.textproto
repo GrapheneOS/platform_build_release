@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "shaderlib_loading_effect_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+}

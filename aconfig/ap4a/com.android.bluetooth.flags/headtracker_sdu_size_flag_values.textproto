@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "headtracker_sdu_size"
+  state: ENABLED
+  permission: READ_ONLY
+}

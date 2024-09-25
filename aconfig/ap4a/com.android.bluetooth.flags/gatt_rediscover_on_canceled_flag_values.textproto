@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_rediscover_on_canceled"
+  state: ENABLED
+  permission: READ_ONLY
+}

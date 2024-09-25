@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_pulsing_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

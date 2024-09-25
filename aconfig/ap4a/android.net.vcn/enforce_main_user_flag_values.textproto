@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "enforce_main_user"
+  state: ENABLED
+  permission: READ_ONLY
+}

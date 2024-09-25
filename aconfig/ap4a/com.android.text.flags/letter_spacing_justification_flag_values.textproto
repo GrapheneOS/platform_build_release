@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "letter_spacing_justification"
+  state: ENABLED
+  permission: READ_ONLY
+}

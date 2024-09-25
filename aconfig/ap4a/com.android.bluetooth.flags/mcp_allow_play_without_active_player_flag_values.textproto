@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "mcp_allow_play_without_active_player"
+  state: ENABLED
+  permission: READ_ONLY
+}

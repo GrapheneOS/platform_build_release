@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.adaptiveauth"
+  name: "report_biometric_auth_attempts"
+  state: ENABLED
+  permission: READ_ONLY
+}

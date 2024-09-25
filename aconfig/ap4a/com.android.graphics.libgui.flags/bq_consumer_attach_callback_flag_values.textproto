@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "bq_consumer_attach_callback"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_scaling_reveal_home_animation"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "do_not_skip_ime_by_target_visibility"
+  state: ENABLED
+  permission: READ_ONLY
+}

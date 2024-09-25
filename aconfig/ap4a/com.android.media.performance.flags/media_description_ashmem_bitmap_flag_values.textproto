@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.performance.flags"
+  name: "media_description_ashmem_bitmap"
+  state: ENABLED
+  permission: READ_ONLY
+}

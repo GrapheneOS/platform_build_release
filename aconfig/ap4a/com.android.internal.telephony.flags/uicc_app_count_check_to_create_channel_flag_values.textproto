@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "uicc_app_count_check_to_create_channel"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_destroy_after_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

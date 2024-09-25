@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "lockscreen_preview_renderer_create_on_main_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

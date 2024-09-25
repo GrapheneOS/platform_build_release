@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "bp_icon_a11y"
+  state: ENABLED
+  permission: READ_ONLY
+}

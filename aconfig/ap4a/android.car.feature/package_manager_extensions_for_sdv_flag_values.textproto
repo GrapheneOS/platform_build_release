@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "package_manager_extensions_for_sdv"
+  state: ENABLED
+  permission: READ_ONLY
+}

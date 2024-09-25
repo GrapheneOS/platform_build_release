@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_hover_of_child_elements_in_taskview"
+  state: ENABLED
+  permission: READ_ONLY
+}

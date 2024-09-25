@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "adm_always_fallback_to_available_device"
+  state: ENABLED
+  permission: READ_ONLY
+}

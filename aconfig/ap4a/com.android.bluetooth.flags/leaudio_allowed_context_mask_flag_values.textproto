@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_allowed_context_mask"
+  state: ENABLED
+  permission: READ_ONLY
+}

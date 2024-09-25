@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "serverless_remote_access"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "dismiss_dream_on_keyguard_dismiss"
+  state: ENABLED
+  permission: READ_ONLY
+}

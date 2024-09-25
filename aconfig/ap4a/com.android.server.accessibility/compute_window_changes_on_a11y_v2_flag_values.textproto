@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "compute_window_changes_on_a11y_v2"
+  state: ENABLED
+  permission: READ_ONLY
+}

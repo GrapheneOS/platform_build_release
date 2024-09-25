@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "remove_update_listener_in_qs_icon_view_impl"
+  state: ENABLED
+  permission: READ_ONLY
+}

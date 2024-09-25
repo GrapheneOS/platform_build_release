@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "auto_disable_observe_mode"
+  state: ENABLED
+  permission: READ_ONLY
+}

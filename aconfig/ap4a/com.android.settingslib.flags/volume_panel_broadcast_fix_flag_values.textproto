@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "volume_panel_broadcast_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

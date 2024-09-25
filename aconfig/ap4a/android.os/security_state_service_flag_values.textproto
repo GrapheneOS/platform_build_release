@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "security_state_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

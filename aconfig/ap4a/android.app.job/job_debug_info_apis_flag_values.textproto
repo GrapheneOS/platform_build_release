@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.job"
+  name: "job_debug_info_apis"
+  state: ENABLED
+  permission: READ_ONLY
+}

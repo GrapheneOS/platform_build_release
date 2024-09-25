@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "selinux_input_selector"
+  state: ENABLED
+  permission: READ_ONLY
+}

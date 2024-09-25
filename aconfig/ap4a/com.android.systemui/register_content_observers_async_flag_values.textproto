@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "register_content_observers_async"
+  state: ENABLED
+  permission: READ_ONLY
+}

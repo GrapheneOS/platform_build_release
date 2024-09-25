@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "complete_font_load_in_system_services_ready"
+  state: ENABLED
+  permission: READ_ONLY
+}

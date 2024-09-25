@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "allow_main_user_to_access_blocked_number_provider"
+  state: ENABLED
+  permission: READ_ONLY
+}

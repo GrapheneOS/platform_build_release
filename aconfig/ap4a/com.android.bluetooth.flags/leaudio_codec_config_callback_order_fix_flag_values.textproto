@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_codec_config_callback_order_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

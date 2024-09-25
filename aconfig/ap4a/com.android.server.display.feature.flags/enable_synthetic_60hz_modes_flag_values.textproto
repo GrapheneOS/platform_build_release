@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_synthetic_60hz_modes"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "only_reuse_bubbled_task_when_launched_from_bubble"
+  state: ENABLED
+  permission: READ_ONLY
+}

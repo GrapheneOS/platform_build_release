@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "conversation_layout_use_maximum_child_height"
+  state: ENABLED
+  permission: READ_ONLY
+}

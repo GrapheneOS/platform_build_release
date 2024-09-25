@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "replace_stream_bt_sco"
+  state: ENABLED
+  permission: READ_ONLY
+}

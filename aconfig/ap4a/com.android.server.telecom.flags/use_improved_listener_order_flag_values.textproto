@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "use_improved_listener_order"
+  state: ENABLED
+  permission: READ_ONLY
+}

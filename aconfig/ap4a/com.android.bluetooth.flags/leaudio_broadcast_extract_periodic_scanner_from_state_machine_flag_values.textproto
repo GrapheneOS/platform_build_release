@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_extract_periodic_scanner_from_state_machine"
+  state: ENABLED
+  permission: READ_ONLY
+}

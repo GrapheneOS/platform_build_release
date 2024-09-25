@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "on_call_endpoint_changed_ics_on_connected"
+  state: ENABLED
+  permission: READ_ONLY
+}

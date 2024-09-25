@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "remove_unnecessary_route_scanning"
+  state: ENABLED
+  permission: READ_ONLY
+}

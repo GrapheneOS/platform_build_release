@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "cancel_open_discovery_client"
+  state: ENABLED
+  permission: READ_ONLY
+}

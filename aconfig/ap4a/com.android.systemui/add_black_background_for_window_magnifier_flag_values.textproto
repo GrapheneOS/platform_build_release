@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "add_black_background_for_window_magnifier"
+  state: ENABLED
+  permission: READ_ONLY
+}

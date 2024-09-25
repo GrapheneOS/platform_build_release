@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "add_battery_usage_stats_slice_atom"
+  state: ENABLED
+  permission: READ_ONLY
+}

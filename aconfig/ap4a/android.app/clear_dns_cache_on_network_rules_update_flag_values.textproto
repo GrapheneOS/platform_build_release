@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "clear_dns_cache_on_network_rules_update"
+  state: ENABLED
+  permission: READ_ONLY
+}

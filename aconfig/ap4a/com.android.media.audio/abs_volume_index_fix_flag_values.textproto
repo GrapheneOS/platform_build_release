@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "abs_volume_index_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

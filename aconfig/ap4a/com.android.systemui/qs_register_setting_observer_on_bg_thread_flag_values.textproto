@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "qs_register_setting_observer_on_bg_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

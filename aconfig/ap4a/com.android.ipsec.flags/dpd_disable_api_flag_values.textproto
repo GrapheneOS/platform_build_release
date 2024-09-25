@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.ipsec.flags"
+  name: "dpd_disable_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

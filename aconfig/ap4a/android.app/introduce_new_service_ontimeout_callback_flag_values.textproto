@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "introduce_new_service_ontimeout_callback"
+  state: ENABLED
+  permission: READ_ONLY
+}

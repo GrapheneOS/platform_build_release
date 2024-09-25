@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "disable_bonding_cancellation_for_orientation_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

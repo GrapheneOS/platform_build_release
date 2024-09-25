@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "single_thread_executor_naming"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_shortcut_dont_suggest_app"
+  state: ENABLED
+  permission: READ_ONLY
+}

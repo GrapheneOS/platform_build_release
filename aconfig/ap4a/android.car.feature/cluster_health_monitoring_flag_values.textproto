@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "cluster_health_monitoring"
+  state: ENABLED
+  permission: READ_ONLY
+}

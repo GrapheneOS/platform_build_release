@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.alarm"
+  name: "start_user_before_scheduled_alarms"
+  state: ENABLED
+  permission: READ_ONLY
+}

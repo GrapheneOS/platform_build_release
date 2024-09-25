@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "clean_up_spans_and_new_lines"
+  state: ENABLED
+  permission: READ_ONLY
+}

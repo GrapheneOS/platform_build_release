@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshot_save_image_exporter"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "resolve_switching_bt_devices_computation"
+  state: ENABLED
+  permission: READ_ONLY
+}

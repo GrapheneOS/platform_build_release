@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "use_new_icon_for_archived_apps"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "significant_places"
+  state: ENABLED
+  permission: READ_ONLY
+}

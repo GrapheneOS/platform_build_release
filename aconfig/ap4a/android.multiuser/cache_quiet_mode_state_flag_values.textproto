@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "cache_quiet_mode_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

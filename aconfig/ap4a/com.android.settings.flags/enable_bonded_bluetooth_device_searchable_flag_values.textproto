@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "enable_bonded_bluetooth_device_searchable"
+  state: ENABLED
+  permission: READ_ONLY
+}

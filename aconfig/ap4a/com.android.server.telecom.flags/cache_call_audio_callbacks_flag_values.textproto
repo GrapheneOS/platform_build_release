@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "cache_call_audio_callbacks"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "remove_input_channel_from_windowstate"
+  state: ENABLED
+  permission: READ_ONLY
+}

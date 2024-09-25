@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "android_vic_vehicle_properties"
+  state: ENABLED
+  permission: READ_ONLY
+}

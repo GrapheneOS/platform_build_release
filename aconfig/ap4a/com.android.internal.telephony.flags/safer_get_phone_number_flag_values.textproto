@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "safer_get_phone_number"
+  state: ENABLED
+  permission: READ_ONLY
+}

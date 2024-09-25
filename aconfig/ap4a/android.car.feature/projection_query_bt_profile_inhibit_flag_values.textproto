@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "projection_query_bt_profile_inhibit"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "bump_preview_frame_space_priority"
+  state: ENABLED
+  permission: READ_ONLY
+}

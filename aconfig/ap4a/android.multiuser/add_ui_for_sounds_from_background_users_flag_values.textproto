@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "add_ui_for_sounds_from_background_users"
+  state: ENABLED
+  permission: READ_ONLY
+}

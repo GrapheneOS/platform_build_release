@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "lazy_aidl_wait_for_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "metrics_collection"
+  state: ENABLED
+  permission: READ_ONLY
+}

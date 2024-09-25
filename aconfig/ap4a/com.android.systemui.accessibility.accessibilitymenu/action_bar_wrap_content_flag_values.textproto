@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.accessibility.accessibilitymenu"
+  name: "action_bar_wrap_content"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "early_update_internal_call_audio_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

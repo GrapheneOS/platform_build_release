@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "slice_manager_binder_call_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

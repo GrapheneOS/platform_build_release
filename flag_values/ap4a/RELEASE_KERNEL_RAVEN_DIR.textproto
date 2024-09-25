@@ -1,0 +1,4 @@
+name: "RELEASE_KERNEL_RAVEN_DIR"
+value: {
+  string_value: "device/google/raviole-kernels/5.10/24Q4-12327471"
+}

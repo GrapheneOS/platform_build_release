@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "avoid_repeated_bcast_re_enqueues"
+  state: ENABLED
+  permission: READ_ONLY
+}

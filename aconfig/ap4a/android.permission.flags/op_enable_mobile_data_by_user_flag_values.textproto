@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "op_enable_mobile_data_by_user"
+  state: ENABLED
+  permission: READ_ONLY
+}

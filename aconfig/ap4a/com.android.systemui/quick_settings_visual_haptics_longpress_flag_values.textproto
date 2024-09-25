@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "quick_settings_visual_haptics_longpress"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "use_relaxed_id_match"
+  state: ENABLED
+  permission: READ_ONLY
+}

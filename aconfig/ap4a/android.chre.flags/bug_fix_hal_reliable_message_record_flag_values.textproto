@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "bug_fix_hal_reliable_message_record"
+  state: ENABLED
+  permission: READ_ONLY
+}

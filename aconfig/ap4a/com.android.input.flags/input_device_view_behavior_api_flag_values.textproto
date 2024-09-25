@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "input_device_view_behavior_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

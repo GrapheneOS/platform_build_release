@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "never_restrict_accessibility_activity"
+  state: ENABLED
+  permission: READ_ONLY
+}

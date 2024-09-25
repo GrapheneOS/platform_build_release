@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.credentials.flags"
+  name: "hybrid_filter_opt_fix_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

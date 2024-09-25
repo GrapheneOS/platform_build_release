@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "touchpad_tap_dragging"
+  state: ENABLED
+  permission: READ_ONLY
+}

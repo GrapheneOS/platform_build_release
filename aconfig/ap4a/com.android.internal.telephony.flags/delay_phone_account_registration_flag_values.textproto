@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "delay_phone_account_registration"
+  state: ENABLED
+  permission: READ_ONLY
+}

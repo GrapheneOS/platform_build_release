@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_missing_drawer_offset_calculation"
+  state: ENABLED
+  permission: READ_ONLY
+}

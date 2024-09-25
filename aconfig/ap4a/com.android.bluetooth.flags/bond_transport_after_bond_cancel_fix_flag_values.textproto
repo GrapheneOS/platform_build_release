@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bond_transport_after_bond_cancel_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

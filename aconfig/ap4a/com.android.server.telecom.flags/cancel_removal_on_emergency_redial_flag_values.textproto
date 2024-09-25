@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "cancel_removal_on_emergency_redial"
+  state: ENABLED
+  permission: READ_ONLY
+}

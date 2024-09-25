@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "cache_user_serial_number"
+  state: ENABLED
+  permission: READ_ONLY
+}

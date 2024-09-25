@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.notification"
+  name: "callstyle_callback_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

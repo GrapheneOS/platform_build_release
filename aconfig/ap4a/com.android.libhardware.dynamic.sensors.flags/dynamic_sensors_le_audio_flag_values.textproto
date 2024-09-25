@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.libhardware.dynamic.sensors.flags"
+  name: "dynamic_sensors_le_audio"
+  state: ENABLED
+  permission: READ_ONLY
+}

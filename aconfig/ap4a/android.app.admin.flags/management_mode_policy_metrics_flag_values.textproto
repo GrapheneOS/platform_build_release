@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "management_mode_policy_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+}

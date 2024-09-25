@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "le_ase_read_multiple_variable"
+  state: ENABLED
+  permission: READ_ONLY
+}

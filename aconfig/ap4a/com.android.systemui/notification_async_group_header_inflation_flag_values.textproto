@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_async_group_header_inflation"
+  state: ENABLED
+  permission: READ_ONLY
+}

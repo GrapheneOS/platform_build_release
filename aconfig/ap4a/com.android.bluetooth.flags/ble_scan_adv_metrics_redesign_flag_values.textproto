@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ble_scan_adv_metrics_redesign"
+  state: ENABLED
+  permission: READ_ONLY
+}

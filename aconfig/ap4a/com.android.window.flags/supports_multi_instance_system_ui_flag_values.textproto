@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "supports_multi_instance_system_ui"
+  state: ENABLED
+  permission: READ_ONLY
+}

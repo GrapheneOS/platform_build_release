@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "l2cap_update_existing_conn_interval_with_base_interval"
+  state: ENABLED
+  permission: READ_ONLY
+}

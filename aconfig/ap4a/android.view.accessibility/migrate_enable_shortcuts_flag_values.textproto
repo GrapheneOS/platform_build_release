@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "migrate_enable_shortcuts"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_avatar_concurrent_file_write"
+  state: ENABLED
+  permission: READ_ONLY
+}

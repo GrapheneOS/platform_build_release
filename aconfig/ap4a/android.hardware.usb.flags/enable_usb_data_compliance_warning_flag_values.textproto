@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_usb_data_compliance_warning"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.server"
+  name: "allow_removing_vpn_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

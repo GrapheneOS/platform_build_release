@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "audio_balance_state_description"
+  state: ENABLED
+  permission: READ_ONLY
+}

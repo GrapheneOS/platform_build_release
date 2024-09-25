@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.server"
+  name: "remove_wearable_sensing_service_from_wear"
+  state: ENABLED
+  permission: READ_ONLY
+}

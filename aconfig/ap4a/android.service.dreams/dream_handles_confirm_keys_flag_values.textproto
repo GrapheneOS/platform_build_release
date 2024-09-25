@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "dream_handles_confirm_keys"
+  state: ENABLED
+  permission: READ_ONLY
+}

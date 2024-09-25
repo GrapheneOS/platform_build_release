@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "skip_package_change_before_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+}

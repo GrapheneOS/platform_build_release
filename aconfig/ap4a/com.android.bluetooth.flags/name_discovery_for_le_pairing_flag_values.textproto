@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "name_discovery_for_le_pairing"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.location.flags"
+  name: "disable_stationary_throttling"
+  state: ENABLED
+  permission: READ_ONLY
+}

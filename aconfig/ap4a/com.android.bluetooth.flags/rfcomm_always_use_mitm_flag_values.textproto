@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "rfcomm_always_use_mitm"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_icon_container_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+}

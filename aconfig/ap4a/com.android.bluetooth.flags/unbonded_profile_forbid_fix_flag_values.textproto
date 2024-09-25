@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "unbonded_profile_forbid_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

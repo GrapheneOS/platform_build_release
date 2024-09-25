@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "a2dp_fix_codec_type_in_java"
+  state: ENABLED
+  permission: READ_ONLY
+}

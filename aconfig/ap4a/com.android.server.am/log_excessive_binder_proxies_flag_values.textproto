@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "log_excessive_binder_proxies"
+  state: ENABLED
+  permission: READ_ONLY
+}

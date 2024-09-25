@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "expand_heads_up_on_inline_reply"
+  state: ENABLED
+  permission: READ_ONLY
+}

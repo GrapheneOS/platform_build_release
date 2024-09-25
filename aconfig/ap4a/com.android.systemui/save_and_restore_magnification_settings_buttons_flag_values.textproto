@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "save_and_restore_magnification_settings_buttons"
+  state: ENABLED
+  permission: READ_ONLY
+}

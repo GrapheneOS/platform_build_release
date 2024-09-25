@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "predictive_back_animate_dialogs"
+  state: ENABLED
+  permission: READ_ONLY
+}

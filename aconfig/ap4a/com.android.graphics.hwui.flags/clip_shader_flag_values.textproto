@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "clip_shader"
+  state: ENABLED
+  permission: READ_ONLY
+}

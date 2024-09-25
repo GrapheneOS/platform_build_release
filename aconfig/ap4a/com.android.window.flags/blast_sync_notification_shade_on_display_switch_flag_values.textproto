@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "blast_sync_notification_shade_on_display_switch"
+  state: ENABLED
+  permission: READ_ONLY
+}

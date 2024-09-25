@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "enable_odp_feature_guard"
+  state: ENABLED
+  permission: READ_ONLY
+}

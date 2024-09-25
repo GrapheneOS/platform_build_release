@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "messaging_child_request_layout"
+  state: ENABLED
+  permission: READ_ONLY
+}

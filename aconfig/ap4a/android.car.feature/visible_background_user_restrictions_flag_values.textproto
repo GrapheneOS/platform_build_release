@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "visible_background_user_restrictions"
+  state: ENABLED
+  permission: READ_ONLY
+}

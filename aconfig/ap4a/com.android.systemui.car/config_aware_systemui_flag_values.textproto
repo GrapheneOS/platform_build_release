@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.car"
+  name: "config_aware_systemui"
+  state: ENABLED
+  permission: READ_ONLY
+}

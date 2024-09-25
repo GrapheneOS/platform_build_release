@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enforce_shell_thread_model"
+  state: ENABLED
+  permission: READ_ONLY
+}

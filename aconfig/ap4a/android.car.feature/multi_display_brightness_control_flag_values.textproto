@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "multi_display_brightness_control"
+  state: ENABLED
+  permission: READ_ONLY
+}

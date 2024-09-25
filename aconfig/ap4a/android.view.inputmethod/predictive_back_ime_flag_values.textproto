@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "predictive_back_ime"
+  state: ENABLED
+  permission: READ_ONLY
+}

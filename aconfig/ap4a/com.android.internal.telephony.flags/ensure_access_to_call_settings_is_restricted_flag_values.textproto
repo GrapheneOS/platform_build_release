@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "ensure_access_to_call_settings_is_restricted"
+  state: ENABLED
+  permission: READ_ONLY
+}

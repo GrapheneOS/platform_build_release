@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "basic_background_restrictions_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

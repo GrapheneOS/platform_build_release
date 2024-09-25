@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "unicorn_mode_refactoring_for_hsum_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

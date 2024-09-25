@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "create_work_chain_by_default"
+  state: ENABLED
+  permission: READ_ONLY
+}

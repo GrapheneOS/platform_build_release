@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "avoid_rebinding_intentionally_disconnected_wallpaper"
+  state: ENABLED
+  permission: READ_ONLY
+}

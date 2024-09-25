@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "remap_disconnect_cause_sip_request_cancelled"
+  state: ENABLED
+  permission: READ_ONLY
+}

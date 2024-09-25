@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "throttle_vibration_params_requests"
+  state: ENABLED
+  permission: READ_ONLY
+}

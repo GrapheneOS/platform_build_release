@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "deprecate_flags_and_settings_resets"
+  state: ENABLED
+  permission: READ_ONLY
+}

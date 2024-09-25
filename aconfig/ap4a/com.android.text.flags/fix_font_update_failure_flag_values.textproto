@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "fix_font_update_failure"
+  state: ENABLED
+  permission: READ_ONLY
+}

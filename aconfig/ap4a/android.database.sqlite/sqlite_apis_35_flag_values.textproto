@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.database.sqlite"
+  name: "sqlite_apis_35"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.widget.flags"
+  name: "auto_hide_empty_lottie_res"
+  state: ENABLED
+  permission: READ_ONLY
+}

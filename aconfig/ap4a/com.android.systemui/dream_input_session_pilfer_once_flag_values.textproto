@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dream_input_session_pilfer_once"
+  state: ENABLED
+  permission: READ_ONLY
+}

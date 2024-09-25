@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "onboarding_consentless_bugreports"
+  state: ENABLED
+  permission: READ_ONLY
+}

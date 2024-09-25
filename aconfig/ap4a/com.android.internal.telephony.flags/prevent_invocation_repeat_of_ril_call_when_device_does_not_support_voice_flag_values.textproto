@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "prevent_invocation_repeat_of_ril_call_when_device_does_not_support_voice"
+  state: ENABLED
+  permission: READ_ONLY
+}

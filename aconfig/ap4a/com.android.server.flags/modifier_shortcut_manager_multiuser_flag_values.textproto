@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "modifier_shortcut_manager_multiuser"
+  state: ENABLED
+  permission: READ_ONLY
+}

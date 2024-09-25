@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "insets_control_changed_item"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "set_stream_volume_order"
+  state: ENABLED
+  permission: READ_ONLY
+}

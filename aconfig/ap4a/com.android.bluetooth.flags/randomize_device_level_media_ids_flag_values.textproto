@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "randomize_device_level_media_ids"
+  state: ENABLED
+  permission: READ_ONLY
+}

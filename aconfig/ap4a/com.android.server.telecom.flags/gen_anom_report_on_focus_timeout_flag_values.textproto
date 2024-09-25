@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "gen_anom_report_on_focus_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enable_carrier_config_n1_control_attempt2"
+  state: ENABLED
+  permission: READ_ONLY
+}

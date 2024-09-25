@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "block_private_space_creation"
+  state: ENABLED
+  permission: READ_ONLY
+}

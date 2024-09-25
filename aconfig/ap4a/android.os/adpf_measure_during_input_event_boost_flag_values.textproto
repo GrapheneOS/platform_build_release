@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_measure_during_input_event_boost"
+  state: ENABLED
+  permission: READ_ONLY
+}
