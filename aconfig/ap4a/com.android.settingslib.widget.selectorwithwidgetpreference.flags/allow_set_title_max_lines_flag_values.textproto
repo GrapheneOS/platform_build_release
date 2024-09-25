@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.widget.selectorwithwidgetpreference.flags"
+  name: "allow_set_title_max_lines"
+  state: ENABLED
+  permission: READ_ONLY
+}

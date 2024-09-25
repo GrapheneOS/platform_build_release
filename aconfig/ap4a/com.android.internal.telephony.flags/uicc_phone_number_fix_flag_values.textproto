@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "uicc_phone_number_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

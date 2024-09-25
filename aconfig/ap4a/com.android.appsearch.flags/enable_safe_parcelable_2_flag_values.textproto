@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_safe_parcelable_2"
+  state: ENABLED
+  permission: READ_ONLY
+}

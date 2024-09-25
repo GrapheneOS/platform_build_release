@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "progress_acl_scheduler_upon_incoming_connection"
+  state: ENABLED
+  permission: READ_ONLY
+}

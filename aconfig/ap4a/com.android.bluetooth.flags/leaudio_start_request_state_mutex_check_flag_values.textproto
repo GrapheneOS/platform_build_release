@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_start_request_state_mutex_check"
+  state: ENABLED
+  permission: READ_ONLY
+}

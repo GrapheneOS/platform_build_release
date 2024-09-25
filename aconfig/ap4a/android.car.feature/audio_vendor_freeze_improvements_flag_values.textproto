@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "audio_vendor_freeze_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+}

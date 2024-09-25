@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "delay_lazy_hal_instantiation"
+  state: ENABLED
+  permission: READ_ONLY
+}

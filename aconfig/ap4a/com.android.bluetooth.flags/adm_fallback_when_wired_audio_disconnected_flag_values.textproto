@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "adm_fallback_when_wired_audio_disconnected"
+  state: ENABLED
+  permission: READ_ONLY
+}

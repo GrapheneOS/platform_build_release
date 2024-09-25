@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "sort_section_by_time"
+  state: ENABLED
+  permission: READ_ONLY
+}

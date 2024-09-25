@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "fetch_bookmarks_xml_keyboard_shortcuts"
+  state: ENABLED
+  permission: READ_ONLY
+}

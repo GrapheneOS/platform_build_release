@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "avoid_deleting_ims_object_from_cache"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_hide_exclusively_managed_bluetooth_device"
+  state: ENABLED
+  permission: READ_ONLY
+}

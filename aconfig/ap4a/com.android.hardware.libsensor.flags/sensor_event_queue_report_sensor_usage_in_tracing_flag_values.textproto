@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.libsensor.flags"
+  name: "sensor_event_queue_report_sensor_usage_in_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+}

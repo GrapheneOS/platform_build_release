@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "save_global_and_guest_restrictions_on_system_user_xml_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

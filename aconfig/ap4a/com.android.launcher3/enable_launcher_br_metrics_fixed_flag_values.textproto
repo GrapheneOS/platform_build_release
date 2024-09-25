@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_launcher_br_metrics_fixed"
+  state: ENABLED
+  permission: READ_ONLY
+}

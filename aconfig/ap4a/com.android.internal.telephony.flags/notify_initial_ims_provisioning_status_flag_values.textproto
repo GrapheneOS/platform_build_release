@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "notify_initial_ims_provisioning_status"
+  state: ENABLED
+  permission: READ_ONLY
+}

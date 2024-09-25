@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "fix_audio_flicker_for_outgoing_calls"
+  state: ENABLED
+  permission: READ_ONLY
+}

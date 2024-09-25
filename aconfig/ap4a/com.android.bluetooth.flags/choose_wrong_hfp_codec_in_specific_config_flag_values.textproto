@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "choose_wrong_hfp_codec_in_specific_config"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "untrusted_embedding_state_sharing"
+  state: ENABLED
+  permission: READ_ONLY
+}

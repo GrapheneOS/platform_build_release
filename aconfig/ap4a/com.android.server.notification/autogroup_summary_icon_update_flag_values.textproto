@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "autogroup_summary_icon_update"
+  state: ENABLED
+  permission: READ_ONLY
+}

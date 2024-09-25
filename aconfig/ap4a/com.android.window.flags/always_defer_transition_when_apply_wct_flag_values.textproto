@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "always_defer_transition_when_apply_wct"
+  state: ENABLED
+  permission: READ_ONLY
+}

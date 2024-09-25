@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "thermal_restrictions_to_fgs_jobs"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "location_bypass_privacy_dashboard_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

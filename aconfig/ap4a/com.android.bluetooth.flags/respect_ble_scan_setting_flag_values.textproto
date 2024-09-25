@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "respect_ble_scan_setting"
+  state: ENABLED
+  permission: READ_ONLY
+}

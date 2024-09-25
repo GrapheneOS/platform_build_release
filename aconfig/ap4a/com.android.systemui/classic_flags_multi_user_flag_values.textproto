@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "classic_flags_multi_user"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "per_user_display_window_settings"
+  state: ENABLED
+  permission: READ_ONLY
+}

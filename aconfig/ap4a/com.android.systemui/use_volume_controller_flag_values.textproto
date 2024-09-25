@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "use_volume_controller"
+  state: ENABLED
+  permission: READ_ONLY
+}

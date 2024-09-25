@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.audio"
+  name: "focus_freeze_test_api"
+  state: ENABLED
+  permission: READ_ONLY
+}

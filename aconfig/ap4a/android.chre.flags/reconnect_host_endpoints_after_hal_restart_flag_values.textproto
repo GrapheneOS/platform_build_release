@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "reconnect_host_endpoints_after_hal_restart"
+  state: ENABLED
+  permission: READ_ONLY
+}

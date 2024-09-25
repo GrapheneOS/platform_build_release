@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "emergency_install_permission"
+  state: ENABLED
+  permission: READ_ONLY
+}

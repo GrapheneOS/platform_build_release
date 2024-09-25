@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "show_desktop_windowing_dev_option"
+  state: ENABLED
+  permission: READ_ONLY
+}

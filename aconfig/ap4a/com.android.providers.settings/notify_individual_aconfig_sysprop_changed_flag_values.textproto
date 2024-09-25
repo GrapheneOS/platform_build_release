@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "notify_individual_aconfig_sysprop_changed"
+  state: ENABLED
+  permission: READ_ONLY
+}

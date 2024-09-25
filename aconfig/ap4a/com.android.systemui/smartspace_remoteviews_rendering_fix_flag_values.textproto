@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "smartspace_remoteviews_rendering_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

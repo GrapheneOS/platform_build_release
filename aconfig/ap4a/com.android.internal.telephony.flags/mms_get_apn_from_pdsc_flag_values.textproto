@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "mms_get_apn_from_pdsc"
+  state: ENABLED
+  permission: READ_ONLY
+}

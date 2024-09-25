@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "disable_object_pool"
+  state: ENABLED
+  permission: READ_ONLY
+}

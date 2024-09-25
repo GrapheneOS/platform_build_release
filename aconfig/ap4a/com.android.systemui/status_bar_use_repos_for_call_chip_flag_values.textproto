@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_use_repos_for_call_chip"
+  state: ENABLED
+  permission: READ_ONLY
+}

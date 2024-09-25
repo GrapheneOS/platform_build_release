@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "remove_on_window_infos_changed_handler"
+  state: ENABLED
+  permission: READ_ONLY
+}

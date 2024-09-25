@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_contextual_tip_for_mute_volume"
+  state: ENABLED
+  permission: READ_ONLY
+}

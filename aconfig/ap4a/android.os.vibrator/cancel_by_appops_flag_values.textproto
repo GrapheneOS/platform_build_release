@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "cancel_by_appops"
+  state: ENABLED
+  permission: READ_ONLY
+}

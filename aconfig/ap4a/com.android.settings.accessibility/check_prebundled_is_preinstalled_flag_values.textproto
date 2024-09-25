@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "check_prebundled_is_preinstalled"
+  state: ENABLED
+  permission: READ_ONLY
+}

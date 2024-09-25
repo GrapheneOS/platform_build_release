@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "le_inquiry_duration"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "archiving_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

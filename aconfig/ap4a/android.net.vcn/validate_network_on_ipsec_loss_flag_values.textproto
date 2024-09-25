@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "validate_network_on_ipsec_loss"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "restrict_audio_attributes_media"
+  state: ENABLED
+  permission: READ_ONLY
+}

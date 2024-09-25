@@ -1,0 +1,4 @@
+name: "RELEASE_KERNEL_RIPCURRENT_DIR"
+value: {
+  string_value: "device/google/shusky-kernels/5.15/trunk-12010660"
+}

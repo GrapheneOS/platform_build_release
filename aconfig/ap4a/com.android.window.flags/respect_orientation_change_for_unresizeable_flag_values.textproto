@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "respect_orientation_change_for_unresizeable"
+  state: ENABLED
+  permission: READ_ONLY
+}

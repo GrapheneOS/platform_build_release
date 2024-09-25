@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "use_carrier_config_for_cfnry_time_via_mmi"
+  state: ENABLED
+  permission: READ_ONLY
+}

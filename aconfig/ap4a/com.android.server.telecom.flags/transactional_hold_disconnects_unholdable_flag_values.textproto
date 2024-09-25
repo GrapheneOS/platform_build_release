@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "transactional_hold_disconnects_unholdable"
+  state: ENABLED
+  permission: READ_ONLY
+}

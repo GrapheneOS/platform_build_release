@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.car.datasubscription"
+  name: "data_subscription_pop_up"
+  state: ENABLED
+  permission: READ_ONLY
+}

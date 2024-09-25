@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_get_user_property_cache"
+  state: ENABLED
+  permission: READ_ONLY
+}

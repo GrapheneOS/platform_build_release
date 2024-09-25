@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "always_allow_observing_touch_events"
+  state: ENABLED
+  permission: READ_ONLY
+}

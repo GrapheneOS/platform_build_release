@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_ad_selection_filtering_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

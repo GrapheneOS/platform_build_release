@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_partial_image_edit_transition"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_generic_document_copy_constructor"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "relative_reference_intent_filters"
+  state: ENABLED
+  permission: READ_ONLY
+}

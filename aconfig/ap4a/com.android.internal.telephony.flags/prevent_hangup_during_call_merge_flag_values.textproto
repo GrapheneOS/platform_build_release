@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "prevent_hangup_during_call_merge"
+  state: ENABLED
+  permission: READ_ONLY
+}

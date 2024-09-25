@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "slice_broadcast_relay_in_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

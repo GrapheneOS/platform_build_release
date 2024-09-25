@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_cleanup_restricted_handles"
+  state: ENABLED
+  permission: READ_ONLY
+}

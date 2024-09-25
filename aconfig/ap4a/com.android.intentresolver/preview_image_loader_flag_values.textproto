@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "preview_image_loader"
+  state: ENABLED
+  permission: READ_ONLY
+}

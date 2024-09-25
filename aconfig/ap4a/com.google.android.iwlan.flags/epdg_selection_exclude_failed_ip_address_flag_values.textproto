@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "epdg_selection_exclude_failed_ip_address"
+  state: ENABLED
+  permission: READ_ONLY
+}

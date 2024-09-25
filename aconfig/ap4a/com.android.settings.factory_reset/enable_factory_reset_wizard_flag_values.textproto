@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.factory_reset"
+  name: "enable_factory_reset_wizard"
+  state: ENABLED
+  permission: READ_ONLY
+}

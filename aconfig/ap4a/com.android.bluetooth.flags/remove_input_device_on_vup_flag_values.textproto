@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "remove_input_device_on_vup"
+  state: ENABLED
+  permission: READ_ONLY
+}

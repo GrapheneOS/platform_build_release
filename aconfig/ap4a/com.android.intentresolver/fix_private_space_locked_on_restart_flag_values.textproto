@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_private_space_locked_on_restart"
+  state: ENABLED
+  permission: READ_ONLY
+}

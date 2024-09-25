@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_color_correction_saturation"
+  state: ENABLED
+  permission: READ_ONLY
+}

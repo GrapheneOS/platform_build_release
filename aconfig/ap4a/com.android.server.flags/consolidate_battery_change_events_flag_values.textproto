@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "consolidate_battery_change_events"
+  state: ENABLED
+  permission: READ_ONLY
+}

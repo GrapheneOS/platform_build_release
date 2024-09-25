@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "ensure_audio_mode_updates_on_foreground_call_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

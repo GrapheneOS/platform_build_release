@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "collection_info_item_counts"
+  state: ENABLED
+  permission: READ_ONLY
+}

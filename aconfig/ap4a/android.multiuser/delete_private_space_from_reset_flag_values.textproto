@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "delete_private_space_from_reset"
+  state: ENABLED
+  permission: READ_ONLY
+}

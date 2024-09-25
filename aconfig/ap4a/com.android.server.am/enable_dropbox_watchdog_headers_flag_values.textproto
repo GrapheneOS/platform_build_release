@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "enable_dropbox_watchdog_headers"
+  state: ENABLED
+  permission: READ_ONLY
+}

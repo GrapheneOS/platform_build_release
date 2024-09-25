@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "home_screen_handwriting_delegator"
+  state: ENABLED
+  permission: READ_ONLY
+}

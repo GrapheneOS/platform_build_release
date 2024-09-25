@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.accessibility.accessibilitymenu"
+  name: "hide_restricted_actions"
+  state: ENABLED
+  permission: READ_ONLY
+}

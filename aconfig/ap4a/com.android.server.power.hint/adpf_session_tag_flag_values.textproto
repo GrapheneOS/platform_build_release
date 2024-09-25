@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.hint"
+  name: "adpf_session_tag"
+  state: ENABLED
+  permission: READ_ONLY
+}

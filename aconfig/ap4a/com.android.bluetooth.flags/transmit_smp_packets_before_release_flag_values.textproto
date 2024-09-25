@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "transmit_smp_packets_before_release"
+  state: ENABLED
+  permission: READ_ONLY
+}

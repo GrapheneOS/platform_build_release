@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_speed_up_reconfiguration_between_call"
+  state: ENABLED
+  permission: READ_ONLY
+}

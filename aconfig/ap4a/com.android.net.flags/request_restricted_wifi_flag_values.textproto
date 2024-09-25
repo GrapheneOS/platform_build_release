@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "request_restricted_wifi"
+  state: ENABLED
+  permission: READ_ONLY
+}

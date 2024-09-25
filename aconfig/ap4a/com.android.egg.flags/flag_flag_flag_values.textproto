@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.egg.flags"
+  name: "flag_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

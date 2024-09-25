@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "android_os_identifier"
+  state: ENABLED
+  permission: READ_ONLY
+}

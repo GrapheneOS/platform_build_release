@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_view_flipper_pausing_v2"
+  state: ENABLED
+  permission: READ_ONLY
+}

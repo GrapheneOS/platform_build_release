@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "chooser_payload_toggling"
+  state: ENABLED
+  permission: READ_ONLY
+}

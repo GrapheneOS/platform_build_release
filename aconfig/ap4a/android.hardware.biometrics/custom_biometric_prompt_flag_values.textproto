@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "custom_biometric_prompt"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.car.settings"
+  name: "microphone_privacy_updates"
+  state: ENABLED
+  permission: READ_ONLY
+}

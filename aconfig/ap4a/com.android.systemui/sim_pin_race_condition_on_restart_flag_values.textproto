@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "sim_pin_race_condition_on_restart"
+  state: ENABLED
+  permission: READ_ONLY
+}

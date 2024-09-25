@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "scan_record_manufacturer_data_merge"
+  state: ENABLED
+  permission: READ_ONLY
+}

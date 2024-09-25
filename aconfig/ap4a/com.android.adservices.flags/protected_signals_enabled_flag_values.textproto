@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "protected_signals_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_dm_discover_both"
+  state: ENABLED
+  permission: READ_ONLY
+}

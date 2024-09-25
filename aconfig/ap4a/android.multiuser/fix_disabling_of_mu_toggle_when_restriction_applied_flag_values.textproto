@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "fix_disabling_of_mu_toggle_when_restriction_applied"
+  state: ENABLED
+  permission: READ_ONLY
+}

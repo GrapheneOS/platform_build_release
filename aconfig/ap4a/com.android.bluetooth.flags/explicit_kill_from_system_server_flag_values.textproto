@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "explicit_kill_from_system_server"
+  state: ENABLED
+  permission: READ_ONLY
+}

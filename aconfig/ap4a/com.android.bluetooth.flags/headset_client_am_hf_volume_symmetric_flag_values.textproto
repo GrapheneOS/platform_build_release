@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "headset_client_am_hf_volume_symmetric"
+  state: ENABLED
+  permission: READ_ONLY
+}

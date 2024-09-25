@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "avoid_static_loading_of_native"
+  state: ENABLED
+  permission: READ_ONLY
+}

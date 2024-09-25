@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "qs_tile_focus_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

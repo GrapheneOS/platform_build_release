@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "communal_widget_trampoline_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

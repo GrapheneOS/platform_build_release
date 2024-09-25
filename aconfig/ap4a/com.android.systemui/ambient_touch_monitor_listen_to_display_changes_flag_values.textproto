@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "ambient_touch_monitor_listen_to_display_changes"
+  state: ENABLED
+  permission: READ_ONLY
+}

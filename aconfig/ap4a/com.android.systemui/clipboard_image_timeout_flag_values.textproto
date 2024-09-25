@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "clipboard_image_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

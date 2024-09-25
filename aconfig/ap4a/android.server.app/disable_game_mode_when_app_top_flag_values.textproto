@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.server.app"
+  name: "disable_game_mode_when_app_top"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_shortcut_loader_job_leak"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "allow_resolver_sheet_for_private_space"
+  state: ENABLED
+  permission: READ_ONLY
+}

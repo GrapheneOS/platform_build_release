@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bt_system_context_report"
+  state: ENABLED
+  permission: READ_ONLY
+}

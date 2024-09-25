@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ble_check_data_length_on_legacy_advertising"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "reset_ag_state_on_collision"
+  state: ENABLED
+  permission: READ_ONLY
+}

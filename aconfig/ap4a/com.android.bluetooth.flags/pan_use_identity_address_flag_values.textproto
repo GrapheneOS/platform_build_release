@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "pan_use_identity_address"
+  state: ENABLED
+  permission: READ_ONLY
+}

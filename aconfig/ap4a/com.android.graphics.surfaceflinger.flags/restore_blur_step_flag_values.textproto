@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "restore_blur_step"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "fix_call_audio_patch"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "close_hid_only_if_connected"
+  state: ENABLED
+  permission: READ_ONLY
+}

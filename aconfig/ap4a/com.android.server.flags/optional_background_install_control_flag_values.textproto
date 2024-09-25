@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "optional_background_install_control"
+  state: ENABLED
+  permission: READ_ONLY
+}

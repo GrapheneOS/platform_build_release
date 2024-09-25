@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "validate_keyboard_shortcut_helper_icon_uri"
+  state: ENABLED
+  permission: READ_ONLY
+}

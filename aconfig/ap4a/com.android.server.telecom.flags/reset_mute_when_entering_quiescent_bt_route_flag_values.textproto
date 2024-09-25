@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "reset_mute_when_entering_quiescent_bt_route"
+  state: ENABLED
+  permission: READ_ONLY
+}

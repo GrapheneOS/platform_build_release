@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "a2dp_check_lea_iso_channel"
+  state: ENABLED
+  permission: READ_ONLY
+}

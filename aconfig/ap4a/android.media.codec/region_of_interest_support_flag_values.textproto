@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "region_of_interest_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

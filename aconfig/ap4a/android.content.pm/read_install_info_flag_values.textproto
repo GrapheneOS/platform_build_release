@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "read_install_info"
+  state: ENABLED
+  permission: READ_ONLY
+}

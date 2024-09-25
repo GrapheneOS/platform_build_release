@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "trace_frame_rate_override"
+  state: ENABLED
+  permission: READ_ONLY
+}

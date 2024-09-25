@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "use_tasks_dim_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

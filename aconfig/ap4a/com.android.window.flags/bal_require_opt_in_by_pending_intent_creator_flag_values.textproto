@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_require_opt_in_by_pending_intent_creator"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.car.settings"
+  name: "update_date_and_time_page"
+  state: ENABLED
+  permission: READ_ONLY
+}

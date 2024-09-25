@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "edgeback_gesture_handler_get_running_tasks_background"
+  state: ENABLED
+  permission: READ_ONLY
+}

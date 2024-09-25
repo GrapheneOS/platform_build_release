@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "fix_drawer_offset_on_config_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

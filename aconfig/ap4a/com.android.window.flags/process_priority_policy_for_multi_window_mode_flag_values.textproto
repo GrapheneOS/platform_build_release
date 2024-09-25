@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "process_priority_policy_for_multi_window_mode"
+  state: ENABLED
+  permission: READ_ONLY
+}

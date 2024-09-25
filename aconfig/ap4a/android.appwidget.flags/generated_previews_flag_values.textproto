@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "generated_previews"
+  state: ENABLED
+  permission: READ_ONLY
+}

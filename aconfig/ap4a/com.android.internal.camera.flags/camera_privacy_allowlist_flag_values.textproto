@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "camera_privacy_allowlist"
+  state: ENABLED
+  permission: READ_ONLY
+}

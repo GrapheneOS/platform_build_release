@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "enable_custom_reboot_time_configurations"
+  state: ENABLED
+  permission: READ_ONLY
+}

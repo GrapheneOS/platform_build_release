@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "stop_on_offload_fail"
+  state: ENABLED
+  permission: READ_ONLY
+}

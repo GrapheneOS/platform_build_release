@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_le_evt_cancelling_sdp_discovery"
+  state: ENABLED
+  permission: READ_ONLY
+}

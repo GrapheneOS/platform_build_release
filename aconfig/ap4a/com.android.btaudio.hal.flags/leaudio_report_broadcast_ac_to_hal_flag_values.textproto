@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.btaudio.hal.flags"
+  name: "leaudio_report_broadcast_ac_to_hal"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "media_lockscreen_launch_animation"
+  state: ENABLED
+  permission: READ_ONLY
+}

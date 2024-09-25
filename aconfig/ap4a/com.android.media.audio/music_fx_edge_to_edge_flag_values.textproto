@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "music_fx_edge_to_edge"
+  state: ENABLED
+  permission: READ_ONLY
+}

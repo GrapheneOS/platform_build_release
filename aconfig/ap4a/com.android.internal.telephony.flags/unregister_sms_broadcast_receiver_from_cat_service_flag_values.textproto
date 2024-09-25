@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "unregister_sms_broadcast_receiver_from_cat_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

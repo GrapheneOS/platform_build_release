@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "pairing_name_discovery_addresss_mismatch"
+  state: ENABLED
+  permission: READ_ONLY
+}

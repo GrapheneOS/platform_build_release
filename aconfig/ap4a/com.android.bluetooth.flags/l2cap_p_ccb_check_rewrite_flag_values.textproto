@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "l2cap_p_ccb_check_rewrite"
+  state: ENABLED
+  permission: READ_ONLY
+}

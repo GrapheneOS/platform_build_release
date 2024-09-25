@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.aaudio"
+  name: "start_stop_client_from_command_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

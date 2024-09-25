@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "remove_app_widget_service_io_from_critical_path"
+  state: ENABLED
+  permission: READ_ONLY
+}

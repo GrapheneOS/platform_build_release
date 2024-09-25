@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_overview_command_helper_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+}

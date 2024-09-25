@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.security"
+  name: "binary_transparency_sepolicy_hash"
+  state: ENABLED
+  permission: READ_ONLY
+}

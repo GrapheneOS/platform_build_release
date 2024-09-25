@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "use_transitions_for_keyguard_occluded"
+  state: ENABLED
+  permission: READ_ONLY
+}

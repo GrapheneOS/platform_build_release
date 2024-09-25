@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.development"
+  name: "a2dp_offload_codec_extensibility_settings"
+  state: ENABLED
+  permission: READ_ONLY
+}

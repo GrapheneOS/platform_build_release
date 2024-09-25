@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "protect_lock_after_timeout_with_auth"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "sim_pin_talkback_fix_for_double_submit"
+  state: ENABLED
+  permission: READ_ONLY
+}

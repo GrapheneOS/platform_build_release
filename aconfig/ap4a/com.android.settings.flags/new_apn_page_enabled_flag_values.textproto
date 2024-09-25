@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "new_apn_page_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

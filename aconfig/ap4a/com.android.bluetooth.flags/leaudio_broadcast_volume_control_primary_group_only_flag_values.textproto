@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_volume_control_primary_group_only"
+  state: ENABLED
+  permission: READ_ONLY
+}

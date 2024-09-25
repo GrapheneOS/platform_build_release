@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui.car"
+  name: "config_app_blocking_activities"
+  state: ENABLED
+  permission: READ_ONLY
+}

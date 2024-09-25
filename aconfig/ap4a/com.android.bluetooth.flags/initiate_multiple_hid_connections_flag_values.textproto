@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "initiate_multiple_hid_connections"
+  state: ENABLED
+  permission: READ_ONLY
+}

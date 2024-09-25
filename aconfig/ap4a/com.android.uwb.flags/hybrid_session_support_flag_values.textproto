@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "hybrid_session_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

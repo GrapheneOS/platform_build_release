@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "identity_address_null_if_not_known"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_audio_fade_manager_configuration"
+  state: ENABLED
+  permission: READ_ONLY
+}

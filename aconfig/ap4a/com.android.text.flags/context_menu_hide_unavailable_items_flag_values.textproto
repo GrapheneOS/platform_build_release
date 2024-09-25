@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "context_menu_hide_unavailable_items"
+  state: ENABLED
+  permission: READ_ONLY
+}

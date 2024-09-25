@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "portuguese_hyphenator"
+  state: ENABLED
+  permission: READ_ONLY
+}

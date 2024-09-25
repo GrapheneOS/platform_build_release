@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_reconnect_on_bt_on_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

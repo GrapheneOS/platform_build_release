@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "hubmode_fullscreen_vertical_swipe_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

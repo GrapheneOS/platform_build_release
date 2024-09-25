@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "business_call_composer"
+  state: ENABLED
+  permission: READ_ONLY
+}

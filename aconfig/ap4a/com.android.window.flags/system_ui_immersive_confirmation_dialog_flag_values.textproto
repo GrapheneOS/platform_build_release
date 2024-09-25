@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "system_ui_immersive_confirmation_dialog"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dozeui_scheduling_alarms_background_execution"
+  state: ENABLED
+  permission: READ_ONLY
+}

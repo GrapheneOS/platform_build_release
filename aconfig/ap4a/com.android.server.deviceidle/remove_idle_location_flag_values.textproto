@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.deviceidle"
+  name: "remove_idle_location"
+  state: ENABLED
+  permission: READ_ONLY
+}

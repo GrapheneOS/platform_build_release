@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "dont_read_policy_definition"
+  state: ENABLED
+  permission: READ_ONLY
+}

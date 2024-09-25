@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "hfp_codec_aptx_voice"
+  state: ENABLED
+  permission: READ_ONLY
+}

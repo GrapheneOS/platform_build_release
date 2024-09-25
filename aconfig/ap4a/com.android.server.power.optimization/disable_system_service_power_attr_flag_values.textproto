@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "disable_system_service_power_attr"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_switch_to_spn_from_data_spn"
+  state: ENABLED
+  permission: READ_ONLY
+}

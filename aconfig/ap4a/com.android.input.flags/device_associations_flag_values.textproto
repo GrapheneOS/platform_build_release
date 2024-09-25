@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "device_associations"
+  state: ENABLED
+  permission: READ_ONLY
+}

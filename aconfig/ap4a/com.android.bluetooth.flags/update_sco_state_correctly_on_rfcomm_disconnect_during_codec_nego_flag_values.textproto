@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "update_sco_state_correctly_on_rfcomm_disconnect_during_codec_nego"
+  state: ENABLED
+  permission: READ_ONLY
+}

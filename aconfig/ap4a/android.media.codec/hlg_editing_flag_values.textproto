@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.media.codec"
+  name: "hlg_editing"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,4 @@
+name: "RELEASE_KERNEL_RIPCURRENT_VERSION"
+value: {
+  string_value: "5.15"
+}

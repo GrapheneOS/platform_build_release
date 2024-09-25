@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.server"
+  name: "telemetry_apis_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

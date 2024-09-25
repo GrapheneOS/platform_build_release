@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_call_start_scan_directly"
+  state: ENABLED
+  permission: READ_ONLY
+}

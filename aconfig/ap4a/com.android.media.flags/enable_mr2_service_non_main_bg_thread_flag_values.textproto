@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_mr2_service_non_main_bg_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}

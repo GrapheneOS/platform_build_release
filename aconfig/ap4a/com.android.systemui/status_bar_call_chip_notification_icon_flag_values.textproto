@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_call_chip_notification_icon"
+  state: ENABLED
+  permission: READ_ONLY
+}

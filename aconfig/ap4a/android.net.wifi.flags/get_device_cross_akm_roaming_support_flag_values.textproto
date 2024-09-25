@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.wifi.flags"
+  name: "get_device_cross_akm_roaming_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

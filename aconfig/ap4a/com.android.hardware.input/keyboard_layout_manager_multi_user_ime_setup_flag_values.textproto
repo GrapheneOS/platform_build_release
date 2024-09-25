@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "keyboard_layout_manager_multi_user_ime_setup"
+  state: ENABLED
+  permission: READ_ONLY
+}

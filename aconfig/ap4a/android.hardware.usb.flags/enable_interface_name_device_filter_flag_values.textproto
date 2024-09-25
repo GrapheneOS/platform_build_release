@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_interface_name_device_filter"
+  state: ENABLED
+  permission: READ_ONLY
+}

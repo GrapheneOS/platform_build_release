@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "no_visibility_event_on_display_state_change"
+  state: ENABLED
+  permission: READ_ONLY
+}

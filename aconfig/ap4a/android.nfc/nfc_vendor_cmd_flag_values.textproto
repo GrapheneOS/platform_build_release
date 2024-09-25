@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_vendor_cmd"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.contentprotection.flags"
+  name: "manage_device_policy_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_null_session_in_media_browser_service"
+  state: ENABLED
+  permission: READ_ONLY
+}

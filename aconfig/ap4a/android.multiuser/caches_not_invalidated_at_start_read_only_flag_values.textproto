@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.multiuser"
+  name: "caches_not_invalidated_at_start_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+}
