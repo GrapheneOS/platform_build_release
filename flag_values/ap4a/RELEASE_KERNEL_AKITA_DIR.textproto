@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_AKITA_DIR"
 value: {
-  string_value: "device/google/akita-kernels/5.15/24Q4-12328778"
+  string_value: "device/google/akita-kernels/5.15/24Q4-12442519"
 }
