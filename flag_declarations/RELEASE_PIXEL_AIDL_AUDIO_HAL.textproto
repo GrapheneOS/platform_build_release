@@ -1,0 +1,8 @@
+name: "RELEASE_PIXEL_AIDL_AUDIO_HAL"
+namespace: "android_UNKNOWN"
+description: "use AIDL audio HAL"
+value: {
+  bool_value: false
+}
+workflow: LAUNCH
+containers: "vendor"
