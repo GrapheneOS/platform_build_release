@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "continue_service_discovery_when_cancel_device_discovery"
-  state: ENABLED
-  permission: READ_WRITE
-}

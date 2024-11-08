@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "haptic_brightness_slider"
-  state: ENABLED
-  permission: READ_WRITE
-}

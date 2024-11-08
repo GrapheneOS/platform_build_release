@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.admin.flags"
-  name: "disallow_user_control_bg_usage_fix"
-  state: ENABLED
-  permission: READ_WRITE
-}

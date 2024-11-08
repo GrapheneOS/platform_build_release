@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.window.flags"
-  name: "embedded_activity_back_nav_flag"
-  state: ENABLED
-  permission: READ_WRITE
-}

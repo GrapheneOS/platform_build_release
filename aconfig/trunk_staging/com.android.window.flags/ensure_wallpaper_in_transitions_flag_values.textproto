@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "ensure_wallpaper_in_transitions"
+  state: ENABLED
+  permission: READ_WRITE
+}

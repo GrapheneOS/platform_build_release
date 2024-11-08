@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.chre.flags"
-  name: "metrics_reporter_in_the_daemon"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.os"
-  name: "adpf_fmq_eager_send"
-  state: ENABLED
-  permission: READ_ONLY
-}

@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.os"
-  name: "bugreport_mode_max_value"
-  state: ENABLED
-  permission: READ_WRITE
-}

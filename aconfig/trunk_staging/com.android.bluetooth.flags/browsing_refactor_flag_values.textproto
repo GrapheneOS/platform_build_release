@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "browsing_refactor"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.admin.flags"
-  name: "coexistence_migration_for_non_emm_management_enabled"
-  state: ENABLED
-  permission: READ_WRITE
-}

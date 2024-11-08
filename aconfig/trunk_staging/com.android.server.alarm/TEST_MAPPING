@@ -1,7 +1,0 @@
-{
-  "imports": [
-    {
-      "path": "frameworks/base/apex/jobscheduler/service/java/com/android/server/alarm"
-    }
-  ]
-}
