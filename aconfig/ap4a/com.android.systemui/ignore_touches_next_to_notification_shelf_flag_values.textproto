@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "expand_heads_up_on_inline_reply"
+  name: "ignore_touches_next_to_notification_shelf"
   state: ENABLED
   permission: READ_ONLY
 }

@@ -1,6 +1,0 @@
-flag_value {
-  package: "libgooglecamerahal.flags"
-  name: "zsl_video_denoise_in_hwl"
-  state: ENABLED
-  permission: READ_ONLY
-}
