@@ -1,4 +1,4 @@
-name: "RELEASE_LIBPOWER_NO_LOCK_BINDER_TXN"
+name:  "RELEASE_LIBPOWER_NO_LOCK_BINDER_TXN"
 value: {
   bool_value: true
 }
