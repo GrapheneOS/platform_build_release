@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "migrate_clocks_to_blueprint"
+  state: ENABLED
+  permission: READ_ONLY
+}
