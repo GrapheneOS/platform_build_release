@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "empty_names_are_invalid"
+  state: ENABLED
+  permission: READ_ONLY
+}
