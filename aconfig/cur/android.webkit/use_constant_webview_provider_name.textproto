@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.webkit"
+  name: "use_constant_webview_provider_name"
+  state: ENABLED
+  permission: READ_ONLY
+}
