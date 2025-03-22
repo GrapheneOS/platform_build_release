@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.media.codec"
+  name: "codec_availability"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.media.codec/codec_availability_flag_values.textproto : ENABLED
+}

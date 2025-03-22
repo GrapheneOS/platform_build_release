@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "return_animation_framework_long_lived"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.systemui.shared/return_animation_framework_long_lived_flag_values.textproto : ENABLED
+}

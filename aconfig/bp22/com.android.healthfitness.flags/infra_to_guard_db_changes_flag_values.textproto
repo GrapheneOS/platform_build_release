@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "infra_to_guard_db_changes"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.healthfitness.flags/infra_to_guard_db_changes_flag_values.textproto : ENABLED
+}

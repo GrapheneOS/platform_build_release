@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.security.keystore2-all",
+  package: "android.security.keystore2",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

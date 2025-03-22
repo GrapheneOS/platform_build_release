@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "local_only_connection_optimization"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.wifi.flags/local_only_connection_optimization_flag_values.textproto : ENABLED
+}

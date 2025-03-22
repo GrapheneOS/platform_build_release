@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "deprecate_cdma"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.telephony.flags/deprecate_cdma_flag_values.textproto : ENABLED
+}

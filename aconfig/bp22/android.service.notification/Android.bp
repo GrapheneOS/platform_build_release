@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.service.notification-all",
+  package: "android.service.notification",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

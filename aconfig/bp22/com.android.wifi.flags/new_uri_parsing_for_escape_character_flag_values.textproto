@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "new_uri_parsing_for_escape_character"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.wifi.flags/new_uri_parsing_for_escape_character_flag_values.textproto : ENABLED
+}

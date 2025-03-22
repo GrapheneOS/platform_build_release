@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "set_resource_holder_retain"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.media.tv.flags/set_resource_holder_retain_flag_values.textproto : ENABLED
+}

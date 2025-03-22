@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "le_enc_on_reconnect"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/le_enc_on_reconnect_flag_values.textproto : ENABLED
+}

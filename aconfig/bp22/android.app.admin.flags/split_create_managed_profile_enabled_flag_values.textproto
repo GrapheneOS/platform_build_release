@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "split_create_managed_profile_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.app.admin.flags/split_create_managed_profile_enabled_flag_values.textproto : ENABLED
+}

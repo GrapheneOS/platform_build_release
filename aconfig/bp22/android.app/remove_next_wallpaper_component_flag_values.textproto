@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.app"
+  name: "remove_next_wallpaper_component"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.app/remove_next_wallpaper_component_flag_values.textproto : ENABLED
+}

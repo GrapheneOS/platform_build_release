@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_enable_report_event_for_component_seller"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.adservices.flags/fledge_enable_report_event_for_component_seller_flag_values.textproto : ENABLED
+}
