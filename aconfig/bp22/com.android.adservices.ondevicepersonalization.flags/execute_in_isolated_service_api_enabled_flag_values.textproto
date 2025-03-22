@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "execute_in_isolated_service_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.adservices.ondevicepersonalization.flags/execute_in_isolated_service_api_enabled_flag_values.textproto : ENABLED
+}

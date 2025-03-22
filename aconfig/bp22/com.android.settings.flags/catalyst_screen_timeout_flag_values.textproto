@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "catalyst_screen_timeout"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.settings.flags/catalyst_screen_timeout_flag_values.textproto : ENABLED
+}

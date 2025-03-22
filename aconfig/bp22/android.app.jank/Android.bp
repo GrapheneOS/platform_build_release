@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.app.jank-all",
+  package: "android.app.jank",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

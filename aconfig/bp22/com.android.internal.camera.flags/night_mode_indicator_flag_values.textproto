@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "night_mode_indicator"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.camera.flags/night_mode_indicator_flag_values.textproto : ENABLED
+}

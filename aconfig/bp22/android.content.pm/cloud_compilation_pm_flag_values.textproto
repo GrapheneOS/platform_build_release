@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.content.pm"
+  name: "cloud_compilation_pm"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.content.pm/cloud_compilation_pm_flag_values.textproto : ENABLED
+}

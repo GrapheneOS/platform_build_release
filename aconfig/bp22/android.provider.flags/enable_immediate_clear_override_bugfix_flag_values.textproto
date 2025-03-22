@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.provider.flags"
+  name: "enable_immediate_clear_override_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.provider.flags/enable_immediate_clear_override_bugfix_flag_values.textproto : ENABLED
+}

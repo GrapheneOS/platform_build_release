@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "ipv6_over_ble"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.net.flags/ipv6_over_ble_flag_values.textproto : ENABLED
+}

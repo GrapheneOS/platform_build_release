@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "tuner_w_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.media.tv.flags/tuner_w_apis_flag_values.textproto : ENABLED
+}

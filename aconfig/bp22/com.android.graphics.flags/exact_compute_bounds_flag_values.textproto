@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.graphics.flags"
+  name: "exact_compute_bounds"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.graphics.flags/exact_compute_bounds_flag_values.textproto : ENABLED
+}

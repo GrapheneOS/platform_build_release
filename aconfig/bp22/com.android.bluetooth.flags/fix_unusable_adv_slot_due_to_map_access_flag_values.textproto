@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_unusable_adv_slot_due_to_map_access"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/fix_unusable_adv_slot_due_to_map_access_flag_values.textproto : ENABLED
+}

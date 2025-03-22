@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "executable_method_file_offsets"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.art.flags/executable_method_file_offsets_flag_values.textproto : ENABLED
+}

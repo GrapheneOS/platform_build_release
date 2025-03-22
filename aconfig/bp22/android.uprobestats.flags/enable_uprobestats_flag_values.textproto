@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.uprobestats.flags"
+  name: "enable_uprobestats"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google/release/aconfig/bp2a/android.uprobestats.flags/enable_uprobestats_flag_values.textproto : ENABLED
+}

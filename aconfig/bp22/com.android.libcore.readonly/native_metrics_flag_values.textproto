@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.libcore.readonly"
+  name: "native_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.libcore.readonly/native_metrics_flag_values.textproto : ENABLED
+}

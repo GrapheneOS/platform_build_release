@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "auto_data_switch_enhanced"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.telephony.flags/auto_data_switch_enhanced_flag_values.textproto : ENABLED
+}

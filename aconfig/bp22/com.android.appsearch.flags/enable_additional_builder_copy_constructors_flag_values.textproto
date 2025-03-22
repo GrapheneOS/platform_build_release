@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_additional_builder_copy_constructors"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.appsearch.flags/enable_additional_builder_copy_constructors_flag_values.textproto : ENABLED
+}

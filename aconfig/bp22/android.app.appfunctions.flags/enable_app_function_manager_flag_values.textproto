@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.app.appfunctions.flags"
+  name: "enable_app_function_manager"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.app.appfunctions.flags/enable_app_function_manager_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.content.pm"
+  name: "get_package_info_with_fd"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.content.pm/get_package_info_with_fd_flag_values.textproto : ENABLED
+}

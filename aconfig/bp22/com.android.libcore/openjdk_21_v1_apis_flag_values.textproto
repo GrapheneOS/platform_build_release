@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "openjdk_21_v1_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.libcore/openjdk_21_v1_apis_flag_values.textproto : ENABLED
+}
