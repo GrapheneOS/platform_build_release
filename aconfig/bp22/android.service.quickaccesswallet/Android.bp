@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.service.quickaccesswallet-all",
+  package: "android.service.quickaccesswallet",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

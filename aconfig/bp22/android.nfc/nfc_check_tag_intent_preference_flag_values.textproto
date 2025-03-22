@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_check_tag_intent_preference"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.nfc/nfc_check_tag_intent_preference_flag_values.textproto : ENABLED
+}

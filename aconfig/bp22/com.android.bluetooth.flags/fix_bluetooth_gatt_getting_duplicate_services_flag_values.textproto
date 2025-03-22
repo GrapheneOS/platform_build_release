@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_bluetooth_gatt_getting_duplicate_services"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/fix_bluetooth_gatt_getting_duplicate_services_flag_values.textproto : ENABLED
+}

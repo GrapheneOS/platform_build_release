@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "personal_health_record_lock_screen_banner"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.healthfitness.flags/personal_health_record_lock_screen_banner_flag_values.textproto : ENABLED
+}

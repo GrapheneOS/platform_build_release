@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.app.supervision.flags-all",
+  package: "android.app.supervision.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

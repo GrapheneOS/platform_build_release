@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-com.android.tradeinmode.flags-all",
+  package: "com.android.tradeinmode.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

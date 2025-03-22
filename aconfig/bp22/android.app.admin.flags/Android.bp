@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.app.admin.flags-all",
+  package: "android.app.admin.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

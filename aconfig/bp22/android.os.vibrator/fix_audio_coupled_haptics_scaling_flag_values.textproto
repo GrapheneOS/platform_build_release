@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "fix_audio_coupled_haptics_scaling"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.os.vibrator/fix_audio_coupled_haptics_scaling_flag_values.textproto : ENABLED
+}

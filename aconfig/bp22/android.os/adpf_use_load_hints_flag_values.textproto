@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_use_load_hints"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.os/adpf_use_load_hints_flag_values.textproto : ENABLED
+}

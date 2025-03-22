@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.media.codec"
+  name: "secure_codecs_require_crypto"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.media.codec/secure_codecs_require_crypto_flag_values.textproto : ENABLED
+}

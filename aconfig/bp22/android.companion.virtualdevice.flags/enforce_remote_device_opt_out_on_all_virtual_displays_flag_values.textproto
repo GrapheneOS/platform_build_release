@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "enforce_remote_device_opt_out_on_all_virtual_displays"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.companion.virtualdevice.flags/enforce_remote_device_opt_out_on_all_virtual_displays_flag_values.textproto : ENABLED
+}
