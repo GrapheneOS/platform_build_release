@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.multiuser"
+  name: "cache_user_properties_correctly_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.multiuser/cache_user_properties_correctly_read_only_flag_values.textproto : ENABLED
+}

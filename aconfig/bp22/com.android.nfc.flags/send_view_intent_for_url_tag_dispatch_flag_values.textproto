@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "send_view_intent_for_url_tag_dispatch"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.nfc.flags/send_view_intent_for_url_tag_dispatch_flag_values.textproto : ENABLED
+}

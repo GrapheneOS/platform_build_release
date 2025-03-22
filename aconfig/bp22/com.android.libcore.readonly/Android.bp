@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-com.android.libcore.readonly-all",
+  package: "com.android.libcore.readonly",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

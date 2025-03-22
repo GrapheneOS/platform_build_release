@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "use_rt_frame_callback_for_splash_screen_transfer"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.window.flags/use_rt_frame_callback_for_splash_screen_transfer_flag_values.textproto : ENABLED
+}

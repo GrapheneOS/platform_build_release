@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_dismiss_prediction_undo"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.launcher3/enable_dismiss_prediction_undo_flag_values.textproto : ENABLED
+}

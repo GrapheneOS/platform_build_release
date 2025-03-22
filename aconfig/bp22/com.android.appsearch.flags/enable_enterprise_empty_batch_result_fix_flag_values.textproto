@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_enterprise_empty_batch_result_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.appsearch.flags/enable_enterprise_empty_batch_result_fix_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "text_classifier_choice_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.permission.flags/text_classifier_choice_api_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "inferred_media_date"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.providers.media.flags/inferred_media_date_flag_values.textproto : ENABLED
+}

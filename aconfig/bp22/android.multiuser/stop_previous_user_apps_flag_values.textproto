@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.multiuser"
+  name: "stop_previous_user_apps"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.multiuser/stop_previous_user_apps_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-com.android.calllogbackup-all",
+  package: "com.android.calllogbackup",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

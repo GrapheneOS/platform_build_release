@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "telecom_metrics_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.server.telecom.flags/telecom_metrics_support_flag_values.textproto : ENABLED
+}

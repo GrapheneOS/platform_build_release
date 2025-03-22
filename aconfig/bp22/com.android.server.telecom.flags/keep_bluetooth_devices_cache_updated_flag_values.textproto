@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "keep_bluetooth_devices_cache_updated"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.server.telecom.flags/keep_bluetooth_devices_cache_updated_flag_values.textproto : ENABLED
+}

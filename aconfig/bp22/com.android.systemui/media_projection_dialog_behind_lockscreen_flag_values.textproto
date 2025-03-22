@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "media_projection_dialog_behind_lockscreen"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.systemui/media_projection_dialog_behind_lockscreen_flag_values.textproto : ENABLED
+}

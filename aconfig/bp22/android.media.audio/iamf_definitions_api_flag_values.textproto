@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.media.audio"
+  name: "iamf_definitions_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.media.audio/iamf_definitions_api_flag_values.textproto : ENABLED
+}

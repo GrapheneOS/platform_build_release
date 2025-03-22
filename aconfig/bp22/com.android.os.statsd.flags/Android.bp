@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-com.android.os.statsd.flags-all",
+  package: "com.android.os.statsd.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}
