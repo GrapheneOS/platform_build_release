@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "release_snapshot_aggressively"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.window.flags/release_snapshot_aggressively_flag_values.textproto : ENABLED
+}

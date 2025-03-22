@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-com.android.apex.flags-all",
+  package: "com.android.apex.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

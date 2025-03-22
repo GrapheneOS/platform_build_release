@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "support_sms_over_ims_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.telephony.flags/support_sms_over_ims_apis_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-com.android.media.audioserver-all",
+  package: "com.android.media.audioserver",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

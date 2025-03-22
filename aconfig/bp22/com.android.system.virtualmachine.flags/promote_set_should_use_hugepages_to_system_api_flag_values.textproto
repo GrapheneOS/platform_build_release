@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.system.virtualmachine.flags"
+  name: "promote_set_should_use_hugepages_to_system_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.system.virtualmachine.flags/promote_set_should_use_hugepages_to_system_api_flag_values.textproto : ENABLED
+}

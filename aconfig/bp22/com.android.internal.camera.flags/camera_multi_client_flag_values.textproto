@@ -1,0 +1,7 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "camera_multi_client"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.camera.flags/camera_multi_client_flag_values.textproto : ENABLED
+}

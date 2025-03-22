@@ -1,0 +1,7 @@
+flag_value {
+  package: "android.media.swcodec.flags"
+  name: "mpeg2_keep_threads_active"
+  state: ENABLED
+  permission: READ_ONLY
+  # vendor/google_shared/build/release/aconfig/bp2a/android.media.swcodec.flags/mpeg2_keep_threads_active_flag_values.textproto : ENABLED
+}
