@@ -1,0 +1,4 @@
+name: "RELEASE_KERNEL_TEGU_DIR"
+value: {
+  string_value: "device/google/tegu-kernels/6.1/grapheneos"
+}
