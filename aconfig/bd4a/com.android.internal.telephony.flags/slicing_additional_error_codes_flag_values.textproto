@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "slicing_additional_error_codes"
+  state: ENABLED
+  permission: READ_ONLY
+}
