@@ -1,0 +1,7 @@
+aconfig_value_set {
+    name: "aconfig_value_set-bd4a",
+    values: [
+        "aconfig-values-bd4a-android.app-all",
+        "aconfig-values-bd4a-com.android.internal.telephony.flags-all",
+    ]
+}
