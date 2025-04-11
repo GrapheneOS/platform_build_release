@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "skip_mmi_code_check_for_emergency_call"
+  state: ENABLED
+  permission: READ_ONLY
+}

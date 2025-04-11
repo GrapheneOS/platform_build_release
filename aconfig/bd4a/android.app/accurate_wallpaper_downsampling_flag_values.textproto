@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app"
+  name: "accurate_wallpaper_downsampling"
+  state: DISABLED
+  permission: READ_ONLY
+}
