@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bonded_device_smp_failure_handling"
+  state: ENABLED
+  permission: READ_ONLY
+}
