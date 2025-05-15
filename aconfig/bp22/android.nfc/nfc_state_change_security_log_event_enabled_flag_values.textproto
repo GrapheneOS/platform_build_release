@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.nfc/nfc_state_change_security_log_event_enabled_flag_values.textproto : ENABLED
 flag_value {
   package: "android.nfc"
   name: "nfc_state_change_security_log_event_enabled"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.nfc/nfc_state_change_security_log_event_enabled_flag_values.textproto : ENABLED
 }

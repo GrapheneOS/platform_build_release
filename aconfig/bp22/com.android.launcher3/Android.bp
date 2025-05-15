@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-com.android.launcher3-all",
-  package: "com.android.launcher3",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

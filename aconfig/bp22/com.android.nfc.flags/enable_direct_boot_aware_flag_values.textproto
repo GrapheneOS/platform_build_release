@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.nfc.flags/enable_direct_boot_aware_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.nfc.flags"
   name: "enable_direct_boot_aware"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.nfc.flags/enable_direct_boot_aware_flag_values.textproto : ENABLED
 }

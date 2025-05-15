@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.media.audio/defer_wear_permission_updates_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.media.audio"
+  name: "defer_wear_permission_updates"
+  state: ENABLED
+  permission: READ_ONLY
+}

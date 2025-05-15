@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/skip_decor_view_relayout_when_closing_bugfix_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "skip_decor_view_relayout_when_closing_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.os.vibrator/vibration_xml_apis_flag_values.textproto : ENABLED
 flag_value {
   package: "android.os.vibrator"
   name: "vibration_xml_apis"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.os.vibrator/vibration_xml_apis_flag_values.textproto : ENABLED
 }

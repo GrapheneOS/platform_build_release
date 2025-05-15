@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.intentresolver/announce_shortcuts_and_suggested_apps_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.intentresolver"
+  name: "announce_shortcuts_and_suggested_apps"
+  state: ENABLED
+  permission: READ_ONLY
+}

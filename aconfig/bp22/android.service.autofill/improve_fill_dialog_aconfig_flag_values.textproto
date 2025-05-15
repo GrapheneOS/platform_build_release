@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.service.autofill/improve_fill_dialog_aconfig_flag_values.textproto : ENABLED
 flag_value {
   package: "android.service.autofill"
   name: "improve_fill_dialog_aconfig"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.service.autofill/improve_fill_dialog_aconfig_flag_values.textproto : ENABLED
 }

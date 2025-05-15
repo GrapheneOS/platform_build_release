@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.providers.media.flags"
-  name: "audio_sample_columns"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.providers.media.flags/audio_sample_columns_flag_values.textproto : ENABLED
-}

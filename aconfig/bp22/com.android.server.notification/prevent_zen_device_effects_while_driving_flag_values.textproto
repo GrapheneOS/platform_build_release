@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.notification/prevent_zen_device_effects_while_driving_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.notification"
+  name: "prevent_zen_device_effects_while_driving"
+  state: ENABLED
+  permission: READ_ONLY
+}

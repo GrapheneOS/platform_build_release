@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.graphics.hwui.flags/calc_workload_orig_deadline_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "calc_workload_orig_deadline"
+  state: ENABLED
+  permission: READ_ONLY
+}

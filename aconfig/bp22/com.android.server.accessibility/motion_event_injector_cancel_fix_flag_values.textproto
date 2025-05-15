@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.accessibility/motion_event_injector_cancel_fix_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "motion_event_injector_cancel_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

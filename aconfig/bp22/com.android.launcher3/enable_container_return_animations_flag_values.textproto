@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.launcher3"
-  name: "enable_container_return_animations"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.launcher3/enable_container_return_animations_flag_values.textproto : ENABLED
-}

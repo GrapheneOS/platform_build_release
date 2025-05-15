@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.app.jank/detailed_app_jank_metrics_api_flag_values.textproto : ENABLED
 flag_value {
   package: "android.app.jank"
   name: "detailed_app_jank_metrics_api"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.app.jank/detailed_app_jank_metrics_api_flag_values.textproto : ENABLED
 }

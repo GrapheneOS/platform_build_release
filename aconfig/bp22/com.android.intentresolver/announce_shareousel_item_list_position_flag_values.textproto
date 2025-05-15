@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.intentresolver/announce_shareousel_item_list_position_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.intentresolver"
+  name: "announce_shareousel_item_list_position"
+  state: ENABLED
+  permission: READ_ONLY
+}

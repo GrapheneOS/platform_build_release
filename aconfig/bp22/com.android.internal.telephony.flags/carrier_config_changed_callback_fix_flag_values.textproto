@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/carrier_config_changed_callback_fix_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "carrier_config_changed_callback_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

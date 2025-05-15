@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.app/notif_channel_estimate_effect_size_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app"
+  name: "notif_channel_estimate_effect_size"
+  state: ENABLED
+  permission: READ_ONLY
+}

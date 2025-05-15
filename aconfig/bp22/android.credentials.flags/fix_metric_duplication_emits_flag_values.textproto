@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.credentials.flags/fix_metric_duplication_emits_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.credentials.flags"
+  name: "fix_metric_duplication_emits"
+  state: ENABLED
+  permission: READ_ONLY
+}

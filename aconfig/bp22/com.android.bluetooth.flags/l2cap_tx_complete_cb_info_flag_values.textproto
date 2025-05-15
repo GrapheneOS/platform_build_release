@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "l2cap_tx_complete_cb_info"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/l2cap_tx_complete_cb_info_flag_values.textproto : ENABLED
-}

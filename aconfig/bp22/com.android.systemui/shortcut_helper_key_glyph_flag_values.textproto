@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/shortcut_helper_key_glyph_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.systemui"
   name: "shortcut_helper_key_glyph"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.systemui/shortcut_helper_key_glyph_flag_values.textproto : ENABLED
 }

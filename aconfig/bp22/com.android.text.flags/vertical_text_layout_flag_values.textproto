@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.text.flags/vertical_text_layout_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.text.flags"
   name: "vertical_text_layout"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.text.flags/vertical_text_layout_flag_values.textproto : ENABLED
 }

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/enable_taskbar_recents_layout_transition_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_taskbar_recents_layout_transition"
+  state: ENABLED
+  permission: READ_ONLY
+}

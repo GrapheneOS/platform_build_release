@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/check_lockscreen_gone_transition_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.systemui"
   name: "check_lockscreen_gone_transition"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.systemui/check_lockscreen_gone_transition_flag_values.textproto : ENABLED
 }

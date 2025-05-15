@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/perform_cross_stack_redial_check_for_emergency_call_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "perform_cross_stack_redial_check_for_emergency_call"
+  state: ENABLED
+  permission: READ_ONLY
+}

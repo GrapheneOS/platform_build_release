@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.multiuser/place_add_user_dialog_within_activity_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.multiuser"
+  name: "place_add_user_dialog_within_activity"
+  state: ENABLED
+  permission: READ_ONLY
+}

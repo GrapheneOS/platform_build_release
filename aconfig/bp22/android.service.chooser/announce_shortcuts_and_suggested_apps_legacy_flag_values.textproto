@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.service.chooser/announce_shortcuts_and_suggested_apps_legacy_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.service.chooser"
+  name: "announce_shortcuts_and_suggested_apps_legacy"
+  state: ENABLED
+  permission: READ_ONLY
+}

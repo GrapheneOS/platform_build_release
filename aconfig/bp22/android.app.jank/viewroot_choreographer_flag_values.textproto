@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.app.jank/viewroot_choreographer_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app.jank"
+  name: "viewroot_choreographer"
+  state: ENABLED
+  permission: READ_ONLY
+}

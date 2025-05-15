@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.telecom.flags/bus_device_is_a_speaker_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "bus_device_is_a_speaker"
+  state: ENABLED
+  permission: READ_ONLY
+}

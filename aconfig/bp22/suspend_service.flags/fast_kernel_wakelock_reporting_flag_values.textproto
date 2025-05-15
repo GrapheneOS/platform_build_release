@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/suspend_service.flags/fast_kernel_wakelock_reporting_flag_values.textproto : ENABLED
+flag_value {
+  package: "suspend_service.flags"
+  name: "fast_kernel_wakelock_reporting"
+  state: ENABLED
+  permission: READ_ONLY
+}

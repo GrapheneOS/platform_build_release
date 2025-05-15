@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-com.android.sdksandbox.flags-all",
-  package: "com.android.sdksandbox.flags",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

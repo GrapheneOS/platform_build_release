@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.os/disable_madvise_artfile_default_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.os"
+  name: "disable_madvise_artfile_default"
+  state: ENABLED
+  permission: READ_ONLY
+}

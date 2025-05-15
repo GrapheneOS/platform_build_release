@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.service.quickaccesswallet/launch_wallet_via_sysui_callbacks_flag_values.textproto : ENABLED
 flag_value {
   package: "android.service.quickaccesswallet"
   name: "launch_wallet_via_sysui_callbacks"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.service.quickaccesswallet/launch_wallet_via_sysui_callbacks_flag_values.textproto : ENABLED
 }

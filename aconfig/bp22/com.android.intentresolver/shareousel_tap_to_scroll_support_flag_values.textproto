@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.intentresolver/shareousel_tap_to_scroll_support_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.intentresolver"
+  name: "shareousel_tap_to_scroll_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

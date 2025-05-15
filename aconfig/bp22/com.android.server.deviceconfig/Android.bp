@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-com.android.server.deviceconfig-all",
-  package: "com.android.server.deviceconfig",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

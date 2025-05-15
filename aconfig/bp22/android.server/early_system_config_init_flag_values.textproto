@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.server/early_system_config_init_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.server"
+  name: "early_system_config_init"
+  state: ENABLED
+  permission: READ_ONLY
+}

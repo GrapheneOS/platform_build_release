@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.credentials.flags/package_update_fix_enabled_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.credentials.flags"
+  name: "package_update_fix_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

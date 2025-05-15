@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.window.flags"
-  name: "allow_multiple_adjacent_task_fragments"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.window.flags/allow_multiple_adjacent_task_fragments_flag_values.textproto : ENABLED
-}

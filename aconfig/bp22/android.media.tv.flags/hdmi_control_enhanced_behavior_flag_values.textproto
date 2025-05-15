@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.media.tv.flags/hdmi_control_enhanced_behavior_flag_values.textproto : ENABLED
 flag_value {
   package: "android.media.tv.flags"
   name: "hdmi_control_enhanced_behavior"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.media.tv.flags/hdmi_control_enhanced_behavior_flag_values.textproto : ENABLED
 }

@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/better_support_non_match_parent_activity_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.window.flags"
   name: "better_support_non_match_parent_activity"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.window.flags/better_support_non_match_parent_activity_flag_values.textproto : ENABLED
 }

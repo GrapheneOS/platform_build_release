@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.widget.flags/fix_unbolded_typeface_for_numberpicker_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.widget.flags"
+  name: "fix_unbolded_typeface_for_numberpicker"
+  state: ENABLED
+  permission: READ_ONLY
+}

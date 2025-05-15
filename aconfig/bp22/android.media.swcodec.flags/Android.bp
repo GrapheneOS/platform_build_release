@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-android.media.swcodec.flags-all",
-  package: "android.media.swcodec.flags",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

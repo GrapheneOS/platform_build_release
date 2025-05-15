@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.telecom.flags/dont_use_communication_device_tracker_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "dont_use_communication_device_tracker"
+  state: ENABLED
+  permission: READ_ONLY
+}

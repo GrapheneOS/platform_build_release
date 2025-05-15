@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/subscription_plan_allow_status_and_end_date_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.internal.telephony.flags"
   name: "subscription_plan_allow_status_and_end_date"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.telephony.flags/subscription_plan_allow_status_and_end_date_flag_values.textproto : ENABLED
 }

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.hardware.input/abort_slow_multi_press_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.hardware.input"
+  name: "abort_slow_multi_press"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.telecom.flags/enable_call_exception_anom_reports_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "enable_call_exception_anom_reports"
+  state: ENABLED
+  permission: READ_ONLY
+}
