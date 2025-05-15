@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/enable_input_layer_transition_fix_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_input_layer_transition_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/keyguard_wm_reorder_atms_calls_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui"
+  name: "keyguard_wm_reorder_atms_calls"
+  state: ENABLED
+  permission: READ_ONLY
+}

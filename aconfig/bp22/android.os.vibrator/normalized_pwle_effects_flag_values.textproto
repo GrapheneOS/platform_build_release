@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.os.vibrator/normalized_pwle_effects_flag_values.textproto : ENABLED
 flag_value {
   package: "android.os.vibrator"
   name: "normalized_pwle_effects"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.os.vibrator/normalized_pwle_effects_flag_values.textproto : ENABLED
 }

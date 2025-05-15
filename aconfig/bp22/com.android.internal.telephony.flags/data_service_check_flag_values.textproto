@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/data_service_check_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "data_service_check"
+  state: ENABLED
+  permission: READ_ONLY
+}

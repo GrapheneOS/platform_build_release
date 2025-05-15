@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.os/message_queue_testability_flag_values.textproto : ENABLED
 flag_value {
   package: "android.os"
   name: "message_queue_testability"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.os/message_queue_testability_flag_values.textproto : ENABLED
 }

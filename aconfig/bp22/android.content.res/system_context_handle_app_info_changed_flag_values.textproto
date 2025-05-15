@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.content.res/system_context_handle_app_info_changed_flag_values.textproto : ENABLED
 flag_value {
   package: "android.content.res"
   name: "system_context_handle_app_info_changed"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.content.res/system_context_handle_app_info_changed_flag_values.textproto : ENABLED
 }

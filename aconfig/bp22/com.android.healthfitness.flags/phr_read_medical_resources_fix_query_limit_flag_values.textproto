@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.healthfitness.flags"
-  name: "phr_read_medical_resources_fix_query_limit"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.healthfitness.flags/phr_read_medical_resources_fix_query_limit_flag_values.textproto : ENABLED
-}

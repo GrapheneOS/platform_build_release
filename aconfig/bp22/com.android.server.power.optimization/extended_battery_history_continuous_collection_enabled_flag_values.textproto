@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.power.optimization/extended_battery_history_continuous_collection_enabled_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "extended_battery_history_continuous_collection_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+}

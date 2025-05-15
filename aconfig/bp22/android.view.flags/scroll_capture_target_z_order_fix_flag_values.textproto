@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.view.flags/scroll_capture_target_z_order_fix_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.view.flags"
+  name: "scroll_capture_target_z_order_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

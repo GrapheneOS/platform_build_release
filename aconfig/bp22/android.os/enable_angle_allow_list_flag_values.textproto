@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.os/enable_angle_allow_list_flag_values.textproto : ENABLED
 flag_value {
   package: "android.os"
   name: "enable_angle_allow_list"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.os/enable_angle_allow_list_flag_values.textproto : ENABLED
 }

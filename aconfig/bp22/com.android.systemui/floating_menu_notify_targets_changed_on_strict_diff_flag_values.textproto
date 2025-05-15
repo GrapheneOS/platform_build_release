@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/floating_menu_notify_targets_changed_on_strict_diff_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui"
+  name: "floating_menu_notify_targets_changed_on_strict_diff"
+  state: ENABLED
+  permission: READ_ONLY
+}

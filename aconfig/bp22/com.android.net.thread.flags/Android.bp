@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-com.android.net.thread.flags-all",
-  package: "com.android.net.thread.flags",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

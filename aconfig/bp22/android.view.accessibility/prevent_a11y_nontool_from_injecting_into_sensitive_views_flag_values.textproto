@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.view.accessibility/prevent_a11y_nontool_from_injecting_into_sensitive_views_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.view.accessibility"
+  name: "prevent_a11y_nontool_from_injecting_into_sensitive_views"
+  state: ENABLED
+  permission: READ_ONLY
+}

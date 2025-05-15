@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.app/jank_perceptible_narrow_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app"
+  name: "jank_perceptible_narrow"
+  state: ENABLED
+  permission: READ_ONLY
+}

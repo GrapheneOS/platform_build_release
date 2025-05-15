@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.managedprovisioning.flags/stop_disruptive_announcement_education_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "stop_disruptive_announcement_education"
+  state: ENABLED
+  permission: READ_ONLY
+}

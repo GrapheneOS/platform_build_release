@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.app.usage/get_app_art_managed_bytes_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app.usage"
+  name: "get_app_art_managed_bytes"
+  state: ENABLED
+  permission: READ_ONLY
+}

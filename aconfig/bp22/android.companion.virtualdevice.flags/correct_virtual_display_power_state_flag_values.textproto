@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.companion.virtualdevice.flags/correct_virtual_display_power_state_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "correct_virtual_display_power_state"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.app/app_start_info_keep_records_sorted_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app"
+  name: "app_start_info_keep_records_sorted"
+  state: ENABLED
+  permission: READ_ONLY
+}

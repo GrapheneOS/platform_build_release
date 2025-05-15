@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.view.contentprotection.flags/exported_settings_activity_enabled_flag_values.textproto : ENABLED
 flag_value {
   package: "android.view.contentprotection.flags"
   name: "exported_settings_activity_enabled"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.view.contentprotection.flags/exported_settings_activity_enabled_flag_values.textproto : ENABLED
 }

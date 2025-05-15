@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.graphics.hwui.flags/early_preinit_buffer_allocator_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "early_preinit_buffer_allocator"
+  state: ENABLED
+  permission: READ_ONLY
+}

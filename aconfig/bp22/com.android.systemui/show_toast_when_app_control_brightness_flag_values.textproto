@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/show_toast_when_app_control_brightness_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.systemui"
   name: "show_toast_when_app_control_brightness"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.systemui/show_toast_when_app_control_brightness_flag_values.textproto : ENABLED
 }

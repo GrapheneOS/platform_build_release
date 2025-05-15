@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.shell.flags/handle_bugreports_for_wear_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.shell.flags"
   name: "handle_bugreports_for_wear"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.shell.flags/handle_bugreports_for_wear_flag_values.textproto : ENABLED
 }

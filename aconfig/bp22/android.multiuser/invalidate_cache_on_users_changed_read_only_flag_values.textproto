@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.multiuser/invalidate_cache_on_users_changed_read_only_flag_values.textproto : ENABLED
 flag_value {
   package: "android.multiuser"
   name: "invalidate_cache_on_users_changed_read_only"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.multiuser/invalidate_cache_on_users_changed_read_only_flag_values.textproto : ENABLED
 }

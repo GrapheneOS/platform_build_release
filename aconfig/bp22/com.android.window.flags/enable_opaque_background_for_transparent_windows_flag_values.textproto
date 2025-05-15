@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/enable_opaque_background_for_transparent_windows_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_opaque_background_for_transparent_windows"
+  state: ENABLED
+  permission: READ_ONLY
+}

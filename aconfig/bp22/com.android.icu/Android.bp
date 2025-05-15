@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-com.android.icu-all",
-  package: "com.android.icu",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

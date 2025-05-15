@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.net.flags"
-  name: "tethering_with_soft_ap_config"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.net.flags/tethering_with_soft_ap_config_flag_values.textproto : ENABLED
-}

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/phone_type_cleanup_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "phone_type_cleanup"
+  state: ENABLED
+  permission: READ_ONLY
+}

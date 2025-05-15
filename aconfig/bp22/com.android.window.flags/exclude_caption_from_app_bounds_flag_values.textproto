@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/exclude_caption_from_app_bounds_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "exclude_caption_from_app_bounds"
+  state: ENABLED
+  permission: READ_ONLY
+}

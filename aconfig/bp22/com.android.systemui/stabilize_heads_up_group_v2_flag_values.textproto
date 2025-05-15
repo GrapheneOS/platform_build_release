@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/stabilize_heads_up_group_v2_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui"
+  name: "stabilize_heads_up_group_v2"
+  state: ENABLED
+  permission: READ_ONLY
+}

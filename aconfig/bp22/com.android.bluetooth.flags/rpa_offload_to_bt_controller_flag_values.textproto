@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "rpa_offload_to_bt_controller"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/rpa_offload_to_bt_controller_flag_values.textproto : ENABLED
-}

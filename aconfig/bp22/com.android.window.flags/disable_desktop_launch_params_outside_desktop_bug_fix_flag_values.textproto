@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/disable_desktop_launch_params_outside_desktop_bug_fix_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "disable_desktop_launch_params_outside_desktop_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+}

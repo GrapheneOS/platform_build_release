@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/cache_window_style_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "cache_window_style"
+  state: ENABLED
+  permission: READ_ONLY
+}

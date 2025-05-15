@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.job/tune_quota_window_default_parameters_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.job"
+  name: "tune_quota_window_default_parameters"
+  state: ENABLED
+  permission: READ_ONLY
+}

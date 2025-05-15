@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.location.flags/density_based_coarse_locations_flag_values.textproto : ENABLED
 flag_value {
   package: "android.location.flags"
   name: "density_based_coarse_locations"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.location.flags/density_based_coarse_locations_flag_values.textproto : ENABLED
 }

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/clear_system_vibrator_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "clear_system_vibrator"
+  state: ENABLED
+  permission: READ_ONLY
+}

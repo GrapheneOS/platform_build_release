@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.managedprovisioning.flags/underline_policy_link_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "underline_policy_link"
+  state: ENABLED
+  permission: READ_ONLY
+}

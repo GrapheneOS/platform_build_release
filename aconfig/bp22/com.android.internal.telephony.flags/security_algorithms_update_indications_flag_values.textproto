@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/security_algorithms_update_indications_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.internal.telephony.flags"
   name: "security_algorithms_update_indications"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.telephony.flags/security_algorithms_update_indications_flag_values.textproto : ENABLED
 }

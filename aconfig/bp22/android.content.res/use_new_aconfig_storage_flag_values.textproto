@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.content.res/use_new_aconfig_storage_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.content.res"
+  name: "use_new_aconfig_storage"
+  state: ENABLED
+  permission: READ_ONLY
+}

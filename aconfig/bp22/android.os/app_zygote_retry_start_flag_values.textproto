@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.os/app_zygote_retry_start_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.os"
+  name: "app_zygote_retry_start"
+  state: ENABLED
+  permission: READ_ONLY
+}

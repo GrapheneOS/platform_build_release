@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.power.feature.flags/wakelock_attribution_via_workchain_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "wakelock_attribution_via_workchain"
+  state: ENABLED
+  permission: READ_ONLY
+}

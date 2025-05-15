@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.am/avoid_note_op_at_enqueue_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.am"
+  name: "avoid_note_op_at_enqueue"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp22-android.tracing-all",
+  package: "android.tracing",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

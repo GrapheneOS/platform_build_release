@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.companion.virtualdevice.flags/status_bar_and_insets_flag_values.textproto : ENABLED
 flag_value {
   package: "android.companion.virtualdevice.flags"
   name: "status_bar_and_insets"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.companion.virtualdevice.flags/status_bar_and_insets_flag_values.textproto : ENABLED
 }

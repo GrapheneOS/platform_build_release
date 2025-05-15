@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.hardware.devicestate.feature.flags/device_state_configuration_flag_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.hardware.devicestate.feature.flags"
+  name: "device_state_configuration_flag"
+  state: ENABLED
+  permission: READ_ONLY
+}

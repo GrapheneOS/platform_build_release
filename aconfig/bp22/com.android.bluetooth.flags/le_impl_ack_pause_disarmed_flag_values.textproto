@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "le_impl_ack_pause_disarmed"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/le_impl_ack_pause_disarmed_flag_values.textproto : ENABLED
-}

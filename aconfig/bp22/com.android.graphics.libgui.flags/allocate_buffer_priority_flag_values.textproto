@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.graphics.libgui.flags/allocate_buffer_priority_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "allocate_buffer_priority"
+  state: ENABLED
+  permission: READ_ONLY
+}
