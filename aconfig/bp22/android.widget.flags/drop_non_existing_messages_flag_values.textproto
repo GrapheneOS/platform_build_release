@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.widget.flags/drop_non_existing_messages_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.widget.flags"
+  name: "drop_non_existing_messages"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.credentials.flags/framework_session_id_metric_bundle_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.credentials.flags"
+  name: "framework_session_id_metric_bundle"
+  state: ENABLED
+  permission: READ_ONLY
+}

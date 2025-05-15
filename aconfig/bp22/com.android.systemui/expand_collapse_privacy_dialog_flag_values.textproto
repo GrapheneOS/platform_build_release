@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/expand_collapse_privacy_dialog_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui"
+  name: "expand_collapse_privacy_dialog"
+  state: ENABLED
+  permission: READ_ONLY
+}

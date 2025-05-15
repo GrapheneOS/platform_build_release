@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.providers.calendar/defer_post_initialize_work_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.providers.calendar"
+  name: "defer_post_initialize_work"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.icu"
-  name: "telephony_lookup_mcc_extension"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.icu/telephony_lookup_mcc_extension_flag_values.textproto : ENABLED
-}

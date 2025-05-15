@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.am/raise_bound_ui_service_threshold_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.server.am"
   name: "raise_bound_ui_service_threshold"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.server.am/raise_bound_ui_service_threshold_flag_values.textproto : ENABLED
 }

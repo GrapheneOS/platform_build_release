@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.view.inputmethod/fallback_display_for_secondary_user_on_secondary_display_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.view.inputmethod"
+  name: "fallback_display_for_secondary_user_on_secondary_display"
+  state: ENABLED
+  permission: READ_ONLY
+}

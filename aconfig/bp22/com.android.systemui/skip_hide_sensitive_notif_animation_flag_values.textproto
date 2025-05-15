@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/skip_hide_sensitive_notif_animation_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui"
+  name: "skip_hide_sensitive_notif_animation"
+  state: ENABLED
+  permission: READ_ONLY
+}

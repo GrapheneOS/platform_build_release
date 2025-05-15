@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/track_system_ui_context_before_wms_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "track_system_ui_context_before_wms"
+  state: ENABLED
+  permission: READ_ONLY
+}

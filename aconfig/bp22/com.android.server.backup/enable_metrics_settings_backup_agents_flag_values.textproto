@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.backup/enable_metrics_settings_backup_agents_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_metrics_settings_backup_agents"
+  state: ENABLED
+  permission: READ_ONLY
+}

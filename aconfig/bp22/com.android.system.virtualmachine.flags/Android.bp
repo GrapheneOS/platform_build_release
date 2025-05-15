@@ -1,7 +1,0 @@
-aconfig_values {
-  name: "aconfig-values-bp22-com.android.system.virtualmachine.flags-all",
-  package: "com.android.system.virtualmachine.flags",
-  srcs: [
-    "*_flag_values.textproto",
-  ]
-}

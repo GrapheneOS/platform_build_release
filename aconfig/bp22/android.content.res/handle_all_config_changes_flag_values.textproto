@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.content.res/handle_all_config_changes_flag_values.textproto : ENABLED
 flag_value {
   package: "android.content.res"
   name: "handle_all_config_changes"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.content.res/handle_all_config_changes_flag_values.textproto : ENABLED
 }

@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.companion/association_failure_code_flag_values.textproto : ENABLED
 flag_value {
   package: "android.companion"
   name: "association_failure_code"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.companion/association_failure_code_flag_values.textproto : ENABLED
 }

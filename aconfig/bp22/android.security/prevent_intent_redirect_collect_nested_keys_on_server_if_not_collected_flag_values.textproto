@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.security/prevent_intent_redirect_collect_nested_keys_on_server_if_not_collected_flag_values.textproto : ENABLED
 flag_value {
   package: "android.security"
   name: "prevent_intent_redirect_collect_nested_keys_on_server_if_not_collected"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.security/prevent_intent_redirect_collect_nested_keys_on_server_if_not_collected_flag_values.textproto : ENABLED
 }

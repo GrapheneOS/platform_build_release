@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.media.flags/enable_new_wired_media_route_2_info_types_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.media.flags"
   name: "enable_new_wired_media_route_2_info_types"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.media.flags/enable_new_wired_media_route_2_info_types_flag_values.textproto : ENABLED
 }

@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.stats/netstats_use_add_entries_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.server.stats"
   name: "netstats_use_add_entries"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.server.stats/netstats_use_add_entries_flag_values.textproto : ENABLED
 }

@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.settings.flags"
-  name: "catalyst_display_settings_screen"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.settings.flags/catalyst_display_settings_screen_flag_values.textproto : ENABLED
-}

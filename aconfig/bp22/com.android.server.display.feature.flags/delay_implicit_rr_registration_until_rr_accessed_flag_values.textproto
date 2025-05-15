@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.display.feature.flags/delay_implicit_rr_registration_until_rr_accessed_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "delay_implicit_rr_registration_until_rr_accessed"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.apex.flags/enable_brand_new_apex_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.apex.flags"
   name: "enable_brand_new_apex"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.apex.flags/enable_brand_new_apex_flag_values.textproto : ENABLED
 }

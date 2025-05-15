@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.telecom.flags/update_preferred_audio_device_logic_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "update_preferred_audio_device_logic"
+  state: ENABLED
+  permission: READ_ONLY
+}

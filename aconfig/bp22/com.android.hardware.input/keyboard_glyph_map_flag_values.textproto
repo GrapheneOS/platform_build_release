@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.hardware.input/keyboard_glyph_map_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.hardware.input"
   name: "keyboard_glyph_map"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.hardware.input/keyboard_glyph_map_flag_values.textproto : ENABLED
 }

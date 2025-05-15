@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.graphics.hwui.flags/high_contrast_text_inner_text_color_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "high_contrast_text_inner_text_color"
+  state: ENABLED
+  permission: READ_ONLY
+}

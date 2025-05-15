@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.chre.flags/offload_implementation_flag_values.textproto : ENABLED
 flag_value {
   package: "android.chre.flags"
   name: "offload_implementation"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.chre.flags/offload_implementation_flag_values.textproto : ENABLED
 }

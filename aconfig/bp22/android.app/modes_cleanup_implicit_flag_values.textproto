@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.app/modes_cleanup_implicit_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app"
+  name: "modes_cleanup_implicit"
+  state: ENABLED
+  permission: READ_ONLY
+}

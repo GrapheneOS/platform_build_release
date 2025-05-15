@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.uprobestats.flags/executable_method_file_offsets_flag_values.textproto : ENABLED
 flag_value {
   package: "android.uprobestats.flags"
   name: "executable_method_file_offsets"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.uprobestats.flags/executable_method_file_offsets_flag_values.textproto : ENABLED
 }

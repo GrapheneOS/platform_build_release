@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.nfc.flags/ee_aid_select_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.nfc.flags"
   name: "ee_aid_select"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.nfc.flags/ee_aid_select_flag_values.textproto : ENABLED
 }

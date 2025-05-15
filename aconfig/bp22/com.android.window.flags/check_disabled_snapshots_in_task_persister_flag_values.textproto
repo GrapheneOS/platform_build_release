@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/check_disabled_snapshots_in_task_persister_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "check_disabled_snapshots_in_task_persister"
+  state: ENABLED
+  permission: READ_ONLY
+}

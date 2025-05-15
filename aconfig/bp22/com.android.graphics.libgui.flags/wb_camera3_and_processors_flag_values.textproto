@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.graphics.libgui.flags/wb_camera3_and_processors_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "wb_camera3_and_processors"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.internal.telephony.flags/satellite_state_change_listener_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.internal.telephony.flags"
   name: "satellite_state_change_listener"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.internal.telephony.flags/satellite_state_change_listener_flag_values.textproto : ENABLED
 }

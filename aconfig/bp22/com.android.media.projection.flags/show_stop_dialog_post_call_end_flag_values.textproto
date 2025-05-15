@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.media.projection.flags/show_stop_dialog_post_call_end_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.media.projection.flags"
+  name: "show_stop_dialog_post_call_end"
+  state: ENABLED
+  permission: READ_ONLY
+}

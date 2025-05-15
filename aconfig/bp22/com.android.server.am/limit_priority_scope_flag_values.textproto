@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.am/limit_priority_scope_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.server.am"
   name: "limit_priority_scope"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.server.am/limit_priority_scope_flag_values.textproto : ENABLED
 }

@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.view.inputmethod/disallow_disabling_ime_navigation_bar_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.view.inputmethod"
+  name: "disallow_disabling_ime_navigation_bar"
+  state: ENABLED
+  permission: READ_ONLY
+}

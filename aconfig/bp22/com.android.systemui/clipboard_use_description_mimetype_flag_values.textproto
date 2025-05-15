@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui/clipboard_use_description_mimetype_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui"
+  name: "clipboard_use_description_mimetype"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,8 @@
+# vendor/google/release/aconfig/ap4a/android.app.usage/disable_idle_check_flag_values.textproto : ENABLED
+# vendor/google/release/aconfig/bp1a/android.app.usage/disable_idle_check_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.app.usage"
+  name: "disable_idle_check"
+  state: ENABLED
+  permission: READ_ONLY
+}

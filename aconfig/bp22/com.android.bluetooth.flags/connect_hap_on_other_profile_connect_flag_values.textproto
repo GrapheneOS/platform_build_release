@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "connect_hap_on_other_profile_connect"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/connect_hap_on_other_profile_connect_flag_values.textproto : ENABLED
-}

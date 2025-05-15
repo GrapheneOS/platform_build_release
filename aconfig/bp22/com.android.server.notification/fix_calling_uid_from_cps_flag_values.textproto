@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.notification/fix_calling_uid_from_cps_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.notification"
+  name: "fix_calling_uid_from_cps"
+  state: ENABLED
+  permission: READ_ONLY
+}

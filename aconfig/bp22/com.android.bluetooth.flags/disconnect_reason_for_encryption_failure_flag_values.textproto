@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "disconnect_reason_for_encryption_failure"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.bluetooth.flags/disconnect_reason_for_encryption_failure_flag_values.textproto : ENABLED
-}

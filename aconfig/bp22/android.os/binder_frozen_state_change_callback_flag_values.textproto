@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.os/binder_frozen_state_change_callback_flag_values.textproto : ENABLED
 flag_value {
   package: "android.os"
   name: "binder_frozen_state_change_callback"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.os/binder_frozen_state_change_callback_flag_values.textproto : ENABLED
 }

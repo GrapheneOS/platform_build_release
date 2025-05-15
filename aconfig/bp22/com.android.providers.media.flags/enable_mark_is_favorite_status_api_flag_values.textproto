@@ -1,7 +1,0 @@
-flag_value {
-  package: "com.android.providers.media.flags"
-  name: "enable_mark_is_favorite_status_api"
-  state: ENABLED
-  permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.providers.media.flags/enable_mark_is_favorite_status_api_flag_values.textproto : ENABLED
-}

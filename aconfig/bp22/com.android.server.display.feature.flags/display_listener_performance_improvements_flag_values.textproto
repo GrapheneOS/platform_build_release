@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.display.feature.flags/display_listener_performance_improvements_flag_values.textproto : ENABLED
 flag_value {
   package: "com.android.server.display.feature.flags"
   name: "display_listener_performance_improvements"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/com.android.server.display.feature.flags/display_listener_performance_improvements_flag_values.textproto : ENABLED
 }

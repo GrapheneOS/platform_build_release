@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.media.flags/disable_transfer_when_apps_do_not_support_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.media.flags"
+  name: "disable_transfer_when_apps_do_not_support"
+  state: ENABLED
+  permission: READ_ONLY
+}

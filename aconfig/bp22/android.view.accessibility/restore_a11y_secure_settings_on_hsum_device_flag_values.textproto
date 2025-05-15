@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.view.accessibility/restore_a11y_secure_settings_on_hsum_device_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.view.accessibility"
+  name: "restore_a11y_secure_settings_on_hsum_device"
+  state: ENABLED
+  permission: READ_ONLY
+}

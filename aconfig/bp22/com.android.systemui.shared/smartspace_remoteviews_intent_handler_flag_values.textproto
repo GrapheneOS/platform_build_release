@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.systemui.shared/smartspace_remoteviews_intent_handler_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "smartspace_remoteviews_intent_handler"
+  state: ENABLED
+  permission: READ_ONLY
+}

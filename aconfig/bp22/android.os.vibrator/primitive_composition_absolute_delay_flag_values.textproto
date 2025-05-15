@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.os.vibrator/primitive_composition_absolute_delay_flag_values.textproto : ENABLED
 flag_value {
   package: "android.os.vibrator"
   name: "primitive_composition_absolute_delay"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.os.vibrator/primitive_composition_absolute_delay_flag_values.textproto : ENABLED
 }

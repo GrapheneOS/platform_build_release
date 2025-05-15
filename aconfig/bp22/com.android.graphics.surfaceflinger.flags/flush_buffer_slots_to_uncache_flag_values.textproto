@@ -1,0 +1,7 @@
+# vendor/google/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/flush_buffer_slots_to_uncache_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "flush_buffer_slots_to_uncache"
+  state: ENABLED
+  permission: READ_ONLY
+}

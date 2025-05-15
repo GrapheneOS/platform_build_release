@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/keep_app_window_hide_while_locked_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "keep_app_window_hide_while_locked"
+  state: ENABLED
+  permission: READ_ONLY
+}

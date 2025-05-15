@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.content.pm/uid_based_provider_lookup_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.content.pm"
+  name: "uid_based_provider_lookup"
+  state: ENABLED
+  permission: READ_ONLY
+}

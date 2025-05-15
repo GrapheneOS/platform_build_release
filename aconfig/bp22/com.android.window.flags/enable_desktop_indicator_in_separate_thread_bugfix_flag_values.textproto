@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.window.flags/enable_desktop_indicator_in_separate_thread_bugfix_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_desktop_indicator_in_separate_thread_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+}

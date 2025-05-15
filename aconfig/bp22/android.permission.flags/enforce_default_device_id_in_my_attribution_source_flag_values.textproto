@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.permission.flags/enforce_default_device_id_in_my_attribution_source_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.permission.flags"
+  name: "enforce_default_device_id_in_my_attribution_source"
+  state: ENABLED
+  permission: READ_ONLY
+}

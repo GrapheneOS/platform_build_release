@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/com.android.server.flags/early_data_manager_init_flag_values.textproto : ENABLED
+flag_value {
+  package: "com.android.server.flags"
+  name: "early_data_manager_init"
+  state: ENABLED
+  permission: READ_ONLY
+}

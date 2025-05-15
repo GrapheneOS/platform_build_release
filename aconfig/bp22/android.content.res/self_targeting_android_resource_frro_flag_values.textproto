@@ -1,0 +1,7 @@
+# build/release/aconfig/bp2a/android.content.res/self_targeting_android_resource_frro_flag_values.textproto : ENABLED
+flag_value {
+  package: "android.content.res"
+  name: "self_targeting_android_resource_frro"
+  state: ENABLED
+  permission: READ_ONLY
+}

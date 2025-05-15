@@ -1,7 +1,7 @@
+# build/release/aconfig/bp2a/android.hardware.usb.flags/enable_accessory_stream_api_flag_values.textproto : ENABLED
 flag_value {
   package: "android.hardware.usb.flags"
   name: "enable_accessory_stream_api"
   state: ENABLED
   permission: READ_ONLY
-  # vendor/google_shared/build/release/aconfig/bp2a/android.hardware.usb.flags/enable_accessory_stream_api_flag_values.textproto : ENABLED
 }
