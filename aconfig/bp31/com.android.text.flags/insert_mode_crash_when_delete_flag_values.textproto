@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "insert_mode_crash_when_delete"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 314254153
+  # description: A feature flag for fixing the crash while delete text in insert mode.
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/insert_mode_crash_when_delete_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/insert_mode_crash_when_delete_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/insert_mode_crash_when_delete_flag_values.textproto : ENABLED
+}

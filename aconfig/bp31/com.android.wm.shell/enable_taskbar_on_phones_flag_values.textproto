@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_taskbar_on_phones"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # purpose: PURPOSE_BUGFIX
+  # bug: 348007377
+  # description: Enables taskbar on phones
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.wm.shell/enable_taskbar_on_phones_flag_values.textproto : ENABLED
+}

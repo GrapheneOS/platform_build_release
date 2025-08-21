@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "allow_thermal_thresholds_callback"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 360486877
+  # description: Enable thermal threshold callback
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os/allow_thermal_thresholds_callback_flag_values.textproto : ENABLED
+}

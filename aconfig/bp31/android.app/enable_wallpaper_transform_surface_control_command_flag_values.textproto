@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "enable_wallpaper_transform_surface_control_command"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 399077623
+  # description: Enables sending SurfaceControl to onCommand that could be used to transform the wallpaper
+  # trace: frameworks/base/core/java/android/app/wallpaper.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/enable_wallpaper_transform_surface_control_command_flag_values.textproto : ENABLED
+}

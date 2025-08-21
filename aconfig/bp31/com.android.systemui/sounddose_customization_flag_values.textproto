@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "sounddose_customization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 345227709
+  # description: Enables custom actions for sounddose notifications
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/sounddose_customization_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/sounddose_customization_flag_values.textproto : ENABLED
+}

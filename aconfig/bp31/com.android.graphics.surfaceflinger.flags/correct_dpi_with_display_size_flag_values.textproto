@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "correct_dpi_with_display_size"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 328425848
+  # description: indicate whether missing or likely incorrect dpi should be corrected using the display size.
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/correct_dpi_with_display_size_flag_values.textproto : ENABLED
+}

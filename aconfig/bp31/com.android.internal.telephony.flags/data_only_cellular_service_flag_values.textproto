@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "data_only_cellular_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 296097429
+  # description: Supports customized cellular service capabilities per subscription.
+  # trace: frameworks/opt/telephony/flags/subscription.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/data_only_cellular_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/data_only_cellular_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/data_only_cellular_service_flag_values.textproto : ENABLED
+}

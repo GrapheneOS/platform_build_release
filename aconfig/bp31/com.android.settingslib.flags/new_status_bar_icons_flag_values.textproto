@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "new_status_bar_icons"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 314812750
+  # description: Enable new status bar system icons
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/new_status_bar_icons_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_qualified_id_join_index_v3"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 376913014
+  # description: Enable qualified id join index v3.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.appsearch.flags/enable_qualified_id_join_index_v3_flag_values.textproto : ENABLED
+}

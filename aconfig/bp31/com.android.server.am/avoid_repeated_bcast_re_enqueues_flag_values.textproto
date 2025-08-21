@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "avoid_repeated_bcast_re_enqueues"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 319225224
+  # description: Avoid re-enqueueing a broadcast repeatedly
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.am/avoid_repeated_bcast_re_enqueues_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.am/avoid_repeated_bcast_re_enqueues_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/avoid_repeated_bcast_re_enqueues_flag_values.textproto : ENABLED
+}

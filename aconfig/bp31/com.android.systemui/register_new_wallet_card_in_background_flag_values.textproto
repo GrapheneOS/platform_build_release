@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "register_new_wallet_card_in_background"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 322506838
+  # description: Decide whether the call to registerNewWalletCards method should be issued on background thread.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/register_new_wallet_card_in_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/register_new_wallet_card_in_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/register_new_wallet_card_in_background_flag_values.textproto : ENABLED
+}

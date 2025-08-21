@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "audio_sharing_qs_dialog_improvement"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 360759048
+  # description: Gates whether to enable audio sharing qs dialog improvement
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/audio_sharing_qs_dialog_improvement_flag_values.textproto : ENABLED
+}

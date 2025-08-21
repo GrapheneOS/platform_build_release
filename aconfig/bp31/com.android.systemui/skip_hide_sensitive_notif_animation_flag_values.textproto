@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "skip_hide_sensitive_notif_animation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 390624334
+  # description: Skip hide sensitive notification animation when the showing layout is not changed.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/skip_hide_sensitive_notif_animation_flag_values.textproto : ENABLED
+}

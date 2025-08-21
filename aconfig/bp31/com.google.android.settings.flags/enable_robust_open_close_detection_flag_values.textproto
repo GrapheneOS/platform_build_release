@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "enable_robust_open_close_detection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_system_service
+  # bug: 342491071
+  # description: Feature flag for Robust Open/Close Detection
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_core.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/enable_robust_open_close_detection_flag_values.textproto : ENABLED
+}

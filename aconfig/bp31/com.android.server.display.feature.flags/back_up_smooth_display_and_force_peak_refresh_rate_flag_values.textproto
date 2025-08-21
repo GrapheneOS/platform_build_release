@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "back_up_smooth_display_and_force_peak_refresh_rate"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 299552529
+  # description: Feature flag for backing up Smooth Display and Force Peak Refresh Rate
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/back_up_smooth_display_and_force_peak_refresh_rate_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/back_up_smooth_display_and_force_peak_refresh_rate_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/back_up_smooth_display_and_force_peak_refresh_rate_flag_values.textproto : ENABLED
+}

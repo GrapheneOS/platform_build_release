@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_metrics_system_backup_agents"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: onboarding
+  # bug: 296844513
+  # description: Enable SystemBackupAgent to collect B&R agent metrics by passing an instance of the logger to each BackupHelper.
+  # trace: frameworks/base/services/backup/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.backup/enable_metrics_system_backup_agents_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.backup/enable_metrics_system_backup_agents_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.backup/enable_metrics_system_backup_agents_flag_values.textproto : ENABLED
+}

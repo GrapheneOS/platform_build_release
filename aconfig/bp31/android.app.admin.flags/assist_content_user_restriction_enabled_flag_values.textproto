@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "assist_content_user_restriction_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 322975406
+  # description: Prevent work data leakage by sending assist content to privileged apps.
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/assist_content_user_restriction_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/assist_content_user_restriction_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/assist_content_user_restriction_enabled_flag_values.textproto : ENABLED
+}

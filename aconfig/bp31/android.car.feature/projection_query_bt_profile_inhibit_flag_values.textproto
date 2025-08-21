@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "projection_query_bt_profile_inhibit"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 281791498
+  # description: This flag controls if apps can query the inhibit state or bluetooth profiles.
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/projection_query_bt_profile_inhibit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/projection_query_bt_profile_inhibit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/projection_query_bt_profile_inhibit_flag_values.textproto : ENABLED
+}

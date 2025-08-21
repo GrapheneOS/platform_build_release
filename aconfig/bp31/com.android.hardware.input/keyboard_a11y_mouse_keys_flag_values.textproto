@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "keyboard_a11y_mouse_keys"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_native
+  # bug: 341799888
+  # description: Controls if the mouse keys accessibility feature for physical keyboard is available to the user
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.hardware.input/keyboard_a11y_mouse_keys_flag_values.textproto : ENABLED
+}

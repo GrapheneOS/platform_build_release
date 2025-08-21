@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_recents_bookend_transition"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # purpose: PURPOSE_BUGFIX
+  # bug: 346588978
+  # description: Use a finish-transition to clean up recents instead of the finish-WCT
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.wm.shell/enable_recents_bookend_transition_flag_values.textproto : ENABLED
+}

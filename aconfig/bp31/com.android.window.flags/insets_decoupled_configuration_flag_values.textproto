@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "insets_decoupled_configuration"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # bug: 151861875
+  # description: Configuration decoupled from insets
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/insets_decoupled_configuration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/insets_decoupled_configuration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/insets_decoupled_configuration_flag_values.textproto : ENABLED
+}

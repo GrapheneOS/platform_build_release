@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "smartspace_viewpager2_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # purpose: PURPOSE_BUGFIX
+  # bug: 259566300
+  # description: Use viewpager2 in Smartspace
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.apps.nexuslauncher/smartspace_viewpager2_bugfix_flag_values.textproto : ENABLED
+}

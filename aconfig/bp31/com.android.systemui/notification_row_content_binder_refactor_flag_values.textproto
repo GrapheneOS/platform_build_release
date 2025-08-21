@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_row_content_binder_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 343942780
+  # description: Convert the NotificationContentInflater to Kotlin and restructure it to support modern views
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/notification_row_content_binder_refactor_flag_values.textproto : ENABLED
+}

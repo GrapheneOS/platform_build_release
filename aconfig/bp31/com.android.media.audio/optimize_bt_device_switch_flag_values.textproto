@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "optimize_bt_device_switch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 373867402
+  # description: Optimize the Bluetooth active device switch sequence
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.media.audio/optimize_bt_device_switch_flag_values.textproto : ENABLED
+}

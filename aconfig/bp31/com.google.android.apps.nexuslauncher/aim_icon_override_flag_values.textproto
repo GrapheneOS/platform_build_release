@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "aim_icon_override"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # purpose: PURPOSE_BUGFIX
+  # bug: 396742015
+  # description: Use AGA AIM icon if the icon exists.
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.apps.nexuslauncher/aim_icon_override_flag_values.textproto : ENABLED
+}

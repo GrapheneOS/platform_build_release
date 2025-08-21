@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "only_reuse_bubbled_task_when_launched_from_bubble"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # purpose: PURPOSE_BUGFIX
+  # bug: 328229865
+  # description: Allow reusing bubbled tasks for new activities only when launching from bubbles
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.wm.shell/only_reuse_bubbled_task_when_launched_from_bubble_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.wm.shell/only_reuse_bubbled_task_when_launched_from_bubble_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.flags"
+  name: "scroll_capture_target_z_order_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 365969802
+  # description: Always prefer targets with higher z-order
+  # trace: frameworks/base/core/java/android/view/flags/scroll_capture.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.flags/scroll_capture_target_z_order_fix_flag_values.textproto : ENABLED
+}

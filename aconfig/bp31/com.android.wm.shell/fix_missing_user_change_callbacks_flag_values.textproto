@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "fix_missing_user_change_callbacks"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # purpose: PURPOSE_BUGFIX
+  # bug: 404251029
+  # description: Fix a race condition that could make Shell miss a user change callback.
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.wm.shell/fix_missing_user_change_callbacks_flag_values.textproto : ENABLED
+}

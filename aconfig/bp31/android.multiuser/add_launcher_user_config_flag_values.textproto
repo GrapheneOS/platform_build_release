@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.multiuser"
+  name: "add_launcher_user_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 346553745
+  # description: Add support for LauncherUserInfo configs
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.multiuser/add_launcher_user_config_flag_values.textproto : ENABLED
+}

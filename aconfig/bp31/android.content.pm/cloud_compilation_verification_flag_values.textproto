@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "cloud_compilation_verification"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: art_mainline
+  # bug: 377474232
+  # description: Feature flag to enable the Cloud Compilation install-time verification in the package manager.
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.content.pm/cloud_compilation_verification_flag_values.textproto : ENABLED
+}

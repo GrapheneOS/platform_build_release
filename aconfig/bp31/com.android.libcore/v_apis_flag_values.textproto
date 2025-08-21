@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "v_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.art
+  # namespace: core_libraries
+  # bug: 306360493
+  # description: This flag controls whether exposing Android V APIs
+  # trace: libcore/libcore.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.libcore/v_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.libcore/v_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.libcore/v_apis_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.res"
+  name: "handle_all_config_changes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: resource_manager
+  # bug: 180625460
+  # description: Feature flag for allowing activities to handle all kinds of configuration changes
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.content.res/handle_all_config_changes_flag_values.textproto : ENABLED
+}

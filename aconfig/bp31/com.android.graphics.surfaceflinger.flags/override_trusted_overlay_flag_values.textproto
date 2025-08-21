@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "override_trusted_overlay"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # purpose: PURPOSE_BUGFIX
+  # bug: 339701674
+  # description: Allow child to disable trusted overlay set by a parent layer
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/override_trusted_overlay_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/override_trusted_overlay_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/override_trusted_overlay_flag_values.textproto : ENABLED
+}

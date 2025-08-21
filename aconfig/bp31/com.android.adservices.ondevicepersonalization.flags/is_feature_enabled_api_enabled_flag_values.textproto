@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "is_feature_enabled_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ondevicepersonalization
+  # namespace: ondevicepersonalization_aconfig
+  # bug: 368695570
+  # description: Enable the isFeatureEnabled API.
+  # trace: packages/modules/OnDevicePersonalization/flags/ondevicepersonalization_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.adservices.ondevicepersonalization.flags/is_feature_enabled_api_enabled_flag_values.textproto : ENABLED
+}

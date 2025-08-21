@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.services.infra.flags"
+  name: "enable_tether_config_client_feature_extensions_v2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # bug: 308582960
+  # description: Enables new feature restrictions in TetherConfigurationClient
+  # trace: vendor/google_clockwork_partners/packages/WearServices/src/com/google/wear/services/infra/flags/wear_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.services.infra.flags/enable_tether_config_client_feature_extensions_v2_flag_values.textproto : ENABLED
+}

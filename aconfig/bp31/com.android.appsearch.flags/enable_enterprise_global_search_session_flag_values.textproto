@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_enterprise_global_search_session"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 237388235
+  # description: Enable personal profile to search over allowed enterprise profile data in AppSearch through enterprise global search session.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.appsearch.flags/enable_enterprise_global_search_session_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.appsearch.flags/enable_enterprise_global_search_session_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.appsearch.flags/enable_enterprise_global_search_session_flag_values.textproto : ENABLED
+}

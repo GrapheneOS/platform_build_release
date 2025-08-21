@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "backup_service_security_log_event_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 304999634
+  # description: Emit a security log event when DPM.setBackupServiceEnabled is called
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/backup_service_security_log_event_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/backup_service_security_log_event_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/backup_service_security_log_event_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.pm.pkg.component.flags"
+  name: "enable_per_process_use_embedded_dex_attr"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 295870718
+  # description: This flag enables support for parsing per-process useEmbeddedDex attribute.
+  # trace: frameworks/base/core/java/com/android/internal/pm/pkg/component/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.pm.pkg.component.flags/enable_per_process_use_embedded_dex_attr_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.pm.pkg.component.flags/enable_per_process_use_embedded_dex_attr_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.pm.pkg.component.flags/enable_per_process_use_embedded_dex_attr_flag_values.textproto : ENABLED
+}

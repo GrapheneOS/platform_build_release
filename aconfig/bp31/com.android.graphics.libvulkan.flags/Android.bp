@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.android.graphics.libvulkan.flags-all",
+  package: "com.android.graphics.libvulkan.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

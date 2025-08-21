@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "connected_display_hdr"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 374182788
+  # description: enable connected display hdr capability
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.surfaceflinger.flags/connected_display_hdr_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_power_policy_refactoring"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 286303350
+  # description: Controls whether refactored car power policy daemon handles power policy change request
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/car_power_policy_refactoring_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/car_power_policy_refactoring_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/car_power_policy_refactoring_flag_values.textproto : ENABLED
+}

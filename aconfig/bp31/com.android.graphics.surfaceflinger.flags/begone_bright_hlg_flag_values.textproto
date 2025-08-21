@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "begone_bright_hlg"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 362510107
+  # description: Caps HLG brightness relative to SDR
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.surfaceflinger.flags/begone_bright_hlg_flag_values.textproto : ENABLED
+}

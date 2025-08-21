@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_magnification_keyboard_control"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 355487062
+  # description: Whether to enable keyboard control for magnification
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.accessibility/enable_magnification_keyboard_control_flag_values.textproto : ENABLED
+}

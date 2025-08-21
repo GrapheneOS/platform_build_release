@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "enable_hide_head_tracking"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_cross_device_control
+  # bug: 317254287
+  # description: Gates whether to hide head tracking when LE audio is enabled
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_bluetooth_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.settings.flags/enable_hide_head_tracking_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.settings.flags/enable_hide_head_tracking_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/enable_hide_head_tracking_flag_values.textproto : ENABLED
+}

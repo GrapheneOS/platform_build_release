@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "modes_ui"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 270703654
+  # description: This flag controls new and updated DND UIs; dependent on flag modes_api
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.app/modes_ui_flag_values.textproto : ENABLED
+}

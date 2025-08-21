@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.uprobestats.mainline.flags"
+  name: "uprobestats_support_update_device_idle_temp_allowlist"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uprobestats
+  # namespace: system_performance
+  # bug: 296108553
+  # description: Whether to enable uprobestats support of logging update_device_idle_temp_allowlist.
+  # trace: packages/modules/UprobeStats/src/mainline-flag.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.uprobestats.mainline.flags/uprobestats_support_update_device_idle_temp_allowlist_flag_values.textproto : ENABLED
+}

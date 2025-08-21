@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "camera_manual_flash_strength_control"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 238348881
+  # description: Flash brightness level control in manual flash mode
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.camera.flags/camera_manual_flash_strength_control_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.camera.flags/camera_manual_flash_strength_control_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.camera.flags/camera_manual_flash_strength_control_flag_values.textproto : ENABLED
+}

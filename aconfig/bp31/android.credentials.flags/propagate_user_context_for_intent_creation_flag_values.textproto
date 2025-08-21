@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.credentials.flags"
+  name: "propagate_user_context_for_intent_creation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: credential_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373711451
+  # description: Propagates the user ID in which to find the right OEM UI component to launch
+  # trace: frameworks/base/core/java/android/credentials/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.credentials.flags/propagate_user_context_for_intent_creation_flag_values.textproto : ENABLED
+}

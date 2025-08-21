@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "nm_binder_perf_reduce_zen_broadcasts"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 324376849
+  # description: Don't send duplicate zen-related (policy changed, etc) broadcasts
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.notification/nm_binder_perf_reduce_zen_broadcasts_flag_values.textproto : ENABLED
+}

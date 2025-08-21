@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.android.printspooler.flags-all",
+  package: "com.android.printspooler.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

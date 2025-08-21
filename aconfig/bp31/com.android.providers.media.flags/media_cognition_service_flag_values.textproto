@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "media_cognition_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 331771553
+  # description: This flag will enable the abstract service for media cognition processes
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.providers.media.flags/media_cognition_service_flag_values.textproto : ENABLED
+}

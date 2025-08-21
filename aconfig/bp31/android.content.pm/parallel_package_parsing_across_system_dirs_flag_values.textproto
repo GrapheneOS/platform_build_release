@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "parallel_package_parsing_across_system_dirs"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 401622806
+  # description: Continue parsing packages in system dirs instead of blocking on install completion for each directory.
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.content.pm/parallel_package_parsing_across_system_dirs_flag_values.textproto : ENABLED
+}

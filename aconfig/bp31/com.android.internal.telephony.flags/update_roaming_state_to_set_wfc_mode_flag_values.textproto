@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "update_roaming_state_to_set_wfc_mode"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 317298331
+  # description: This flag updates roaming state to set wfc mode
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/update_roaming_state_to_set_wfc_mode_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/update_roaming_state_to_set_wfc_mode_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/update_roaming_state_to_set_wfc_mode_flag_values.textproto : ENABLED
+}

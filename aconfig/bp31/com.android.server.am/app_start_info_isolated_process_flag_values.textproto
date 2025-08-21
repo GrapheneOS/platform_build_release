@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "app_start_info_isolated_process"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 374032823
+  # description: Adjust handling of isolated process records to be discarded.
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/app_start_info_isolated_process_flag_values.textproto : ENABLED
+}

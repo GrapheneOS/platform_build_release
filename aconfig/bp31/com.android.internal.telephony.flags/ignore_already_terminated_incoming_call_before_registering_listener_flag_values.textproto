@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "ignore_already_terminated_incoming_call_before_registering_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 289461637
+  # description: This flag ignores the incoming call by throwing an exception if the call was already terminated before the framework registers the listener for the incoming call
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/ignore_already_terminated_incoming_call_before_registering_listener_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/ignore_already_terminated_incoming_call_before_registering_listener_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/ignore_already_terminated_incoming_call_before_registering_listener_flag_values.textproto : ENABLED
+}

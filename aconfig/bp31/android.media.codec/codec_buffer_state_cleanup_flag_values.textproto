@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.media.codec"
+  name: "codec_buffer_state_cleanup"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # purpose: PURPOSE_BUGFIX
+  # bug: 343502509
+  # description: Bugfix flag for more buffer state cleanup in MediaCodec
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.media.codec/codec_buffer_state_cleanup_flag_values.textproto : ENABLED
+}

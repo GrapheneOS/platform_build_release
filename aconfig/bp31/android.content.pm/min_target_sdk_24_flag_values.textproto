@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.pm"
+  name: "min_target_sdk_24"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 297603927
+  # description: Feature flag to bump min target sdk to 24
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.pm/min_target_sdk_24_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.pm/min_target_sdk_24_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.pm/min_target_sdk_24_flag_values.textproto : ENABLED
+}

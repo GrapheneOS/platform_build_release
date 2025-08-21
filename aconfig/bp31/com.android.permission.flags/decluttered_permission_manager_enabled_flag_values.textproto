@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "decluttered_permission_manager_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: permissions
+  # bug: 365823624
+  # description: Enables displaying unused permission groups in the additional page, instead of displaying them in the main permission manager page
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.permission.flags/decluttered_permission_manager_enabled_flag_values.textproto : ENABLED
+}

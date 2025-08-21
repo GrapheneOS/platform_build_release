@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_user_refresh_rate_for_external_display"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370657357
+  # description: Apply refresh rate from user preferred display mode to external displays
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_user_refresh_rate_for_external_display_flag_values.textproto : ENABLED
+}

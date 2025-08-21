@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.security"
+  name: "disable_adaptive_auth_counter_lock"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics
+  # bug: 371057865
+  # description: Flag to allow an adb secure setting to disable the adaptive auth lock
+  # trace: frameworks/base/core/java/android/security/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.security/disable_adaptive_auth_counter_lock_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_primary_group_selection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 375422795
+  # description: Fix race condition in primary group selection
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/leaudio_broadcast_primary_group_selection_flag_values.textproto : ENABLED
+}

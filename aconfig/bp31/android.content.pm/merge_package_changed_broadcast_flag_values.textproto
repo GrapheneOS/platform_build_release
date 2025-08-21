@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "merge_package_changed_broadcast"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 381949725
+  # description: Feature flag to add delivery group policy for PACKAGE_CHANGED broadcast to allow merging broadcasts.
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.content.pm/merge_package_changed_broadcast_flag_values.textproto : ENABLED
+}

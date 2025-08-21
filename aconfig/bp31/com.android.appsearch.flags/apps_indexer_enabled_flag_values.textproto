@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "apps_indexer_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 275592563
+  # description: Enables the apps indexer module
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.appsearch.flags/apps_indexer_enabled_flag_values.textproto : ENABLED
+}

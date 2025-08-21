@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_cascading_windows"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 325240051
+  # description: Whether to apply cascading effect for placing multiple windows when first launched
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_cascading_windows_flag_values.textproto : ENABLED
+}

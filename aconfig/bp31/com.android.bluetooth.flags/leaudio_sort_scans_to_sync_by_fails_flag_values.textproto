@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_sort_scans_to_sync_by_fails"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370639684
+  # description: Sort scan results for source sync by fails counter
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/leaudio_sort_scans_to_sync_by_fails_flag_values.textproto : ENABLED
+}

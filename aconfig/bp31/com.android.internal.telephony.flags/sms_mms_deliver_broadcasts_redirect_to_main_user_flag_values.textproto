@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "sms_mms_deliver_broadcasts_redirect_to_main_user"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 314321617
+  # description: This flag controls the redirection of SMS_DELIVER AND WAP_PUSH_DELIVER broadcasts to the MAIN user.
+  # trace: frameworks/opt/telephony/flags/messaging.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/sms_mms_deliver_broadcasts_redirect_to_main_user_flag_values.textproto : ENABLED
+}

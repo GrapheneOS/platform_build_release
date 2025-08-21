@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_hotword_wearable_sensing_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 310055381
+  # description: This flag enables the APIs related to hotword in WearableSensingManager and WearableSensingService.
+  # trace: frameworks/base/core/java/android/app/wearable/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.wearable/enable_hotword_wearable_sensing_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.wearable/enable_hotword_wearable_sensing_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.wearable/enable_hotword_wearable_sensing_api_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "adservices_enable_per_module_overrides_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices_aconfig
+  # bug: 346669688
+  # description: Enables apis for adservices allow caller to enable individual module(PA/TOPIC/MSMT). This api only make the module available on the device, each module can still have own flag/logic to turn on off themself.
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/adservices_enable_per_module_overrides_api_flag_values.textproto : ENABLED
+}

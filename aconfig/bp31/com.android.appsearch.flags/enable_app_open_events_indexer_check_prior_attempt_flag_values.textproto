@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_app_open_events_indexer_check_prior_attempt"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385197463
+  # description: Enables a check that prevents app open events indexer running too soon after a prior sync.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.appsearch.flags/enable_app_open_events_indexer_check_prior_attempt_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.flags"
+  name: "notify_gpu_load_up"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 413723751
+  # description: Add an API to notify GPU load up.
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.view.flags/notify_gpu_load_up_flag_values.textproto : ENABLED
+}

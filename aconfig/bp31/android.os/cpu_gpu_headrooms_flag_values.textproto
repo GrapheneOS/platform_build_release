@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "cpu_gpu_headrooms"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 346604998
+  # description: Feature flag for adding CPU/GPU headroom API
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os/cpu_gpu_headrooms_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "api_rich_ongoing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 337261753
+  # description: [RONs] Guards new RON-related APIs, including Notification.ProgressStyle
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/api_rich_ongoing_flag_values.textproto : ENABLED
+}

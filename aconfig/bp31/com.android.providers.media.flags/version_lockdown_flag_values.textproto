@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "version_lockdown"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 343977174
+  # description: This flag will enable updates to MediaStore versioning to make it more unique across apps.
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.providers.media.flags/version_lockdown_flag_values.textproto : ENABLED
+}

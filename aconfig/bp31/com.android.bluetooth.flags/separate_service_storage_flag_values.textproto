@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "separate_service_storage"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 382015666
+  # description: Store LE and Classic services separately
+  # trace: packages/modules/Bluetooth/flags/service_discovery.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/separate_service_storage_flag_values.textproto : ENABLED
+}

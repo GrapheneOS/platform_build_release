@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "zero_state_web_data_loader"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # bug: 283009333
+  # description: Use a data loader to cache zero state web suggestions
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.apps.nexuslauncher/zero_state_web_data_loader_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.nexuslauncher/zero_state_web_data_loader_flag_values.textproto : ENABLED
+}

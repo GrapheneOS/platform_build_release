@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "sim_phonebook_cache_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 404094844
+  # description: This flag reset the cache if the sim phonebook is empty
+  # trace: frameworks/opt/telephony/flags/uicc.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/sim_phonebook_cache_fix_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "do_not_delay_chooser_adapter_notify_data_change"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 406397494
+  # description: Do not delay ChooserAdapter notifyDataSetChanged call.
+  # trace: frameworks/base/core/java/android/service/chooser/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.service.chooser/do_not_delay_chooser_adapter_notify_data_change_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "wallpaper_offset_async"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # bug: 293248754
+  # description: Do not synchronise the wallpaper offset
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/wallpaper_offset_async_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/wallpaper_offset_async_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/wallpaper_offset_async_flag_values.textproto : ENABLED
+}

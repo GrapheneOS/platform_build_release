@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.appfunctions.flags"
+  name: "enable_app_function_manager"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 357551503
+  # description: This flag the new App Function manager system service.
+  # trace: frameworks/base/core/java/android/app/appfunctions/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.appfunctions.flags/enable_app_function_manager_flag_values.textproto : ENABLED
+}

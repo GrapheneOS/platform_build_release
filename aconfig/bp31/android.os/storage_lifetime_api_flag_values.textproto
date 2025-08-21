@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "storage_lifetime_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: phoenix
+  # bug: 309792384
+  # description: Feature flag for adding storage component health APIs.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/storage_lifetime_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/storage_lifetime_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/storage_lifetime_api_flag_values.textproto : ENABLED
+}

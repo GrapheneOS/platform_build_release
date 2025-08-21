@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sandbox_client_importance_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: sdk_sandbox
+  # bug: 267760787
+  # description: Enables SDKs in the sandbox to know about specific changes in the client's importance
+  # trace: packages/modules/AdServices/sdksandbox/flags/sandbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.sdksandbox.flags/sandbox_client_importance_listener_flag_values.textproto : ENABLED
+}

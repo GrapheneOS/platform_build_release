@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "hpke_v_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.art
+  # namespace: core_libraries
+  # bug: 323357598
+  # description: This flag controls whether exposing HPKE APIs on Android V
+  # trace: libcore/libcore.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.libcore/hpke_v_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.libcore/hpke_v_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.libcore/hpke_v_apis_flag_values.textproto : ENABLED
+}

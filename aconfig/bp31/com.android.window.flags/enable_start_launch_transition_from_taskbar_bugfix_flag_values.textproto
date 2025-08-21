@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_start_launch_transition_from_taskbar_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 361366053
+  # description: Enables starting a launch transition directly from the taskbar if desktop tasks are visible.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_start_launch_transition_from_taskbar_bugfix_flag_values.textproto : ENABLED
+}

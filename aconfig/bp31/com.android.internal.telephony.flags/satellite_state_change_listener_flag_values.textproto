@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "satellite_state_change_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 357638490
+  # description: Introduce SatelliteManager APIs for carrier apps to monitor satellite state change
+  # trace: frameworks/opt/telephony/flags/satellite.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/satellite_state_change_listener_flag_values.textproto : ENABLED
+}

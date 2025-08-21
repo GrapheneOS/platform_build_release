@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "handwriting_unsupported_show_soft_input_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # purpose: PURPOSE_BUGFIX
+  # bug: 363180475
+  # description: Don't show soft keyboard on stylus input if text field doesn't support handwriting and getShowSoftInputOnFocus() returns false.
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/handwriting_unsupported_show_soft_input_fix_flag_values.textproto : ENABLED
+}

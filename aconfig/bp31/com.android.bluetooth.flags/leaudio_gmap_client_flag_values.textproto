@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_gmap_client"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 353978074
+  # description: enable Gaming Audio Profile
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/leaudio_gmap_client_flag_values.textproto : ENABLED
+}

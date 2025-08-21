@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "camera_heif_gainmap"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 362608343
+  # description: Extend HEIC/HEIF still capture with HDR gainmap
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.camera.flags/camera_heif_gainmap_flag_values.textproto : ENABLED
+}

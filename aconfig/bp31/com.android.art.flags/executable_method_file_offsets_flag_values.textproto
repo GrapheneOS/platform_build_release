@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "executable_method_file_offsets"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.art
+  # namespace: system_performance
+  # bug: 296108553
+  # description: This flag includes the API for getting the compiled native executable offset info for a java method
+  # trace: art/build/flags/art-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.art.flags/executable_method_file_offsets_flag_values.textproto : ENABLED
+}

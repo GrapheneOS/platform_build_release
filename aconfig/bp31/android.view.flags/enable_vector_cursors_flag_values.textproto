@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_vector_cursors"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 305193969
+  # description: Feature flag to enable vector drawables in addition to bitmaps for PointerIcon.
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.flags/enable_vector_cursors_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.flags/enable_vector_cursors_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.flags/enable_vector_cursors_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "multithreaded_present"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 259132483
+  # description: Controls whether to offload present calls to another thread
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/multithreaded_present_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/multithreaded_present_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/multithreaded_present_flag_values.textproto : ENABLED
+}

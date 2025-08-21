@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_pinned_hun_in_shade"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385041854
+  # description: Fixes displaying pinned HUNs in the Shade, making sure that their y and z positions are correct.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/notifications_pinned_hun_in_shade_flag_values.textproto : ENABLED
+}

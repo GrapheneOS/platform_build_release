@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "bitmap_parcel_ashmem_as_immutable"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 400807118
+  # description: Whether to parcel implicit copies of bitmaps to ashmem as immutable
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.hwui.flags/bitmap_parcel_ashmem_as_immutable_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "run_clock_recovery_in_worker_thread"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 333657963
+  # description: Fix thread ownership issue in clock_recovery
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/run_clock_recovery_in_worker_thread_flag_values.textproto : ENABLED
+}

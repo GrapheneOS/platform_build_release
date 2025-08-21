@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "epdg_selection_exclude_failed_ip_address"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: iwlan_telephony
+  # bug: 300026897
+  # description: Exclude the failed ip address in epdg selection until tunnel establish successfully or all ip address candidates are failed
+  # trace: packages/services/Iwlan/flags/main.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.google.android.iwlan.flags/epdg_selection_exclude_failed_ip_address_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.google.android.iwlan.flags/epdg_selection_exclude_failed_ip_address_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.google.android.iwlan.flags/epdg_selection_exclude_failed_ip_address_flag_values.textproto : ENABLED
+}

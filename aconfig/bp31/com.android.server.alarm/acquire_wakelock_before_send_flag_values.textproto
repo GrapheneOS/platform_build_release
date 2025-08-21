@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.alarm"
+  name: "acquire_wakelock_before_send"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391413964
+  # description: Acquire the userspace alarm wakelock before sending the alarm
+  # trace: frameworks/base/apex/jobscheduler/service/aconfig/alarm.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.alarm/acquire_wakelock_before_send_flag_values.textproto : ENABLED
+}

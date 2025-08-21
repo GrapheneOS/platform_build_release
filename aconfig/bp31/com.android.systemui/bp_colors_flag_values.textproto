@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "bp_colors"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 389744739
+  # description: Updates colors in biometric prompt
+  # trace: frameworks/base/packages/SystemUI/aconfig/biometrics_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/bp_colors_flag_values.textproto : ENABLED
+}

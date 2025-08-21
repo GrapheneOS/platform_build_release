@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "all_apps_sheet_for_handheld"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 374186088
+  # description: All Apps will be presented on a bottom sheet in handheld mode
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/all_apps_sheet_for_handheld_flag_values.textproto : ENABLED
+}

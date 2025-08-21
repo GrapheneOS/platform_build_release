@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "remove_unnecessary_route_scanning"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # purpose: PURPOSE_BUGFIX
+  # bug: 332515672
+  # description: Avoid active scan requests on UI components that only display route status information.
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib_media_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settingslib.media.flags/remove_unnecessary_route_scanning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settingslib.media.flags/remove_unnecessary_route_scanning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settingslib.media.flags/remove_unnecessary_route_scanning_flag_values.textproto : ENABLED
+}

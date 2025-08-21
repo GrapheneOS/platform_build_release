@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "smartspace_swipe_event_logging_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # purpose: PURPOSE_BUGFIX
+  # bug: 374150422
+  # description: Log card swipe events in smartspace
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.nexuslauncher/smartspace_swipe_event_logging_fix_flag_values.textproto : ENABLED
+}

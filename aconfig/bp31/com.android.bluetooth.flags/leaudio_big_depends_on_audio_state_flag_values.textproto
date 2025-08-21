@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_big_depends_on_audio_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 347204335
+  # description: BIG creation/termination depends on audio resume/pause
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/leaudio_big_depends_on_audio_state_flag_values.textproto : ENABLED
+}

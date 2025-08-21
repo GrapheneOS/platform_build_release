@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "catalyst_restrict_background_parent_entry"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 323791114
+  # description: Flag for Data Saver
+  # trace: packages/apps/Settings/aconfig/catalyst/network_and_internet.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settings.flags/catalyst_restrict_background_parent_entry_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "hw_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 322372275
+  # description: This flag enables the new hardware state APIs
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.uwb.flags/hw_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.uwb.flags/hw_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.uwb.flags/hw_state_flag_values.textproto : ENABLED
+}

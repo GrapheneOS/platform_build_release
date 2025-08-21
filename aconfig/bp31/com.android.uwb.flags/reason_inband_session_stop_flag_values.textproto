@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "reason_inband_session_stop"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 304476327
+  # description: Allow applications to receive callback when session was stopped due to inband signal
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.uwb.flags/reason_inband_session_stop_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.uwb.flags/reason_inband_session_stop_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.uwb.flags/reason_inband_session_stop_flag_values.textproto : ENABLED
+}

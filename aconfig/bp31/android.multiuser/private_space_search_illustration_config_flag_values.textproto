@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.multiuser"
+  name: "private_space_search_illustration_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 346612477
+  # description: Check config to show/hide the private space search illustration and search tile content in Hide Private Space settings page
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/private_space_search_illustration_config_flag_values.textproto : ENABLED
+}

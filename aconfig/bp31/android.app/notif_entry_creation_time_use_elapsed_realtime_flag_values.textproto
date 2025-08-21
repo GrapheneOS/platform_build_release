@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "notif_entry_creation_time_use_elapsed_realtime"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 389606876
+  # description: makes the notification entry expect its creation time to be elapsedRealtime, not uptimeMillis
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/notif_entry_creation_time_use_elapsed_realtime_flag_values.textproto : ENABLED
+}

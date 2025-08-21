@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.ipsec.flags"
+  name: "dpd_disable_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ipsec
+  # namespace: ipsec
+  # bug: 306556977
+  # description: Expose API to support Disabling DPD.
+  # trace: packages/modules/IPsec/flags/ipsec_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.ipsec.flags/dpd_disable_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.ipsec.flags/dpd_disable_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.ipsec.flags/dpd_disable_api_flag_values.textproto : ENABLED
+}

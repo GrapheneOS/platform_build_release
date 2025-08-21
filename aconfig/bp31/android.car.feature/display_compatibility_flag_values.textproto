@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "display_compatibility"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 291638685
+  # description: This flag controls the display compatibility system feature.
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/display_compatibility_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/display_compatibility_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/display_compatibility_flag_values.textproto : ENABLED
+}

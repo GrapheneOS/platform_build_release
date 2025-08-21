@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "use_tasks_dim_only"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 352522056
+  # description: Only use the task's dim and reparent it to the display area when needed instead of coordinating multiple dimmers
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/use_tasks_dim_only_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/use_tasks_dim_only_flag_values.textproto : ENABLED
+}

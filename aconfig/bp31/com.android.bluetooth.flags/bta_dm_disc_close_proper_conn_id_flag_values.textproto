@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_dm_disc_close_proper_conn_id"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 399687217
+  # description: Make sure proper connection is closed when timeout happens
+  # trace: packages/modules/Bluetooth/flags/bta_dm.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/bta_dm_disc_close_proper_conn_id_flag_values.textproto : ENABLED
+}

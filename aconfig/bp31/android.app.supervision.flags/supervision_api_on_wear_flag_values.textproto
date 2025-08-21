@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.supervision.flags"
+  name: "supervision_api_on_wear"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: supervision
+  # bug: 373358935
+  # description: Flag to enable the SupervisionService on Wear devices
+  # trace: frameworks/base/core/java/android/app/supervision/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.supervision.flags/supervision_api_on_wear_flag_values.textproto : ENABLED
+}

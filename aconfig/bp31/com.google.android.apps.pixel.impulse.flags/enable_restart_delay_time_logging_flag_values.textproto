@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.pixel.impulse.flags"
+  name: "enable_restart_delay_time_logging"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_state_server
+  # purpose: PURPOSE_BUGFIX
+  # bug: 411033274
+  # description: This flag controls whether to log the delay time after Impulse restarts.
+  # trace: vendor/google/apps/PersistentBackgroundServices/pixelimpulse/aconfig/pixelimpulse_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.apps.pixel.impulse.flags/enable_restart_delay_time_logging_flag_values.textproto : ENABLED
+}

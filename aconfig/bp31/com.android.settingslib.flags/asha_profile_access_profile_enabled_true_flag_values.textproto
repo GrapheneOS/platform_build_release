@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "asha_profile_access_profile_enabled_true"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 356530795
+  # description: Changes the return value of HearingAidProfile.accessProfileEnabled() to true
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/asha_profile_access_profile_enabled_true_flag_values.textproto : ENABLED
+}

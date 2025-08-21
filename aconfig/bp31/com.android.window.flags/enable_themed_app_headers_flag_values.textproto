@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_themed_app_headers"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 328668781
+  # description: Makes the App Header style adapt to the system's and app's light/dark theme
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_themed_app_headers_flag_values.textproto : ENABLED
+}

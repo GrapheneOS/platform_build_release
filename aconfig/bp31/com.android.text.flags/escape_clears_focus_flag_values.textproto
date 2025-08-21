@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "escape_clears_focus"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 312921137
+  # description: Feature flag for clearing focus when the escape key is pressed.
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/escape_clears_focus_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/escape_clears_focus_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/escape_clears_focus_flag_values.textproto : ENABLED
+}

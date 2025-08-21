@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "wlinfo_oncreate"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # bug: 337820752
+  # description: Makes WindowLayoutInfo accessible without racing in the Activity#onCreate()
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/wlinfo_oncreate_flag_values.textproto : ENABLED
+}

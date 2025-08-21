@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "ims_resolver_user_aware"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 371272669
+  # description: When enabled, it makes ImsResolver mult-user aware for configurations like HSUM.
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/ims_resolver_user_aware_flag_values.textproto : ENABLED
+}

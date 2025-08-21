@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.flags"
+  name: "disable_draw_wake_lock"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 331698645
+  # description: Disable Draw Wakelock starting U.
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.view.flags/disable_draw_wake_lock_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.flags/disable_draw_wake_lock_flag_values.textproto : ENABLED
+}

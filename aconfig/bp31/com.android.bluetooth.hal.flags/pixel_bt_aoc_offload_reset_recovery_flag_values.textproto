@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.hal.flags"
+  name: "pixel_bt_aoc_offload_reset_recovery"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 349598559
+  # description: AOC reset BT recovery feature flag
+  # trace: vendor/broadcom/bluetooth/flags/bthal.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.android.bluetooth.hal.flags/pixel_bt_aoc_offload_reset_recovery_flag_values.textproto : ENABLED
+}

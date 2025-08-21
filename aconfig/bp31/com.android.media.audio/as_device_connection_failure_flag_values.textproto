@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "as_device_connection_failure"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 326597760
+  # description: AudioService handles device connection failures.
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.media.audio/as_device_connection_failure_flag_values.textproto : ENABLED
+}

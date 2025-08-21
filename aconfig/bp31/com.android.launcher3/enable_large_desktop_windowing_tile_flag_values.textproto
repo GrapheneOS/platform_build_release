@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_large_desktop_windowing_tile"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_overview
+  # bug: 357860832
+  # description: Makes the desktop tiles larger and moves them to the front of the list in Overview.
+  # trace: packages/apps/Launcher3/aconfig/launcher_overview.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.launcher3/enable_large_desktop_windowing_tile_flag_values.textproto : ENABLED
+}

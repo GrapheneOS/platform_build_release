@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_usb_data_compliance_warning"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_sw_usb
+  # bug: 296119135
+  # description: Enable USB data compliance warnings when set
+  # trace: frameworks/base/core/java/android/hardware/usb/flags/system_sw_usb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.hardware.usb.flags/enable_usb_data_compliance_warning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.usb.flags/enable_usb_data_compliance_warning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.usb.flags/enable_usb_data_compliance_warning_flag_values.textproto : ENABLED
+}

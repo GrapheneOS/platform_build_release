@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "global_action_media_play_pause"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 334954140
+  # description: Allow AccessibilityService to perform GLOBAL_ACTION_MEDIA_PLAY_PAUSE
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.accessibility/global_action_media_play_pause_flag_values.textproto : ENABLED
+}

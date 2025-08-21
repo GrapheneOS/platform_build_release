@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "sidefps_controller_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 288175061
+  # description: flag for SideFpsController refactor
+  # trace: frameworks/libs/systemui/aconfig/biometrics.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui.shared/sidefps_controller_refactor_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui.shared/sidefps_controller_refactor_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui.shared/sidefps_controller_refactor_flag_values.textproto : ENABLED
+}

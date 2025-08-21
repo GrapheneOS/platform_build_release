@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "doze_brightness_float"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 343796384
+  # description: Define doze brightness in the float scale [0, 1].
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/doze_brightness_float_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/doze_brightness_float_flag_values.textproto : ENABLED
+}

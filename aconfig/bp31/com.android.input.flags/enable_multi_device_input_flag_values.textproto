@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_multi_device_input"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 211379801
+  # description: Set to true to enable multi-device input: touch and stylus can be active at the same time, but in different windows
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.input.flags/enable_multi_device_input_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.input.flags/enable_multi_device_input_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/enable_multi_device_input_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "finish_running_ops_for_killed_packages"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # purpose: PURPOSE_BUGFIX
+  # bug: 234630570
+  # description: Finish all appops for a dead app process
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.permission.flags/finish_running_ops_for_killed_packages_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/finish_running_ops_for_killed_packages_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/finish_running_ops_for_killed_packages_flag_values.textproto : ENABLED
+}

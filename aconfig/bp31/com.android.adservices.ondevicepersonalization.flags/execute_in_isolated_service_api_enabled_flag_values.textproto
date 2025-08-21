@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "execute_in_isolated_service_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ondevicepersonalization
+  # namespace: ondevicepersonalization_aconfig
+  # bug: 336801193
+  # description: Enable executeInIsolatedService API
+  # trace: packages/modules/OnDevicePersonalization/flags/ondevicepersonalization_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.ondevicepersonalization.flags/execute_in_isolated_service_api_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.multiuser"
+  name: "change_switch_bar_into_main_preference"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # purpose: PURPOSE_BUGFIX
+  # bug: 406107021
+  # description: Refactor multiuser toggle to be of type MainSwitchPreference
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.multiuser/change_switch_bar_into_main_preference_flag_values.textproto : ENABLED
+}

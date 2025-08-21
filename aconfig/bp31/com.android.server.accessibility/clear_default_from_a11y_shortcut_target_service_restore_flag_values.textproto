@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "clear_default_from_a11y_shortcut_target_service_restore"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 341374402
+  # description: Clears the config_defaultAccessibilityService from B&R for ACCESSIBILITY_SHORTCUT_TARGET_SERVICE.
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.accessibility/clear_default_from_a11y_shortcut_target_service_restore_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.accessibility/clear_default_from_a11y_shortcut_target_service_restore_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.accessibility/clear_default_from_a11y_shortcut_target_service_restore_flag_values.textproto : ENABLED
+}

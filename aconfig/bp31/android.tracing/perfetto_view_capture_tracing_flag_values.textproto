@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.tracing"
+  name: "perfetto_view_capture_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_tools
+  # bug: 323166383
+  # description: Migrate ViewCapture tracing to Perfetto
+  # trace: frameworks/base/core/java/android/tracing/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.tracing/perfetto_view_capture_tracing_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "expose_usb_speed_system_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: usb
+  # bug: 373653182
+  # description: Feature flag to enable exposing usb speed system api
+  # trace: frameworks/base/core/java/android/hardware/usb/flags/usb_framework_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.hardware.usb.flags/expose_usb_speed_system_api_flag_values.textproto : ENABLED
+}

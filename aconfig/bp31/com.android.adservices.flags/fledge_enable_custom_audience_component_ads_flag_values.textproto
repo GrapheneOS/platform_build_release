@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_enable_custom_audience_component_ads"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices_aconfig
+  # bug: 377051742
+  # description: Enables component ads feature for custom audiences.
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/fledge_enable_custom_audience_component_ads_flag_values.textproto : ENABLED
+}

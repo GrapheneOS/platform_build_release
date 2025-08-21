@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_overview_background_wallpaper_blur"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_overview
+  # bug: 360297985
+  # description: Enable wallpaper blur in overview.
+  # trace: packages/apps/Launcher3/aconfig/launcher_overview.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/enable_overview_background_wallpaper_blur_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.policy.feature.flags"
+  name: "enable_dual_display_blocking"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: display_manager
+  # bug: 278667199
+  # description: Feature flag for dual display blocking
+  # trace: frameworks/base/services/foldables/devicestateprovider/src/com/android/server/policy/feature/device_state_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.policy.feature.flags/enable_dual_display_blocking_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.policy.feature.flags/enable_dual_display_blocking_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.policy.feature.flags/enable_dual_display_blocking_flag_values.textproto : ENABLED
+}

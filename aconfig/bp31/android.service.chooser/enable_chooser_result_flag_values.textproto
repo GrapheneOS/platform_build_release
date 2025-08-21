@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "enable_chooser_result"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # bug: 263474465
+  # description: Provides additional callbacks with information about user actions in ChooserResult
+  # trace: frameworks/base/core/java/android/service/chooser/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.chooser/enable_chooser_result_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.chooser/enable_chooser_result_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.chooser/enable_chooser_result_flag_values.textproto : ENABLED
+}

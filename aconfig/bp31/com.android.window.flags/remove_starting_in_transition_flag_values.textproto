@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "remove_starting_in_transition"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 397353053
+  # description: Allows the starting window to be removed while a transition is in progress.
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/remove_starting_in_transition_flag_values.textproto : ENABLED
+}

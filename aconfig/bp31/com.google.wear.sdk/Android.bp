@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.google.wear.sdk-all",
+  package: "com.google.wear.sdk",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "softap_disconnect_reason"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # bug: 361651437
+  # description: Add SoftAP disconnect reason code
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.wifi.flags/softap_disconnect_reason_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.res"
+  name: "nine_patch_frro"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: resource_manager
+  # bug: 296324826
+  # description: Feature flag for creating an frro from a 9-patch
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.res/nine_patch_frro_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.res/nine_patch_frro_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.res/nine_patch_frro_flag_values.textproto : ENABLED
+}

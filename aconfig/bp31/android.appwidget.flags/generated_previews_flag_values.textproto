@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "generated_previews"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: app_widgets
+  # bug: 306546610
+  # description: Enable support for generated previews in AppWidgetManager
+  # trace: frameworks/base/core/java/android/appwidget/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.appwidget.flags/generated_previews_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.appwidget.flags/generated_previews_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.appwidget.flags/generated_previews_flag_values.textproto : ENABLED
+}

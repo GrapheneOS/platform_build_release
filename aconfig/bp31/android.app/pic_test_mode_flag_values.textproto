@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "pic_test_mode"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 396173886
+  # description: Updated test mode for PIC
+  # trace: frameworks/base/core/java/android/app/performance.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/pic_test_mode_flag_values.textproto : ENABLED
+}

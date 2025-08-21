@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.google.android.pixelsystemservice.appslicer.flags-all",
+  package: "com.google.android.pixelsystemservice.appslicer.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

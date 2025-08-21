@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_responsive_workspace"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 302189128
+  # description: Enables new workspace grid calculations method.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/enable_responsive_workspace_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/enable_responsive_workspace_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/enable_responsive_workspace_flag_values.textproto : ENABLED
+}

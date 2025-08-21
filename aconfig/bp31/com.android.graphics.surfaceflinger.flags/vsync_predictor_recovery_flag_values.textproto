@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "vsync_predictor_recovery"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385059265
+  # description: Recover the vsync predictor from bad vsync model
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.surfaceflinger.flags/vsync_predictor_recovery_flag_values.textproto : ENABLED
+}

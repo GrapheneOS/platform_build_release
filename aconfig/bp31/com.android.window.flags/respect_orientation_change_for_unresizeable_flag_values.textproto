@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "respect_orientation_change_for_unresizeable"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 353338503
+  # description: Whether to resize task to respect requested orientation change of unresizeable activity
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/respect_orientation_change_for_unresizeable_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/respect_orientation_change_for_unresizeable_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "disable_touch_input_mapper_pointer_usage"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # purpose: PURPOSE_BUGFIX
+  # bug: 281840344
+  # description: Disable the PointerUsage concept in TouchInputMapper since the old touchpad stack is no longer used.
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.input.flags/disable_touch_input_mapper_pointer_usage_flag_values.textproto : ENABLED
+}

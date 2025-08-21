@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "ignore_notify_when_already_connected"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 346679106
+  # description: Flag to ignore connect state notification from Native to Java layer when already connected
+  # trace: packages/modules/Bluetooth/flags/hfp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/ignore_notify_when_already_connected_flag_values.textproto : ENABLED
+}

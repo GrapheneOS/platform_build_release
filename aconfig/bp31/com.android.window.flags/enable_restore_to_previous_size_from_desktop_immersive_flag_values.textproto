@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_restore_to_previous_size_from_desktop_immersive"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 372318163
+  # description: Restores the window bounds to their previous size when exiting desktop immersive
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_restore_to_previous_size_from_desktop_immersive_flag_values.textproto : ENABLED
+}

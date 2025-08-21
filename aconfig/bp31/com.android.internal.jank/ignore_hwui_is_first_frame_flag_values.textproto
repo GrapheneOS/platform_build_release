@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.jank"
+  name: "ignore_hwui_is_first_frame"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 354763298
+  # description: Whether to remove the usage of the HWUI 'is first frame' flag to ignore jank
+  # trace: frameworks/base/core/java/com/android/internal/jank/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.jank/ignore_hwui_is_first_frame_flag_values.textproto : ENABLED
+}

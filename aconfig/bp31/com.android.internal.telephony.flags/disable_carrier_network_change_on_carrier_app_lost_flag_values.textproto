@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "disable_carrier_network_change_on_carrier_app_lost"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 333571417
+  # description: Set carrier network change status to false whenever the carrier app is lost
+  # trace: frameworks/opt/telephony/flags/carrier.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/disable_carrier_network_change_on_carrier_app_lost_flag_values.textproto : ENABLED
+}

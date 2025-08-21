@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "adjust_volume_for_foreground_app_playing_audio_without_media_session"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 275185436
+  # description: Gates whether to adjust local stream volume when the app in the foreground is the last app to play audio or adjust the volume of the last active media session that the user interacted with.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/adjust_volume_for_foreground_app_playing_audio_without_media_session_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/adjust_volume_for_foreground_app_playing_audio_without_media_session_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/adjust_volume_for_foreground_app_playing_audio_without_media_session_flag_values.textproto : ENABLED
+}

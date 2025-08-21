@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_waiting_state_for_system_session_creation_request"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 307723189
+  # description: Introduces a waiting state for the session creation request and prevents it from early failing when the selectedRoute from the bluetooth stack doesn't match the pending request route id.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_waiting_state_for_system_session_creation_request_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_waiting_state_for_system_session_creation_request_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_waiting_state_for_system_session_creation_request_flag_values.textproto : ENABLED
+}

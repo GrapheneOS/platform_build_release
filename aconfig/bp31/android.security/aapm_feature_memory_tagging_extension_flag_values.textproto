@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.security"
+  name: "aapm_feature_memory_tagging_extension"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 378931989
+  # description: Android Advanced Protection Mode Feature: Memory Tagging Extension
+  # trace: frameworks/base/core/java/android/security/responsible_apis_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.security/aapm_feature_memory_tagging_extension_flag_values.textproto : ENABLED
+}

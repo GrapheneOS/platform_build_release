@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.editing.flags"
+  name: "muxer_mp4_enable_apv"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 370061501
+  # description: Enable APV support in mp4 writer.
+  # trace: frameworks/base/media/java/android/media/flags/editing.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.editing.flags/muxer_mp4_enable_apv_flag_values.textproto : ENABLED
+}

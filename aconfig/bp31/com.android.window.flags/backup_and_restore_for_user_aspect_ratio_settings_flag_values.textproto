@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "backup_and_restore_for_user_aspect_ratio_settings"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: large_screen_experiences_app_compat
+  # bug: 396650383
+  # description: Whether B&R for user aspect ratio settings is enabled
+  # trace: frameworks/base/core/java/android/window/flags/large_screen_experiences_app_compat.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/backup_and_restore_for_user_aspect_ratio_settings_flag_values.textproto : ENABLED
+}

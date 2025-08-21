@@ -1,0 +1,13 @@
+flag_value {
+  package: "vendor.google.whitechapel.audio.flags"
+  name: "set_input_stream_stop_threshold"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_audio_android
+  # purpose: PURPOSE_BUGFIX
+  # bug: 352468967
+  # description: This flag enables TinyalsaPcmDriverOperations setting stop_threshold for the input stream to avoid that when the device is busy, the ring buffer between AOC and ALSA kernel is overflow.
+  # trace: vendor/google/whitechapel/audio/aconfig/pixel_audio_hal.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/vendor.google.whitechapel.audio.flags/set_input_stream_stop_threshold_flag_values.textproto : ENABLED
+}

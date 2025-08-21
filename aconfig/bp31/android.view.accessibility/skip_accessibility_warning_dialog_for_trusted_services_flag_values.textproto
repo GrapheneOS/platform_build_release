@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "skip_accessibility_warning_dialog_for_trusted_services"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 303511250
+  # description: Skips showing the accessibility warning dialog for trusted services.
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.accessibility/skip_accessibility_warning_dialog_for_trusted_services_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.accessibility/skip_accessibility_warning_dialog_for_trusted_services_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.accessibility/skip_accessibility_warning_dialog_for_trusted_services_flag_values.textproto : ENABLED
+}

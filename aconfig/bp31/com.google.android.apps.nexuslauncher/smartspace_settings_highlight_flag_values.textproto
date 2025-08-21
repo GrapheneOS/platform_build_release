@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "smartspace_settings_highlight"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # purpose: PURPOSE_BUGFIX
+  # bug: 380942192
+  # description: Highlight smartspace settings by smartspace card on menu item click
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.apps.nexuslauncher/smartspace_settings_highlight_flag_values.textproto : ENABLED
+}

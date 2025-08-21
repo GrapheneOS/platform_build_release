@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "lockscreen_font"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 393610165
+  # description: Read-only flag for lockscreen font
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/lockscreen_font_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.pixel.impulse.flags"
+  name: "fix_shared_uid_app_importance_miss_report"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_state_server
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373774424
+  # description: This flag controls whether shared uid app importance miss report bug is fixed
+  # trace: vendor/google/apps/PersistentBackgroundServices/pixelimpulse/aconfig/pixelimpulse_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.pixel.impulse.flags/fix_shared_uid_app_importance_miss_report_flag_values.textproto : ENABLED
+}

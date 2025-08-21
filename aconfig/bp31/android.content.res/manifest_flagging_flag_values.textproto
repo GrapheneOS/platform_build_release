@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.res"
+  name: "manifest_flagging"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: resource_manager
+  # bug: 297373084
+  # description: Feature flag for flagging manifest entries
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.res/manifest_flagging_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.res/manifest_flagging_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.res/manifest_flagging_flag_values.textproto : ENABLED
+}

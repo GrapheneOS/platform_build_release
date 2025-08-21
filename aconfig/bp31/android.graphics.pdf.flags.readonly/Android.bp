@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-android.graphics.pdf.flags.readonly-all",
+  package: "android.graphics.pdf.flags.readonly",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

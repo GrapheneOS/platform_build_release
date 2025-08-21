@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "cleanup_dream_settings_on_uninstall"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 338210427
+  # description: Cleans up dream settings if dream package is uninstalled.
+  # trace: frameworks/base/core/java/android/service/dreams/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.service.dreams/cleanup_dream_settings_on_uninstall_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "picker_accent_color"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 303784053
+  # description: This flag will enable setting an accent color in the photopicker
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.providers.media.flags/picker_accent_color_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.providers.media.flags/picker_accent_color_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.providers.media.flags/picker_accent_color_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "esim_bootstrap_provisioning_flag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 298567545
+  # description: This flag controls eSIM Bootstrap provisioning feature support.
+  # trace: frameworks/opt/telephony/flags/uicc.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/esim_bootstrap_provisioning_flag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/esim_bootstrap_provisioning_flag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/esim_bootstrap_provisioning_flag_flag_values.textproto : ENABLED
+}

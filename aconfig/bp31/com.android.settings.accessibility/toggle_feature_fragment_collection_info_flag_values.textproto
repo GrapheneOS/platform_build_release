@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "toggle_feature_fragment_collection_info"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 318607873
+  # description: Provides custom CollectionInfo for ToggleFeaturePreferenceFragment
+  # trace: packages/apps/Settings/aconfig/accessibility/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.accessibility/toggle_feature_fragment_collection_info_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "motion_photo_intent"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 362580165
+  # description: This flag will enable the motion photo capture intents.
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.providers.media.flags/motion_photo_intent_flag_values.textproto : ENABLED
+}

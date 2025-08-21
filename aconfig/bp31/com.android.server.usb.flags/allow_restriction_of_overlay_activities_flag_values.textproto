@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.usb.flags"
+  name: "allow_restriction_of_overlay_activities"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: usb
+  # bug: 307231174
+  # description: This flag controls the restriction of usb overlay activities
+  # trace: frameworks/base/services/usb/java/com/android/server/usb/flags/usb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.usb.flags/allow_restriction_of_overlay_activities_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.usb.flags/allow_restriction_of_overlay_activities_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.usb.flags/allow_restriction_of_overlay_activities_flag_values.textproto : ENABLED
+}

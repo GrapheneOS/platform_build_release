@@ -1,0 +1,13 @@
+flag_value {
+  package: "vendor.google.whitechapel.audio.flags"
+  name: "enable_reducing_voice_routing_graph"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_audio_android
+  # bug: 292492229
+  # description: This flag controls whether the HAL reduces the count of routing graph creation when patches are updated.
+  # trace: vendor/google/whitechapel/audio/aconfig/pixel_audio_hal.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/vendor.google.whitechapel.audio.flags/enable_reducing_voice_routing_graph_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/vendor.google.whitechapel.audio.flags/enable_reducing_voice_routing_graph_flag_values.textproto : ENABLED
+}

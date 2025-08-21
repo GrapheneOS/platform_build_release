@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.vold.flags"
+  name: "enhance_fuse_unmount"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: mediaprovider
+  # bug: 402367661
+  # description: This flag controls whether enhancements to unmounting is enabled
+  # trace: system/vold/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.vold.flags/enhance_fuse_unmount_flag_values.textproto : ENABLED
+}

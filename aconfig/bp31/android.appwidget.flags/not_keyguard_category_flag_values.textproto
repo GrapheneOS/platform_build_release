@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "not_keyguard_category"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: app_widgets
+  # bug: 365169792
+  # description: Adds the NOT_KEYGUARD category to AppWidgetInfo categories
+  # trace: frameworks/base/core/java/android/appwidget/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.appwidget.flags/not_keyguard_category_flag_values.textproto : ENABLED
+}

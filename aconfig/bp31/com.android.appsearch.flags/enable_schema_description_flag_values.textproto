@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_schema_description"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 326987971
+  # description: Enable getDescription and related builders.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.appsearch.flags/enable_schema_description_flag_values.textproto : ENABLED
+}

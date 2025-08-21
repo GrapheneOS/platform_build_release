@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "enable_process_observer_broadcast_on_process_started"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 323959187
+  # description: Enable ProcessObserver's onProcessStarted callbacks.
+  # trace: frameworks/base/core/java/android/app/activity_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/enable_process_observer_broadcast_on_process_started_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "app_start_info_keep_records_sorted"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 384539178
+  # description: Ensure records are kept sorted to avoid extra work
+  # trace: frameworks/base/core/java/android/app/activity_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/app_start_info_keep_records_sorted_flag_values.textproto : ENABLED
+}

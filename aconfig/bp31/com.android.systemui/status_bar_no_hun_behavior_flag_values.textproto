@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_no_hun_behavior"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 385740230
+  # description: When there's a HUN, don't show the HUN text or icon in the status bar. Instead, continue showing the usual status bar.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_no_hun_behavior_flag_values.textproto : ENABLED
+}

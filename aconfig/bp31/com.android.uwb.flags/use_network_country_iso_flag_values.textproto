@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "use_network_country_iso"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 299961333
+  # description: Configure country code from getNetworkCountryIso() when telephony list is empty or null
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.uwb.flags/use_network_country_iso_flag_values.textproto : ENABLED
+}

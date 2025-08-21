@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_set_service_enabled_for_category_other"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 338157113
+  # description: Enable set service enabled for category other
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.nfc/nfc_set_service_enabled_for_category_other_flag_values.textproto : ENABLED
+}

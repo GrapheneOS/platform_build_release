@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "always_load_past_certs_v4"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 378539511
+  # description: Always read the corresponding v3/3.1 signature block for the current v4 to get the past rotated certificates, even when not verifying integrity.
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.content.pm/always_load_past_certs_v4_flag_values.textproto : ENABLED
+}

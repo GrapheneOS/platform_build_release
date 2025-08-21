@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_vendor_cmd"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 289879306
+  # description: Enable NFC vendor command support
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.nfc/nfc_vendor_cmd_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.nfc/nfc_vendor_cmd_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.nfc/nfc_vendor_cmd_flag_values.textproto : ENABLED
+}

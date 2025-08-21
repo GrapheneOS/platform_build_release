@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.android.providers.calendar-all",
+  package: "com.android.providers.calendar",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

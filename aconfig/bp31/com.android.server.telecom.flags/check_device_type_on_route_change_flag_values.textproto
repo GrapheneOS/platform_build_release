@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "check_device_type_on_route_change"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 388509460
+  # description: When comparing devices on route change, also consider device type.
+  # trace: packages/services/Telecomm/flags/telecom_callaudioroutestatemachine_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.telecom.flags/check_device_type_on_route_change_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "fix_safety_center_touch_target"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: permissions
+  # bug: 399872661
+  # description: This flag fixes an issue with the SafetyCenterTouchTarget code
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.permission.flags/fix_safety_center_touch_target_flag_values.textproto : ENABLED
+}

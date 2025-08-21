@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "enable_platform_widget_differential_motion_fling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: toolkit
+  # bug: 293332089
+  # description: Enables differential motion fling in platform widgets
+  # trace: frameworks/base/core/java/android/widget/flags/differential_motion_fling_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.widget.flags/enable_platform_widget_differential_motion_fling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.widget.flags/enable_platform_widget_differential_motion_fling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.widget.flags/enable_platform_widget_differential_motion_fling_flag_values.textproto : ENABLED
+}

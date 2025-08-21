@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "enforce_remote_device_opt_out_on_all_virtual_displays"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 338973239
+  # description: Respect canDisplayOnRemoteDevices on all virtual displays
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion.virtualdevice.flags/enforce_remote_device_opt_out_on_all_virtual_displays_flag_values.textproto : ENABLED
+}

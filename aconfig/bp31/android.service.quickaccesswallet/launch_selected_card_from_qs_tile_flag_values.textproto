@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.service.quickaccesswallet"
+  name: "launch_selected_card_from_qs_tile"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 378469025
+  # description: When the wallet QS tile is tapped, launch the selected card pending intent instead of the home screen pending intent.
+  # trace: frameworks/base/core/java/android/service/quickaccesswallet/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.service.quickaccesswallet/launch_selected_card_from_qs_tile_flag_values.textproto : ENABLED
+}

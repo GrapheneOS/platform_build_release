@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.sdk"
+  name: "enable_can_app_be_muted"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # bug: 309612569
+  # description: A flag to enable the WearServices NotificationManager.canMuteApp() API call.
+  # trace: vendor/google_clockwork/sdk/lib/flags/wear_sdk_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.sdk/enable_can_app_be_muted_flag_values.textproto : ENABLED
+}

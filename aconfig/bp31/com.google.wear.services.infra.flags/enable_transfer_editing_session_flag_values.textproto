@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.wear.services.infra.flags"
+  name: "enable_transfer_editing_session"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # purpose: PURPOSE_BUGFIX
+  # bug: 340847100
+  # description: Enables transferring editing session from watch to remote
+  # trace: vendor/google_clockwork_partners/packages/WearServices/src/com/google/wear/services/infra/flags/wear_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.services.infra.flags/enable_transfer_editing_session_flag_values.textproto : ENABLED
+}

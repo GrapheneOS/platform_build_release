@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "initiation_without_input_connection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # bug: 308827131
+  # description: Feature flag for initiating handwriting without InputConnection
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.inputmethod/initiation_without_input_connection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.inputmethod/initiation_without_input_connection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.inputmethod/initiation_without_input_connection_flag_values.textproto : ENABLED
+}

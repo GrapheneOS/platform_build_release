@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.example.android.aconfig.demo.flags"
+  name: "test_mendel_gantry_disintegration_again"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # bug: 336346880
+  # description: A regular server-side flag moving on new path to gantry
+  # trace: development/samples/AconfigDemo/aconfig_demo_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.example.android.aconfig.demo.flags/test_mendel_gantry_disintegration_again_flag_values.textproto : ENABLED
+}

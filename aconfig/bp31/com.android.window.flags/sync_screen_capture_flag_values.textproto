@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "sync_screen_capture"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 321263247
+  # description: Create a screen capture API that blocks in SurfaceFlinger
+  # trace: frameworks/base/core/java/android/window/flags/window_surfaces.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/sync_screen_capture_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/sync_screen_capture_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/sync_screen_capture_flag_values.textproto : ENABLED
+}

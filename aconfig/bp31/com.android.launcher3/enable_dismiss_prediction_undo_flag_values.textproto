@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_dismiss_prediction_undo"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 270394476
+  # description: Show an 'Undo' snackbar when users dismiss a predicted hotseat item
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.launcher3/enable_dismiss_prediction_undo_flag_values.textproto : ENABLED
+}

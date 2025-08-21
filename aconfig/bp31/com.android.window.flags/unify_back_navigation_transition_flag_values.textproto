@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "unify_back_navigation_transition"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # bug: 372230928
+  # description: Always create predictive back transition when start back gesture animation
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/unify_back_navigation_transition_flag_values.textproto : ENABLED
+}

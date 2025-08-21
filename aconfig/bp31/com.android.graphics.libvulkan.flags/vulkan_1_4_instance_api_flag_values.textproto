@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.libvulkan.flags"
+  name: "vulkan_1_4_instance_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 370568136
+  # description: Enable support for the Vulkan 1.4 instance API
+  # trace: frameworks/native/vulkan/libvulkan/libvulkan_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.libvulkan.flags/vulkan_1_4_instance_api_flag_values.textproto : ENABLED
+}

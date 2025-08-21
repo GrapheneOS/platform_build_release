@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "volume_dialog_audio_sharing_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 336716411
+  # description: Gates whether to show separate volume bars during audio sharing
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/volume_dialog_audio_sharing_fix_flag_values.textproto : ENABLED
+}

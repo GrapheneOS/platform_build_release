@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "checkin_history_start_time"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 403599628
+  # description: Add duration limit to battery stats check in (csv) format
+  # trace: frameworks/base/services/core/java/com/android/server/power/stats/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.power.optimization/checkin_history_start_time_flag_values.textproto : ENABLED
+}

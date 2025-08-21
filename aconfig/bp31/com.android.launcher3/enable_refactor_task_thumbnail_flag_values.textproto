@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_refactor_task_thumbnail"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_overview
+  # bug: 331754864
+  # description: Enables rewritten version of TaskThumbnailViews in Overview
+  # trace: packages/apps/Launcher3/aconfig/launcher_overview.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/enable_refactor_task_thumbnail_flag_values.textproto : ENABLED
+}

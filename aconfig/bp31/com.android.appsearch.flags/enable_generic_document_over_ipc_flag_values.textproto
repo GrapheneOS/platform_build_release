@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_generic_document_over_ipc"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 357551503
+  # description: Guards system API for parcelling Generic documents.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.appsearch.flags/enable_generic_document_over_ipc_flag_values.textproto : ENABLED
+}

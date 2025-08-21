@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.media.codec"
+  name: "stop_hal_before_surface"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # purpose: PURPOSE_BUGFIX
+  # bug: 339247977
+  # description: Bugfix flag for setting state early to avoid a race condition
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.media.codec/stop_hal_before_surface_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.media.codec/stop_hal_before_surface_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.media.codec/stop_hal_before_surface_flag_values.textproto : ENABLED
+}

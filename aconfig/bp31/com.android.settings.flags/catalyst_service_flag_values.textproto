@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "catalyst_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 323791114
+  # description: Flag for catalyst service
+  # trace: packages/apps/Settings/aconfig/settings_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settings.flags/catalyst_service_flag_values.textproto : ENABLED
+}

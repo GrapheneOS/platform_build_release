@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "expire_bitmaps"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 290381858
+  # description: This flag controls removing expired notification bitmaps
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.notification/expire_bitmaps_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.notification/expire_bitmaps_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.notification/expire_bitmaps_flag_values.textproto : ENABLED
+}

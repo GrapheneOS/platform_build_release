@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "save_peer_csrk_after_ltk_gen"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 365567905
+  # description: save peer csrk after ltk generated so that right security level is marked as part of peer csrk
+  # trace: packages/modules/Bluetooth/flags/pairing.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/save_peer_csrk_after_ltk_gen_flag_values.textproto : ENABLED
+}

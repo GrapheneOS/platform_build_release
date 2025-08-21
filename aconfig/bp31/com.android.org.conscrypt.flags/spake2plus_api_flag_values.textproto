@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.org.conscrypt.flags"
+  name: "spake2plus_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.conscrypt
+  # namespace: core_libraries
+  # bug: 382233100
+  # description: This flag controls whether SPAKE2+ is exposed by Conscrypt
+  # trace: external/conscrypt/conscrypt.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.org.conscrypt.flags/spake2plus_api_flag_values.textproto : ENABLED
+}

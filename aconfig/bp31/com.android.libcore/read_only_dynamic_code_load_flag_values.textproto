@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "read_only_dynamic_code_load"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.art
+  # namespace: core_libraries
+  # bug: 354921003
+  # description: This flag controls if read only is enforced when loading native code
+  # trace: libcore/libcore.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.libcore/read_only_dynamic_code_load_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "multiresolution_imagereader_usage_public"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 338621560
+  # description: Make constructor for MultiResolutionImageReader with usage public
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.camera.flags/multiresolution_imagereader_usage_public_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "granular_scrolling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 302376158
+  # description: Allow the use of granular scrolling. This allows scrollable nodes to scroll by increments other than a full screen
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.accessibility/granular_scrolling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.accessibility/granular_scrolling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.accessibility/granular_scrolling_flag_values.textproto : ENABLED
+}

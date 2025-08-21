@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_usb_sysfs_midi_identification"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_sw_usb
+  # bug: 333778731
+  # description: Enable identifying midi device using USB sysfs
+  # trace: frameworks/base/core/java/android/hardware/usb/flags/system_sw_usb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.usb.flags/enable_usb_sysfs_midi_identification_flag_values.textproto : ENABLED
+}

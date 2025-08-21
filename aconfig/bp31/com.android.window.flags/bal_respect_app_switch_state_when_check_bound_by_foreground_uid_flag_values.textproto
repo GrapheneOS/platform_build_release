@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_respect_app_switch_state_when_check_bound_by_foreground_uid"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 283801068
+  # description: Prevent BAL based on it is bound by foreground Uid but the app switch is stopped.
+  # trace: frameworks/base/core/java/android/window/flags/responsible_apis.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/bal_respect_app_switch_state_when_check_bound_by_foreground_uid_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/bal_respect_app_switch_state_when_check_bound_by_foreground_uid_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/bal_respect_app_switch_state_when_check_bound_by_foreground_uid_flag_values.textproto : ENABLED
+}

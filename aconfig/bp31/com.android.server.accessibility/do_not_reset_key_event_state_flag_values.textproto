@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "do_not_reset_key_event_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 331900630
+  # description: Don't reset the event stream state when receiving an event without policy flag FLAG_PASS_TO_USER. Just pass it through the pipeline.
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.accessibility/do_not_reset_key_event_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.accessibility/do_not_reset_key_event_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.accessibility/do_not_reset_key_event_state_flag_values.textproto : ENABLED
+}

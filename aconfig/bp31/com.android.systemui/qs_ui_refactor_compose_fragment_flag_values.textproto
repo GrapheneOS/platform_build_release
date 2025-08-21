@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "qs_ui_refactor_compose_fragment"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 325099249
+  # description: Uses a different QS fragment in NPVC that uses the new compose UI and recommended architecture. This flag depends on qs_ui_refactor flag.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/qs_ui_refactor_compose_fragment_flag_values.textproto : ENABLED
+}

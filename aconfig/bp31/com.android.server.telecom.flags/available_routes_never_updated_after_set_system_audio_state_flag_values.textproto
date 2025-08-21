@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "available_routes_never_updated_after_set_system_audio_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 292599751
+  # description: Fix supported routes wrongly include bluetooth issue.
+  # trace: packages/services/Telecomm/flags/telecom_callaudioroutestatemachine_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.telecom.flags/available_routes_never_updated_after_set_system_audio_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.telecom.flags/available_routes_never_updated_after_set_system_audio_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/available_routes_never_updated_after_set_system_audio_state_flag_values.textproto : ENABLED
+}

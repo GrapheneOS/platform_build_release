@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.job"
+  name: "get_pending_job_reasons_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 372031023
+  # description: Introduce a new getPendingJobReasons() API which returns reasons why a job may not have executed. Also deprecate the existing getPendingJobReason() API.
+  # trace: frameworks/base/apex/jobscheduler/framework/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.job/get_pending_job_reasons_api_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.net"
+  name: "never_apply_rules_to_core_uids"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 356956588
+  # description: Removes all rule bookkeeping and evaluation logic for core uids and uids without the internet permission
+  # trace: frameworks/base/services/core/java/com/android/server/net/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.net/never_apply_rules_to_core_uids_flag_values.textproto : ENABLED
+}

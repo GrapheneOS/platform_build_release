@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "channel_sounding_25q2_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 367409858
+  # description: Add new APIs for channel sounding
+  # trace: packages/modules/Bluetooth/flags/ranging.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/channel_sounding_25q2_apis_flag_values.textproto : ENABLED
+}

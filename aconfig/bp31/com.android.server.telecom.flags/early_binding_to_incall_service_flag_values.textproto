@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "early_binding_to_incall_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 282113261
+  # description: Binds to InCallServices when call requires no call filtering on watch
+  # trace: packages/services/Telecomm/flags/telecom_incallservice_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.telecom.flags/early_binding_to_incall_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.telecom.flags/early_binding_to_incall_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/early_binding_to_incall_service_flag_values.textproto : ENABLED
+}

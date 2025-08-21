@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "wakelock_attribution_via_workchain"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 331304805
+  # description: Enables the attribution of wakelocks via WorkChain for updateWakelockUids
+  # trace: frameworks/base/services/core/java/com/android/server/power/feature/power_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.power.feature.flags/wakelock_attribution_via_workchain_flag_values.textproto : ENABLED
+}

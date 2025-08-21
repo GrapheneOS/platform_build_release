@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "signal_connecting_on_focus_gain"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 350510879
+  # description:  Briefly signal a connecting playback state when we get focus so browser clients see us having an active playback state and switch to us as the source
+  # trace: packages/modules/Bluetooth/flags/avrcp_controller.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/signal_connecting_on_focus_gain_flag_values.textproto : ENABLED
+}

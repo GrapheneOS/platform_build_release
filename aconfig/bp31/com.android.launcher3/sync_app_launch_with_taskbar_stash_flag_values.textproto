@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "sync_app_launch_with_taskbar_stash"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 319162553
+  # description: Syncs the two animations (app launch, taskbar stash) so they play at the same time.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/sync_app_launch_with_taskbar_stash_flag_values.textproto : ENABLED
+}

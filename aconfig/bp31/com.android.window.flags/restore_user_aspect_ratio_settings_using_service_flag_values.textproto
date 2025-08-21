@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "restore_user_aspect_ratio_settings_using_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: large_screen_experiences_app_compat
+  # purpose: PURPOSE_BUGFIX
+  # bug: 413014252
+  # description: Whether a system service should handle setting restored user aspect ratio settings for apps that install after SUW is complete.
+  # trace: frameworks/base/core/java/android/window/flags/large_screen_experiences_app_compat.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/restore_user_aspect_ratio_settings_using_service_flag_values.textproto : ENABLED
+}

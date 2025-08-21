@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "internal_log_event_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385730709
+  # description: Allow internal listeners to see unfiltered event stream
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.admin.flags/internal_log_event_listener_flag_values.textproto : ENABLED
+}

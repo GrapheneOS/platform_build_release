@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-android.vold.flags-all",
+  package: "android.vold.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

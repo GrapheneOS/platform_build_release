@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "management_mode_policy_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 293091314
+  # description: Enabling management mode and password complexity policy metrics collection
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/management_mode_policy_metrics_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/management_mode_policy_metrics_flag_values.textproto : ENABLED
+}

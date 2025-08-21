@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "write_system_preference_permission_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: android_settings
+  # bug: 375193223
+  # description: Enable WRITE_SYSTEM_PREFERENCE permission and appop
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settingslib.flags/write_system_preference_permission_enabled_flag_values.textproto : ENABLED
+}

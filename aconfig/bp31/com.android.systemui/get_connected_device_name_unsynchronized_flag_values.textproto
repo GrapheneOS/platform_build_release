@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "get_connected_device_name_unsynchronized"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 323995015
+  # description: Decide whether to fetch the connected bluetooth device name outside a synchronized block.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/get_connected_device_name_unsynchronized_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/get_connected_device_name_unsynchronized_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/get_connected_device_name_unsynchronized_flag_values.textproto : ENABLED
+}

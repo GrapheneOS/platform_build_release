@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "autofill_w_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: autofill
+  # bug: 342676602
+  # description: Guards against new metrics definitions introduced in W
+  # trace: frameworks/base/services/autofill/features.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.service.autofill/autofill_w_metrics_flag_values.textproto : ENABLED
+}

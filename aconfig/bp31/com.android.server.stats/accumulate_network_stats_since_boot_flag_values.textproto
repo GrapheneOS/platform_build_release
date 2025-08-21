@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.stats"
+  name: "accumulate_network_stats_since_boot"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: statsd
+  # bug: 352537247
+  # description: Accumulate results of NetworkStats queries to avoid hitting NetworkStats persistence limit
+  # trace: frameworks/base/services/core/java/com/android/server/stats/stats_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.stats/accumulate_network_stats_since_boot_flag_values.textproto : ENABLED
+}

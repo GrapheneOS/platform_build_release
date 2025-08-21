@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "media_store_open_file"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 356147697
+  # description: This flag will enable new APIs for opening media files through MediaStore
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.providers.media.flags/media_store_open_file_flag_values.textproto : ENABLED
+}

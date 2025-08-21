@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "always_allow_observing_touch_events"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 344604959
+  # description: Always allows InputFilter observing SOURCE_TOUCHSCREEN events, even if touch exploration is enabled.
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.accessibility/always_allow_observing_touch_events_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.accessibility/always_allow_observing_touch_events_flag_values.textproto : ENABLED
+}

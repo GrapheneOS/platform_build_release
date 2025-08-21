@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "restore_blur_step"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 255921628
+  # description: Restore drawing the blur input prior to drawing blurred content.
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/restore_blur_step_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/restore_blur_step_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/restore_blur_step_flag_values.textproto : ENABLED
+}

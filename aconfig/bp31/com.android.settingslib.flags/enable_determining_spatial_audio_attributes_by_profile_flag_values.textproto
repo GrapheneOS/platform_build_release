@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_determining_spatial_audio_attributes_by_profile"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 341005211
+  # description: Use bluetooth profile connection policy to determine spatial audio attributes
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settingslib.flags/enable_determining_spatial_audio_attributes_by_profile_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settingslib.flags/enable_determining_spatial_audio_attributes_by_profile_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settingslib.flags/enable_determining_spatial_audio_attributes_by_profile_flag_values.textproto : ENABLED
+}

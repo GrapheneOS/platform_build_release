@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.extractor.flags"
+  name: "extractor_mp4_enable_apv"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.media
+  # namespace: media_solutions
+  # bug: 370061501
+  # description: Enable APV support in mp4 extractor.
+  # trace: frameworks/av/media/module/extractors/extractor.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.extractor.flags/extractor_mp4_enable_apv_flag_values.textproto : ENABLED
+}

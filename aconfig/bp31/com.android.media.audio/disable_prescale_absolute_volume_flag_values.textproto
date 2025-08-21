@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "disable_prescale_absolute_volume"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 302553525
+  # description: Disable pre-scale absolute volume.
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.audio/disable_prescale_absolute_volume_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.audio/disable_prescale_absolute_volume_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audio/disable_prescale_absolute_volume_flag_values.textproto : ENABLED
+}

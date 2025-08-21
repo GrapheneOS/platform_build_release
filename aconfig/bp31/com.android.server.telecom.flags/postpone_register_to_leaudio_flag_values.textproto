@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "postpone_register_to_leaudio"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 333417369
+  # description: Fix for Log.wtf in the BinderProxy
+  # trace: packages/services/Telecomm/flags/telecom_bluetoothdevicemanager_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/postpone_register_to_leaudio_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "enable_battery_level_display"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 380790573
+  # description: Show battery level when available
+  # trace: packages/apps/Settings/aconfig/settings_bluetooth_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settings.flags/enable_battery_level_display_flag_values.textproto : ENABLED
+}

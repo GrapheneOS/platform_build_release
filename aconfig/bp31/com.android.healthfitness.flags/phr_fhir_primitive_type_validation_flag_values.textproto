@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "phr_fhir_primitive_type_validation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # bug: 361775172
+  # description: Flag for validating FHIR primitive data types when upserting medical data.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.healthfitness.flags/phr_fhir_primitive_type_validation_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "use_profile_labels_for_default_app_section_titles"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 358369931
+  # description: Use profile labels from UserManager for default app section titles to allow partner customization
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/use_profile_labels_for_default_app_section_titles_flag_values.textproto : ENABLED
+}

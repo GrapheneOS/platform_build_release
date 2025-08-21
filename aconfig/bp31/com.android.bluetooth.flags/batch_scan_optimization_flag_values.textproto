@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "batch_scan_optimization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392132489
+  # description: Optimized batch scan for less wakeups
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/batch_scan_optimization_flag_values.textproto : ENABLED
+}

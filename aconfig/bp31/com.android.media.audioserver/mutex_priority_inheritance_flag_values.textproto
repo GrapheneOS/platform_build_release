@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "mutex_priority_inheritance"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 209491695
+  # description: Enable mutex priority inheritance in audioserver (std::mutex does not normally transfer priority from the blocked thread to the blocking thread). This feature helps reduce audio glitching caused by low priority blocking threads.
+  # trace: frameworks/av/media/audio/aconfig/audioserver.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.audioserver/mutex_priority_inheritance_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.audioserver/mutex_priority_inheritance_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audioserver/mutex_priority_inheritance_flag_values.textproto : ENABLED
+}

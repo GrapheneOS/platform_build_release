@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "observe_mode_without_rf"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 368655283
+  # description: Enable setting obseve mode state with out deactivating RF
+  # trace: packages/modules/Nfc/NfcNci/flags/nfc_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.nfc.flags/observe_mode_without_rf_flag_values.textproto : ENABLED
+}

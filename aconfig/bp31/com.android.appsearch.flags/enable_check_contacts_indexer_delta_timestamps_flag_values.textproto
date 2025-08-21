@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_check_contacts_indexer_delta_timestamps"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # purpose: PURPOSE_BUGFIX
+  # bug: 329108459
+  # description: Enables checking Contacts Indexer delta timestamps before delta updates.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.appsearch.flags/enable_check_contacts_indexer_delta_timestamps_flag_values.textproto : ENABLED
+}

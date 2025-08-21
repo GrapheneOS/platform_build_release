@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "inferred_media_date"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 352524889
+  # description: Controls exposure of inferred_media_date column
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.providers.media.flags/inferred_media_date_flag_values.textproto : ENABLED
+}

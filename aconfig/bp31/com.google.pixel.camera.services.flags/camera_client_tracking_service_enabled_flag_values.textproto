@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.pixel.camera.services.flags"
+  name: "camera_client_tracking_service_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: camera_services
+  # bug: 311233513
+  # description: Enables CameraClientTrackingService to track camera clients.
+  # trace: vendor/google/apps/PersistentBackgroundCameraServices/aconfig_camera_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.pixel.camera.services.flags/camera_client_tracking_service_enabled_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.pixel.camera.services.flags/camera_client_tracking_service_enabled_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.pixel.camera.services.flags/camera_client_tracking_service_enabled_flag_values.textproto : ENABLED
+}

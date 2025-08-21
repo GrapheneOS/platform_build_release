@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "editorinfo_handwriting_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # bug: 293898187
+  # description: Feature flag for adding EditorInfo#mStylusHandwritingEnabled
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.inputmethod/editorinfo_handwriting_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.inputmethod/editorinfo_handwriting_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.inputmethod/editorinfo_handwriting_enabled_flag_values.textproto : ENABLED
+}

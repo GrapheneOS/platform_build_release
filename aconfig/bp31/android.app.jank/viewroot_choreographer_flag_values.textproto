@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.jank"
+  name: "viewroot_choreographer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 377960907
+  # description: when enabled janktracker will get the instance of choreographer from viewrootimpl
+  # trace: frameworks/base/core/java/android/app/jank/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.jank/viewroot_choreographer_flag_values.textproto : ENABLED
+}

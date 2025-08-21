@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "media_controls_ui_update"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 379044958
+  # description: Enables media visuals update
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/media_controls_ui_update_flag_values.textproto : ENABLED
+}

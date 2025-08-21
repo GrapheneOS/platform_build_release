@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "notify_keyguard_events"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395897130
+  # description: Send keyguard showing/hiding/going-away events to wallpaper as wallpaper commands (guarded by permission)
+  # trace: frameworks/base/core/java/android/app/wallpaper.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/notify_keyguard_events_flag_values.textproto : ENABLED
+}

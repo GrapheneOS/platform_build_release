@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.jank"
+  name: "use_sf_frame_duration"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 354763298
+  # description: Whether to get the frame duration from SurfaceFlinger, or HWUI
+  # trace: frameworks/base/core/java/com/android/internal/jank/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.jank/use_sf_frame_duration_flag_values.textproto : ENABLED
+}

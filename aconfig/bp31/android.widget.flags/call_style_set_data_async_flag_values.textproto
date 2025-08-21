@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "call_style_set_data_async"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 293961072
+  # description: Offloads caller icon drawable loading to the background thread
+  # trace: frameworks/base/core/java/android/widget/flags/notification_widget_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.widget.flags/call_style_set_data_async_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.widget.flags/call_style_set_data_async_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.widget.flags/call_style_set_data_async_flag_values.textproto : ENABLED
+}

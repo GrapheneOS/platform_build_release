@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "use_carrier_config_for_cfnry_time_via_mmi"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 342346827
+  # description: This flag allows the no reply timer to be referenced in the carrier config when setting up call forward via MMI code and there is no timer value.
+  # trace: frameworks/opt/telephony/flags/misc.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/use_carrier_config_for_cfnry_time_via_mmi_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/use_carrier_config_for_cfnry_time_via_mmi_flag_values.textproto : ENABLED
+}

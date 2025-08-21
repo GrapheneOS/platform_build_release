@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "use_uwbs_uci_version"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 303104817
+  # description: Replace usage of ProtocolVersion from Fira/Ccc params with UWBS UCI version
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.uwb.flags/use_uwbs_uci_version_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.uwb.flags/use_uwbs_uci_version_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.uwb.flags/use_uwbs_uci_version_flag_values.textproto : ENABLED
+}

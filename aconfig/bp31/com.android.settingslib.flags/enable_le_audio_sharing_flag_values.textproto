@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_le_audio_sharing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: pixel_cross_device_control
+  # bug: 388674074
+  # description: Gates whether to enable LE audio sharing
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/enable_le_audio_sharing_flag_values.textproto : ENABLED
+}

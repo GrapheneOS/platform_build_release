@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "auto_data_prune_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 389591869
+  # description: Unregister listeners when user disable settings or connect to wifi.
+  # trace: frameworks/opt/telephony/flags/data.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/auto_data_prune_listener_flag_values.textproto : ENABLED
+}

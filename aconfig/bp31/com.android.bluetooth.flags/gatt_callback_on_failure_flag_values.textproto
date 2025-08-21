@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "gatt_callback_on_failure"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 356550596
+  # description: Invoke callbacks on early failure from the native stack
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/gatt_callback_on_failure_flag_values.textproto : ENABLED
+}

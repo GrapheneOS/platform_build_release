@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_enable_schedule_custom_audience_default_partial_custom_audiences_constructor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices_aconfig
+  # bug: 377383709
+  # description: Enables the new constructor that does not require partial custom audiences in the request.
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/fledge_enable_schedule_custom_audience_default_partial_custom_audiences_constructor_flag_values.textproto : ENABLED
+}

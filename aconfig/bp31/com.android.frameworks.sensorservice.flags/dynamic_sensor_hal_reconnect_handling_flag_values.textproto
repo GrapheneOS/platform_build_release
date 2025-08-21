@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.frameworks.sensorservice.flags"
+  name: "dynamic_sensor_hal_reconnect_handling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: sensors
+  # bug: 307782607
+  # description: This flag controls if the dynamic sensor data will be clean up after HAL is disconnected.
+  # trace: frameworks/native/services/sensorservice/sensorservice_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.frameworks.sensorservice.flags/dynamic_sensor_hal_reconnect_handling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.frameworks.sensorservice.flags/dynamic_sensor_hal_reconnect_handling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.frameworks.sensorservice.flags/dynamic_sensor_hal_reconnect_handling_flag_values.textproto : ENABLED
+}

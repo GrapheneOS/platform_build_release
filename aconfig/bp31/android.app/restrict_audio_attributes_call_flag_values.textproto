@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "restrict_audio_attributes_call"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 331793339
+  # description: Only CallStyle notifs can use USAGE_NOTIFICATION_RINGTONE
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.app/restrict_audio_attributes_call_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/restrict_audio_attributes_call_flag_values.textproto : ENABLED
+}

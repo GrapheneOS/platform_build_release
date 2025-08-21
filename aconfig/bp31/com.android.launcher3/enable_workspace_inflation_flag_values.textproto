@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_workspace_inflation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 318539160
+  # description: Enables asnc inflation of workspace icons
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.launcher3/enable_workspace_inflation_flag_values.textproto : ENABLED
+}

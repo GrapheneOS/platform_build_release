@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.stats"
+  name: "netstats_use_add_entries"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: statsd
+  # bug: 335680025
+  # description: Use NetworkStats#addEntries to reduce memory footprint
+  # trace: frameworks/base/services/core/java/com/android/server/stats/stats_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.stats/netstats_use_add_entries_flag_values.textproto : ENABLED
+}

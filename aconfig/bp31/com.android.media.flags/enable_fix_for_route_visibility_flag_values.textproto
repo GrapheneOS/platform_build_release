@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_fix_for_route_visibility"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_better_together
+  # purpose: PURPOSE_BUGFIX
+  # bug: 416436531
+  # description: Fixes a bug causing private routes to appear on the output switcher of an app that shouldn't see them.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.media.flags/enable_fix_for_route_visibility_flag_values.textproto : ENABLED
+}

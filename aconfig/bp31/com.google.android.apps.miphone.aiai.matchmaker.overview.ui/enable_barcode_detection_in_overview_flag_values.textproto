@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.apps.miphone.aiai.matchmaker.overview.ui"
+  name: "enable_barcode_detection_in_overview"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 298888677
+  # description: This flag enables barcode detection & actions in overview
+  # trace: vendor/unbundled_google/libraries/aiai_ui/aconfig/aiai_ui.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.apps.miphone.aiai.matchmaker.overview.ui/enable_barcode_detection_in_overview_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.apps.miphone.aiai.matchmaker.overview.ui/enable_barcode_detection_in_overview_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.miphone.aiai.matchmaker.overview.ui/enable_barcode_detection_in_overview_flag_values.textproto : ENABLED
+}

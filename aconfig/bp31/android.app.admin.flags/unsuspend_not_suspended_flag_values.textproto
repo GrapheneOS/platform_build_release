@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "unsuspend_not_suspended"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 378766314
+  # description: When admin unsuspends packages, pass previously not suspended packages to PM too
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.admin.flags/unsuspend_not_suspended_flag_values.textproto : ENABLED
+}

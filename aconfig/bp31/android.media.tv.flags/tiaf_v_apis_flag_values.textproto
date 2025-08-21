@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "tiaf_v_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_tv
+  # bug: 303323657
+  # description: TIAF V3.0 APIs for Android V
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/tiaf_v_apis_flag_values.textproto : ENABLED
+}

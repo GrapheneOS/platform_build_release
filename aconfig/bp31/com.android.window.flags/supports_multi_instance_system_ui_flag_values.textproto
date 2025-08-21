@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "supports_multi_instance_system_ui"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # bug: 262864589
+  # description: Feature flag to enable a multi-instance system ui component property.
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/supports_multi_instance_system_ui_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/supports_multi_instance_system_ui_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/supports_multi_instance_system_ui_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "set_auto_time_enabled_coexistence"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 359188869
+  # description: Enables coexistence support for setAutoTimeEnabled.
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.admin.flags/set_auto_time_enabled_coexistence_flag_values.textproto : ENABLED
+}

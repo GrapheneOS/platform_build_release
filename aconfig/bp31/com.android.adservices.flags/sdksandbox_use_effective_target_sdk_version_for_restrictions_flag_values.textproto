@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "sdksandbox_use_effective_target_sdk_version_for_restrictions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices_aconfig
+  # bug: 288873117
+  # description: Use the effective target SDK version for getting the allowlist for restrictions
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/sdksandbox_use_effective_target_sdk_version_for_restrictions_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.codec"
+  name: "rendering_depth_removal"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # bug: 275527219
+  # description: Feature flag for removing rendering depth
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.media.codec/rendering_depth_removal_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "cleanup_cdma"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 379356026
+  # description: Disable CDMA and NV backing code
+  # trace: frameworks/opt/telephony/flags/misc.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/cleanup_cdma_flag_values.textproto : ENABLED
+}

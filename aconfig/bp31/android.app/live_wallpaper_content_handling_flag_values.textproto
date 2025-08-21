@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "live_wallpaper_content_handling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 347235611
+  # description: Support for user-generated content in live wallpapers. Only effective after rebooting.
+  # trace: frameworks/base/core/java/android/app/wallpaper.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/live_wallpaper_content_handling_flag_values.textproto : ENABLED
+}

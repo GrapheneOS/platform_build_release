@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_oem_extension"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 331206243
+  # description: Enable NFC OEM extension support
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.nfc/nfc_oem_extension_flag_values.textproto : ENABLED
+}

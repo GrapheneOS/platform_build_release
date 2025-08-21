@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.os"
+  name: "debug_store_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: stability
+  # bug: 314735374
+  # description: If the debug store is enabled.
+  # trace: frameworks/base/core/java/com/android/internal/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.os/debug_store_enabled_flag_values.textproto : ENABLED
+}

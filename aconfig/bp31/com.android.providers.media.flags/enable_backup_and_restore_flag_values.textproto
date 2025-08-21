@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "enable_backup_and_restore"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 195138692
+  # description: This flag will enable backup and restore feature
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_07/com.android.providers.media.flags/enable_backup_and_restore_flag_values.textproto : ENABLED
+}

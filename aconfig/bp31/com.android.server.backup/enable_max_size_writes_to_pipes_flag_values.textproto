@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_max_size_writes_to_pipes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: onboarding
+  # bug: 265976737
+  # description: Enables the write buffer to pipes to be of maximum size.
+  # trace: frameworks/base/services/backup/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.backup/enable_max_size_writes_to_pipes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.backup/enable_max_size_writes_to_pipes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.backup/enable_max_size_writes_to_pipes_flag_values.textproto : ENABLED
+}

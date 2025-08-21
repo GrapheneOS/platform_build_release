@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "enable_output_switcher_for_system_routing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 284227163
+  # description: Enable Output Switcher when no media is playing.
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib_media_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settingslib.media.flags/enable_output_switcher_for_system_routing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settingslib.media.flags/enable_output_switcher_for_system_routing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settingslib.media.flags/enable_output_switcher_for_system_routing_flag_values.textproto : ENABLED
+}

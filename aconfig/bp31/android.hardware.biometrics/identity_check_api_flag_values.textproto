@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "identity_check_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 373424727
+  # description: This flag is for API changes related to Identity Check
+  # trace: frameworks/base/core/java/android/hardware/biometrics/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.hardware.biometrics/identity_check_api_flag_values.textproto : ENABLED
+}

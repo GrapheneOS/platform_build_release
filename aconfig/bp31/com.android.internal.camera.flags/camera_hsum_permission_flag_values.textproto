@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "camera_hsum_permission"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 273539631
+  # description: Camera access by headless system user
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.camera.flags/camera_hsum_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.camera.flags/camera_hsum_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.camera.flags/camera_hsum_permission_flag_values.textproto : ENABLED
+}

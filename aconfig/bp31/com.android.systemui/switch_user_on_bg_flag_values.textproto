@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "switch_user_on_bg"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 284095720
+  # description: Does user switching on a background thread
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/switch_user_on_bg_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/switch_user_on_bg_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/switch_user_on_bg_flag_values.textproto : ENABLED
+}

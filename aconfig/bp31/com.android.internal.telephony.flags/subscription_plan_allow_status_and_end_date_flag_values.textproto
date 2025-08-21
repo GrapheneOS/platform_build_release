@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "subscription_plan_allow_status_and_end_date"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 357272015
+  # description: Provide APIs to retrieve the status and recurrence rule info on a subscription plan
+  # trace: frameworks/opt/telephony/flags/subscription.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/subscription_plan_allow_status_and_end_date_flag_values.textproto : ENABLED
+}

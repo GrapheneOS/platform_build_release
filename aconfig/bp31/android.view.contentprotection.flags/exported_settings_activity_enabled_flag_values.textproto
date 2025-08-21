@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.contentprotection.flags"
+  name: "exported_settings_activity_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: content_protection
+  # bug: 385310141
+  # description: If true, the content protection Settings Activity will be exported for launching externally.
+  # trace: frameworks/base/core/java/android/view/contentprotection/flags/content_protection_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.contentprotection.flags/exported_settings_activity_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "virtual_camera"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 270352264
+  # description: Enable Virtual Camera
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/deprecated_flags_do_not_edit.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.companion.virtual.flags/virtual_camera_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.companion.virtual.flags/virtual_camera_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.companion.virtual.flags/virtual_camera_flag_values.textproto : ENABLED
+}

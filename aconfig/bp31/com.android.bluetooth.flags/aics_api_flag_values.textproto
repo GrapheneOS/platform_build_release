@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "aics_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 372328699
+  # description: Expose new API to control AICS data
+  # trace: packages/modules/Bluetooth/flags/hap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/aics_api_flag_values.textproto : ENABLED
+}

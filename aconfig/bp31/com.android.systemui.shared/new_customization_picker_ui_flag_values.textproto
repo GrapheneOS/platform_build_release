@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "new_customization_picker_ui"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 339081035
+  # description: Enables the new design of the customization picker UI.
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui.shared/new_customization_picker_ui_flag_values.textproto : ENABLED
+}

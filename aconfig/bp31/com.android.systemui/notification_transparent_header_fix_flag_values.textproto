@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_transparent_header_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 340161724
+  # description: fix the transparent group header issue for async header inflation.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/notification_transparent_header_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/notification_transparent_header_fix_flag_values.textproto : ENABLED
+}

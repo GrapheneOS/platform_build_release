@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_adaptive_tone_improvements_2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 294762632
+  # description: Feature flag for Further Adaptive Tone Improvements
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/enable_adaptive_tone_improvements_2_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/enable_adaptive_tone_improvements_2_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_adaptive_tone_improvements_2_flag_values.textproto : ENABLED
+}

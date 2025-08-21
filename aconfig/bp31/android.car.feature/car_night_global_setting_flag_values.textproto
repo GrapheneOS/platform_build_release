@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_night_global_setting"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 260762437
+  # description: Controls whether to use global settings to control the day/night mode configuration
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/car_night_global_setting_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/car_night_global_setting_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/car_night_global_setting_flag_values.textproto : ENABLED
+}

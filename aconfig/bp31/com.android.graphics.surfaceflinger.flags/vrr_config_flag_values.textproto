@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "vrr_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 284845445
+  # description: Controls SurfaceFlinger support for VRR Configurations
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/vrr_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/vrr_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/vrr_config_flag_values.textproto : ENABLED
+}

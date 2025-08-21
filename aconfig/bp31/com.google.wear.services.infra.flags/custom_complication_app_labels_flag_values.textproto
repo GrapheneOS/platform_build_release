@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.services.infra.flags"
+  name: "custom_complication_app_labels"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # bug: 375608467
+  # description: Flag to enable processing custom app labels set by privileged complication data sources.
+  # trace: vendor/google_clockwork_partners/packages/WearServices/src/com/google/wear/services/infra/flags/wear_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.wear.services.infra.flags/custom_complication_app_labels_flag_values.textproto : ENABLED
+}

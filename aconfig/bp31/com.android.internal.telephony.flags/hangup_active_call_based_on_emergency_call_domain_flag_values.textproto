@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "hangup_active_call_based_on_emergency_call_domain"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391287237
+  # description: This flag disconnects an active call if the domain selected for the emergency call is different from the domain of the currently active call.
+  # trace: frameworks/opt/telephony/flags/domainselection.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/hangup_active_call_based_on_emergency_call_domain_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.credentials.flags"
+  name: "package_update_fix_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: credential_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 384772470
+  # description: Enable fix for removing package from settings if app is updated or component is modified
+  # trace: frameworks/base/core/java/android/credentials/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.credentials.flags/package_update_fix_enabled_flag_values.textproto : ENABLED
+}

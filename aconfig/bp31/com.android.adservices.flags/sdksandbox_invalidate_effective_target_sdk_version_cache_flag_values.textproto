@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "sdksandbox_invalidate_effective_target_sdk_version_cache"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices_aconfig
+  # bug: 328202544
+  # description: Invalidate the effective target SDK version cache
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/sdksandbox_invalidate_effective_target_sdk_version_cache_flag_values.textproto : ENABLED
+}

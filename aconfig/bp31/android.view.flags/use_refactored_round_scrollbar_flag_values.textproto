@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.flags"
+  name: "use_refactored_round_scrollbar"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 333417898
+  # description: Use refactored round scrollbar.
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.flags/use_refactored_round_scrollbar_flag_values.textproto : ENABLED
+}

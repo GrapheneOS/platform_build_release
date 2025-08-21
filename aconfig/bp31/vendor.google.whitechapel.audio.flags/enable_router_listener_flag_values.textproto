@@ -1,0 +1,13 @@
+flag_value {
+  package: "vendor.google.whitechapel.audio.flags"
+  name: "enable_router_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_audio_android
+  # bug: 352468967
+  # description: This flag controls whether Router calls back to clients to inform the router status.
+  # trace: vendor/google/whitechapel/audio/aconfig/pixel_audio_hal.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/vendor.google.whitechapel.audio.flags/enable_router_listener_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/vendor.google.whitechapel.audio.flags/enable_router_listener_flag_values.textproto : ENABLED
+}

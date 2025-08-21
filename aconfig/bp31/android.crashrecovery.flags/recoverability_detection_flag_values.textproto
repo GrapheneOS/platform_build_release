@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "recoverability_detection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 310236690
+  # description: Feature flag for recoverability detection
+  # trace: frameworks/base/packages/CrashRecovery/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.crashrecovery.flags/recoverability_detection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.crashrecovery.flags/recoverability_detection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.crashrecovery.flags/recoverability_detection_flag_values.textproto : ENABLED
+}

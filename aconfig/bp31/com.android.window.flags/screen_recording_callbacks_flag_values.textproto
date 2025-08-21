@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "screen_recording_callbacks"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 304574518
+  # description: Enable screen recording callbacks public API
+  # trace: frameworks/base/core/java/android/window/flags/window_surfaces.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/screen_recording_callbacks_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/screen_recording_callbacks_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/screen_recording_callbacks_flag_values.textproto : ENABLED
+}

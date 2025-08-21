@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "factory_reset_prep_permission_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 302016478
+  # description: enable Permission PREPARE_FACTORY_RESET.
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.permission.flags/factory_reset_prep_permission_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/factory_reset_prep_permission_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/factory_reset_prep_permission_apis_flag_values.textproto : ENABLED
+}

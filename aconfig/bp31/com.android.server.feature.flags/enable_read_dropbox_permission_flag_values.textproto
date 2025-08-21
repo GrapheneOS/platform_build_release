@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.feature.flags"
+  name: "enable_read_dropbox_permission"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: preload_safety
+  # bug: 287512663
+  # description: Feature flag for permission to Read dropbox data
+  # trace: frameworks/base/services/core/java/com/android/server/feature/dropbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.feature.flags/enable_read_dropbox_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.feature.flags/enable_read_dropbox_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.feature.flags/enable_read_dropbox_permission_flag_values.textproto : ENABLED
+}

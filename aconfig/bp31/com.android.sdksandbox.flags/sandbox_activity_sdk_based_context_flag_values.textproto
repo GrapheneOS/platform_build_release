@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sandbox_activity_sdk_based_context"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: sdk_sandbox
+  # bug: 290326267
+  # description: This flag make the sandbox activity context based on its corresponding SDK package info instead of the sandbox App package info
+  # trace: packages/modules/AdServices/sdksandbox/flags/sandbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.sdksandbox.flags/sandbox_activity_sdk_based_context_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.sdksandbox.flags/sandbox_activity_sdk_based_context_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.sdksandbox.flags/sandbox_activity_sdk_based_context_flag_values.textproto : ENABLED
+}

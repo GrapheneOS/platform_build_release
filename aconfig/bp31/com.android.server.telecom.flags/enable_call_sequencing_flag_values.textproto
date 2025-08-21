@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "enable_call_sequencing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 327038818
+  # description: Enables simultaneous call sequencing for SIM PhoneAccounts
+  # trace: packages/services/Telecomm/flags/telecom_calls_manager_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/enable_call_sequencing_flag_values.textproto : ENABLED
+}

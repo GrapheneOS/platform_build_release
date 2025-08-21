@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "security_state_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: dynamic_spl
+  # bug: 302189431
+  # description: Guards the Security State API.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/security_state_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/security_state_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/security_state_service_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "l2cap_tx_complete_cb_info"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 314819704
+  # description: Provide l2cap transmit complete information b/301168932
+  # trace: packages/modules/Bluetooth/flags/l2cap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/l2cap_tx_complete_cb_info_flag_values.textproto : ENABLED
+}

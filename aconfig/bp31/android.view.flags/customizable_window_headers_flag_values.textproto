@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.flags"
+  name: "customizable_window_headers"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 316387515
+  # description: Flag to control the caption bar appearance and to fit app content in its empty space
+  # trace: frameworks/base/core/java/android/view/flags/window_insets.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.flags/customizable_window_headers_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.flags/customizable_window_headers_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.flags/customizable_window_headers_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_measure_during_input_event_boost"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 256549451
+  # description: Guards use of a boost when view measures during input events
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.os/adpf_measure_during_input_event_boost_flag_values.textproto : ENABLED
+}

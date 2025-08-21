@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "gsf_res"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395145453
+  # description: Adds refresh for font family. Needs to be fixed to be used in resources.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/gsf_res_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "fix_unbolded_typeface_for_numberpicker"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # purpose: PURPOSE_BUGFIX
+  # bug: 318304896
+  # description: Use the correct bolded typeface when drawing the selector numbers
+  # trace: frameworks/base/core/java/android/widget/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.widget.flags/fix_unbolded_typeface_for_numberpicker_flag_values.textproto : ENABLED
+}

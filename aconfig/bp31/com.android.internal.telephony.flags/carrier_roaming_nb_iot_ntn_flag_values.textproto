@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "carrier_roaming_nb_iot_ntn"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 348253735
+  # description: This flag enables satellite carrier roaming to nb iot ntn.
+  # trace: frameworks/opt/telephony/flags/satellite.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/carrier_roaming_nb_iot_ntn_flag_values.textproto : ENABLED
+}

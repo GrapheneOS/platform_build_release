@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "enable_wps_check_api_flag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 304272356
+  # description: Enable system api isWpsCallNumber. Its an utility api to check if the dialed number is for Wireless Priority Service call.
+  # trace: frameworks/opt/telephony/flags/misc.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/enable_wps_check_api_flag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/enable_wps_check_api_flag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/enable_wps_check_api_flag_flag_values.textproto : ENABLED
+}

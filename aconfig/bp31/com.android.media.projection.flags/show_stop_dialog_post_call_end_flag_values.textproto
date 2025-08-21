@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.media.projection.flags"
+  name: "show_stop_dialog_post_call_end"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_projection
+  # purpose: PURPOSE_BUGFIX
+  # bug: 390343524
+  # description: Shows a stop dialog for MediaProjection sessions that started during call and remain active after a call ends
+  # trace: frameworks/base/media/java/android/media/flags/projection.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.projection.flags/show_stop_dialog_post_call_end_flag_values.textproto : ENABLED
+}

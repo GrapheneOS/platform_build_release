@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "communal_edit_widgets_activity_finish_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 354725145
+  # description: finish edit widgets activity when stopping
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/communal_edit_widgets_activity_finish_fix_flag_values.textproto : ENABLED
+}

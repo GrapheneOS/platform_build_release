@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "add_battery_usage_stats_slice_atom"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 324602949
+  # description: Adds battery_usage_stats_slice atom
+  # trace: frameworks/base/services/core/java/com/android/server/power/stats/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.optimization/add_battery_usage_stats_slice_atom_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.optimization/add_battery_usage_stats_slice_atom_flag_values.textproto : ENABLED
+}

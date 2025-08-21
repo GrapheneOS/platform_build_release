@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "clock_reactive_variants"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 343495953
+  # description: Add reactive variant fonts to some clocks
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui.shared/clock_reactive_variants_flag_values.textproto : ENABLED
+}

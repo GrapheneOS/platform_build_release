@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "net_capability_local_network"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 313000440
+  # description: Flag for local network capability API
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.net.flags/net_capability_local_network_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.net.flags/net_capability_local_network_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.net.flags/net_capability_local_network_flag_values.textproto : ENABLED
+}

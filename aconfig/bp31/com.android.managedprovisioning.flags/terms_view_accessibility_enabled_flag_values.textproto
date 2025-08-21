@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "terms_view_accessibility_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 386329540
+  # description: Enable Expand/Collapse accesbility announcement for terms view
+  # trace: packages/apps/ManagedProvisioning/aconfig/root.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.managedprovisioning.flags/terms_view_accessibility_enabled_flag_values.textproto : ENABLED
+}

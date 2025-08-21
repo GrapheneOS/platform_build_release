@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_contextual_tip_for_power_off"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 322891421
+  # description: Enables on-screen contextual tip about how to power off or restart phone
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/enable_contextual_tip_for_power_off_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/enable_contextual_tip_for_power_off_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/enable_contextual_tip_for_power_off_flag_values.textproto : ENABLED
+}

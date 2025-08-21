@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "shade_expands_on_status_bar_long_press"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 371224114
+  # description: Expands the shade on long press of any status bar
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/shade_expands_on_status_bar_long_press_flag_values.textproto : ENABLED
+}

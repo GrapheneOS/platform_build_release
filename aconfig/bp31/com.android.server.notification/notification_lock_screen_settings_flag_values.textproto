@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "notification_lock_screen_settings"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 367455695
+  # description: This flag enables the new settings page for the notifications on lock screen.
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.notification/notification_lock_screen_settings_flag_values.textproto : ENABLED
+}

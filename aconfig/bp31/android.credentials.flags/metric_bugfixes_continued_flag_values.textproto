@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.credentials.flags"
+  name: "metric_bugfixes_continued"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: credential_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370477460
+  # description: Used for continued metrics work in 25Q3
+  # trace: frameworks/base/core/java/android/credentials/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.credentials.flags/metric_bugfixes_continued_flag_values.textproto : ENABLED
+}

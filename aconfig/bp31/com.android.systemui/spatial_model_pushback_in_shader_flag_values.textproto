@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "spatial_model_pushback_in_shader"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391463550
+  # description: Change implementation of the depth push scaling effect on apps to use a fullscreen shader
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/spatial_model_pushback_in_shader_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "rust_hyphenator"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 346915432
+  # description: Reimplement hyphenator for safe file read
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/rust_hyphenator_flag_values.textproto : ENABLED
+}

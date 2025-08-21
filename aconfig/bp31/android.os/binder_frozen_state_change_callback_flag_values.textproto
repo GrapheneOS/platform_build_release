@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "binder_frozen_state_change_callback"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 361157077
+  # description: Guards the frozen state change callback API.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os/binder_frozen_state_change_callback_flag_values.textproto : ENABLED
+}

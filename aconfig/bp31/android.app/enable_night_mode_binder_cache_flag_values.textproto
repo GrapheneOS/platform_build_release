@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.app"
+  name: "enable_night_mode_binder_cache"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 255999432
+  # description: Enables the use of binder caching for system night mode.
+  # trace: frameworks/base/core/java/android/app/ui_mode_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/enable_night_mode_binder_cache_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/enable_night_mode_binder_cache_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/enable_night_mode_binder_cache_flag_values.textproto : ENABLED
+}

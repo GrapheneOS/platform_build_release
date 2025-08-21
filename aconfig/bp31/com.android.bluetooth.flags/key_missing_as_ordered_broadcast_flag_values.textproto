@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "key_missing_as_ordered_broadcast"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 333634398
+  # description: Key missing broadcast would be send as ordered broadcast
+  # trace: packages/modules/Bluetooth/flags/security.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/key_missing_as_ordered_broadcast_flag_values.textproto : ENABLED
+}

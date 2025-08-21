@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.input.twoshay.flags"
+  name: "enable_notification_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: system_sw_touch
+  # bug: 385001604
+  # description: Enable Twoshay Notification Service to deliver the result to the outside.
+  # trace: vendor/google/input/twoshay/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.input.twoshay.flags/enable_notification_service_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "keyboard_repeat_keys"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 336585002
+  # description: Allow user to enable key repeats or configure timeout before key repeat and key repeat delay rates.
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.input.flags/keyboard_repeat_keys_flag_values.textproto : ENABLED
+}

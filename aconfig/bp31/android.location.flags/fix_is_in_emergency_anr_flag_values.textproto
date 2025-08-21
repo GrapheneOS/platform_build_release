@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.location.flags"
+  name: "fix_is_in_emergency_anr"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # purpose: PURPOSE_BUGFIX
+  # bug: 355384257
+  # description: Avoid calling IPC with a lock to avoid deadlock
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.location.flags/fix_is_in_emergency_anr_flag_values.textproto : ENABLED
+}

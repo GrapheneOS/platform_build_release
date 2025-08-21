@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "autofill_credman_dev_integration"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: autofill
+  # bug: 320730001
+  # description: Guards against Autofill-Credman Phase1 developer integration via new APIs
+  # trace: frameworks/base/services/autofill/features.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.autofill/autofill_credman_dev_integration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.autofill/autofill_credman_dev_integration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.autofill/autofill_credman_dev_integration_flag_values.textproto : ENABLED
+}

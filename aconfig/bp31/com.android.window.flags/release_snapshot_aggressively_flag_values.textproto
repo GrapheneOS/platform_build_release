@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "release_snapshot_aggressively"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # bug: 238206323
+  # description: Actively release task snapshot memory
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/release_snapshot_aggressively_flag_values.textproto : ENABLED
+}

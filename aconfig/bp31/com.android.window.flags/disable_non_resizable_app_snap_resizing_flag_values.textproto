@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "disable_non_resizable_app_snap_resizing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 325240072
+  # description: Stops non-resizable app desktop windows from being snap resized
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/disable_non_resizable_app_snap_resizing_flag_values.textproto : ENABLED
+}

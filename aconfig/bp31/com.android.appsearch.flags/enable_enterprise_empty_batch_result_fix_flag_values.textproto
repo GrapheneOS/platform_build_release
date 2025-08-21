@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_enterprise_empty_batch_result_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 349805579
+  # description: Populates the GetDocuments batch result with RESULT_NOT_FOUND when the enterprise user cannot be retrieved.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.appsearch.flags/enable_enterprise_empty_batch_result_fix_flag_values.textproto : ENABLED
+}

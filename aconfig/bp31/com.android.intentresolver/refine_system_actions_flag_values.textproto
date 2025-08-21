@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "refine_system_actions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 331206205
+  # description: This flag enables sending system actions to the caller refinement flow
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.intentresolver/refine_system_actions_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.intentresolver/refine_system_actions_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.intentresolver/refine_system_actions_flag_values.textproto : ENABLED
+}

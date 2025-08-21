@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "accessibility_appearance_settings_backup_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: globalintl
+  # bug: 341210043
+  # description: Feature flag for B&R accessibility appearance settings
+  # trace: packages/apps/Settings/aconfig/settings_globalintl_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.flags/accessibility_appearance_settings_backup_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/accessibility_appearance_settings_backup_enabled_flag_values.textproto : ENABLED
+}

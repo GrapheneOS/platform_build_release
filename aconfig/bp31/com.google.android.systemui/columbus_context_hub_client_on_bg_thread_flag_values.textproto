@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.systemui"
+  name: "columbus_context_hub_client_on_bg_thread"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392716464
+  # description: Moves registration of Columbus ContextHubClient on BG thread
+  # trace: vendor/unbundled_google/packages/SystemUIGoogle/aconfig/systemuigoogle.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.systemui/columbus_context_hub_client_on_bg_thread_flag_values.textproto : ENABLED
+}

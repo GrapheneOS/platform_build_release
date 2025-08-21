@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "enable_bluetooth_key_missing_dialog"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 360031750
+  # description: Show a dialog if the bluetooth key is missing when reconnecting
+  # trace: packages/apps/Settings/aconfig/settings_bluetooth_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/enable_bluetooth_key_missing_dialog_flag_values.textproto : ENABLED
+}

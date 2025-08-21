@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "invalidate_input_calls_restart"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # purpose: PURPOSE_BUGFIX
+  # bug: 396066692
+  # description: Feature flag to fix the race between invalidateInput and restartInput
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.view.inputmethod/invalidate_input_calls_restart_flag_values.textproto : ENABLED
+}

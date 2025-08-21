@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "always_rotate_display_device"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 302326003
+  # description: Use rotation from WindowManager no matter whether FLAG_ROTATES_WITH_CONTENT is set or not
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/always_rotate_display_device_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/always_rotate_display_device_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/always_rotate_display_device_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "pick_ordered_images"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 303784642
+  # description: This flag controls whether to enable ordered selection in photopicker
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.providers.media.flags/pick_ordered_images_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.providers.media.flags/pick_ordered_images_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.providers.media.flags/pick_ordered_images_flag_values.textproto : ENABLED
+}

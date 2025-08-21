@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion"
+  name: "association_tag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: companion
+  # bug: 289241123
+  # description: Enable Association tag APIs 
+  # trace: frameworks/base/core/java/android/companion/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion/association_tag_flag_values.textproto : ENABLED
+}

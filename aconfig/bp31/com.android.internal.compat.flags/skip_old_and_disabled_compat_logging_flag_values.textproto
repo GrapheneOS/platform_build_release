@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.compat.flags"
+  name: "skip_old_and_disabled_compat_logging"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: app_compat
+  # bug: 323949942
+  # description: Feature flag for skipping debug logging for changes that do not target the latest sdk or are disabled
+  # trace: frameworks/base/core/java/com/android/internal/compat/compat_logging_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.compat.flags/skip_old_and_disabled_compat_logging_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.compat.flags/skip_old_and_disabled_compat_logging_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.compat.flags/skip_old_and_disabled_compat_logging_flag_values.textproto : ENABLED
+}

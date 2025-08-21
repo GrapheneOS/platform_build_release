@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_override_recover_routing_table"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 329043523
+  # description: Enable override and recover routing table
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.nfc/nfc_override_recover_routing_table_flag_values.textproto : ENABLED
+}

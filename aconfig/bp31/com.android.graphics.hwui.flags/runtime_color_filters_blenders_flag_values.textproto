@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "runtime_color_filters_blenders"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 358126864
+  # description: API for AGSL authored runtime color filters and blenders
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.hwui.flags/runtime_color_filters_blenders_flag_values.textproto : ENABLED
+}

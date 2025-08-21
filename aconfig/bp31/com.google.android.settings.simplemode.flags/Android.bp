@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.google.android.settings.simplemode.flags-all",
+  package: "com.google.android.settings.simplemode.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

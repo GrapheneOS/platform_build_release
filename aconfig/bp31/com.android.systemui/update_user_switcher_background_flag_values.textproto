@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "update_user_switcher_background"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 322745650
+  # description: Decide whether to update user switcher in background thread.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/update_user_switcher_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/update_user_switcher_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/update_user_switcher_background_flag_values.textproto : ENABLED
+}

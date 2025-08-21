@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion"
+  name: "unpair_associated_device"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: companion
+  # bug: 322237619
+  # description: Unpair with an associated bluetooth device
+  # trace: frameworks/base/core/java/android/companion/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion/unpair_associated_device_flag_values.textproto : ENABLED
+}

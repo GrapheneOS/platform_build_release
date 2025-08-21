@@ -1,0 +1,12 @@
+flag_value {
+  package: "vendor.vibrator.hal.flags"
+  name: "enable_pwle_v2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: vibrator
+  # bug: 346570576
+  # description: This flag enables the PWLE V2 APIs guarded by the CAP_COMPOSE_PWLE_EFFECTS_V2 compatability
+  # trace: device/google/gs-common/vibrator/flags/VibratorFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/vendor.vibrator.hal.flags/enable_pwle_v2_flag_values.textproto : ENABLED
+}

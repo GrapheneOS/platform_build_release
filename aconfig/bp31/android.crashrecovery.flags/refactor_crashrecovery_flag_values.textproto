@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "refactor_crashrecovery"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: modularization
+  # bug: 289203818
+  # description: Refactor required CrashRecovery code
+  # trace: frameworks/base/packages/CrashRecovery/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.crashrecovery.flags/refactor_crashrecovery_flag_values.textproto : ENABLED
+}

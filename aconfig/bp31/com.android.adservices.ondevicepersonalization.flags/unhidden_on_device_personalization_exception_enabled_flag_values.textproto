@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "unhidden_on_device_personalization_exception_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ondevicepersonalization
+  # namespace: ondevicepersonalization_aconfig
+  # bug: 379743390
+  # description: Enable unhidden of OnDevicePersonalizationException.
+  # trace: packages/modules/OnDevicePersonalization/flags/ondevicepersonalization_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.adservices.ondevicepersonalization.flags/unhidden_on_device_personalization_exception_enabled_flag_values.textproto : ENABLED
+}

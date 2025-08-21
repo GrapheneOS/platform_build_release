@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "app_ops_service_handler_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 394380603
+  # description: Use IoThread handler for AppOpsService background/IO work.
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/app_ops_service_handler_fix_flag_values.textproto : ENABLED
+}

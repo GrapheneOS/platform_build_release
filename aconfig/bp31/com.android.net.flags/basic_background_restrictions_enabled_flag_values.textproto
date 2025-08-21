@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "basic_background_restrictions_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 304347838
+  # description: Block network access for apps in a low importance background state
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.net.flags/basic_background_restrictions_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.net.flags/basic_background_restrictions_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.net.flags/basic_background_restrictions_enabled_flag_values.textproto : ENABLED
+}

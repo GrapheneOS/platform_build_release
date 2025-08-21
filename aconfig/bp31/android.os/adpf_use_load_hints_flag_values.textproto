@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_use_load_hints"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 367803904
+  # description: Guards use of the ADPF public load hints behind a readonly flag
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os/adpf_use_load_hints_flag_values.textproto : ENABLED
+}

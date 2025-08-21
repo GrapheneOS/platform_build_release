@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.os.profiling"
+  name: "redaction_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.profiling
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 327423523
+  # description: Enables system traces to be ran through redaction process.
+  # trace: packages/modules/Profiling/framework/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os.profiling/redaction_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os.profiling/redaction_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os.profiling/redaction_enabled_flag_values.textproto : ENABLED
+}

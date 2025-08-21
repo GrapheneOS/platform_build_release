@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "bad_state_v3_early_rh_download_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 347912855
+  # description: Download and provision role holder provisioning before precondition checks
+  # trace: packages/apps/ManagedProvisioning/aconfig/root.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.managedprovisioning.flags/bad_state_v3_early_rh_download_enabled_flag_values.textproto : ENABLED
+}

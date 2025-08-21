@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "read_le_appearance"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362367900
+  # description: Read GATT Appearance characteristic on new LE connections
+  # trace: packages/modules/Bluetooth/flags/pairing.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/read_le_appearance_flag_values.textproto : ENABLED
+}

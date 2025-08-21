@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.systemui"
+  name: "volume_plus_for_pixel"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_cross_device_control
+  # bug: 306754974
+  # description: Enables Pixel-exclusive ui injection in volume panel
+  # trace: vendor/unbundled_google/packages/SystemUIGoogle/aconfig/systemuigoogle.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.systemui/volume_plus_for_pixel_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.systemui/volume_plus_for_pixel_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.systemui/volume_plus_for_pixel_flag_values.textproto : ENABLED
+}

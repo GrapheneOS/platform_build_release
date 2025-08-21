@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "ranging_permission_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: uwb
+  # bug: 370977414
+  # description: This fixed read-only flag is used to enable new ranging permission for all ranging use cases.
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/ranging_permission_enabled_flag_values.textproto : ENABLED
+}

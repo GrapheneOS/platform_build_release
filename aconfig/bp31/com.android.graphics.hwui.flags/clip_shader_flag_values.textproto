@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "clip_shader"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 280116960
+  # description: API for canvas shader clipping operations
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.hwui.flags/clip_shader_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.hwui.flags/clip_shader_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.hwui.flags/clip_shader_flag_values.textproto : ENABLED
+}

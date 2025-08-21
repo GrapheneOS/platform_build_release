@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "system_vendor_intelligence_role_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 377553620
+  # description: This flag is used to enable the role system_vendor_intelligence
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/system_vendor_intelligence_role_enabled_flag_values.textproto : ENABLED
+}

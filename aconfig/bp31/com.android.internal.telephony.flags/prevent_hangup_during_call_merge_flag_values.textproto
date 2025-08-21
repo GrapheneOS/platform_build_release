@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "prevent_hangup_during_call_merge"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 317070933
+  # description: This flag prevents hangup call during call merge
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/prevent_hangup_during_call_merge_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/prevent_hangup_during_call_merge_flag_values.textproto : ENABLED
+}

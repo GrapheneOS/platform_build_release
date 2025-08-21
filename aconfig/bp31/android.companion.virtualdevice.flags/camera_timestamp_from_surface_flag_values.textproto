@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "camera_timestamp_from_surface"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 351341245
+  # description: Pass the surface timestamp to the capture result
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion.virtualdevice.flags/camera_timestamp_from_surface_flag_values.textproto : ENABLED
+}

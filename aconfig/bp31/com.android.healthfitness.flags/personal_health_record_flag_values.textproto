@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "personal_health_record"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # bug: 329271826
+  # description: Flag for adding new PHR features.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.healthfitness.flags/personal_health_record_flag_values.textproto : ENABLED
+}

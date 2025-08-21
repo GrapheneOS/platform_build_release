@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "vibration_xml_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: haptics
+  # purpose: PURPOSE_FEATURE
+  # bug: 347273158
+  # description: Enabled System APIs for vibration effect XML parser and serializer
+  # trace: frameworks/base/core/java/android/os/vibrator/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os.vibrator/vibration_xml_apis_flag_values.textproto : ENABLED
+}

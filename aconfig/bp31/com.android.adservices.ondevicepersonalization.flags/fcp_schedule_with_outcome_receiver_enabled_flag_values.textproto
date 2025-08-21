@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "fcp_schedule_with_outcome_receiver_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ondevicepersonalization
+  # namespace: ondevicepersonalization_aconfig
+  # bug: 343848473
+  # description: Enable the federated compute schedule API that accepts an OutcomeReceiver.
+  # trace: packages/modules/OnDevicePersonalization/flags/ondevicepersonalization_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.adservices.ondevicepersonalization.flags/fcp_schedule_with_outcome_receiver_enabled_flag_values.textproto : ENABLED
+}

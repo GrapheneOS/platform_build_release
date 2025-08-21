@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "qs_edit_mode_tooltip"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 403596182
+  # description: Displays an educational tooltip on the edit mode icon from the expanded shade. This flag depends on qs_ui_refactor_compose_fragment flag.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/qs_edit_mode_tooltip_flag_values.textproto : ENABLED
+}

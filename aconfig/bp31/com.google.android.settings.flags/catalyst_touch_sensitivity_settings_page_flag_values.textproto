@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "catalyst_touch_sensitivity_settings_page"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 323791114
+  # description: Flag for Touch sensitivity
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/catalyst/display.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.settings.flags/catalyst_touch_sensitivity_settings_page_flag_values.textproto : ENABLED
+}

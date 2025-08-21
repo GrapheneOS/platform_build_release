@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "audio_balance_state_description"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 319575109
+  # description: Provides a more valuable state description to the audio balance slider.
+  # trace: packages/apps/Settings/aconfig/accessibility/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.accessibility/audio_balance_state_description_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.accessibility/audio_balance_state_description_flag_values.textproto : ENABLED
+}

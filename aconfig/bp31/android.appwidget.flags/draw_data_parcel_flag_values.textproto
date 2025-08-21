@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "draw_data_parcel"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: app_widgets
+  # bug: 286130467
+  # description: Enable support for transporting draw instructions as data parcel
+  # trace: frameworks/base/core/java/android/appwidget/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.appwidget.flags/draw_data_parcel_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.appwidget.flags/draw_data_parcel_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.appwidget.flags/draw_data_parcel_flag_values.textproto : ENABLED
+}

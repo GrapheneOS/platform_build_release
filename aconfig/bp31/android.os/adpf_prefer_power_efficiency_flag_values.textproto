@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_prefer_power_efficiency"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 288117936
+  # description: Guards the ADPF power efficiency API
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/adpf_prefer_power_efficiency_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/adpf_prefer_power_efficiency_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/adpf_prefer_power_efficiency_flag_values.textproto : ENABLED
+}

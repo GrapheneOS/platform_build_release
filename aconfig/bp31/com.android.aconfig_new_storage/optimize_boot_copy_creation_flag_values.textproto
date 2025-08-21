@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.aconfig_new_storage"
+  name: "optimize_boot_copy_creation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 409943165
+  # description: Fix the issue that boot storage files are created unecessarily
+  # trace: system/server_configurable_flags/aconfigd/new_aconfig_storage.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.aconfig_new_storage/optimize_boot_copy_creation_flag_values.textproto : ENABLED
+}

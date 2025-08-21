@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "phr_fhir_extension_validation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # bug: 377706021
+  # description: Flag for validating the structure of Extension data type.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.healthfitness.flags/phr_fhir_extension_validation_flag_values.textproto : ENABLED
+}

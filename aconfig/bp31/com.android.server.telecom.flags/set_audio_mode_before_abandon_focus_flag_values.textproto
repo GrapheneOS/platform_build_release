@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "set_audio_mode_before_abandon_focus"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 281841785
+  # description: Set audio mode to MODE_NORMAL before abandon the audio focus.
+  # trace: packages/services/Telecomm/flags/telecom_callaudiomodestatemachine_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.telecom.flags/set_audio_mode_before_abandon_focus_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.telecom.flags/set_audio_mode_before_abandon_focus_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/set_audio_mode_before_abandon_focus_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.database.sqlite"
+  name: "sqlite_apis_35"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 279043253
+  # description: SQLite APIs held back for Android 15
+  # trace: frameworks/base/core/java/android/database/sqlite/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.database.sqlite/sqlite_apis_35_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.database.sqlite/sqlite_apis_35_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.database.sqlite/sqlite_apis_35_flag_values.textproto : ENABLED
+}

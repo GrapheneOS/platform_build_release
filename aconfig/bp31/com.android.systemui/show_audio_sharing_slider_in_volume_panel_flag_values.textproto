@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "show_audio_sharing_slider_in_volume_panel"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 336183611
+  # description: Show two sliders in volume panel when audio sharing.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/show_audio_sharing_slider_in_volume_panel_flag_values.textproto : ENABLED
+}

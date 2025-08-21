@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion"
+  name: "device_presence"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: companion
+  # bug: 283000075
+  # description: Enable device presence APIs
+  # trace: frameworks/base/core/java/android/companion/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion/device_presence_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_caption_compat_inset_force_consumption"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 316231589
+  # description: Enables force-consumption of caption bar insets for immersive apps in freeform
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_caption_compat_inset_force_consumption_flag_values.textproto : ENABLED
+}

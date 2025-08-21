@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.net.wifi.flags"
+  name: "usd"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wifi
+  # bug: 340878198
+  # description: Unsynchronized Service Discovery
+  # trace: frameworks/base/wifi/wifi.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.net.wifi.flags/usd_flag_values.textproto : ENABLED
+}

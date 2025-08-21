@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "pin_webview"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 307594624
+  # description: This flag controls if webview should be pinned in memory.
+  # trace: frameworks/base/services/core/java/com/android/server/flags/pinner.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.flags/pin_webview_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.flags/pin_webview_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.flags/pin_webview_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "add_accessibility_title_for_augmented_autofill_dropdown"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: autofill
+  # purpose: PURPOSE_BUGFIX
+  # bug: 375284244
+  # description: Add accessibility title for augmented autofill dropdown
+  # trace: frameworks/base/services/autofill/bugfixes.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.service.autofill/add_accessibility_title_for_augmented_autofill_dropdown_flag_values.textproto : ENABLED
+}

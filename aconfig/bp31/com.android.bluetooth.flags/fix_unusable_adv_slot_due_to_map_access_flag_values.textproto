@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_unusable_adv_slot_due_to_map_access"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 388615378
+  # description: Fixes the advertising slot becoming unusable due to incorrect map access via [] operator.
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/fix_unusable_adv_slot_due_to_map_access_flag_values.textproto : ENABLED
+}

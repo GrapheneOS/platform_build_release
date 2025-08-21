@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.services.infra.flags"
+  name: "enable_get_active_tiles_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # bug: 295533067
+  # description: Enables new get active tiles API for 3P wear apps
+  # trace: vendor/google_clockwork_partners/packages/WearServices/src/com/google/wear/services/infra/flags/wear_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.services.infra.flags/enable_get_active_tiles_api_flag_values.textproto : ENABLED
+}

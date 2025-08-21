@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_sm_ignore_connect_events_in_connecting_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 384460395
+  # description: When received CONNECT event in Connecting state, with no prior DISCONNECT - ignore the event
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/leaudio_sm_ignore_connect_events_in_connecting_state_flag_values.textproto : ENABLED
+}

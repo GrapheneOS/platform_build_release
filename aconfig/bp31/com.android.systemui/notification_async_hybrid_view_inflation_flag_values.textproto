@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_async_hybrid_view_inflation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 217799515
+  # description: Inflates hybrid (single-line) notification views from the background thread.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/notification_async_hybrid_view_inflation_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/notification_async_hybrid_view_inflation_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "adext_data_service_apis_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices
+  # bug: 303511619
+  # description: Add AIDL and system APIs for AdServicesExtDataService
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.adservices.flags/adext_data_service_apis_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.adservices.flags/adext_data_service_apis_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.adservices.flags/adext_data_service_apis_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.flags"
+  name: "sensitive_content_app_protection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 322887144
+  # description: This flag controls the sensitive content protection when sharing the screen
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.flags/sensitive_content_app_protection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.flags/sensitive_content_app_protection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.flags/sensitive_content_app_protection_flag_values.textproto : ENABLED
+}

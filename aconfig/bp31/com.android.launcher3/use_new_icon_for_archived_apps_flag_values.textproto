@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "use_new_icon_for_archived_apps"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 350758155
+  # description: Archived apps will use new cloud icon in app title instead of overlay
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/use_new_icon_for_archived_apps_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/use_new_icon_for_archived_apps_flag_values.textproto : ENABLED
+}

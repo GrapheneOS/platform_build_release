@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "hide_hd_audio_toggle"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 320408004
+  # description: Hide HD Audio toggle in bluetooth device details page
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_bluetooth_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.settings.flags/hide_hd_audio_toggle_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/hide_hd_audio_toggle_flag_values.textproto : ENABLED
+}

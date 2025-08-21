@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "instant_hide_shade"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 419304171
+  # description: Enables the Shade to hide instantaneously at the end of a launch animation, preventing flickers.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/instant_hide_shade_flag_values.textproto : ENABLED
+}

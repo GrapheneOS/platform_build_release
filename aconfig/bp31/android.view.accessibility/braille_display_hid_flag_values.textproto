@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "braille_display_hid"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 303522222
+  # description: Enables new APIs for an AccessibilityService to communicate with a HID Braille display
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.accessibility/braille_display_hid_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.accessibility/braille_display_hid_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.accessibility/braille_display_hid_flag_values.textproto : ENABLED
+}

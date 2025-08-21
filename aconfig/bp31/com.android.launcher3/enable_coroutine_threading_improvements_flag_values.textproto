@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_coroutine_threading_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_overview
+  # purpose: PURPOSE_BUGFIX
+  # bug: 416206104
+  # description: Enables changes to the threading model of Launcher's coroutines implementation
+  # trace: packages/apps/Launcher3/aconfig/launcher_overview.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/enable_coroutine_threading_improvements_flag_values.textproto : ENABLED
+}

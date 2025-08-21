@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "use_resolve_info_user_handle"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 406053567
+  # description: Expect that some OEM customizations (Dual apps) may have targets with different user handle in the list.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.intentresolver/use_resolve_info_user_handle_flag_values.textproto : ENABLED
+}

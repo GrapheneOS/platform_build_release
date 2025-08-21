@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "cr423_cleanup_interval_scheduling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 285984664
+  # description: Implement CR-423: Remove Interval-based scheduling for Fira 2.0+ devices
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.uwb.flags/cr423_cleanup_interval_scheduling_flag_values.textproto : ENABLED
+}

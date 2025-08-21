@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "async_init_carrier_privileges_tracker"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 357096337
+  # description: Offload the heavyweight initialization of CarrierPrivilegesTracker to a worker thread
+  # trace: frameworks/opt/telephony/flags/carrier.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/async_init_carrier_privileges_tracker_flag_values.textproto : ENABLED
+}

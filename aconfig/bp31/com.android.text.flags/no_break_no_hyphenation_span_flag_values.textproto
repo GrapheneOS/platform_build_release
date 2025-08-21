@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "no_break_no_hyphenation_span"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 283193586
+  # description: A feature flag that adding new spans that prevents line breaking and hyphenation.
+  # trace: frameworks/base/core/java/android/text/flags/24Q3.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/no_break_no_hyphenation_span_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/no_break_no_hyphenation_span_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/no_break_no_hyphenation_span_flag_values.textproto : ENABLED
+}

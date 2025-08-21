@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "adservices_outcomereceiver_r_api_deprecated"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices_aconfig
+  # bug: 365586922
+  # description: AdServices is no longer supported on Android R. Deprecating the R-specific APIs
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/adservices_outcomereceiver_r_api_deprecated_flag_values.textproto : ENABLED
+}

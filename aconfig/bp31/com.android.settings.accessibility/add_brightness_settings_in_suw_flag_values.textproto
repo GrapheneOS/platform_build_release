@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "add_brightness_settings_in_suw"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: accessibility
+  # bug: 332974327
+  # description: Whether to add brightness preference in SUW Vision Settings
+  # trace: packages/apps/Settings/aconfig/accessibility/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settings.accessibility/add_brightness_settings_in_suw_flag_values.textproto : ENABLED
+}

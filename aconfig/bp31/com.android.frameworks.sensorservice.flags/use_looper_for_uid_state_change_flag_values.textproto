@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.frameworks.sensorservice.flags"
+  name: "use_looper_for_uid_state_change"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: sensors
+  # purpose: PURPOSE_BUGFIX
+  # bug: 399607981
+  # description: Processes UID state changes on the SensorEventAckReceiver thread instead of calling (UI) thread
+  # trace: frameworks/native/services/sensorservice/sensorservice_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.frameworks.sensorservice.flags/use_looper_for_uid_state_change_flag_values.textproto : ENABLED
+}

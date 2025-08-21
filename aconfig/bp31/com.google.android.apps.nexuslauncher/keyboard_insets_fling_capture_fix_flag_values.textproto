@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "keyboard_insets_fling_capture_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # purpose: PURPOSE_BUGFIX
+  # bug: 194528705
+  # description: A fix for don't steal touches from keyboard shortly after opening All Apps.
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.nexuslauncher/keyboard_insets_fling_capture_fix_flag_values.textproto : ENABLED
+}

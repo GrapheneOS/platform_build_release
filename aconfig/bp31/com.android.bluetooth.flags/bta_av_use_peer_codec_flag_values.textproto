@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_av_use_peer_codec"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 339264791
+  # description: Deprecate bta av codec state
+  # trace: packages/modules/Bluetooth/flags/a2dp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/bta_av_use_peer_codec_flag_values.textproto : ENABLED
+}

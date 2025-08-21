@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_has_arr_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 361433651
+  # description: Flag for an API to get whether display supports ARR or not
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.display.feature.flags/enable_has_arr_support_flag_values.textproto : ENABLED
+}

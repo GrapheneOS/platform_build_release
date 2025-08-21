@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "battery_service_support_current_adb_command"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 315037695
+  # description: Whether or not BatteryService supports adb commands for Current values.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.os/battery_service_support_current_adb_command_flag_values.textproto : ENABLED
+}

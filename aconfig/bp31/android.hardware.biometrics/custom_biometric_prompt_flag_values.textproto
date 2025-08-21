@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "custom_biometric_prompt"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 302735104
+  # description: Feature flag for adding a custom content view API to BiometricPrompt.Builder.
+  # trace: frameworks/base/core/java/android/hardware/biometrics/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.hardware.biometrics/custom_biometric_prompt_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.biometrics/custom_biometric_prompt_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.biometrics/custom_biometric_prompt_flag_values.textproto : ENABLED
+}

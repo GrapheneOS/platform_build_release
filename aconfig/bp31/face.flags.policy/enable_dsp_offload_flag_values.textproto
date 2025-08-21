@@ -1,0 +1,14 @@
+flag_value {
+  package: "face.flags.policy"
+  name: "enable_dsp_offload"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_biometrics_face
+  # bug: 301533716
+  # description: Enables offloading of compute tasks to the DSP.
+  # trace: vendor/google/biometrics/face/tuscany/flags/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/face.flags.policy/enable_dsp_offload_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/face.flags.policy/enable_dsp_offload_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/face.flags.policy/enable_dsp_offload_flag_values.textproto : ENABLED
+}

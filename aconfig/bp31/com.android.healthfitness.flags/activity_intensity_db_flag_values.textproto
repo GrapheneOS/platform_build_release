@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "activity_intensity_db"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # bug: 373585917
+  # description: Enables DB changes to support the activity intensity data type.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.healthfitness.flags/activity_intensity_db_flag_values.textproto : ENABLED
+}

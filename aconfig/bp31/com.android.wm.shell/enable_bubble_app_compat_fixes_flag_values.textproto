@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_bubble_app_compat_fixes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # purpose: PURPOSE_BUGFIX
+  # bug: 384610402
+  # description: Enable fixes for app compat (e.g. insets and layout issues) for bubbles
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.wm.shell/enable_bubble_app_compat_fixes_flag_values.textproto : ENABLED
+}

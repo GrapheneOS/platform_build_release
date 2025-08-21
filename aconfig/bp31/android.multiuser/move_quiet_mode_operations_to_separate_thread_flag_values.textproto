@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "move_quiet_mode_operations_to_separate_thread"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 320483504
+  # description: Move the quiet mode operations, happening on a background thread today, to a separate thread.
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/move_quiet_mode_operations_to_separate_thread_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/move_quiet_mode_operations_to_separate_thread_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/move_quiet_mode_operations_to_separate_thread_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "pkg_targeted_battery_changed_not_sticky"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 336832816
+  # description: Avoid sending the package targeted BATTERY_CHANGED broadcast as sticky
+  # trace: frameworks/base/services/core/java/com/android/server/flags/services.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.flags/pkg_targeted_battery_changed_not_sticky_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.flags/pkg_targeted_battery_changed_not_sticky_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.flags/pkg_targeted_battery_changed_not_sticky_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "vcp_device_volume_api_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381507732
+  # description: Refactor Device Volume API for generic usage
+  # trace: packages/modules/Bluetooth/flags/vcp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/vcp_device_volume_api_improvements_flag_values.textproto : ENABLED
+}

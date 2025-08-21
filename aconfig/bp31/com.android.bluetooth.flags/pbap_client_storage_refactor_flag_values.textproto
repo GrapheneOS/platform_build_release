@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "pbap_client_storage_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 376461939
+  # description: Abstract away accounts/storage and change how contacts are passed and stored
+  # trace: packages/modules/Bluetooth/flags/pbapclient.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/pbap_client_storage_refactor_flag_values.textproto : ENABLED
+}

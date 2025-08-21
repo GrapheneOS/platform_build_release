@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "notify_single_item_change_on_icon_load"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 298193161
+  # description: ChooserGridAdapter to notify specific items change when the target icon is loaded (instead of all-item change).
+  # trace: frameworks/base/core/java/android/service/chooser/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.service.chooser/notify_single_item_change_on_icon_load_flag_values.textproto : ENABLED
+}

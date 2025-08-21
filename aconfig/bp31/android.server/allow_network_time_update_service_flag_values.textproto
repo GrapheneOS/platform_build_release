@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.server"
+  name: "allow_network_time_update_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_systems
+  # bug: 327508176
+  # description: Allow NetworkTimeUpdateService on Wear
+  # trace: frameworks/base/services/java/com/android/server/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.server/allow_network_time_update_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp2a/android.server/allow_network_time_update_service_flag_values.textproto : ENABLED
+}

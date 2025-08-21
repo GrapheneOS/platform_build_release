@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.ipsec.flags"
+  name: "dumpsys_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ipsec
+  # namespace: ipsec
+  # bug: 308513922
+  # description: Expose API to dump ike session info for debugging support.
+  # trace: packages/modules/IPsec/flags/ipsec_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.ipsec.flags/dumpsys_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.ipsec.flags/dumpsys_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.ipsec.flags/dumpsys_api_flag_values.textproto : ENABLED
+}

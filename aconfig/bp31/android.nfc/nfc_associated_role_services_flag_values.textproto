@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_associated_role_services"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 366243361
+  # description: Share wallet role routing priority with associated services
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.nfc/nfc_associated_role_services_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.provider"
+  name: "reduce_binder_transaction_size_for_get_all_properties"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362652574
+  # description: Reduce Binder transaction size in getAllProperties calls
+  # trace: frameworks/base/core/java/android/provider/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.provider/reduce_binder_transaction_size_for_get_all_properties_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.provider/reduce_binder_transaction_size_for_get_all_properties_flag_values.textproto : ENABLED
+}

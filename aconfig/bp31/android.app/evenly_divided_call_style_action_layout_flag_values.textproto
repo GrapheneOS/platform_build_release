@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.app"
+  name: "evenly_divided_call_style_action_layout"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 268733030
+  # description: Evenly divides horizontal space for action buttons in CallStyle notifications.
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/evenly_divided_call_style_action_layout_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/evenly_divided_call_style_action_layout_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/evenly_divided_call_style_action_layout_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_contextual_tips"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 322891421
+  # description: Enables showing contextual tips.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/enable_contextual_tips_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/enable_contextual_tips_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/enable_contextual_tips_flag_values.textproto : ENABLED
+}

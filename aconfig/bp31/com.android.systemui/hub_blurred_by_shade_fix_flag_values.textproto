@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "hub_blurred_by_shade_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 412261838
+  # description: Fixes the blurring issue on hub after the shade is pulled down slightly.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/hub_blurred_by_shade_fix_flag_values.textproto : ENABLED
+}

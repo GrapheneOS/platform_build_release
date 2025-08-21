@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.sdk"
+  name: "require_manage_tiles_permission"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 304962594
+  # description: This is a flag to enable tiles API that requires com.google.wear.permission.MANAGE_TILES permission opened for privileged apps. 
+  # trace: vendor/google_clockwork/sdk/lib/flags/wear_sdk_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.sdk/require_manage_tiles_permission_flag_values.textproto : ENABLED
+}

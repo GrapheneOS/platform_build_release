@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "remove_app_profiler_pss_collection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 297542292
+  # description: Replaces background PSS collection in AppProfiler with RSS
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/remove_app_profiler_pss_collection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/remove_app_profiler_pss_collection_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/remove_app_profiler_pss_collection_flag_values.textproto : ENABLED
+}

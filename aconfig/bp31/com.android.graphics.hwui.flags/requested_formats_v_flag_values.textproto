@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "requested_formats_v"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 292545615
+  # description: Enable r_8, r_16_uint, rg_1616_uint, and rgba_10101010 in the SDK
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.hwui.flags/requested_formats_v_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.hwui.flags/requested_formats_v_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.hwui.flags/requested_formats_v_flag_values.textproto : ENABLED
+}

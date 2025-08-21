@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_taskbar_pinning"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 296231746
+  # description: Enables taskbar pinning to allow user to switch between transient and persistent taskbar flavors.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/enable_taskbar_pinning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/enable_taskbar_pinning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/enable_taskbar_pinning_flag_values.textproto : ENABLED
+}

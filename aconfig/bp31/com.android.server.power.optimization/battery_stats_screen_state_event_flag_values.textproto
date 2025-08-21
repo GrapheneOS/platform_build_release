@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "battery_stats_screen_state_event"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 364350206
+  # description: Guards the battery stats event for screen state changes.
+  # trace: frameworks/base/services/core/java/com/android/server/power/stats/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.power.optimization/battery_stats_screen_state_event_flag_values.textproto : ENABLED
+}

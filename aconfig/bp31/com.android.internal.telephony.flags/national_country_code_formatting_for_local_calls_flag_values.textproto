@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "national_country_code_formatting_for_local_calls"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 293993310
+  # description: Make requests and bug fixes for formatting local calls based on country codes easier with a more scalable solution.
+  # trace: frameworks/opt/telephony/flags/calling.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/national_country_code_formatting_for_local_calls_flag_values.textproto : ENABLED
+}

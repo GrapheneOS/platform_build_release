@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "support_transport_satellite"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 320514105
+  # description: Flag for satellite transport API
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.net.flags/support_transport_satellite_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.net.flags/support_transport_satellite_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.net.flags/support_transport_satellite_flag_values.textproto : ENABLED
+}

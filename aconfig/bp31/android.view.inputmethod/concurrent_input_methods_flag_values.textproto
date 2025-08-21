@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "concurrent_input_methods"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # bug: 284527000
+  # description: Feature flag for concurrent multi-session IME
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.view.inputmethod/concurrent_input_methods_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.inputmethod/concurrent_input_methods_flag_values.textproto : ENABLED
+}

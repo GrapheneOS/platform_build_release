@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.ondevicepersonalization.flags"
+  name: "data_class_missing_ctors_and_getters_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ondevicepersonalization
+  # namespace: ondevicepersonalization_aconfig
+  # bug: 353356413
+  # description: Add missing ctors and getters to certain data classes
+  # trace: packages/modules/OnDevicePersonalization/flags/ondevicepersonalization_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.ondevicepersonalization.flags/data_class_missing_ctors_and_getters_enabled_flag_values.textproto : ENABLED
+}

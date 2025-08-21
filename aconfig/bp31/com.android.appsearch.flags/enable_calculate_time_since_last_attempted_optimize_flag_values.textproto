@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_calculate_time_since_last_attempted_optimize"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385189503
+  # description: Enable time since last optimize to be calculated by last attempted optimize run time instead of last successful optimize run time.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.appsearch.flags/enable_calculate_time_since_last_attempted_optimize_flag_values.textproto : ENABLED
+}

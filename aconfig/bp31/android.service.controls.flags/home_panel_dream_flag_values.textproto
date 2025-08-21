@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.controls.flags"
+  name: "home_panel_dream"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 298025023
+  # description: Enables the home controls dream feature.
+  # trace: frameworks/base/core/java/android/service/controls/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.controls.flags/home_panel_dream_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.controls.flags/home_panel_dream_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.controls.flags/home_panel_dream_flag_values.textproto : ENABLED
+}

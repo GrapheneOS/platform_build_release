@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_audio_fade_manager_configuration"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 315695829
+  # description: Controls whether car audio can be configured with fade manager configurations
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/car_audio_fade_manager_configuration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/car_audio_fade_manager_configuration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/car_audio_fade_manager_configuration_flag_values.textproto : ENABLED
+}

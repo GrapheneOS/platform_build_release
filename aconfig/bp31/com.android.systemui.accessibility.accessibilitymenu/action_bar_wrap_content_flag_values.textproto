@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui.accessibility.accessibilitymenu"
+  name: "action_bar_wrap_content"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 347911378
+  # description: Applies WRAP_CONTENT to the action bar in A11yMenu settings to better fit large fonts
+  # trace: frameworks/base/packages/SystemUI/accessibility/accessibilitymenu/aconfig/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui.accessibility.accessibilitymenu/action_bar_wrap_content_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui.accessibility.accessibilitymenu/action_bar_wrap_content_flag_values.textproto : ENABLED
+}

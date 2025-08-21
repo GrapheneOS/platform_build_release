@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_provide_wearable_connection_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 301427767
+  # description: This flag enables the WearableSensingManager#provideWearableConnection API.
+  # trace: frameworks/base/core/java/android/app/wearable/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.wearable/enable_provide_wearable_connection_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.wearable/enable_provide_wearable_connection_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.wearable/enable_provide_wearable_connection_api_flag_values.textproto : ENABLED
+}

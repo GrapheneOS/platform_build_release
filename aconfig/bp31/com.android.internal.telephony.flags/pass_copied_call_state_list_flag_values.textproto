@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "pass_copied_call_state_list"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 379126049
+  # description: To prevent passing the TelephonyRegistry's original instance to listeners in the same process
+  # trace: frameworks/opt/telephony/flags/calling.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/pass_copied_call_state_list_flag_values.textproto : ENABLED
+}

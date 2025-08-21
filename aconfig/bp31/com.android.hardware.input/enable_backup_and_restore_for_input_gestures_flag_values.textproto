@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "enable_backup_and_restore_for_input_gestures"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 382184249
+  # description: Adds backup and restore support for custom input gestures
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.hardware.input/enable_backup_and_restore_for_input_gestures_flag_values.textproto : ENABLED
+}

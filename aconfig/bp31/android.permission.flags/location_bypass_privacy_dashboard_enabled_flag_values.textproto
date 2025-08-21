@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "location_bypass_privacy_dashboard_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 325536053
+  # description: Show access entry of location bypass permission in the Privacy Dashboard
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/location_bypass_privacy_dashboard_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/location_bypass_privacy_dashboard_enabled_flag_values.textproto : ENABLED
+}

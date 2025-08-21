@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app"
+  name: "app_start_info"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 247814855
+  # description: Control collecting of ApplicationStartInfo records and APIs.
+  # trace: frameworks/base/core/java/android/app/activity_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/app_start_info_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/app_start_info_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/app_start_info_flag_values.textproto : ENABLED
+}

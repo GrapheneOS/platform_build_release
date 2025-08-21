@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.apex.flags"
+  name: "enable_brand_new_apex"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: aaos_sdv
+  # bug: 361500273
+  # description: This flag controls if allowing installation of brand-new APEX
+  # trace: system/apex/apexd/apexd.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.apex.flags/enable_brand_new_apex_flag_values.textproto : ENABLED
+}

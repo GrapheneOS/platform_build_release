@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.location.flags"
+  name: "density_based_coarse_locations"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # bug: 376198890
+  # description: Flag for gating the density-based coarse locations
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.location.flags/density_based_coarse_locations_flag_values.textproto : ENABLED
+}

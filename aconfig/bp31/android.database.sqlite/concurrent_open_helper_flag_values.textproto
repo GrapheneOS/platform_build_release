@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.database.sqlite"
+  name: "concurrent_open_helper"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 335904370
+  # description: Make SQLiteOpenHelper thread-safe
+  # trace: frameworks/base/core/java/android/database/sqlite/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.database.sqlite/concurrent_open_helper_flag_values.textproto : ENABLED
+}

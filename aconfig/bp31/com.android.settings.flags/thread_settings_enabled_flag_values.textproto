@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "thread_settings_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: thread_network
+  # bug: 329384658
+  # description: Controls whether the Thread Settings UX is displayed
+  # trace: packages/apps/Settings/aconfig/settings_threadnetwork_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settings.flags/thread_settings_enabled_flag_values.textproto : ENABLED
+}

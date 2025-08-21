@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.service.quickaccesswallet"
+  name: "launch_wallet_option_on_power_double_tap"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 378469025
+  # description: Option to launch the Wallet app on double-tap of the power button
+  # trace: frameworks/base/core/java/android/service/quickaccesswallet/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.service.quickaccesswallet/launch_wallet_option_on_power_double_tap_flag_values.textproto : ENABLED
+}

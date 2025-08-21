@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "btsec_check_valid_discovery_database"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 356201480
+  # description: Check for a valid discovery database before using it, and don't set up a discovery database for a new HF client if one has already been defined for it
+  # trace: packages/modules/Bluetooth/flags/security.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/btsec_check_valid_discovery_database_flag_values.textproto : ENABLED
+}

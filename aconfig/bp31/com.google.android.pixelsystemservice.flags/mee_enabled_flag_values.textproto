@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.pixelsystemservice.flags"
+  name: "mee_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_system_service
+  # bug: 321866490
+  # description: This flag controls whether MEE is enabled
+  # trace: vendor/google/apps/PersistentBackgroundServices/aconfig/pss_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.pixelsystemservice.flags/mee_enabled_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.pixelsystemservice.flags/mee_enabled_flag_values.textproto : ENABLED
+}

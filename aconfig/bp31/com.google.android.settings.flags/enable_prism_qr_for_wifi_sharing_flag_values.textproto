@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "enable_prism_qr_for_wifi_sharing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: prism_qr
+  # bug: 329012096
+  # description: Use Prism QR instead of standard QR for Wifi Sharing fragment.
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_prism_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/enable_prism_qr_for_wifi_sharing_flag_values.textproto : ENABLED
+}

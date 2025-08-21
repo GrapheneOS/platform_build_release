@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.utils"
+  name: "anr_timer_for_job_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 408440679
+  # description: Use AnrTimer to signal ANRs in JobScheduler
+  # trace: frameworks/base/services/core/java/com/android/server/utils/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.utils/anr_timer_for_job_service_flag_values.textproto : ENABLED
+}

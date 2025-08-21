@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "certpininstaller_removal"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: network_security
+  # bug: 391205997
+  # description: Remove CertPinInstallReceiver from the platform
+  # trace: frameworks/base/services/core/java/com/android/server/flags/services.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.flags/certpininstaller_removal_flag_values.textproto : ENABLED
+}

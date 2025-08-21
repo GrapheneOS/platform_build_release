@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "sim_pin_bouncer_reset"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 297461589
+  # description: The SIM PIN bouncer does not close after unlocking
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/sim_pin_bouncer_reset_flag_values.textproto : ENABLED
+}

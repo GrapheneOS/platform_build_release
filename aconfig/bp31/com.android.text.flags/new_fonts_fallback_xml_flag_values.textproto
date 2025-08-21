@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "new_fonts_fallback_xml"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 281769620
+  # description: Feature flag for deprecating fonts.xml. By setting true for this feature flag, the new font configuration XML, /system/etc/font_fallback.xml is used. The new XML has a new syntax and flexibility of variable font declarations, but it is not compatible with the apps that reads fonts.xml. So, fonts.xml is maintained as a subset of the font_fallback.xml
+  # trace: frameworks/base/core/java/android/text/flags/24Q3.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/new_fonts_fallback_xml_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/new_fonts_fallback_xml_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/new_fonts_fallback_xml_flag_values.textproto : ENABLED
+}

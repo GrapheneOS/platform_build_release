@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "enable_hal_abort_from_cameraservicewatchdog"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 349652177
+  # description: Enable CameraServiceWatchdog to abort camera HAL to generate HAL tombstones
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.camera.flags/enable_hal_abort_from_cameraservicewatchdog_flag_values.textproto : ENABLED
+}

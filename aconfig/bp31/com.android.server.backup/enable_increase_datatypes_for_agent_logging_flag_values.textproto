@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_increase_datatypes_for_agent_logging"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: onboarding
+  # bug: 296844513
+  # description: Increase the number of a supported datatypes that an agent can define for its logger.
+  # trace: frameworks/base/services/backup/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.backup/enable_increase_datatypes_for_agent_logging_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.backup/enable_increase_datatypes_for_agent_logging_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.backup/enable_increase_datatypes_for_agent_logging_flag_values.textproto : ENABLED
+}

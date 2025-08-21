@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "set_resource_holder_retain"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_tv
+  # bug: 372973197
+  # description: Feature flag to add setResourceOwnershipRetention api to MediaCas and Tuner JAVA.
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/set_resource_holder_retain_flag_values.textproto : ENABLED
+}

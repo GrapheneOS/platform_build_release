@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "bq_producer_throttles_only_async_mode"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 359252619
+  # description: BufferQueueProducer only CPU throttle on queueBuffer() in async mode.
+  # trace: frameworks/native/libs/gui/libgui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.libgui.flags/bq_producer_throttles_only_async_mode_flag_values.textproto : ENABLED
+}

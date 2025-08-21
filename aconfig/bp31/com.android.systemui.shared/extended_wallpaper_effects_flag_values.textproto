@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "extended_wallpaper_effects"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 334125919
+  # description: Enables extended wallpaper effects
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui.shared/extended_wallpaper_effects_flag_values.textproto : ENABLED
+}

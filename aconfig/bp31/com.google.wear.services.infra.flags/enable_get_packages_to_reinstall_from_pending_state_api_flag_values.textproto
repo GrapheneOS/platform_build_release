@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.services.infra.flags"
+  name: "enable_get_packages_to_reinstall_from_pending_state_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # bug: 315771211
+  # description: Enables the WearServices MigrationManager#getPackagesToReinstallFromPendingState API.
+  # trace: vendor/google_clockwork_partners/packages/WearServices/src/com/google/wear/services/infra/flags/wear_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.services.infra.flags/enable_get_packages_to_reinstall_from_pending_state_api_flag_values.textproto : ENABLED
+}

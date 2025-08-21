@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_schema_embedding_property_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 326656531
+  # description: Enables embedding vectors to be used for searches in AppSearch
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.appsearch.flags/enable_schema_embedding_property_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.appsearch.flags/enable_schema_embedding_property_config_flag_values.textproto : ENABLED
+}

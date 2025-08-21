@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_live_data_store_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 308623704
+  # description: Replaces NotifLiveDataStore with ActiveNotificationListRepository, and updates consumers. Should not bring any behavior changes.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/notifications_live_data_store_refactor_flag_values.textproto : ENABLED
+}

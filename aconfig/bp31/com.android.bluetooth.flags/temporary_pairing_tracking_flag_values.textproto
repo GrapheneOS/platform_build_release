@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "temporary_pairing_tracking"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 397705157
+  # description: Correctly track temporary pairing status
+  # trace: packages/modules/Bluetooth/flags/pairing.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/temporary_pairing_tracking_flag_values.textproto : ENABLED
+}

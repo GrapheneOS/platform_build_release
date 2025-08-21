@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "scheduling_for_notification_shade"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362467878
+  # description: Demote top-app when notification shade is expanded
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/scheduling_for_notification_shade_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "enable_early_screen_timeout_detector"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: power
+  # bug: 309861917
+  # description: Feature flag for Early Screen Timeout detector
+  # trace: frameworks/base/services/core/java/com/android/server/power/feature/power_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.power.feature.flags/enable_early_screen_timeout_detector_flag_values.textproto : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.feature.flags/enable_early_screen_timeout_detector_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.feature.flags/enable_early_screen_timeout_detector_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.location.flags"
+  name: "service_watcher_unstable_fallback"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # bug: 402997842
+  # description: Flag for service watcher to fallback on an unstable service
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.location.flags/service_watcher_unstable_fallback_flag_values.textproto : ENABLED
+}

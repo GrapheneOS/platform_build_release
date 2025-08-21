@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "manage_key_gestures"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_native
+  # bug: 358569822
+  # description: Manage key gestures through Input APIs
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.hardware.input/manage_key_gestures_flag_values.textproto : ENABLED
+}

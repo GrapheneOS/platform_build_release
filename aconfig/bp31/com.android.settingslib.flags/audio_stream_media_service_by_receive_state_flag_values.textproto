@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "audio_stream_media_service_by_receive_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 398700619
+  # description: Start or update audio stream media service by receive state
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/audio_stream_media_service_by_receive_state_flag_values.textproto : ENABLED
+}

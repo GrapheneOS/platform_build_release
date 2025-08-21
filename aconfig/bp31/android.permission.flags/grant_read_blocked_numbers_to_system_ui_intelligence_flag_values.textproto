@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "grant_read_blocked_numbers_to_system_ui_intelligence"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 354758615
+  # description: This flag is used to add role protection to READ_BLOCKED_NUMBERS for SYSTEM_UI_INTELLIGENCE
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.permission.flags/grant_read_blocked_numbers_to_system_ui_intelligence_flag_values.textproto : ENABLED
+}

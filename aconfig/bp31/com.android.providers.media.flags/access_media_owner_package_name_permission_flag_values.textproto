@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "access_media_owner_package_name_permission"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 309920631
+  # description: Controls exposure of the ACCESS_MEDIA_OWNER_PACKAGE_NAME permission name
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.providers.media.flags/access_media_owner_package_name_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.providers.media.flags/access_media_owner_package_name_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.providers.media.flags/access_media_owner_package_name_permission_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.service.notification"
+  name: "redact_sensitive_notifications_big_text_style"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 335488909
+  # description: This flag controls the redacting of BigTextStyle fields in sensitive notifications
+  # trace: frameworks/base/core/java/android/service/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.notification/redact_sensitive_notifications_big_text_style_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.notification/redact_sensitive_notifications_big_text_style_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.notification/redact_sensitive_notifications_big_text_style_flag_values.textproto : ENABLED
+}

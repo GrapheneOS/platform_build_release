@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "use_all_cpus_during_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # bug: 308105403
+  # description: Allow using all cpu cores during a user switch.
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/use_all_cpus_during_user_switch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/use_all_cpus_during_user_switch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/use_all_cpus_during_user_switch_flag_values.textproto : ENABLED
+}

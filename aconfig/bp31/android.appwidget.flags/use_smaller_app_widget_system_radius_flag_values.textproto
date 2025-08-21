@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "use_smaller_app_widget_system_radius"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: app_widgets
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373351337
+  # description: Updates system corner radius for app widgets to 24.dp instead of 28.dp
+  # trace: frameworks/base/core/java/android/appwidget/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.appwidget.flags/use_smaller_app_widget_system_radius_flag_values.textproto : ENABLED
+}

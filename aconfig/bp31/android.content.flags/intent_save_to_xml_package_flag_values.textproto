@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.content.flags"
+  name: "intent_save_to_xml_package"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 369856202
+  # description: Add package to saveToXml so save then restore passes filterEquals.
+  # trace: frameworks/base/core/java/android/content/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.content.flags/intent_save_to_xml_package_flag_values.textproto : ENABLED
+}

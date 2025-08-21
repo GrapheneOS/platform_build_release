@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_screen_off_scanning"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 281072508
+  # description: Enable new MediaRouter2 API to enable watch companion apps to scan while the phone screen is off.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_screen_off_scanning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_screen_off_scanning_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_screen_off_scanning_flag_values.textproto : ENABLED
+}

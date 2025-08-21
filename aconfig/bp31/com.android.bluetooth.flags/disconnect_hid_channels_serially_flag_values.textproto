@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "disconnect_hid_channels_serially"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 387937345
+  # description: Only disconnect control channel after interrupt channel disconnection is acked
+  # trace: packages/modules/Bluetooth/flags/hid.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/disconnect_hid_channels_serially_flag_values.textproto : ENABLED
+}

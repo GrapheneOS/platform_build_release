@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "disable_ecbm_based_on_rat"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 389010789
+  # description: Fix bug entering the emergency callback mode in GSM or UMTS network.
+  # trace: frameworks/opt/telephony/flags/domainselection.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/disable_ecbm_based_on_rat_flag_values.textproto : ENABLED
+}

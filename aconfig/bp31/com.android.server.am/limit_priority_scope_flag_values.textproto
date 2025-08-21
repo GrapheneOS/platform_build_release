@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "limit_priority_scope"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 369487976
+  # description: Limit the scope of receiver priorities to within a process
+  # trace: frameworks/base/services/core/java/com/android/server/am/broadcasts_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.am/limit_priority_scope_flag_values.textproto : ENABLED
+}

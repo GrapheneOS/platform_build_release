@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.media.audio"
+  name: "ro_foreground_audio_control"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 296232417
+  # description: Audio focus gain requires FGS or delegation to take effect
+  # trace: frameworks/av/media/audio/aconfig/audio_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.media.audio/ro_foreground_audio_control_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.media.audio/ro_foreground_audio_control_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.media.audio/ro_foreground_audio_control_flag_values.textproto : ENABLED
+}

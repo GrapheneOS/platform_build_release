@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.flags"
+  name: "surface_view_get_surface_package"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 341021569
+  # description: Add APIs to manage SurfacePackage of the parent SurfaceView.
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.flags/surface_view_get_surface_package_flag_values.textproto : ENABLED
+}

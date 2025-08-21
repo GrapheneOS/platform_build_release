@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "allow_querying_profile_type"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 323001115
+  # description: Public APIs to query if a user is a profile and what kind of profile type it is.
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/allow_querying_profile_type_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/allow_querying_profile_type_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/allow_querying_profile_type_flag_values.textproto : ENABLED
+}

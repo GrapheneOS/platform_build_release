@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "communal_hub_use_thread_pool_for_widgets"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 369412569
+  # description: Use a dedicated thread pool executor for loading widgets on glanceable hub
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/communal_hub_use_thread_pool_for_widgets_flag_values.textproto : ENABLED
+}

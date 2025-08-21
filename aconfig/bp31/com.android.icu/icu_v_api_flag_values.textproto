@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.icu"
+  name: "icu_v_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.i18n
+  # namespace: core_libraries
+  # bug: 312171264
+  # description: This flag controls whether exposing ICU 74 APIs and implementation
+  # trace: external/icu/icu.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.icu/icu_v_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.icu/icu_v_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.icu/icu_v_api_flag_values.textproto : ENABLED
+}

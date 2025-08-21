@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "modes_ui_tile_reactivates_last"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 405988332
+  # description: The secondary target on the Modes tile activates the last-manually-activated mode, instead of DND
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/modes_ui_tile_reactivates_last_flag_values.textproto : ENABLED
+}

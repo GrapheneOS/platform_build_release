@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "hdmi_control_enhanced_behavior"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_tv
+  # bug: 332780751
+  # description: Enhance HDMI-CEC power state and activeness transitions
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/hdmi_control_enhanced_behavior_flag_values.textproto : ENABLED
+}

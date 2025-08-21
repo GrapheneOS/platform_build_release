@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "bitmap_use_memfd"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 400807118
+  # description: Whether to parcel implicit copies of bitmaps to memfd instead of ashmem
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.hwui.flags/bitmap_use_memfd_flag_values.textproto : ENABLED
+}

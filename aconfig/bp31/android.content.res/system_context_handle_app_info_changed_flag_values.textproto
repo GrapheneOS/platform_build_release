@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.content.res"
+  name: "system_context_handle_app_info_changed"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: resource_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362420029
+  # description: Feature flag for allowing system context to handle application info changes
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.content.res/system_context_handle_app_info_changed_flag_values.textproto : ENABLED
+}

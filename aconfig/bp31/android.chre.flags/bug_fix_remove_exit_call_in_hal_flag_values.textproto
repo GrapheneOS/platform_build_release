@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "bug_fix_remove_exit_call_in_hal"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: context_hub
+  # purpose: PURPOSE_BUGFIX
+  # bug: 374773993
+  # description: Flag enabling multiclient HAL to gracefully handle connection to CHRE in init/restart
+  # trace: system/chre/chre_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.chre.flags/bug_fix_remove_exit_call_in_hal_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.net.thread.platform.flags"
+  name: "thread_enabled_platform"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: thread_network
+  # bug: 384596973
+  # description: Controls whether the Android Thread feature is enabled
+  # trace: frameworks/base/core/java/android/net/thread/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.net.thread.platform.flags/thread_enabled_platform_flag_values.textproto : ENABLED
+}

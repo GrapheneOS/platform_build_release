@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.net.thread.flags"
+  name: "epskc_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: thread_network
+  # bug: 348323500
+  # description: Controls whether the Android Thread Ephemeral Key feature is enabled
+  # trace: packages/modules/Connectivity/common/thread_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.net.thread.flags/epskc_enabled_flag_values.textproto : ENABLED
+}

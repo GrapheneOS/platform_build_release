@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "op_enable_mobile_data_by_user"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 222650148
+  # description: enables logging of the OP_ENABLE_MOBILE_DATA_BY_USER
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.permission.flags/op_enable_mobile_data_by_user_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/op_enable_mobile_data_by_user_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/op_enable_mobile_data_by_user_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.car.feature"
+  name: "audio_vendor_freeze_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 344678175
+  # description: Controls whether car audio vendor freeze improvements are enabled
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/audio_vendor_freeze_improvements_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/audio_vendor_freeze_improvements_flag_values.textproto : ENABLED
+}

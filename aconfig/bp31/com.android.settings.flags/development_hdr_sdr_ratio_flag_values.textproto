@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "development_hdr_sdr_ratio"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: core_graphics
+  # bug: 291863102
+  # description: Shows hdr/sdr dev opton on the development options page from aconfig
+  # trace: packages/apps/Settings/aconfig/settings_development_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settings.flags/development_hdr_sdr_ratio_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.flags/development_hdr_sdr_ratio_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/development_hdr_sdr_ratio_flag_values.textproto : ENABLED
+}

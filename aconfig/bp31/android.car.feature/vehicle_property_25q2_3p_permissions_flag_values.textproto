@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.car.feature"
+  name: "vehicle_property_25q2_3p_permissions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_perception
+  # bug: 357910697
+  # description: Introduce new 3p accessible permissions for previously defined vehicle properties
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.car.feature/vehicle_property_25q2_3p_permissions_flag_values.textproto : ENABLED
+}

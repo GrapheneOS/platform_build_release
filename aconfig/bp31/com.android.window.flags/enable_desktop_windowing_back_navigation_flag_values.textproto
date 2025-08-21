@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_desktop_windowing_back_navigation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 350421096
+  # description: Whether to enable back navigation treatment in desktop windowing.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_desktop_windowing_back_navigation_flag_values.textproto : ENABLED
+}

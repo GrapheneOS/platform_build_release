@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "keyboard_shortcut_helper_shortcut_customizer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 365064144
+  # description: An implementation of shortcut customizations through shortcut helper.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/keyboard_shortcut_helper_shortcut_customizer_flag_values.textproto : ENABLED
+}

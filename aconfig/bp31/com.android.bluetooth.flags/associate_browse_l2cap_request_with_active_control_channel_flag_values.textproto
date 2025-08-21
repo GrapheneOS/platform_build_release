@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "associate_browse_l2cap_request_with_active_control_channel"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373482555
+  # description:  Associate a browse l2cap channel connection with the control channel from that same device regardless of specified role
+  # trace: packages/modules/Bluetooth/flags/avrcp_controller.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/associate_browse_l2cap_request_with_active_control_channel_flag_values.textproto : ENABLED
+}

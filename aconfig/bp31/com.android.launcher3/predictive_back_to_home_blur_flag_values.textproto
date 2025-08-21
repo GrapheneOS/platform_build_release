@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "predictive_back_to_home_blur"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 342178850
+  # description: Adds blur for predictive back-to-home
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/predictive_back_to_home_blur_flag_values.textproto : ENABLED
+}

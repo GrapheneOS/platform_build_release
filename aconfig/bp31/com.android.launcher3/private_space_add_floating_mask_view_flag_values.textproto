@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_add_floating_mask_view"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # purpose: PURPOSE_BUGFIX
+  # bug: 339850589
+  # description: This flag enables the floating mask view as part of the Private Space animation. 
+  # trace: packages/apps/Launcher3/aconfig/launcher_search.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/private_space_add_floating_mask_view_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/private_space_add_floating_mask_view_flag_values.textproto : ENABLED
+}

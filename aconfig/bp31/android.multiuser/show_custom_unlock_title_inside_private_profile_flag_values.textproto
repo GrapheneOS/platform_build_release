@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.multiuser"
+  name: "show_custom_unlock_title_inside_private_profile"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 323835257
+  # description: When private space is unlocked show dynamic title in unlock factor screens based on lock factor set for the profile
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/show_custom_unlock_title_inside_private_profile_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.job"
+  name: "get_pending_job_reasons_history_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 372031023
+  # description: Introduce a new getPendingJobReasonsHistory() API which returns a limited historical view of getPendingJobReasons().
+  # trace: frameworks/base/apex/jobscheduler/framework/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.job/get_pending_job_reasons_history_api_flag_values.textproto : ENABLED
+}

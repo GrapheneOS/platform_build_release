@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_prediction_pruning_via_jerk_thresholding"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 266747654
+  # description: Enable prediction pruning based on jerk thresholds.
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.input.flags/enable_prediction_pruning_via_jerk_thresholding_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.input.flags/enable_prediction_pruning_via_jerk_thresholding_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/enable_prediction_pruning_via_jerk_thresholding_flag_values.textproto : ENABLED
+}

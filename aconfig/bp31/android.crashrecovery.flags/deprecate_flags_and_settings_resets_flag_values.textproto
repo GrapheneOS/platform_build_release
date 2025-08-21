@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "deprecate_flags_and_settings_resets"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: modularization
+  # bug: 333847376
+  # description: Deletes flag and settings resets
+  # trace: frameworks/base/packages/CrashRecovery/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.crashrecovery.flags/deprecate_flags_and_settings_resets_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.crashrecovery.flags/deprecate_flags_and_settings_resets_flag_values.textproto : ENABLED
+}

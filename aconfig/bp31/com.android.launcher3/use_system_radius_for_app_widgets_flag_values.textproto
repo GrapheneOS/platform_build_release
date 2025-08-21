@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "use_system_radius_for_app_widgets"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373351337
+  # description: Use system radius for enforced widget corners instead of a separate 16.dp value
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.launcher3/use_system_radius_for_app_widgets_flag_values.textproto : ENABLED
+}

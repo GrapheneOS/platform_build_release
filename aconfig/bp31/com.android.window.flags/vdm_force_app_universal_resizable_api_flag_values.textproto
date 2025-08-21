@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "vdm_force_app_universal_resizable_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: large_screen_experiences_app_compat
+  # bug: 372848702
+  # description: Whether the API for forcing apps to be universal resizable on virtual display is available
+  # trace: frameworks/base/core/java/android/window/flags/large_screen_experiences_app_compat.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/vdm_force_app_universal_resizable_api_flag_values.textproto : ENABLED
+}

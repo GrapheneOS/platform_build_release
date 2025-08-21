@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "intercept_motion_from_move_to_cancel"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 404173501
+  # description: Ensure that the client receives ACTION_CANCEL when the back gesture is intercepted.
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/intercept_motion_from_move_to_cancel_flag_values.textproto : ENABLED
+}

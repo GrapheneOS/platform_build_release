@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_add_device_properties"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 375158716
+  # description: Make sure single entry for mDevices. Race fix.
+  # trace: packages/modules/Bluetooth/flags/framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/fix_add_device_properties_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "coalesce_rf_events"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 365533082
+  # description: Combine RF field activated and deactivated events to reduce excessive broadcasts.
+  # trace: packages/modules/Nfc/NfcNci/flags/wallet_integration_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.nfc.flags/coalesce_rf_events_flag_values.textproto : ENABLED
+}

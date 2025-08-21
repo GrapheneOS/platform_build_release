@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.libcore"
+  name: "schedule_at_fixed_rate_new_behavior"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.art
+  # namespace: core_libraries
+  # bug: 352746637
+  # description: If true, force-enables go/scheduleAtFixedRate-behavior-change regardless of AppCompat flag or SDK_INT value
+  # trace: libcore/libcore.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.libcore/schedule_at_fixed_rate_new_behavior_flag_values.textproto : ENABLED
+}

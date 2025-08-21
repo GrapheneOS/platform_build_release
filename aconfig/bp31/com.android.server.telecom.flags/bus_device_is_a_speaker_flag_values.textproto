@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "bus_device_is_a_speaker"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395647782
+  # description: Treat TYPE_BUS devices like TYPE_SPEAKER
+  # trace: packages/services/Telecomm/flags/telecom_callaudioroutestatemachine_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/bus_device_is_a_speaker_flag_values.textproto : ENABLED
+}

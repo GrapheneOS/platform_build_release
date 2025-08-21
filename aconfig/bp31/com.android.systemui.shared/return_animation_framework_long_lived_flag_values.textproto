@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "return_animation_framework_long_lived"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 273205603
+  # description: Turn on long-lived Return registrations in the Animation library
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui.shared/return_animation_framework_long_lived_flag_values.textproto : ENABLED
+}

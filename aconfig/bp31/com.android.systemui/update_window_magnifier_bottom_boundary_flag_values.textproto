@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "update_window_magnifier_bottom_boundary"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 380320995
+  # description: Update the window magnifier boundary at the bottom to the top of the system gesture inset.
+  # trace: frameworks/base/packages/SystemUI/aconfig/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/update_window_magnifier_bottom_boundary_flag_values.textproto : ENABLED
+}

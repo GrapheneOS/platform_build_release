@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.module.flags"
+  name: "ce_wake_lock"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.nfcservices
+  # namespace: nfc
+  # bug: 406827464
+  # description: Holds a wake lock while CE is in field on state.
+  # trace: packages/modules/Nfc/flags/flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.nfc.module.flags/ce_wake_lock_flag_values.textproto : ENABLED
+}

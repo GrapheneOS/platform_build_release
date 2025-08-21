@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.res"
+  name: "font_scale_converter_public"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 239736383
+  # description: Enables the public API for FontScaleConverter, including enabling thread-safe caching.
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.res/font_scale_converter_public_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.res/font_scale_converter_public_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.res/font_scale_converter_public_flag_values.textproto : ENABLED
+}

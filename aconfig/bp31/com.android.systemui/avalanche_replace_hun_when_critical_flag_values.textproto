@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "avalanche_replace_hun_when_critical"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 403301297
+  # description: Fix for replacing a sticky HUN when a critical HUN posted
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/avalanche_replace_hun_when_critical_flag_values.textproto : ENABLED
+}

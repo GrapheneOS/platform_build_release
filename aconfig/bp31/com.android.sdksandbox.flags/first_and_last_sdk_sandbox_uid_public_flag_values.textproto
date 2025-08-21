@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "first_and_last_sdk_sandbox_uid_public"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: sdk_sandbox
+  # bug: 314270319
+  # description: Make Process#FIRST_SDK_SANDBOX_UID and Process#LAST_SDK_SANDBOX_UID public
+  # trace: packages/modules/AdServices/sdksandbox/flags/sandbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.sdksandbox.flags/first_and_last_sdk_sandbox_uid_public_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.sdksandbox.flags/first_and_last_sdk_sandbox_uid_public_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.sdksandbox.flags/first_and_last_sdk_sandbox_uid_public_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.deviceidle"
+  name: "remove_idle_location"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # purpose: PURPOSE_BUGFIX
+  # bug: 332770178
+  # description: Remove DeviceIdleController usage of location
+  # trace: frameworks/base/apex/jobscheduler/service/aconfig/device_idle.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.deviceidle/remove_idle_location_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.deviceidle/remove_idle_location_flag_values.textproto : ENABLED
+}

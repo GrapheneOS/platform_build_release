@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "throttle_vibration_params_requests"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: haptics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 355320860
+  # description: Control the frequency of vibration params requests to prevent overloading the vendor service
+  # trace: frameworks/base/core/java/android/os/vibrator/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.os.vibrator/throttle_vibration_params_requests_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os.vibrator/throttle_vibration_params_requests_flag_values.textproto : ENABLED
+}

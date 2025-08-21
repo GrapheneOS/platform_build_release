@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "active_admin_cleanup"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 335663055
+  # description: Remove ActiveAdmin from EnforcingAdmin and related cleanups
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.admin.flags/active_admin_cleanup_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "offload_color_extraction"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 328791519
+  # description: Let ImageWallpaper take care of its wallpaper color extraction, instead of system_server
+  # trace: frameworks/base/core/java/android/window/flags/wallpaper_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/offload_color_extraction_flag_values.textproto : ENABLED
+}

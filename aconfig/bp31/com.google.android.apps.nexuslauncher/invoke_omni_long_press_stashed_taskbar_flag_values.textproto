@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "invoke_omni_long_press_stashed_taskbar"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # bug: 319175012
+  # description: Long-press stashed taskbar should attempt to invoke Omni
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.apps.nexuslauncher/invoke_omni_long_press_stashed_taskbar_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.apps.nexuslauncher/invoke_omni_long_press_stashed_taskbar_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.nexuslauncher/invoke_omni_long_press_stashed_taskbar_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "rate_limit_battery_changed_broadcast"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362337621
+  # description: Optimize the delivery of the battery changed broadcast by rate limiting the frequency of the updates
+  # trace: frameworks/base/services/core/java/com/android/server/flags/services.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.flags/rate_limit_battery_changed_broadcast_flag_values.textproto : ENABLED
+}

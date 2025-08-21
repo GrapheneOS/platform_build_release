@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "surface_control_input_receiver"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 278757236
+  # description: Enable public API to register an InputReceiver for a SurfaceControl
+  # trace: frameworks/base/core/java/android/window/flags/window_surfaces.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/surface_control_input_receiver_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/surface_control_input_receiver_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/surface_control_input_receiver_flag_values.textproto : ENABLED
+}

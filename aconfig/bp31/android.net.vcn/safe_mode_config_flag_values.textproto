@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "safe_mode_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: vcn
+  # bug: 276358140
+  # description: Feature flag for safe mode configurability
+  # trace: frameworks/base/packages/Vcn/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.net.vcn/safe_mode_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.net.vcn/safe_mode_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.net.vcn/safe_mode_config_flag_values.textproto : ENABLED
+}

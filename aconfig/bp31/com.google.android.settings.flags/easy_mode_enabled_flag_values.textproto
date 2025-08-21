@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "easy_mode_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: globalintl
+  # bug: 318460441
+  # description: This flag controls whether the easy mode should be enabled
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_pixel_globalintl_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.settings.flags/easy_mode_enabled_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.settings.flags/easy_mode_enabled_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/easy_mode_enabled_flag_values.textproto : ENABLED
+}

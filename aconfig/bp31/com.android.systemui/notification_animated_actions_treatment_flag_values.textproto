@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_animated_actions_treatment"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 383567383
+  # description: Special UI treatment for animated actions and replys
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/notification_animated_actions_treatment_flag_values.textproto : ENABLED
+}

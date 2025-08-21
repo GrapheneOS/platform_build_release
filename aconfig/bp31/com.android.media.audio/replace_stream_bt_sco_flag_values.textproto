@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "replace_stream_bt_sco"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 345024266
+  # description: Replace internally STREAM_BLUETOOTH_SCO with STREAM_VOICE_CALL
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.audio/replace_stream_bt_sco_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audio/replace_stream_bt_sco_flag_values.textproto : ENABLED
+}

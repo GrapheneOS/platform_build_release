@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "art_service_v3"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.art
+  # namespace: art_mainline
+  # bug: 373820009
+  # description: Flag for all new ART Service APIs added in the 25Q2 version of the ART module.
+  # trace: art/build/flags/art-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.art.flags/art_service_v3_flag_values.textproto : ENABLED
+}

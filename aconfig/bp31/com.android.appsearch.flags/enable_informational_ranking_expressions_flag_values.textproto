@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_informational_ranking_expressions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 332642571
+  # description: Enables the additional informational ranking expression API
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.appsearch.flags/enable_informational_ranking_expressions_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.appsearch.flags/enable_informational_ranking_expressions_flag_values.textproto : ENABLED
+}

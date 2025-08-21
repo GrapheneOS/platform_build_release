@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "supervision_role_permission_update_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: supervision
+  # bug: 367333883
+  # description: This flag is used to enable all the remaining permissions required to the supervision role
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/supervision_role_permission_update_enabled_flag_values.textproto : ENABLED
+}

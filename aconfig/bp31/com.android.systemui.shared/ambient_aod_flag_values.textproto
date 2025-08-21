@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "ambient_aod"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 372655702
+  # description: Enables ambient wallpaper and AOD enhancements
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui.shared/ambient_aod_flag_values.textproto : ENABLED
+}

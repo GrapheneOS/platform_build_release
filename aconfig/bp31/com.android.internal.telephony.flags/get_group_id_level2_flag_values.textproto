@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "get_group_id_level2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 381171540
+  # description: This flag controls to get a group id level2.
+  # trace: frameworks/opt/telephony/flags/uicc.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/get_group_id_level2_flag_values.textproto : ENABLED
+}

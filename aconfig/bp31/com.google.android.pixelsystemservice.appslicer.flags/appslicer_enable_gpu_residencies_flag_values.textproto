@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.pixelsystemservice.appslicer.flags"
+  name: "appslicer_enable_gpu_residencies"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: device_idle
+  # bug: 340834608
+  # description: Enables atom logging for GPU residencies per application
+  # trace: vendor/google/apps/PersistentBackgroundServices/appslicer/aconfig/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.pixelsystemservice.appslicer.flags/appslicer_enable_gpu_residencies_flag_values.textproto : ENABLED
+}

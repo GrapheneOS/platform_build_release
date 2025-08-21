@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.sdk"
+  name: "wrist_detection_auto_locking_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 286553246
+  # description: Exposes the Wrist Detection Auto-Locking API: go/wear-dd-wdt
+  # trace: vendor/google_clockwork/sdk/lib/flags/wear_sdk_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.sdk/wrist_detection_auto_locking_api_flag_values.textproto : ENABLED
+}

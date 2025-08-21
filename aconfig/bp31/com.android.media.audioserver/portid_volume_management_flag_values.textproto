@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "portid_volume_management"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 317212590
+  # description: Allows to manage volume by port id within audio flinger instead of legacy stream type.
+  # trace: frameworks/av/media/audio/aconfig/audioserver.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.audioserver/portid_volume_management_flag_values.textproto : ENABLED
+}

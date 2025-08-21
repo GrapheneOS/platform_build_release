@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "refactor_insets_controller"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # bug: 298172246
+  # description: Feature flag for refactoring InsetsController and removing ImeInsetsSourceConsumer
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.view.inputmethod/refactor_insets_controller_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "keep_bluetooth_devices_cache_updated"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 380320985
+  # description: Fix the devices cache issue of BluetoothDeviceManager
+  # trace: packages/services/Telecomm/flags/telecom_bluetoothdevicemanager_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/keep_bluetooth_devices_cache_updated_flag_values.textproto : ENABLED
+}

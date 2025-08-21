@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "new_creative_wallpaper_category"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: customization_picker
+  # bug: 381009822
+  # description: Add new column for the new creative wallpaper.
+  # trace: packages/apps/WallpaperPicker2/aconfig/customization_picker.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.wallpaper/new_creative_wallpaper_category_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "screenshare_notification_hiding"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 312784809
+  # description: Enable hiding of notifications during screenshare
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.notification/screenshare_notification_hiding_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.notification/screenshare_notification_hiding_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.notification/screenshare_notification_hiding_flag_values.textproto : ENABLED
+}

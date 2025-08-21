@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "support_bluetooth_quality_report_v6"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 364517559
+  # description: Enhanced Bluetooth Framework Support for Accessing Bluetooth Quality Report v6 Information
+  # trace: packages/modules/Bluetooth/flags/framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/support_bluetooth_quality_report_v6_flag_values.textproto : ENABLED
+}

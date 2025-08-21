@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "multiple_sa_proposals"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: iwlan_telephony
+  # bug: 287296642
+  # description: Add multiple proposals of IKE SA and Child SA
+  # trace: packages/services/Iwlan/flags/main.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.google.android.iwlan.flags/multiple_sa_proposals_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.google.android.iwlan.flags/multiple_sa_proposals_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.google.android.iwlan.flags/multiple_sa_proposals_flag_values.textproto : ENABLED
+}

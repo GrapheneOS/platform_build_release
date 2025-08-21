@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "touchpad_three_finger_tap_shortcut"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 365063048
+  # description: Turns three-finger touchpad taps into a customizable shortcut.
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.hardware.input/touchpad_three_finger_tap_shortcut_flag_values.textproto : ENABLED
+}

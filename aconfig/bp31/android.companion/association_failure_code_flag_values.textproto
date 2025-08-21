@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion"
+  name: "association_failure_code"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: companion
+  # bug: 331459560
+  # description: Enable association failure code API
+  # trace: frameworks/base/core/java/android/companion/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion/association_failure_code_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "uncache_player_when_browsed_player_changes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 337259487
+  # description: Uncache media player items when changing to a new player so updated player contents can be fetched if we change back to the previous player
+  # trace: packages/modules/Bluetooth/flags/avrcp_controller.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/uncache_player_when_browsed_player_changes_flag_values.textproto : ENABLED
+}

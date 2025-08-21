@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "pixel_fingerprint_sfps_enroll_enrolling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: biometrics_integration
+  # purpose: PURPOSE_BUGFIX
+  # bug: 376539890
+  # description: This flag controls whether or not the sfps enrolling page refactor is enabled
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_biometrics_integration_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.settings.flags/pixel_fingerprint_sfps_enroll_enrolling_flag_values.textproto : ENABLED
+}

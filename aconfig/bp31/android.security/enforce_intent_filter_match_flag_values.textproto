@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.security"
+  name: "enforce_intent_filter_match"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 293560872
+  # description: Make delivered intents match components' intent filters
+  # trace: frameworks/base/core/java/android/security/responsible_apis_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.security/enforce_intent_filter_match_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.security/enforce_intent_filter_match_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.security/enforce_intent_filter_match_flag_values.textproto : ENABLED
+}

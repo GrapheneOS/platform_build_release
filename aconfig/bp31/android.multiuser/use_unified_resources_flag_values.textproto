@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.multiuser"
+  name: "use_unified_resources"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392972139
+  # description: Use same resources
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.multiuser/use_unified_resources_flag_values.textproto : ENABLED
+}

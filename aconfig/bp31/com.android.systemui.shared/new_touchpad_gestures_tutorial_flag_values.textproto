@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "new_touchpad_gestures_tutorial"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 309928033
+  # description: Enables new interactive tutorial for learning touchpad gestures
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui.shared/new_touchpad_gestures_tutorial_flag_values.textproto : ENABLED
+}

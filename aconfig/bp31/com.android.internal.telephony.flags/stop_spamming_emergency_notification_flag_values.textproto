@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "stop_spamming_emergency_notification"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 275225402
+  # description: When set, the no wifi emergency calling availability notif will have a do not ask again button
+  # trace: frameworks/opt/telephony/flags/misc.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/stop_spamming_emergency_notification_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/stop_spamming_emergency_notification_flag_values.textproto : ENABLED
+}

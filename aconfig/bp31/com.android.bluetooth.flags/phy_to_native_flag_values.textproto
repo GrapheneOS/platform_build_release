@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "phy_to_native"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 326249470
+  # description: Expose advertising PHY settings to native layer
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/phy_to_native_flag_values.textproto : ENABLED
+}

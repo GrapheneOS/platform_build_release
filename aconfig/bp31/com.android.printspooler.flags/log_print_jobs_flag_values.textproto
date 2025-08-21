@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.printspooler.flags"
+  name: "log_print_jobs"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: printing
+  # bug: 385340868
+  # description: Log print job creation and state transitions.
+  # trace: frameworks/base/packages/PrintSpooler/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.printspooler.flags/log_print_jobs_flag_values.textproto : ENABLED
+}

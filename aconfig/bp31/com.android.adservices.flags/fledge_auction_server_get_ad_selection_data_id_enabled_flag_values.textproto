@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_auction_server_get_ad_selection_data_id_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices
+  # bug: 323397060
+  # description: Enables the getAdSelectionDataId feature of the getAdSelectionData API
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.adservices.flags/fledge_auction_server_get_ad_selection_data_id_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.adservices.flags/fledge_auction_server_get_ad_selection_data_id_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.adservices.flags/fledge_auction_server_get_ad_selection_data_id_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.speech.flags"
+  name: "multilang_extra_launch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 312489931
+  # description: Feature flag for adding new extra for multi-lang feature
+  # trace: frameworks/base/core/java/android/speech/flags/speech_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.speech.flags/multilang_extra_launch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.speech.flags/multilang_extra_launch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.speech.flags/multilang_extra_launch_flag_values.textproto : ENABLED
+}

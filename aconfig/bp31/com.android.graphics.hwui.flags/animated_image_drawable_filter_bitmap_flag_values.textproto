@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "animated_image_drawable_filter_bitmap"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 370523334
+  # description: API's that enable animated image drawables to use nearest sampling when scaling.
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.hwui.flags/animated_image_drawable_filter_bitmap_flag_values.textproto : ENABLED
+}

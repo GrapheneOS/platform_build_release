@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "post_callbacks"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 370015438
+  # description: Post callbacks to CardEmulationManager to handler to get off of NFC callback thread.
+  # trace: packages/modules/Nfc/NfcNci/flags/nfc_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.nfc.flags/post_callbacks_flag_values.textproto : ENABLED
+}

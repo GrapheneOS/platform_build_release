@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "wb_unlimited_slots"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 341359814
+  # description: Adds APIs and updates the implementation of bufferqueues to have a user-defined slot count.
+  # trace: frameworks/native/libs/gui/libgui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.libgui.flags/wb_unlimited_slots_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.service.notification"
+  name: "notification_force_grouping"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 336488844
+  # description: This flag controls the forced auto-grouping feature
+  # trace: frameworks/base/core/java/android/service/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.service.notification/notification_force_grouping_flag_values.textproto : ENABLED
+}

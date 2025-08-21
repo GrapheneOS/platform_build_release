@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "touchpad_settings_design_update"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 400647661
+  # description: All touchpad settings pages should either migrate to non-custom implementations or be updated
+  # trace: packages/apps/Settings/aconfig/settings_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settings.flags/touchpad_settings_design_update_flag_values.textproto : ENABLED
+}

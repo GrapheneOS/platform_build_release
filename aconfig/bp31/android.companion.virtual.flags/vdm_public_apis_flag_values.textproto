@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "vdm_public_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 297253526
+  # description: Enable public VDM API for device capabilities
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/deprecated_flags_do_not_edit.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.companion.virtual.flags/vdm_public_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.companion.virtual.flags/vdm_public_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.companion.virtual.flags/vdm_public_apis_flag_values.textproto : ENABLED
+}

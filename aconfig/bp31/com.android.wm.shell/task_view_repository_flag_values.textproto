@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "task_view_repository"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # bug: 384976265
+  # description: Factor task-view state tracking out of taskviewtransitions
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.wm.shell/task_view_repository_flag_values.textproto : ENABLED
+}

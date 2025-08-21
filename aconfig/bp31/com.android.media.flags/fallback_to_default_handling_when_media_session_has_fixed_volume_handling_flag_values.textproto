@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "fallback_to_default_handling_when_media_session_has_fixed_volume_handling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 293743975
+  # description: Fallbacks to the default handling for volume adjustment when media session has fixed volume handling and its app is in the foreground and setting a media controller.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/fallback_to_default_handling_when_media_session_has_fixed_volume_handling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/fallback_to_default_handling_when_media_session_has_fixed_volume_handling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/fallback_to_default_handling_when_media_session_has_fixed_volume_handling_flag_values.textproto : ENABLED
+}

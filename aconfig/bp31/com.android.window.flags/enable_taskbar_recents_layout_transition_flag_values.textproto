@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_taskbar_recents_layout_transition"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 343521765
+  # description: Enable Taskbar LayoutTransition for Recent Apps
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_taskbar_recents_layout_transition_flag_values.textproto : ENABLED
+}

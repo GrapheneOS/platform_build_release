@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "av_stream_reconfigure_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 348351688
+  # description: Handle AVDT stream reconfiguration in an event
+  # trace: packages/modules/Bluetooth/flags/a2dp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/av_stream_reconfigure_fix_flag_values.textproto : ENABLED
+}

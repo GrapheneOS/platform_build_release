@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.uprobestats.flags"
+  name: "enable_uprobestats"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 296108553
+  # description: Whether to enable uprobestats.
+  # trace: packages/modules/UprobeStats/src/flag.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/android.uprobestats.flags/enable_uprobestats_flag_values.textproto : ENABLED
+}

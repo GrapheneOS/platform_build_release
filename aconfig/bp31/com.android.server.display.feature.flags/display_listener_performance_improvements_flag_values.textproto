@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "display_listener_performance_improvements"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 372700957
+  # description: Feature flag for an API to let the apps subscribe to a specific property change of the Display.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.display.feature.flags/display_listener_performance_improvements_flag_values.textproto : ENABLED
+}

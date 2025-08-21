@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "cleanup_carrier_app_update_enabled_state_logic"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 232141900
+  # description: Improve readability of update state logic
+  # trace: frameworks/opt/telephony/flags/carrier.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/cleanup_carrier_app_update_enabled_state_logic_flag_values.textproto : ENABLED
+}

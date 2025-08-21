@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.net.wifi.flags"
+  name: "get_device_cross_akm_roaming_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wifi
+  # bug: 313038031
+  # description: Add new API to get the device support for CROSS-AKM roaming
+  # trace: frameworks/base/wifi/wifi.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.net.wifi.flags/get_device_cross_akm_roaming_support_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.net.wifi.flags/get_device_cross_akm_roaming_support_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.net.wifi.flags/get_device_cross_akm_roaming_support_flag_values.textproto : ENABLED
+}

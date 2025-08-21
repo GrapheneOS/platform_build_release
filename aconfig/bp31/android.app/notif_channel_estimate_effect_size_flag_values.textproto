@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "notif_channel_estimate_effect_size"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391908451
+  # description: When reading vibration effects from parcel, estimate size instead of unnecessarily serializing to XML
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/notif_channel_estimate_effect_size_flag_values.textproto : ENABLED
+}

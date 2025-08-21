@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.providers.contactkeys.flags"
+  name: "contactkeys_strip_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: privacy_infra_policy
+  # purpose: PURPOSE_BUGFIX
+  # bug: 344666512
+  # description: This flag controls whether E2EE contact key values are returned for apps with WRITE_VERIFICATION_STATE_E2EE_CONTACT_KEYS
+  # trace: packages/providers/ContactsKeysProvider/contactskeysprovider_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.providers.contactkeys.flags/contactkeys_strip_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.providers.contactkeys.flags/contactkeys_strip_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.providers.contactkeys.flags/contactkeys_strip_fix_flag_values.textproto : ENABLED
+}

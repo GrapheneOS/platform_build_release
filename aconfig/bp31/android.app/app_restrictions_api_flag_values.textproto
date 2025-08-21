@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app"
+  name: "app_restrictions_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 320150834
+  # description: API to track and query restrictions applied to apps
+  # trace: frameworks/base/core/java/android/app/activity_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/app_restrictions_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/app_restrictions_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/app_restrictions_api_flag_values.textproto : ENABLED
+}

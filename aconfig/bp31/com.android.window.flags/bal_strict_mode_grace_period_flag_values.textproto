@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_strict_mode_grace_period"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 384807495
+  # description: Strict mode violation triggered by grace period usage
+  # trace: frameworks/base/core/java/android/window/flags/responsible_apis.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/bal_strict_mode_grace_period_flag_values.textproto : ENABLED
+}

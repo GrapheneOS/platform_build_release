@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_icon_container_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 278765923
+  # description: Enables the refactored version of the notification icon container in StatusBar, AOD, and the notification shelf. Should not bring any behavioral changes.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/notifications_icon_container_refactor_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/notifications_icon_container_refactor_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/notifications_icon_container_refactor_flag_values.textproto : ENABLED
+}

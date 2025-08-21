@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.security"
+  name: "content_uri_permission_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 293467489
+  # description: Enables the content URI permission APIs
+  # trace: frameworks/base/core/java/android/security/responsible_apis_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.security/content_uri_permission_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.security/content_uri_permission_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.security/content_uri_permission_apis_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_widget_tap_to_add"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 323886237
+  # description: Enables an add button in the widget picker
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/enable_widget_tap_to_add_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/enable_widget_tap_to_add_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/enable_widget_tap_to_add_flag_values.textproto : ENABLED
+}

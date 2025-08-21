@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "apply_picture_profiles"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_tv
+  # bug: 337330263
+  # description: Feature flag to enable APIs for applying picture profiles
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/apply_picture_profiles_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "reset_mute_when_entering_quiescent_bt_route"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 311313250
+  # description: Reset mute state when entering quiescent bluetooth route.
+  # trace: packages/services/Telecomm/flags/telecom_callaudioroutestatemachine_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.telecom.flags/reset_mute_when_entering_quiescent_bt_route_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/reset_mute_when_entering_quiescent_bt_route_flag_values.textproto : ENABLED
+}

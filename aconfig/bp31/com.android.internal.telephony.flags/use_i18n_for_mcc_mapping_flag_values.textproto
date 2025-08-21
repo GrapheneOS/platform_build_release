@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "use_i18n_for_mcc_mapping"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 381070025
+  # description: Use the newly introduced MCC to country table, from the time zone mainline module
+  # trace: frameworks/opt/telephony/flags/misc.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/use_i18n_for_mcc_mapping_flag_values.textproto : ENABLED
+}

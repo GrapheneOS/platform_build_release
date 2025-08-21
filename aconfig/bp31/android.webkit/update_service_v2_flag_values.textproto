@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.webkit"
+  name: "update_service_v2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: webview
+  # bug: 308907090
+  # description: Using a new version of the WebView update service
+  # trace: frameworks/base/services/core/java/com/android/server/webkit/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.webkit/update_service_v2_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.webkit/update_service_v2_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.webkit/update_service_v2_flag_values.textproto : ENABLED
+}

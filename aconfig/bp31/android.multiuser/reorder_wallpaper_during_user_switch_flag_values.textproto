@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "reorder_wallpaper_during_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # bug: 324911115
+  # description: Reorder loading home and lock screen wallpapers during a user switch.
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/reorder_wallpaper_during_user_switch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/reorder_wallpaper_during_user_switch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/reorder_wallpaper_during_user_switch_flag_values.textproto : ENABLED
+}

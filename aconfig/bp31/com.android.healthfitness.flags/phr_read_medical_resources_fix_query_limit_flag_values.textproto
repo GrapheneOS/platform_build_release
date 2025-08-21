@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "phr_read_medical_resources_fix_query_limit"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381201968
+  # description: Flag for fixing the readMedicalResources query.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.healthfitness.flags/phr_read_medical_resources_fix_query_limit_flag_values.textproto : ENABLED
+}

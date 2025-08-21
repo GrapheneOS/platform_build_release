@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.graphics.pdf.flags"
+  name: "enable_edit_pdf_page_objects"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: pdf_viewer
+  # bug: 379008090
+  # description: This flag controls whether to enable path and image page object editing support.
+  # trace: packages/providers/MediaProvider/pdf/framework/pdf_viewer_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/android.graphics.pdf.flags/enable_edit_pdf_page_objects_flag_values.textproto : ENABLED
+}

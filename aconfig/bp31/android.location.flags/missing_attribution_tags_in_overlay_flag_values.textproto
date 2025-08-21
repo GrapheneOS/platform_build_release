@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.location.flags"
+  name: "missing_attribution_tags_in_overlay"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # bug: 403337028
+  # description: Adds missing attribution tags in the Fused and Gnss overlay
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.location.flags/missing_attribution_tags_in_overlay_flag_values.textproto : ENABLED
+}

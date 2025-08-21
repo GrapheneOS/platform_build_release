@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "lower_sms_oom_importance"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 372511805
+  # description: Lower messaging app process oom importance to PERCEPTIBLE_APP_ADJ + 1.
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.am/lower_sms_oom_importance_flag_values.textproto : ENABLED
+}

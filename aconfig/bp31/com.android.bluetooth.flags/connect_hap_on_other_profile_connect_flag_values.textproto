@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "connect_hap_on_other_profile_connect"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 379771539
+  # description: Try to connect HAP when other profile is getting connected
+  # trace: packages/modules/Bluetooth/flags/hap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/connect_hap_on_other_profile_connect_flag_values.textproto : ENABLED
+}

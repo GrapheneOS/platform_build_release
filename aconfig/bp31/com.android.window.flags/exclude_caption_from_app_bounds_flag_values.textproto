@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "exclude_caption_from_app_bounds"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 388014743
+  # description: Whether caption insets are excluded from app bounds in freeform
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/exclude_caption_from_app_bounds_flag_values.textproto : ENABLED
+}

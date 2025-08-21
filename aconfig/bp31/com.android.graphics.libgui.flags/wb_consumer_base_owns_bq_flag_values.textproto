@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "wb_consumer_base_owns_bq"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 340933754
+  # description: ConsumerBase-based classes now own their own bufferqueue
+  # trace: frameworks/native/libs/gui/libgui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.libgui.flags/wb_consumer_base_owns_bq_flag_values.textproto : ENABLED
+}

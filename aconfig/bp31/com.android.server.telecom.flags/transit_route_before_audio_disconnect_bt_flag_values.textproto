@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "transit_route_before_audio_disconnect_bt"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 306113816
+  # description: Fix audio route transition issue on call disconnection when bt audio connected.
+  # trace: packages/services/Telecomm/flags/telecom_callaudioroutestatemachine_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/transit_route_before_audio_disconnect_bt_flag_values.textproto : ENABLED
+}

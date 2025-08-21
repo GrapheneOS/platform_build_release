@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "skip_filter_phone_account_perform_dnd_filter"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 222333869
+  # description: Gates whether to still perform Dnd filter when phone account has skip_filter call extra.
+  # trace: packages/services/Telecomm/flags/telecom_call_filtering_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.telecom.flags/skip_filter_phone_account_perform_dnd_filter_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.telecom.flags/skip_filter_phone_account_perform_dnd_filter_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/skip_filter_phone_account_perform_dnd_filter_flag_values.textproto : ENABLED
+}

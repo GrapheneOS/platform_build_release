@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.audio"
+  name: "feature_spatial_audio_headtracking_low_latency"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 324291076
+  # description: Define feature for low latency headtracking for SA
+  # trace: frameworks/av/media/audio/aconfig/audio_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.audio/feature_spatial_audio_headtracking_low_latency_flag_values.textproto : ENABLED
+}

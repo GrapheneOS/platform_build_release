@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.app"
+  name: "app_start_info_timestamps"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 287153617
+  # description: Additional timestamps.
+  # trace: frameworks/base/core/java/android/app/activity_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/app_start_info_timestamps_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/app_start_info_timestamps_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/app_start_info_timestamps_flag_values.textproto : ENABLED
+}

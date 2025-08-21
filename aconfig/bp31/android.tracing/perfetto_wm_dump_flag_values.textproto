@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.tracing"
+  name: "perfetto_wm_dump"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_tools
+  # bug: 323165543
+  # description: Migrate WindowManager dump to Perfetto
+  # trace: frameworks/base/core/java/android/tracing/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.tracing/perfetto_wm_dump_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_root_modernization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 364360986
+  # description: Feature flag for replacing the status bar fragment with a compose root
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_root_modernization_flag_values.textproto : ENABLED
+}

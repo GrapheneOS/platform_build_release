@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.icu"
+  name: "icu_25q2_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.i18n
+  # namespace: core_libraries
+  # bug: 374966838
+  # description: This flag controls whether exposing new APIs in 25Q2
+  # trace: external/icu/icu.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.icu/icu_25q2_api_flag_values.textproto : ENABLED
+}

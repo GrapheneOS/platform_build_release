@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "indication_text_a11y_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 349297241
+  # description: add double shadow to the indication text at the bottom of the lock screen
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/indication_text_a11y_fix_flag_values.textproto : ENABLED
+}

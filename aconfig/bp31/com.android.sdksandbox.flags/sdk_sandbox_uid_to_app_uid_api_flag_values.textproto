@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "sdk_sandbox_uid_to_app_uid_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: sdk_sandbox
+  # bug: 314270319
+  # description: Get the app uid for the input sdk sandbox uid
+  # trace: packages/modules/AdServices/sdksandbox/flags/sandbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.sdksandbox.flags/sdk_sandbox_uid_to_app_uid_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.sdksandbox.flags/sdk_sandbox_uid_to_app_uid_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.sdksandbox.flags/sdk_sandbox_uid_to_app_uid_api_flag_values.textproto : ENABLED
+}

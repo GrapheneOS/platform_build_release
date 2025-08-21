@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "default_gatt_transport"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 376276742
+  # description: Use LE as the default transport for GATT connections
+  # trace: packages/modules/Bluetooth/flags/gatt.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/default_gatt_transport_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.pixel.impulse.flags"
+  name: "enable_custom_component"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_state_server
+  # purpose: PURPOSE_BUGFIX
+  # bug: 372403366
+  # description: This flag controls whether to use custom component for the dependency injections.
+  # trace: vendor/google/apps/PersistentBackgroundServices/pixelimpulse/aconfig/pixelimpulse_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.apps.pixel.impulse.flags/enable_custom_component_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.ipsec.flags"
+  name: "liveness_check_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.ipsec
+  # namespace: ipsec
+  # bug: 286171724
+  # description: This is a new feature includes APIs to check liveness and notify liveness status.
+  # trace: packages/modules/IPsec/flags/ipsec_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.ipsec.flags/liveness_check_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.ipsec.flags/liveness_check_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.ipsec.flags/liveness_check_api_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.aconfig.flags"
+  name: "tools_read_from_new_storage_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370499640
+  # description: When enabled, tools read directly from the new aconfig storage.
+  # trace: build/make/tools/aconfig/aconfig_flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.aconfig.flags/tools_read_from_new_storage_bugfix_flag_values.textproto : ENABLED
+}

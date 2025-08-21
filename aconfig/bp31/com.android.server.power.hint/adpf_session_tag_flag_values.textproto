@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.power.hint"
+  name: "adpf_session_tag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 345011125
+  # description: Feature flag for adding session tag to hint session atom
+  # trace: frameworks/base/services/core/java/com/android/server/power/hint/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.hint/adpf_session_tag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.hint/adpf_session_tag_flag_values.textproto : ENABLED
+}

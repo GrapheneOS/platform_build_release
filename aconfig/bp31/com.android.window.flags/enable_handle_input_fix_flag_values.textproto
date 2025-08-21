@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_handle_input_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 316186265
+  # description: Enables using AdditionalSystemViewContainer to resolve handle input issues.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_handle_input_fix_flag_values.textproto : ENABLED
+}

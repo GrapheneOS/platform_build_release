@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_generic_document_builder_hidden_methods"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 318408639
+  # description: Enable GenericDocument.Builder to use previously hidden methods.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.appsearch.flags/enable_generic_document_builder_hidden_methods_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.appsearch.flags/enable_generic_document_builder_hidden_methods_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.appsearch.flags/enable_generic_document_builder_hidden_methods_flag_values.textproto : ENABLED
+}

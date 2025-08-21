@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_new_media_route_2_info_types"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 301713440
+  # description: Enables the following type constants in MediaRoute2Info: CAR, COMPUTER, GAME_CONSOLE, SMARTPHONE, SMARTWATCH, TABLET, TABLET_DOCKED. Note that this doesn't gate any behavior. It only guards some API int symbols.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_new_media_route_2_info_types_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_new_media_route_2_info_types_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_new_media_route_2_info_types_flag_values.textproto : ENABLED
+}

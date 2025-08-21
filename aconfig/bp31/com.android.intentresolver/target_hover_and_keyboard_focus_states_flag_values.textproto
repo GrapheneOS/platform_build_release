@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "target_hover_and_keyboard_focus_states"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # bug: 295175912
+  # description: Adopt Launcher pointer hover and keyboard novigation focus effects for targets.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.intentresolver/target_hover_and_keyboard_focus_states_flag_values.textproto : ENABLED
+}

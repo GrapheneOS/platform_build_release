@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "business_call_composer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 311688497
+  # description: Enables enriched calling features (e.g. Business name will show for a call)
+  # trace: packages/services/Telecomm/flags/telecom_api_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.telecom.flags/business_call_composer_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.telecom.flags/business_call_composer_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.telecom.flags/business_call_composer_flag_values.textproto : ENABLED
+}

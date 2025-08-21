@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "add_missing_access_logs"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # purpose: PURPOSE_BUGFIX
+  # bug: 359582925
+  # description: Adds missing access logs
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.healthfitness.flags/add_missing_access_logs_flag_values.textproto : ENABLED
+}

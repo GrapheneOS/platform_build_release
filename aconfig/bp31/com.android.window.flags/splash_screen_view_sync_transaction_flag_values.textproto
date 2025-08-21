@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "splash_screen_view_sync_transaction"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 402644135
+  # description: Fixes flickering when transfer splash screen view to client.
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/splash_screen_view_sync_transaction_flag_values.textproto : ENABLED
+}

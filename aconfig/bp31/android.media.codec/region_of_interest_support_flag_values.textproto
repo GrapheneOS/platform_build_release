@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.media.codec"
+  name: "region_of_interest_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # bug: 325549730
+  # description: Feature flag for region of interest support
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.media.codec/region_of_interest_support_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.media.codec/region_of_interest_support_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.media.codec/region_of_interest_support_flag_values.textproto : ENABLED
+}

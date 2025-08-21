@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "new_uri_parsing_for_escape_character"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # purpose: PURPOSE_BUGFIX
+  # bug: 342706482
+  # description: New parsing logic for Zxing uri format which support escape character
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.wifi.flags/new_uri_parsing_for_escape_character_flag_values.textproto : ENABLED
+}

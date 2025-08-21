@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.nfc"
+  name: "enable_nfc_mainline"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 292140387
+  # description: Flag for NFC mainline changes
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.nfc/enable_nfc_mainline_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.nfc/enable_nfc_mainline_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.nfc/enable_nfc_mainline_flag_values.textproto : ENABLED
+}

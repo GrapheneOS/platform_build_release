@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.haptics.flags"
+  name: "vendor_vibration_control"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: make_pixel_haptics
+  # bug: 294246138
+  # description: Vendor Vibration Control Implementation
+  # trace: vendor/google/apps/PersistentBackgroundServices/adaptivehaptics/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.haptics.flags/vendor_vibration_control_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.haptics.flags/vendor_vibration_control_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.haptics.flags/vendor_vibration_control_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "fast_hdr_transitions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 292124102
+  # description: Feature flag for fast transitions into/out of HDR
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/fast_hdr_transitions_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/fast_hdr_transitions_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/fast_hdr_transitions_flag_values.textproto : ENABLED
+}

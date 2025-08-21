@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_window_no_custom_touch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391894499
+  # description: Don't have any custom touch handling in StatusBarWindowView
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_window_no_custom_touch_flag_values.textproto : ENABLED
+}

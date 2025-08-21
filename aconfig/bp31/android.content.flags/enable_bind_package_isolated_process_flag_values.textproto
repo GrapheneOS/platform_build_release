@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.flags"
+  name: "enable_bind_package_isolated_process"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 312706530
+  # description: This flag enables the newly added flag for binding package-private isolated processes.
+  # trace: frameworks/base/core/java/android/content/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.flags/enable_bind_package_isolated_process_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.flags/enable_bind_package_isolated_process_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.flags/enable_bind_package_isolated_process_flag_values.textproto : ENABLED
+}

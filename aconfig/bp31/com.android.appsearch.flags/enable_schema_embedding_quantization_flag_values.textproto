@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_schema_embedding_quantization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 359959345
+  # description: Enables embedding quantization.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.appsearch.flags/enable_schema_embedding_quantization_flag_values.textproto : ENABLED
+}

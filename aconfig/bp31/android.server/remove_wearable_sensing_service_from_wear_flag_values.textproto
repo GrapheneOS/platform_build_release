@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.server"
+  name: "remove_wearable_sensing_service_from_wear"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 340929916
+  # description: Remove WearableSensingManagerService on Wear
+  # trace: frameworks/base/services/java/com/android/server/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.server/remove_wearable_sensing_service_from_wear_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.server/remove_wearable_sensing_service_from_wear_flag_values.textproto : ENABLED
+}

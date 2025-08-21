@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "protected_if_client"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 307674749
+  # description: Only set the RenderSurface to protected if protected layers are in client composition.
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/protected_if_client_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/protected_if_client_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/protected_if_client_flag_values.textproto : ENABLED
+}

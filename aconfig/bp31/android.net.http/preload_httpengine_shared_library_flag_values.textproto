@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.net.http"
+  name: "preload_httpengine_shared_library"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 380349437
+  # description: Impl Guard for preloading HttpEngine's Native code into the zygote
+  # trace: external/cronet/android/flags/preload_httpengine.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.net.http/preload_httpengine_shared_library_flag_values.textproto : ENABLED
+}

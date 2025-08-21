@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-android.uprobestats.mainline.flags-all",
+  package: "android.uprobestats.mainline.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

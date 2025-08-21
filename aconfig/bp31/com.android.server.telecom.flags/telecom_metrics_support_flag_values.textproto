@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "telecom_metrics_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 362394177
+  # description: Support telecom metrics
+  # trace: packages/services/Telecomm/flags/telecom_metrics_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/telecom_metrics_support_flag_values.textproto : ENABLED
+}

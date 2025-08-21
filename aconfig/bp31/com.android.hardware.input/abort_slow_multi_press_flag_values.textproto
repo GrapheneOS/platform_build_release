@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "abort_slow_multi_press"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370095426
+  # description: If a press that's a part of a multipress takes too long, the multipress gesture will be cancelled.
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.hardware.input/abort_slow_multi_press_flag_values.textproto : ENABLED
+}

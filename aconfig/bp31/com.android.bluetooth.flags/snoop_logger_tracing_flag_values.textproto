@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "snoop_logger_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 369428038
+  # description: Add snoop logger tracing
+  # trace: packages/modules/Bluetooth/flags/hal.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/snoop_logger_tracing_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "remove_country_code_from_local_singapore_calls"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 284416645
+  # description: Fix bug where the country code is being shown when merging in local Singapore numbers to conference calls.
+  # trace: frameworks/opt/telephony/flags/calling.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/remove_country_code_from_local_singapore_calls_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/remove_country_code_from_local_singapore_calls_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/remove_country_code_from_local_singapore_calls_flag_values.textproto : ENABLED
+}

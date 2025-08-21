@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_is_pd_compliant_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: usb
+  # bug: 323470419
+  # description: Feature flag for the api to check if a port is PD compliant
+  # trace: frameworks/base/core/java/android/hardware/usb/flags/usb_framework_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.hardware.usb.flags/enable_is_pd_compliant_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.usb.flags/enable_is_pd_compliant_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.usb.flags/enable_is_pd_compliant_api_flag_values.textproto : ENABLED
+}

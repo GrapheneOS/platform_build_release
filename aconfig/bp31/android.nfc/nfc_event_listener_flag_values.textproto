@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.nfc"
+  name: "nfc_event_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 356447790
+  # description: Enable NFC Event listener APIs
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.nfc/nfc_event_listener_flag_values.textproto : ENABLED
+}

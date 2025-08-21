@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "allow_omni_splitscreen"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # bug: 319146671
+  # description: Allow Omni to be invoked in splitscreen mode
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.apps.nexuslauncher/allow_omni_splitscreen_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.apps.nexuslauncher/allow_omni_splitscreen_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.nexuslauncher/allow_omni_splitscreen_flag_values.textproto : ENABLED
+}

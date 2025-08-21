@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.codec"
+  name: "p210_format_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # bug: 368395888
+  # description: Feature flag for Android support for P210 YCbCr format
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.codec/p210_format_support_flag_values.textproto : ENABLED
+}

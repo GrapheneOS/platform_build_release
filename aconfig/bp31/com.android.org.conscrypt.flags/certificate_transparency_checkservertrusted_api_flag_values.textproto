@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.org.conscrypt.flags"
+  name: "certificate_transparency_checkservertrusted_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.conscrypt
+  # namespace: core_libraries
+  # bug: 319829948
+  # description: This flag controls whether TrustManagerImpl exposes a checkServerTrusted method for CT verification with OCSP and TLS SCT data
+  # trace: external/conscrypt/conscrypt.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.org.conscrypt.flags/certificate_transparency_checkservertrusted_api_flag_values.textproto : ENABLED
+}

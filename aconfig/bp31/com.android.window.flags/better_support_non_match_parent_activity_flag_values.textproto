@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "better_support_non_match_parent_activity"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # bug: 356277166
+  # description: Relax the assumption of non-match parent activity
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/better_support_non_match_parent_activity_flag_values.textproto : ENABLED
+}

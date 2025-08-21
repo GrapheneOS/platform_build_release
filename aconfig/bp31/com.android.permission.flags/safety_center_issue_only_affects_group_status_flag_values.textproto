@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "safety_center_issue_only_affects_group_status"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: permissions
+  # bug: 356910111
+  # description: This flag is used by Safety Center to affect the status light of an entry group when an issue only source pushes a warning
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.permission.flags/safety_center_issue_only_affects_group_status_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.net.platform.flags"
+  name: "register_nsd_offload_engine"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: android_core_networking
+  # bug: 294777050
+  # description: Flag for registerOffloadEngine API in NsdManager
+  # trace: frameworks/base/core/java/android/net/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.net.platform.flags/register_nsd_offload_engine_flag_values.textproto : ENABLED
+}

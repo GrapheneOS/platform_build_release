@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "sdk_desired_present_time"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 295038072
+  # description: Feature flag for the new SDK API to set desired present time
+  # trace: frameworks/base/core/java/android/window/flags/window_surfaces.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/sdk_desired_present_time_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/sdk_desired_present_time_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/sdk_desired_present_time_flag_values.textproto : ENABLED
+}

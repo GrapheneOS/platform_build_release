@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.mainline.flags"
+  name: "enable_pid_to_media_session_2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.media
+  # namespace: media_solutions
+  # bug: 318745416
+  # description: Add pid for Session2Token for Supporting project falcon in MediaSession2
+  # trace: packages/modules/Media/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.mainline.flags/enable_pid_to_media_session_2_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.mainline.flags/enable_pid_to_media_session_2_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.mainline.flags/enable_pid_to_media_session_2_flag_values.textproto : ENABLED
+}

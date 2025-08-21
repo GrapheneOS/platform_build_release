@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "night_mode_indicator"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 335902696
+  # description: Indicates when to activate Night Mode Camera Extension
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.camera.flags/night_mode_indicator_flag_values.textproto : ENABLED
+}

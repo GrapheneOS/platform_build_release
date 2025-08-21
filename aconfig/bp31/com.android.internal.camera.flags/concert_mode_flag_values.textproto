@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "concert_mode"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 297083874
+  # description: Introduces a new concert mode camera extension type
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.camera.flags/concert_mode_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.camera.flags/concert_mode_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.camera.flags/concert_mode_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "pixel_fingerprint_usudfps_enroll"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: biometrics_integration
+  # bug: 361326079
+  # description: The flag control the usudfps fingerprint enrollment flow
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_biometrics_integration_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.settings.flags/pixel_fingerprint_usudfps_enroll_flag_values.textproto : ENABLED
+}

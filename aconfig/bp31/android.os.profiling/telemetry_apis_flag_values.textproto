@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os.profiling"
+  name: "telemetry_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.profiling
+  # namespace: system_performance
+  # bug: 293957254
+  # description: Control API portion of telemetry APIs feature.
+  # trace: packages/modules/Profiling/framework/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os.profiling/telemetry_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os.profiling/telemetry_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os.profiling/telemetry_apis_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.audio"
+  name: "cache_get_stream_volume"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 383667500
+  # description: Cache getStreamVolume calls between AudioManager and AudioService
+  # trace: frameworks/av/media/audio/aconfig/audio_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.media.audio/cache_get_stream_volume_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_device_state_auto_rotate_setting_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 350946537
+  # description: Enable refactored device state auto rotate setting logic
+  # trace: frameworks/base/core/java/android/window/flags/device_state_auto_rotate_setting.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/enable_device_state_auto_rotate_setting_refactor_flag_values.textproto : ENABLED
+}

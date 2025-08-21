@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "avoid_rebinding_intentionally_disconnected_wallpaper"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 332871851
+  # description: Prevents rebinding with intentionally disconnected wallpaper services.
+  # trace: frameworks/base/core/java/android/window/flags/wallpaper_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/avoid_rebinding_intentionally_disconnected_wallpaper_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/avoid_rebinding_intentionally_disconnected_wallpaper_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "change_method_of_obtaining_ims_registration_radio_tech"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 330120237
+  # description: This flag changes the method of obtaining IMS registration radio technology
+  # trace: frameworks/opt/telephony/flags/misc.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/change_method_of_obtaining_ims_registration_radio_tech_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/change_method_of_obtaining_ims_registration_radio_tech_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/change_method_of_obtaining_ims_registration_radio_tech_flag_values.textproto : ENABLED
+}

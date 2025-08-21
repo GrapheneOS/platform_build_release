@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "fix_wallpaper_changed"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 369814294
+  # description: Fixes timing of wallpaper changed notification and adds extra information. Only effective after rebooting.
+  # trace: frameworks/base/core/java/android/app/wallpaper.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/fix_wallpaper_changed_flag_values.textproto : ENABLED
+}

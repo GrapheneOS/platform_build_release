@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "ignore_aspect_ratio_restrictions_for_resizeable_freeform_activities"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: large_screen_experiences_app_compat
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381866902
+  # description: If a resizeable activity enters freeform mode, ignore all aspect ratio constraints.
+  # trace: frameworks/base/core/java/android/window/flags/large_screen_experiences_app_compat.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/ignore_aspect_ratio_restrictions_for_resizeable_freeform_activities_flag_values.textproto : ENABLED
+}

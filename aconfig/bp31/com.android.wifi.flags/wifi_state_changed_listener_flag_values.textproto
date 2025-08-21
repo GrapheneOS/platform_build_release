@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "wifi_state_changed_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # bug: 349530934
+  # description: Wifi state changed listener API
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.wifi.flags/wifi_state_changed_listener_flag_values.textproto : ENABLED
+}

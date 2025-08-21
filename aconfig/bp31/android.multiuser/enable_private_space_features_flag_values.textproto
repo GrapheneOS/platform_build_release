@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_private_space_features"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 286418785
+  # description: Enable the support for private space and all its sub-features
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/enable_private_space_features_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/enable_private_space_features_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/enable_private_space_features_flag_values.textproto : ENABLED
+}

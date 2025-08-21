@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.tracing"
+  name: "system_server_large_perfetto_shmem_buffer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_tools
+  # bug: 382369925
+  # description: Large perfetto shmem buffer
+  # trace: frameworks/base/core/java/android/tracing/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.tracing/system_server_large_perfetto_shmem_buffer_flag_values.textproto : ENABLED
+}

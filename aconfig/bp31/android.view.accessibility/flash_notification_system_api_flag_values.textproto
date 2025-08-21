@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "flash_notification_system_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 303131332
+  # description: Makes flash notification APIs as system APIs for calling from mainline module
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.accessibility/flash_notification_system_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.accessibility/flash_notification_system_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.accessibility/flash_notification_system_api_flag_values.textproto : ENABLED
+}

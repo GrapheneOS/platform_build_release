@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "update_host_input_transfer_token"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392965431
+  # description: Update host InpuTransferToken on view attach
+  # trace: frameworks/base/core/java/android/window/flags/window_surfaces.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/update_host_input_transfer_token_flag_values.textproto : ENABLED
+}

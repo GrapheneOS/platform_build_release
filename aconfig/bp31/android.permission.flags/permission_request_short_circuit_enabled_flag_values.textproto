@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "permission_request_short_circuit_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 378923900
+  # description: This flag is used to short circuit the request for permananently denied permissions
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.permission.flags/permission_request_short_circuit_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "restrict_priority_values"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 369487976
+  # description: Restrict priority values defined by non-system apps
+  # trace: frameworks/base/services/core/java/com/android/server/am/broadcasts_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.am/restrict_priority_values_flag_values.textproto : ENABLED
+}

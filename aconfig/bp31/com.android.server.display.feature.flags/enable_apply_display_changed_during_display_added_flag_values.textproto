@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_apply_display_changed_during_display_added"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 368131655
+  # description: Apply display changes after display added
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_apply_display_changed_during_display_added_flag_values.textproto : ENABLED
+}

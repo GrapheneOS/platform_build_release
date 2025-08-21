@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "face_scanning_animation_npe_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392032258
+  # description: Fix for the face scanning animation NPE
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/face_scanning_animation_npe_fix_flag_values.textproto : ENABLED
+}

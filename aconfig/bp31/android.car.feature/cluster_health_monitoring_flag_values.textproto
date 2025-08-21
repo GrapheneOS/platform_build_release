@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "cluster_health_monitoring"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 285415531
+  # description: Controls whether to enable the health monitoring for Cluster
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/cluster_health_monitoring_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/cluster_health_monitoring_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/cluster_health_monitoring_flag_values.textproto : ENABLED
+}

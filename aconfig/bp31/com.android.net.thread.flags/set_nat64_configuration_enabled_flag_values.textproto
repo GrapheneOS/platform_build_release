@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.net.thread.flags"
+  name: "set_nat64_configuration_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: thread_network
+  # bug: 368456504
+  # description: Controls whether the setConfiguration API of NAT64 feature is enabled
+  # trace: packages/modules/Connectivity/common/thread_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.net.thread.flags/set_nat64_configuration_enabled_flag_values.textproto : ENABLED
+}

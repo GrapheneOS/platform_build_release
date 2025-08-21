@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.google.wear.services.infra.flags-all",
+  package: "com.google.wear.services.infra.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "offload_session_cancel_block_screen_on"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 331725519
+  # description: Flag for DisplayPowerController to start notifying DisplayOffloadSession about cancelling screen on blocker.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/offload_session_cancel_block_screen_on_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/offload_session_cancel_block_screen_on_flag_values.textproto : ENABLED
+}

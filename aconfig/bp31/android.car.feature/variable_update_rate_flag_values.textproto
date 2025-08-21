@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "variable_update_rate"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 300700719
+  # description: Controls whether to enable variable update rate for subscription
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/variable_update_rate_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/variable_update_rate_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/variable_update_rate_flag_values.textproto : ENABLED
+}

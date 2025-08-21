@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "system_server_role_controller_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 302562590
+  # description: enable role controller in system server
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.permission.flags/system_server_role_controller_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/system_server_role_controller_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/system_server_role_controller_enabled_flag_values.textproto : ENABLED
+}

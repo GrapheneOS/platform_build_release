@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "enable_charger_dependency_for_reboot"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.configinfrastructure
+  # namespace: core_experiments_team_internal
+  # bug: 322076175
+  # description: This flags controls allowing devices to configure reboot to require charging.
+  # trace: packages/modules/ConfigInfrastructure/service/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.deviceconfig/enable_charger_dependency_for_reboot_flag_values.textproto : ENABLED
+}

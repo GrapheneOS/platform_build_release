@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "enable_dropbox_watchdog_headers"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: stability
+  # bug: 330682397
+  # description: Add watchdog-specific dropbox headers
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.am/enable_dropbox_watchdog_headers_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/enable_dropbox_watchdog_headers_flag_values.textproto : ENABLED
+}

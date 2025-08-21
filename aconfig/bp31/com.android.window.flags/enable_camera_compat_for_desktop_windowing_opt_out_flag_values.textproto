@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_camera_compat_for_desktop_windowing_opt_out"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 328616176
+  # description: Whether to allow developers to opt-out of Camera Compat treatment to fixed-orientation apps in desktop windowing mode
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_camera_compat_for_desktop_windowing_opt_out_flag_values.textproto : ENABLED
+}

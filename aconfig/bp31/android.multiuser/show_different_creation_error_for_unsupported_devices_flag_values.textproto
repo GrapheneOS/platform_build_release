@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.multiuser"
+  name: "show_different_creation_error_for_unsupported_devices"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 340130375
+  # description: On private space create error due to child account added/fully managed user show message with link to the Help Center to find out more.
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/show_different_creation_error_for_unsupported_devices_flag_values.textproto : ENABLED
+}

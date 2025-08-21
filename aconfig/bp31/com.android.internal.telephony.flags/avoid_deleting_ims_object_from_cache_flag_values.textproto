@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "avoid_deleting_ims_object_from_cache"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 353577279
+  # description: This flag controls deleting cached object to synchronize part of application callback and part of ImsFeature behavior
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/avoid_deleting_ims_object_from_cache_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/avoid_deleting_ims_object_from_cache_flag_values.textproto : ENABLED
+}

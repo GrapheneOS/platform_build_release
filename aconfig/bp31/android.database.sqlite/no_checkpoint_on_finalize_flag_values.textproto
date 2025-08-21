@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.database.sqlite"
+  name: "no_checkpoint_on_finalize"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 397982577
+  # description: Do not checkpoint WAL if closing in the finalizer
+  # trace: frameworks/base/core/java/android/database/sqlite/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.database.sqlite/no_checkpoint_on_finalize_flag_values.textproto : ENABLED
+}

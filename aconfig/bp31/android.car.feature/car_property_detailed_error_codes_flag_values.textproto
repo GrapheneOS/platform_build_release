@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "car_property_detailed_error_codes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 274165552
+  # description: Enables use of detailed error codes for CarPropertyManager async APIs
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/car_property_detailed_error_codes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/car_property_detailed_error_codes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/car_property_detailed_error_codes_flag_values.textproto : ENABLED
+}

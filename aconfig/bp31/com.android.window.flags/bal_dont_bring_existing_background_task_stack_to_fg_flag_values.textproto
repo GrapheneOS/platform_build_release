@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_dont_bring_existing_background_task_stack_to_fg"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 296478675
+  # description: When starting a PendingIntent with ONLY creator privileges, don't bring the existing task stack to foreground
+  # trace: frameworks/base/core/java/android/window/flags/responsible_apis.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/bal_dont_bring_existing_background_task_stack_to_fg_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/bal_dont_bring_existing_background_task_stack_to_fg_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/bal_dont_bring_existing_background_task_stack_to_fg_flag_values.textproto : ENABLED
+}

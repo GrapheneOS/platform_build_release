@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "fdtostring_timeout_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 306283018
+  # description: Improve fdtostring implementation to properly handle timing out.
+  # trace: frameworks/av/media/audio/aconfig/audioserver.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.audioserver/fdtostring_timeout_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.audioserver/fdtostring_timeout_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audioserver/fdtostring_timeout_fix_flag_values.textproto : ENABLED
+}

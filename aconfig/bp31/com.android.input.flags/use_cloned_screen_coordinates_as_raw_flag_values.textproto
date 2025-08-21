@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "use_cloned_screen_coordinates_as_raw"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # purpose: PURPOSE_BUGFIX
+  # bug: 377846505
+  # description: Use the cloned window's layer stack (screen) space as the raw coordinate space for input going to clones
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.input.flags/use_cloned_screen_coordinates_as_raw_flag_values.textproto : ENABLED
+}

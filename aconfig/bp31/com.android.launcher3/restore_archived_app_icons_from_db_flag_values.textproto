@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "restore_archived_app_icons_from_db"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391913214
+  # description: Restores pre-archived icons from db when available, mimicing promise icons
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/restore_archived_app_icons_from_db_flag_values.textproto : ENABLED
+}

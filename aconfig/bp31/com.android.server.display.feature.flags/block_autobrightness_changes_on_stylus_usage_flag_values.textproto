@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "block_autobrightness_changes_on_stylus_usage"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 352411468
+  # description: Block the usage of ALS to control the display brightness when stylus is being used
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/block_autobrightness_changes_on_stylus_usage_flag_values.textproto : ENABLED
+}

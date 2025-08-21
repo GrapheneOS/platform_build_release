@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "enable_dynamic_ranking_m3"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # bug: 296125352
+  # description: This flag enables Dynamic Ranking M3 on Launcher side
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher_search.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.apps.nexuslauncher/enable_dynamic_ranking_m3_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.apps.nexuslauncher/enable_dynamic_ranking_m3_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.nexuslauncher/enable_dynamic_ranking_m3_flag_values.textproto : ENABLED
+}

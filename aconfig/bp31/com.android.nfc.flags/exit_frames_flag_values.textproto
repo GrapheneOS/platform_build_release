@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "exit_frames"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 380455428
+  # description: Enable exit frames to improve autotransact performance.
+  # trace: packages/modules/Nfc/NfcNci/flags/wallet_integration_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.nfc.flags/exit_frames_flag_values.textproto : ENABLED
+}

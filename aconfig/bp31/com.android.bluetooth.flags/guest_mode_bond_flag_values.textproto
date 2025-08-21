@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "guest_mode_bond"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 349882273
+  # description: Do not remove guest mode bonded devices on BT restart in guest mode
+  # trace: packages/modules/Bluetooth/flags/pairing.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/guest_mode_bond_flag_values.textproto : ENABLED
+}

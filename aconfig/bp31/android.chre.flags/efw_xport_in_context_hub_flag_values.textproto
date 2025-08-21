@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "efw_xport_in_context_hub"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: context_hub
+  # bug: 369883034
+  # description: Flag guarding the use of the new EFW transport for ContextHub <-> CHRE comms
+  # trace: system/chre/chre_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.chre.flags/efw_xport_in_context_hub_flag_values.textproto : ENABLED
+}

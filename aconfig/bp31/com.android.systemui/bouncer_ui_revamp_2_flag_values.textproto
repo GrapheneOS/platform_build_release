@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "bouncer_ui_revamp_2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 376491880
+  # description: Updates to button animations and font changes for bouncer, bouncer_ui_revamp will cover only the blur changes.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/bouncer_ui_revamp_2_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "request_restricted_wifi"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 315835605
+  # description: Flag for API to support requesting restricted wifi
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.net.flags/request_restricted_wifi_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.net.flags/request_restricted_wifi_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.net.flags/request_restricted_wifi_flag_values.textproto : ENABLED
+}

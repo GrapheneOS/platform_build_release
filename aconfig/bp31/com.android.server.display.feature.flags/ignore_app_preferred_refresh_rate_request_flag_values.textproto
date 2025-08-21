@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "ignore_app_preferred_refresh_rate_request"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 330810426
+  # description: Feature flag for DisplayManager to ignore preferred refresh rate app request. It will be handled by SF only.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/ignore_app_preferred_refresh_rate_request_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/ignore_app_preferred_refresh_rate_request_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/ignore_app_preferred_refresh_rate_request_flag_values.textproto : ENABLED
+}

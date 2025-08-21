@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "clock_reactive_smartspace_layout"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 343495953
+  # description: Smartspace layout logic change for reactive clocks
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui.shared/clock_reactive_smartspace_layout_flag_values.textproto : ENABLED
+}

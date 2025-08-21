@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "load_haptic_feedback_vibration_customization_from_resources"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: haptics
+  # purpose: PURPOSE_FEATURE
+  # bug: 295142743
+  # description: Load haptic feedback vibrations customization from resources.
+  # trace: frameworks/base/core/java/android/os/vibrator/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os.vibrator/load_haptic_feedback_vibration_customization_from_resources_flag_values.textproto : ENABLED
+}

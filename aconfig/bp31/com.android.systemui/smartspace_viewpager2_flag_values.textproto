@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "smartspace_viewpager2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 259566300
+  # description: Use viewpager2 in Smartspace
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/smartspace_viewpager2_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "directed_advertising_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 378230500
+  # description: Add new API for directed advertising
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/directed_advertising_api_flag_values.textproto : ENABLED
+}

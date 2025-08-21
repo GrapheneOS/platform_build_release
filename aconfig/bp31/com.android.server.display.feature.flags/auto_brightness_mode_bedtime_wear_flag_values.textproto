@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "auto_brightness_mode_bedtime_wear"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 350617205
+  # description: Feature flag for loading and applying auto-brightness curve while wear bedtime mode enabled.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.display.feature.flags/auto_brightness_mode_bedtime_wear_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.pm"
+  name: "emergency_install_permission"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 321080601
+  # description: Feature flag to enable permission EMERGENCY_INSTALL_PACKAGES
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.pm/emergency_install_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.pm/emergency_install_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.pm/emergency_install_permission_flag_values.textproto : ENABLED
+}

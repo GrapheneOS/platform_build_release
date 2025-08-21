@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.security"
+  name: "fsverity_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: hardware_backed_security
+  # bug: 285185747
+  # description: Feature flag for fs-verity API
+  # trace: frameworks/base/core/java/android/security/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.security/fsverity_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.security/fsverity_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.security/fsverity_api_flag_values.textproto : ENABLED
+}

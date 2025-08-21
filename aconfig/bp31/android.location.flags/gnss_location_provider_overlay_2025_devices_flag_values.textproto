@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.location.flags"
+  name: "gnss_location_provider_overlay_2025_devices"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # bug: 398254728
+  # description: Flag for GNSS location provider overlay for 2025 devices
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.location.flags/gnss_location_provider_overlay_2025_devices_flag_values.textproto : ENABLED
+}

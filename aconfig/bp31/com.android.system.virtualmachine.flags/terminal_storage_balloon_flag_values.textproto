@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.system.virtualmachine.flags"
+  name: "terminal_storage_balloon"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.virt
+  # namespace: virtualization
+  # bug: 382174138
+  # description: Flag for storage ballooning support in terminal
+  # trace: packages/modules/Virtualization/build/avf_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.system.virtualmachine.flags/terminal_storage_balloon_flag_values.textproto : ENABLED
+}

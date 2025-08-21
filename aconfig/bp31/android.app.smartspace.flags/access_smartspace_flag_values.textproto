@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.smartspace.flags"
+  name: "access_smartspace"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: sysui_integrations
+  # bug: 297207196
+  # description: Flag to enable the ACCESS_SMARTSPACE check in SmartspaceManagerService
+  # trace: frameworks/base/core/java/android/app/smartspace/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.smartspace.flags/access_smartspace_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.smartspace.flags/access_smartspace_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.smartspace.flags/access_smartspace_flag_values.textproto : ENABLED
+}

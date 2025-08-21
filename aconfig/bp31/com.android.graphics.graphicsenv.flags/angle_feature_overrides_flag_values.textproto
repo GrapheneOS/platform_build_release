@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.graphicsenv.flags"
+  name: "angle_feature_overrides"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: gpu
+  # bug: 372694741
+  # description: This flag controls the ANGLE Feature Overrides in GraphicsEnv.
+  # trace: frameworks/native/libs/graphicsenv/graphicsenv_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.graphicsenv.flags/angle_feature_overrides_flag_values.textproto : ENABLED
+}

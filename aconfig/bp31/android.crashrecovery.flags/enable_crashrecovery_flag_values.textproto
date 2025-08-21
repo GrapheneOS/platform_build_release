@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.crashrecovery.flags"
+  name: "enable_crashrecovery"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: modularization
+  # bug: 289203818
+  # description: Enables various dependencies of crashrecovery module
+  # trace: frameworks/base/packages/CrashRecovery/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.crashrecovery.flags/enable_crashrecovery_flag_values.textproto : ENABLED
+}

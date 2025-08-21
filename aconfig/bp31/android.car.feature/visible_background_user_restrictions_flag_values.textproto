@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "visible_background_user_restrictions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # purpose: PURPOSE_BUGFIX
+  # bug: 356522177
+  # description: Apply user restrictions on visible background users
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/visible_background_user_restrictions_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/visible_background_user_restrictions_flag_values.textproto : ENABLED
+}

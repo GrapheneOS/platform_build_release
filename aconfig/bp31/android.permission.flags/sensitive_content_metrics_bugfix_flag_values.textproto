@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "sensitive_content_metrics_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # purpose: PURPOSE_BUGFIX
+  # bug: 312784351
+  # description: Enables metrics bugfixes for sensitive content/notification features
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.permission.flags/sensitive_content_metrics_bugfix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/sensitive_content_metrics_bugfix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/sensitive_content_metrics_bugfix_flag_values.textproto : ENABLED
+}

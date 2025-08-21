@@ -1,0 +1,12 @@
+flag_value {
+  package: "vendor.google.whitechapel.audio.flags"
+  name: "enable_pcm_offload"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_audio_android
+  # bug: 347809406
+  # description: This flag controls whether offload playback supports PCM format.
+  # trace: vendor/google/whitechapel/audio/aconfig/pixel_audio_hal.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/vendor.google.whitechapel.audio.flags/enable_pcm_offload_flag_values.textproto : ENABLED
+}

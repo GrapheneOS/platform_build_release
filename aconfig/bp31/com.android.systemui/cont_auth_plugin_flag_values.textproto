@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "cont_auth_plugin"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 373600589
+  # description: Plugin and related API hooks for contextual auth plugins
+  # trace: frameworks/base/packages/SystemUI/aconfig/biometrics_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/cont_auth_plugin_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-vendor.google.wireless_charger.service.flags-all",
+  package: "vendor.google.wireless_charger.service.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

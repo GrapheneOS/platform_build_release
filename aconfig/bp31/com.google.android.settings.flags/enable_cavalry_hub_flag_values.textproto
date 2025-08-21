@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "enable_cavalry_hub"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_support
+  # bug: 372564077
+  # description: This flag controls whether the tips & support link in settings should be replaced with the device health link.
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_cavalry_hub_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.settings.flags/enable_cavalry_hub_flag_values.textproto : ENABLED
+}

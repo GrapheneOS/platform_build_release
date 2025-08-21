@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "media_quality_fw_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: tv_os
+  # purpose: PURPOSE_BUGFIX
+  # bug: 398304867
+  # description: Bug fix flag for Media Quality framework
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/media_quality_fw_bugfix_flag_values.textproto : ENABLED
+}

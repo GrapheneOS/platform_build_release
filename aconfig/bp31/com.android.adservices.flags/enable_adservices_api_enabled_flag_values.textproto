@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "enable_adservices_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices
+  # bug: 320156647
+  # description: Enter a description per b/320156647
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.adservices.flags/enable_adservices_api_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.adservices.flags/enable_adservices_api_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.adservices.flags/enable_adservices_api_enabled_flag_values.textproto : ENABLED
+}

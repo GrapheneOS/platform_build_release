@@ -1,0 +1,17 @@
+flag_value {
+  package: "android.graphics.pdf.flags"
+  name: "enable_form_filling"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: pdf_viewer
+  # bug: 319561098
+  # description: This flag controls whether to enable pdf viewer form filling APIs.
+  # trace: packages/providers/MediaProvider/pdf/framework/pdf_viewer_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.graphics.pdf.flags/enable_form_filling_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap3a/android.graphics.pdf.flags/enable_pdf_viewer_form_filling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.graphics.pdf.flags/enable_form_filling_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/android.graphics.pdf.flags/enable_pdf_viewer_form_filling_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.graphics.pdf.flags/enable_form_filling_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/android.graphics.pdf.flags/enable_pdf_viewer_form_filling_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "additional_quota_for_system_installer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 398264531
+  # description: Offer additional quota for system installer
+  # trace: frameworks/base/apex/jobscheduler/service/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.job/additional_quota_for_system_installer_flag_values.textproto : ENABLED
+}

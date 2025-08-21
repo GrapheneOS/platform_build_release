@@ -1,0 +1,14 @@
+flag_value {
+  package: "vendor.google.aam.flags"
+  name: "enable_aam"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pmw
+  # bug: 323444160
+  # description: Enables the AAM feature.
+  # trace: vendor/google_devices/gs-common/proprietary/aam/flags/aam_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/vendor.google.aam.flags/enable_aam_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/vendor.google.aam.flags/enable_aam_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/vendor.google.aam.flags/enable_aam_flag_values.textproto : ENABLED
+}

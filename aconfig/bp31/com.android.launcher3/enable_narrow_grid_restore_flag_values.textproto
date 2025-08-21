@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_narrow_grid_restore"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 325285743
+  # description: Using only the most recent workspace when restoring to avoid confusion.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/enable_narrow_grid_restore_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/enable_narrow_grid_restore_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/enable_narrow_grid_restore_flag_values.textproto : ENABLED
+}

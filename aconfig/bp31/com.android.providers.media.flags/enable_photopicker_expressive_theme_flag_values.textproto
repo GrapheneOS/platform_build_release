@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "enable_photopicker_expressive_theme"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 390142346
+  # description: This flag controls the material expressive theme in com.android.photopicker
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.providers.media.flags/enable_photopicker_expressive_theme_flag_values.textproto : ENABLED
+}

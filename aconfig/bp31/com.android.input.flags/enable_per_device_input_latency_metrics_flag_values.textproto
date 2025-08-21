@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_per_device_input_latency_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 270049345
+  # description: Capture input latency metrics on a per device granular level using histograms.
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/enable_per_device_input_latency_metrics_flag_values.textproto : ENABLED
+}

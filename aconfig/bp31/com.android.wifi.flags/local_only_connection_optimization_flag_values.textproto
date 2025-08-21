@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "local_only_connection_optimization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # bug: 347117408
+  # description: optimize local-only connection API
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.wifi.flags/local_only_connection_optimization_flag_values.textproto : ENABLED
+}

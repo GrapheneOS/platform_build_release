@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "feature_combination_baklava"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 370778206
+  # description: Add new feature combination query version for Baklava
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.camera.flags/feature_combination_baklava_flag_values.textproto : ENABLED
+}

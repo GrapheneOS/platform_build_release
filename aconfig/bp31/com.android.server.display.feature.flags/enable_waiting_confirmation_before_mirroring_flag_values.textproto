@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_waiting_confirmation_before_mirroring"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 361698995
+  # description: Allow ContentRecorder checking whether user confirmed mirroring after boot
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_waiting_confirmation_before_mirroring_flag_values.textproto : ENABLED
+}

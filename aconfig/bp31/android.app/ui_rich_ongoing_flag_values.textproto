@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "ui_rich_ongoing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 367705002
+  # description: [RONs] Guards new promotion logic and UI, including AOD notification and Colorization
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/ui_rich_ongoing_flag_values.textproto : ENABLED
+}

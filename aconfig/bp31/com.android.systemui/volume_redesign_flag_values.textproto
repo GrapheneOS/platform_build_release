@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "volume_redesign"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 368308908
+  # description: Enables Volume visuals update
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/volume_redesign_flag_values.textproto : ENABLED
+}

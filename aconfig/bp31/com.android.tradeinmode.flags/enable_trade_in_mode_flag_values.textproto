@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.tradeinmode.flags"
+  name: "enable_trade_in_mode"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: phoenix
+  # bug: 332683751
+  # description: Enable Trade-in Mode
+  # trace: frameworks/base/core/java/android/os/image/flags/trade_in_mode_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.tradeinmode.flags/enable_trade_in_mode_flag_values.textproto : ENABLED
+}

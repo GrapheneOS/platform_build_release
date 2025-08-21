@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.uprobestats.mainline.flags"
+  name: "enable_uprobestats"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uprobestats
+  # namespace: system_performance
+  # bug: 296108553
+  # description: Whether to enable uprobestats.
+  # trace: packages/modules/UprobeStats/src/mainline-flag.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.uprobestats.mainline.flags/enable_uprobestats_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.job"
+  name: "add_type_info_to_wakelock_tag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381880530
+  # description: Append the job type info to wakelock tag
+  # trace: frameworks/base/apex/jobscheduler/framework/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.job/add_type_info_to_wakelock_tag_flag_values.textproto : ENABLED
+}

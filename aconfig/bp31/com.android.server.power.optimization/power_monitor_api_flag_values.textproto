@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "power_monitor_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 295027807
+  # description: Feature flag for ODPM API
+  # trace: frameworks/base/services/core/java/com/android/server/power/stats/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.power.optimization/power_monitor_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.optimization/power_monitor_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.optimization/power_monitor_api_flag_values.textproto : ENABLED
+}

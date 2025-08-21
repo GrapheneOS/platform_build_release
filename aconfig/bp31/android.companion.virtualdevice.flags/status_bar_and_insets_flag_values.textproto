@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "status_bar_and_insets"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 350007866
+  # description: Allow for status bar and insets on virtual devices
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion.virtualdevice.flags/status_bar_and_insets_flag_values.textproto : ENABLED
+}

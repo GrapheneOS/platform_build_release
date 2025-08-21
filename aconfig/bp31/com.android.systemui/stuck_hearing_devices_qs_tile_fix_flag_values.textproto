@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "stuck_hearing_devices_qs_tile_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 397868916
+  # description: Prevent the Hearing Device Dialog's exit animation to avoid the appearance of it being stuck during activity launch.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/stuck_hearing_devices_qs_tile_fix_flag_values.textproto : ENABLED
+}

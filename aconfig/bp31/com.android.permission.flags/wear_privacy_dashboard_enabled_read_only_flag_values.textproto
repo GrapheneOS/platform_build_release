@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "wear_privacy_dashboard_enabled_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: wear_security
+  # bug: 309721061
+  # description: This flag is used to support Privacy dashboard for Wear
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.permission.flags/wear_privacy_dashboard_enabled_read_only_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.permission.flags/wear_privacy_dashboard_enabled_read_only_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.permission.flags/wear_privacy_dashboard_enabled_read_only_flag_values.textproto : ENABLED
+}

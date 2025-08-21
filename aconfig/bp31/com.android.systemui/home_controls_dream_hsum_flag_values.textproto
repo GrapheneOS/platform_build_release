@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "home_controls_dream_hsum"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370691405
+  # description: Enables the home controls dream in HSUM
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/home_controls_dream_hsum_flag_values.textproto : ENABLED
+}

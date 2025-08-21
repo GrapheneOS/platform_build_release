@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "phr_fhir_complex_type_validation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # bug: 377701407
+  # description: Flag for full validation of FHIR complex types when upserting medical data.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.healthfitness.flags/phr_fhir_complex_type_validation_flag_values.textproto : ENABLED
+}

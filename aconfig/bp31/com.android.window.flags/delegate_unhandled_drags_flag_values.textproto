@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "delegate_unhandled_drags"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # bug: 320797628
+  # description: Enables delegating unhandled drags to SystemUI
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/delegate_unhandled_drags_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/delegate_unhandled_drags_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/delegate_unhandled_drags_flag_values.textproto : ENABLED
+}

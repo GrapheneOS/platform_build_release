@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "add_last_focused_id_to_fill_event_history"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: autofill
+  # bug: 334141398
+  # description: Adds focused id to each event that's part of the fill event history
+  # trace: frameworks/base/services/autofill/features.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.service.autofill/add_last_focused_id_to_fill_event_history_flag_values.textproto : ENABLED
+}

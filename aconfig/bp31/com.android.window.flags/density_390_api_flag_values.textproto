@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "density_390_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: large_screen_experiences_app_compat
+  # bug: 297550533
+  # description: Whether the API DisplayMetrics.DENSITY_390 is available
+  # trace: frameworks/base/core/java/android/window/flags/large_screen_experiences_app_compat.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/density_390_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/density_390_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/density_390_api_flag_values.textproto : ENABLED
+}

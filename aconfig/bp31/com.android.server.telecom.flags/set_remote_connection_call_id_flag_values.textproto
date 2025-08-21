@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "set_remote_connection_call_id"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 320242200
+  # description: Sets the telecom call id for remote connections/ conferences.
+  # trace: packages/services/Telecomm/flags/telecom_remote_connection_service.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.telecom.flags/set_remote_connection_call_id_flag_values.textproto : ENABLED
+}

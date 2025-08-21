@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "trusted_presentation_listener_for_window"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # bug: 278027319
+  # description: Enable trustedPresentationListener on windows public API
+  # trace: frameworks/base/core/java/android/window/flags/window_surfaces.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/trusted_presentation_listener_for_window_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/trusted_presentation_listener_for_window_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/trusted_presentation_listener_for_window_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_background_icons"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 315143361
+  # description: Moves part of the notification icon updates to the background.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/notifications_background_icons_flag_values.textproto : ENABLED
+}

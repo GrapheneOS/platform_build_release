@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "allow_secure_screenshots"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373705911
+  # description: Allow certain AccessibilityServices to take screenshots of FLAG_SECURE screens
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.accessibility/allow_secure_screenshots_flag_values.textproto : ENABLED
+}

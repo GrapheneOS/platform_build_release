@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_mode_limit_for_external_display"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 242093547
+  # description: Feature limiting external display resolution and refresh rate
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/enable_mode_limit_for_external_display_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/enable_mode_limit_for_external_display_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_mode_limit_for_external_display_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "vendor.vibrator.hal.flags"
+  name: "remove_capo"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: vibrator
+  # bug: 290223630
+  # description: This flag controls the removal of utilizing Capo at the HAL level
+  # trace: device/google/gs-common/vibrator/flags/VibratorFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/vendor.vibrator.hal.flags/remove_capo_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/vendor.vibrator.hal.flags/remove_capo_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/vendor.vibrator.hal.flags/remove_capo_flag_values.textproto : ENABLED
+}

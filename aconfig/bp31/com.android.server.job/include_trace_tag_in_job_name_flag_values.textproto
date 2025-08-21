@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "include_trace_tag_in_job_name"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 354795473
+  # description: Add the trace tag to the job name
+  # trace: frameworks/base/apex/jobscheduler/service/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.job/include_trace_tag_in_job_name_flag_values.textproto : ENABLED
+}

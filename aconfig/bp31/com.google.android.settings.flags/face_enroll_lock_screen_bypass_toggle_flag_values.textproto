@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "face_enroll_lock_screen_bypass_toggle"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: biometrics_integration
+  # bug: 294061718
+  # description: This flag controls whether the lock screen bypass toggle should be enabled
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_biometrics_integration_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.settings.flags/face_enroll_lock_screen_bypass_toggle_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.settings.flags/face_enroll_lock_screen_bypass_toggle_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/face_enroll_lock_screen_bypass_toggle_flag_values.textproto : ENABLED
+}

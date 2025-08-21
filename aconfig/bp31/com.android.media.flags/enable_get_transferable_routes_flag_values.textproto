@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_get_transferable_routes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 323154573
+  # description: Exposes RoutingController#getTransferableRoutes() (previously hidden) to the public API.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_get_transferable_routes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_get_transferable_routes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_get_transferable_routes_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.mediasession.flags"
+  name: "avoid_media_browser_include_capabilities_if_not_needed"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 393582077
+  # description: Avoid BIND_INCLUDE_CAPABILITIES from MediaBrowser.connect if not needed
+  # trace: frameworks/base/media/java/android/media/flags/mediasession.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.media.mediasession.flags/avoid_media_browser_include_capabilities_if_not_needed_flag_values.textproto : ENABLED
+}

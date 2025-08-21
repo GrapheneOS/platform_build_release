@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_private_space"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # bug: 306187906
+  # description: Enables all Launcher features associated with private space.
+  # trace: packages/apps/Launcher3/aconfig/launcher_search.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/enable_private_space_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/enable_private_space_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/enable_private_space_flag_values.textproto : ENABLED
+}

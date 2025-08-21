@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "donot_update_sec_flags_on_csrk_save"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 379109304
+  # description: Updating sec flags while saving csrk info can cause setting securith level wrongly as security level might have not determined at that time
+  # trace: packages/modules/Bluetooth/flags/pairing.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/donot_update_sec_flags_on_csrk_save_flag_values.textproto : ENABLED
+}

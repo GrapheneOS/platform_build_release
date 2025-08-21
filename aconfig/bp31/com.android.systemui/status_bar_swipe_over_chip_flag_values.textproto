@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_swipe_over_chip"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 185897191
+  # description: Allow users to swipe over the status bar chip to open the shade
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_swipe_over_chip_flag_values.textproto : ENABLED
+}

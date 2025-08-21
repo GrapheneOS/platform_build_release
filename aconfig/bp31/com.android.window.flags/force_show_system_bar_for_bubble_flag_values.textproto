@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "force_show_system_bar_for_bubble"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # purpose: PURPOSE_BUGFIX
+  # bug: 329124127
+  # description: Ensure system bar are shown for Bubble
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/force_show_system_bar_for_bubble_flag_values.textproto : ENABLED
+}

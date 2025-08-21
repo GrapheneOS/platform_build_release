@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-suspend_service.flags-all",
+  package: "suspend_service.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

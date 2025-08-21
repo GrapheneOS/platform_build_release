@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "catalyst_power_usage_summary_screen"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 323791114
+  # description: Flag for Battery screen
+  # trace: packages/apps/Settings/aconfig/catalyst/battery.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settings.flags/catalyst_power_usage_summary_screen_flag_values.textproto : ENABLED
+}

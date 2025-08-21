@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.localepicker.flags"
+  name: "customized_locale_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: globalintl
+  # bug: 370379000
+  # description: This flag controls whether the customized locale should be enabled
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/LocalePicker/aconfig/settings_pixel_globalintl_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.settings.localepicker.flags/customized_locale_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "fix_null_typeface_bolding"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # purpose: PURPOSE_BUGFIX
+  # bug: 314811487
+  # description: Use a bold typeface when bolding is enabled and the original typeface is null
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/fix_null_typeface_bolding_flag_values.textproto : ENABLED
+}

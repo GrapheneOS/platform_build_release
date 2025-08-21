@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "start_and_stop_dozing_in_background"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 330287187
+  # description: Move the start-dozing and stop-dozing operation to the background
+  # trace: frameworks/base/core/java/android/service/dreams/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.service.dreams/start_and_stop_dozing_in_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.dreams/start_and_stop_dozing_in_background_flag_values.textproto : ENABLED
+}

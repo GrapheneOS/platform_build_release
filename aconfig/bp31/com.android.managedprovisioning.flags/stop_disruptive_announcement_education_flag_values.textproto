@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.managedprovisioning.flags"
+  name: "stop_disruptive_announcement_education"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 386334889
+  # description: Stop TalkBack disruptive announcement for the header of the work profile education screens
+  # trace: packages/apps/ManagedProvisioning/aconfig/root.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.managedprovisioning.flags/stop_disruptive_announcement_education_flag_values.textproto : ENABLED
+}

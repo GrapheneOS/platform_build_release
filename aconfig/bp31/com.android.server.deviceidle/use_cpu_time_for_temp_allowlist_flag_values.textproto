@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.deviceidle"
+  name: "use_cpu_time_for_temp_allowlist"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 376561328
+  # description: Use CPU time for temporary allowlists
+  # trace: frameworks/base/apex/jobscheduler/service/aconfig/device_idle.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.deviceidle/use_cpu_time_for_temp_allowlist_flag_values.textproto : ENABLED
+}

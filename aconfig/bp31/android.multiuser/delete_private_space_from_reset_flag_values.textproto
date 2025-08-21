@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "delete_private_space_from_reset"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 329601751
+  # description: Add entrypoint in Settings Reset options for deleting private space when lock is forgotten
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/delete_private_space_from_reset_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/delete_private_space_from_reset_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/delete_private_space_from_reset_flag_values.textproto : ENABLED
+}

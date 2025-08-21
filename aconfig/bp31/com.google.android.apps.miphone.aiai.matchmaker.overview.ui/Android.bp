@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-com.google.android.apps.miphone.aiai.matchmaker.overview.ui-all",
+  package: "com.google.android.apps.miphone.aiai.matchmaker.overview.ui",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

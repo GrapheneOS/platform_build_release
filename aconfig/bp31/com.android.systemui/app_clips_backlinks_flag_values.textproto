@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "app_clips_backlinks"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 300307759
+  # description: Enables Backlinks improvement feature in App Clips
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/app_clips_backlinks_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/app_clips_backlinks_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-vendor.google.aam.flags-all",
+  package: "vendor.google.aam.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

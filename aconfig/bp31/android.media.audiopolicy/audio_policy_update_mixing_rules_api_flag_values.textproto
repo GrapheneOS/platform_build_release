@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.media.audiopolicy"
+  name: "audio_policy_update_mixing_rules_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 293874525
+  # description: Enable AudioPolicy.updateMixingRules API for hot-swapping audio mixing rules.
+  # trace: frameworks/av/media/audio/aconfig/audiopolicy_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.media.audiopolicy/audio_policy_update_mixing_rules_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.media.audiopolicy/audio_policy_update_mixing_rules_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.media.audiopolicy/audio_policy_update_mixing_rules_api_flag_values.textproto : ENABLED
+}

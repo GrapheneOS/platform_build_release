@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "set_number_of_sim_for_ims_enable"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 331971397
+  # description: This flag allows to set number of SIM for IMS enable/disable for each slot when the eSIM is added while the binding with ImsService exists
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/set_number_of_sim_for_ims_enable_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/set_number_of_sim_for_ims_enable_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/set_number_of_sim_for_ims_enable_flag_values.textproto : ENABLED
+}

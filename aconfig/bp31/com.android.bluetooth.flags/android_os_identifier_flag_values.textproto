@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "android_os_identifier"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 351860033
+  # description: Add a custom service to provide Android OS identifier
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.bluetooth.flags/android_os_identifier_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/android_os_identifier_flag_values.textproto : ENABLED
+}

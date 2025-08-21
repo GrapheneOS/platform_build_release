@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "enable_change_le_profile_broadcast_receiver"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381353150
+  # description: Enable broadcast receiver to enable/disable LE audio profile
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_bluetooth_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.settings.flags/enable_change_le_profile_broadcast_receiver_flag_values.textproto : ENABLED
+}

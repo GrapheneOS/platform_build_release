@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.companion"
+  name: "new_association_builder"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: companion
+  # bug: 296251481
+  # description: Controls if the new Builder is exposed to test apis.
+  # trace: frameworks/base/core/java/android/companion/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.companion/new_association_builder_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.companion/new_association_builder_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.companion/new_association_builder_flag_values.textproto : ENABLED
+}

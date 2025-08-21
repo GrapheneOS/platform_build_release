@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "detached_mirror"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # purpose: PURPOSE_BUGFIX
+  # bug: 337845753
+  # description: Ignore local transform when mirroring a partial hierarchy
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/detached_mirror_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/detached_mirror_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/detached_mirror_flag_values.textproto : ENABLED
+}

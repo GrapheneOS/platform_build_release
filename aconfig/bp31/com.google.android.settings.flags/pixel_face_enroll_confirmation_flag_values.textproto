@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "pixel_face_enroll_confirmation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: biometrics_integration
+  # bug: 347091770
+  # description: Enable LockScreen bypass on face enroll confirmation
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_biometrics_integration_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.settings.flags/pixel_face_enroll_confirmation_flag_values.textproto : ENABLED
+}

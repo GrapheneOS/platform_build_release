@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "modes_ui_dnd_slice"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 406238205
+  # description: Restores a (tweaked) DND slice in Settings; dependent on modes_ui
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/modes_ui_dnd_slice_flag_values.textproto : ENABLED
+}

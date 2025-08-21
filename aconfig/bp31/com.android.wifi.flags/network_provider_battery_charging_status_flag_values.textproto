@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "network_provider_battery_charging_status"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # bug: 305067231
+  # description: Control the API that allows setting / reading the NetworkProviderInfo's battery charging status
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.wifi.flags/network_provider_battery_charging_status_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.wifi.flags/network_provider_battery_charging_status_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.wifi.flags/network_provider_battery_charging_status_flag_values.textproto : ENABLED
+}

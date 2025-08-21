@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "delay_drawer_offset_calculation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 338229069
+  # description: Do not update the drawer offset until app targets are ready.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.intentresolver/delay_drawer_offset_calculation_flag_values.textproto : ENABLED
+}

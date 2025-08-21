@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "always_compose_qs_ui_fragment"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 389985793
+  # description: Have QQS and QS scenes in the Compose fragment always composed, not just when it should be visible.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/always_compose_qs_ui_fragment_flag_values.textproto : ENABLED
+}

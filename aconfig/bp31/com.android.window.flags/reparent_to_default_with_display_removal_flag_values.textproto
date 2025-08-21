@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "reparent_to_default_with_display_removal"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # purpose: PURPOSE_BUGFIX
+  # bug: 404532651
+  # description: Enable WindowContext to reparent to the default display with display detached
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/reparent_to_default_with_display_removal_flag_values.textproto : ENABLED
+}

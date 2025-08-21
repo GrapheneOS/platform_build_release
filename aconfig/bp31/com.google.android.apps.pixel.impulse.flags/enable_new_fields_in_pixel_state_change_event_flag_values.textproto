@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.pixel.impulse.flags"
+  name: "enable_new_fields_in_pixel_state_change_event"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_state_server
+  # purpose: PURPOSE_BUGFIX
+  # bug: 380002692
+  # description: This flag controls whether to set up the new fields in PixelStateChangeEvent.
+  # trace: vendor/google/apps/PersistentBackgroundServices/pixelimpulse/aconfig/pixelimpulse_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.apps.pixel.impulse.flags/enable_new_fields_in_pixel_state_change_event_flag_values.textproto : ENABLED
+}

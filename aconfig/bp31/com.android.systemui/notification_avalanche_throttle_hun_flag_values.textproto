@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_avalanche_throttle_hun"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 307288824
+  # description: During notification avalanche, throttle HUNs showing in fast succession.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/notification_avalanche_throttle_hun_flag_values.textproto : ENABLED
+}

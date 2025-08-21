@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "virtual_display_rotation_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 291748430
+  # description: API for on-demand rotation of virtual displays
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion.virtualdevice.flags/virtual_display_rotation_api_flag_values.textproto : ENABLED
+}

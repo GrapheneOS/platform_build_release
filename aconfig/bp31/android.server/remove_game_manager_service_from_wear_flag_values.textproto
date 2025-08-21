@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.server"
+  name: "remove_game_manager_service_from_wear"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 340929737
+  # description: Remove GameManagerService from Wear
+  # trace: frameworks/base/services/java/com/android/server/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.server/remove_game_manager_service_from_wear_flag_values.textproto : ENABLED
+}

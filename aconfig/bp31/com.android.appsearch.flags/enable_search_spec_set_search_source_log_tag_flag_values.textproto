@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_search_spec_set_search_source_log_tag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # bug: 315370764
+  # description: Enable the setSearchSourceLogTag API in SearchSpec.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.appsearch.flags/enable_search_spec_set_search_source_log_tag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.appsearch.flags/enable_search_spec_set_search_source_log_tag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.appsearch.flags/enable_search_spec_set_search_source_log_tag_flag_values.textproto : ENABLED
+}

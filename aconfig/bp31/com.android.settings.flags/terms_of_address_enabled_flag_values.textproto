@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "terms_of_address_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: globalintl
+  # bug: 297798866
+  # description: Feature flag for Terms of Address
+  # trace: packages/apps/Settings/aconfig/settings_globalintl_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settings.flags/terms_of_address_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.flags/terms_of_address_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/terms_of_address_enabled_flag_values.textproto : ENABLED
+}

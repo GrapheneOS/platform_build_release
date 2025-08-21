@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "action_mode_edge_to_edge"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # bug: 379783298
+  # description: Make contextual action bar edge-to-edge
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/action_mode_edge_to_edge_flag_values.textproto : ENABLED
+}

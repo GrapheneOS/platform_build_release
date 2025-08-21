@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_no_window_decoration_for_desks"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 414449402
+  # description: Stops the creation of a window decoration for desk tasks.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/enable_no_window_decoration_for_desks_flag_values.textproto : ENABLED
+}

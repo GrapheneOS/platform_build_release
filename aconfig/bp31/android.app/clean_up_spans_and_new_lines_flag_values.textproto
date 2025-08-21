@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "clean_up_spans_and_new_lines"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 313439845
+  # description: Cleans up spans and unnecessary new lines from standard notification templates
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.app/clean_up_spans_and_new_lines_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/clean_up_spans_and_new_lines_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.job"
+  name: "relax_prefetch_connectivity_constraint_only_on_charger"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 299329948
+  # description: Only relax a prefetch job's connectivity constraint when the device is charging and battery is not low
+  # trace: frameworks/base/apex/jobscheduler/service/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.job/relax_prefetch_connectivity_constraint_only_on_charger_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.job/relax_prefetch_connectivity_constraint_only_on_charger_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.job/relax_prefetch_connectivity_constraint_only_on_charger_flag_values.textproto : ENABLED
+}

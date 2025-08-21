@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshot_scroll_crop_view_crash_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 232633995
+  # description: Mitigate crash on invalid computed range in CropView
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/screenshot_scroll_crop_view_crash_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/screenshot_scroll_crop_view_crash_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/screenshot_scroll_crop_view_crash_fix_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "virtual_display_limit"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 261791612
+  # description: Limit the number of virtual displays that can be created.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.display.feature.flags/virtual_display_limit_flag_values.textproto : ENABLED
+}

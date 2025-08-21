@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_ag_cmd_brsf_allow_uint32"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 331129986
+  # description: Allow and ignore the RFU bits set to 0b1 rather than responding ERROR
+  # trace: packages/modules/Bluetooth/flags/hfp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/bta_ag_cmd_brsf_allow_uint32_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "enable_screen_timeout_policy_listener_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 363174979
+  # description: Enables APIs that allow to listen to screen timeout policy changes
+  # trace: frameworks/base/services/core/java/com/android/server/power/feature/power_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.power.feature.flags/enable_screen_timeout_policy_listener_api_flag_values.textproto : ENABLED
+}

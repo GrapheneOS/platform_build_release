@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.hardware.flags"
+  name: "luts_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 349667978
+  # description: public Luts related Apis
+  # trace: frameworks/base/core/java/android/hardware/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.hardware.flags/luts_api_flag_values.textproto : ENABLED
+}

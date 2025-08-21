@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "apply_picture_profiles"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: tv_os_media
+  # bug: 337330263
+  # description: This flag controls sending picture profiles from BBQ to Composer HAL
+  # trace: frameworks/native/libs/gui/libgui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.libgui.flags/apply_picture_profiles_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settingslib.media.flags"
+  name: "enable_tv_media_output_dialog"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: tv_system_ui
+  # bug: 303205631
+  # description: Gates all the changes for the tv specific media output dialog
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib_media_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settingslib.media.flags/enable_tv_media_output_dialog_flag_values.textproto : ENABLED
+}

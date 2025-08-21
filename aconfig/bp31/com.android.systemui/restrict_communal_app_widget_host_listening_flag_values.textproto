@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "restrict_communal_app_widget_host_listening"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 406044666
+  # description: Only listens to AppWidgetHost when the communal hub is showing
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/restrict_communal_app_widget_host_listening_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "pin_global_quota"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 340935152
+  # description: This flag controls whether pinner will use a global quota or not
+  # trace: frameworks/base/services/core/java/com/android/server/flags/pinner.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.flags/pin_global_quota_flag_values.textproto : ENABLED
+}

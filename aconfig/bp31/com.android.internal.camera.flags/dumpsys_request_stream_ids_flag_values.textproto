@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "dumpsys_request_stream_ids"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # purpose: PURPOSE_BUGFIX
+  # bug: 357913929
+  # description: Add stream id information to last request dumpsys
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.camera.flags/dumpsys_request_stream_ids_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "personal_health_record_enable_export_import"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.healthfitness
+  # namespace: health_fitness_aconfig
+  # bug: 369809932
+  # description: Flag for including PHR tables from export/import flow. Because personal_health_record_disable_export_import flag has already been rolled out to mainline for M-02 2025, so it won't be rolled back. Instead, this flag is added to override that flag.
+  # trace: packages/modules/HealthFitness/flags/healthfitness-flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.healthfitness.flags/personal_health_record_enable_export_import_flag_values.textproto : ENABLED
+}

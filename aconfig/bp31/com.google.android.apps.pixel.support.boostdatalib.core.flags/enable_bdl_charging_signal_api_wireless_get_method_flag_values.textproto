@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.apps.pixel.support.boostdatalib.core.flags"
+  name: "enable_bdl_charging_signal_api_wireless_get_method"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_support
+  # bug: 412288910
+  # description: This flag controls whether the charing signal's get method for wireless charger's alignment state is enabled.
+  # trace: vendor/google/apps/PersistentBackgroundServices/adapter/boostdatalayer/src/com/google/android/apps/pixel/support/boostdatalib/core/flags/aconfig/flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.apps.pixel.support.boostdatalib.core.flags/enable_bdl_charging_signal_api_wireless_get_method_flag_values.textproto : ENABLED
+}

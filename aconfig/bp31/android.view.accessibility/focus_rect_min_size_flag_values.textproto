@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "focus_rect_min_size"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 368667566
+  # description: Ensures the a11y focus rect is big enough to be drawn as visible
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.view.accessibility/focus_rect_min_size_flag_values.textproto : ENABLED
+}

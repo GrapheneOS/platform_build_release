@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "notification_no_custom_view_conversations"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 368817201
+  # description: Ensures that conversations are not allowed to use Custom Views.
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/notification_no_custom_view_conversations_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "disable_transfer_when_apps_do_not_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_better_together
+  # purpose: PURPOSE_BUGFIX
+  # bug: 373404114
+  # description: Fixes a bug causing output switcher routes to be incorrectly enabled for media transfer.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.flags/disable_transfer_when_apps_do_not_support_flag_values.textproto : ENABLED
+}

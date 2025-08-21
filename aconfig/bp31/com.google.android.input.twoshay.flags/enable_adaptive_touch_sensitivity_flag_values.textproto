@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.input.twoshay.flags"
+  name: "enable_adaptive_touch_sensitivity"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: system_sw_touch
+  # bug: 305154269
+  # description: Flag for enabling P24 feature: adaptive touch sensitivity.
+  # trace: vendor/google/input/twoshay/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.android.input.twoshay.flags/enable_adaptive_touch_sensitivity_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.input.twoshay.flags/enable_adaptive_touch_sensitivity_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.input.twoshay.flags/enable_adaptive_touch_sensitivity_flag_values.textproto : ENABLED
+}

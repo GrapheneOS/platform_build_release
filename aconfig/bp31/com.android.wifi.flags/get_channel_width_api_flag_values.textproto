@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "get_channel_width_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # bug: 335358378
+  # description: Add new API to get channel width
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.wifi.flags/get_channel_width_api_flag_values.textproto : ENABLED
+}

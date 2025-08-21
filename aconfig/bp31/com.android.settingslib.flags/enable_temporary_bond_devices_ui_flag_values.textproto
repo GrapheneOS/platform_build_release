@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_temporary_bond_devices_ui"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362859132
+  # description: UI changes for temporary bond devices in audio sharing.
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/enable_temporary_bond_devices_ui_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enforce_brightness_base_user_restriction"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 329205638
+  # description: Enforce BaseUserRestriction for DISALLOW_CONFIG_BRIGHTNESS.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/enforce_brightness_base_user_restriction_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/enforce_brightness_base_user_restriction_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/enforce_brightness_base_user_restriction_flag_values.textproto : ENABLED
+}

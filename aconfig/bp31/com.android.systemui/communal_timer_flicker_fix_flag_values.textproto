@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "communal_timer_flicker_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 353801573
+  # description: fixes timers on the hub flickering when pausing
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/communal_timer_flicker_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/communal_timer_flicker_fix_flag_values.textproto : ENABLED
+}

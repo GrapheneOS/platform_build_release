@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "include_feature_flags_in_package_cacher"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 364771256
+  # description: Include feature flag status when determining hits or misses in PackageCacher.
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.content.pm/include_feature_flags_in_package_cacher_flag_values.textproto : ENABLED
+}

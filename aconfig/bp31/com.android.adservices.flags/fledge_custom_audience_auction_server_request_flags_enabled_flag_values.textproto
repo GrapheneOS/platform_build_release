@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_custom_audience_auction_server_request_flags_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices
+  # bug: 320786372
+  # description: Enables server auction request flags feature for custom audiences.
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.adservices.flags/fledge_custom_audience_auction_server_request_flags_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.adservices.flags/fledge_custom_audience_auction_server_request_flags_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.adservices.flags/fledge_custom_audience_auction_server_request_flags_enabled_flag_values.textproto : ENABLED
+}

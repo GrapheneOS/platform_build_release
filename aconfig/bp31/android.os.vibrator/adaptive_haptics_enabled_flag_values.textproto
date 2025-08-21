@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "adaptive_haptics_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: haptics
+  # bug: 305961689
+  # description: Enables the adaptive haptics feature
+  # trace: frameworks/base/core/java/android/os/vibrator/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os.vibrator/adaptive_haptics_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os.vibrator/adaptive_haptics_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os.vibrator/adaptive_haptics_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app"
+  name: "enable_pip_ui_state_callback_on_entering"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # bug: 303718131
+  # description: Enables PiP UI state callback on entering
+  # trace: frameworks/base/core/java/android/app/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/enable_pip_ui_state_callback_on_entering_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/enable_pip_ui_state_callback_on_entering_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/enable_pip_ui_state_callback_on_entering_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "disable_synthetic_vsync_for_performance"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 406147398
+  # description: Turn off synthetic VSYNC when adjusting thread scheduling for performance
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.surfaceflinger.flags/disable_synthetic_vsync_for_performance_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.surfaceflinger.flags/disable_synthetic_vsync_for_performance_flag_values.textproto : ENABLED
+}

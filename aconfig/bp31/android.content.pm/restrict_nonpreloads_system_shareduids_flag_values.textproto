@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.pm"
+  name: "restrict_nonpreloads_system_shareduids"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 308573169
+  # description: Feature flag to restrict apps from joining system shared uids
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.pm/restrict_nonpreloads_system_shareduids_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.pm/restrict_nonpreloads_system_shareduids_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.pm/restrict_nonpreloads_system_shareduids_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "rear_display_disable_force_desktop_system_decorations"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # purpose: PURPOSE_BUGFIX
+  # bug: 346103150
+  # description: Block system decorations from being added to a rear display when desktop mode is forced
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/rear_display_disable_force_desktop_system_decorations_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/rear_display_disable_force_desktop_system_decorations_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "ee_aid_select"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 323440961
+  # description: Propigate NFA_EE_ACTION_EVT->NFC_EE_TRIG_SELECT up to onOffHostAidSelected()
+  # trace: packages/modules/Nfc/NfcNci/flags/nfc_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.nfc.flags/ee_aid_select_flag_values.textproto : ENABLED
+}

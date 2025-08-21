@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "app_zygote_retry_start"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: arc_next
+  # bug: 361799815
+  # description: Guard the new added retry logic in app zygote.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os/app_zygote_retry_start_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "allow_private_profile"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 299069460
+  # description: Guards a new Private Profile type in UserManager - everything from its setup to config to deletion.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/allow_private_profile_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/allow_private_profile_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/allow_private_profile_flag_values.textproto : ENABLED
+}

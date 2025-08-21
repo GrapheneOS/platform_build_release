@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "tethering_with_soft_ap_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 216524590
+  # description: The flag controls the access for the parcelable TetheringRequest with getSoftApConfiguration/setSoftApConfiguration API
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.net.flags/tethering_with_soft_ap_config_flag_values.textproto : ENABLED
+}

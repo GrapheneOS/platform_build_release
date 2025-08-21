@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app"
+  name: "bic_client"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: preload_safety
+  # bug: 287507984
+  # description: System API for background install control.
+  # trace: frameworks/base/core/java/android/app/background_install_control_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/bic_client_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/bic_client_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/bic_client_flag_values.textproto : ENABLED
+}

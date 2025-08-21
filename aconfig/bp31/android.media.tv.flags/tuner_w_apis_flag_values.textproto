@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "tuner_w_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_tv
+  # bug: 320419647
+  # description: Tuner V4.0 APIs for Android W
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/tuner_w_apis_flag_values.textproto : ENABLED
+}

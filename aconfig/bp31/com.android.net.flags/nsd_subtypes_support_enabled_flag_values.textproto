@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "nsd_subtypes_support_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 265095929
+  # description: Flag for API to support nsd subtypes
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.net.flags/nsd_subtypes_support_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.net.flags/nsd_subtypes_support_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.net.flags/nsd_subtypes_support_enabled_flag_values.textproto : ENABLED
+}

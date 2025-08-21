@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "enable_sound_backup"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: onboarding_experience
+  # bug: 278975761
+  # description: Feature flag for B&R sound settings.
+  # trace: packages/apps/Settings/aconfig/settings_onboarding_experience_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settings.flags/enable_sound_backup_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.flags/enable_sound_backup_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/enable_sound_backup_flag_values.textproto : ENABLED
+}

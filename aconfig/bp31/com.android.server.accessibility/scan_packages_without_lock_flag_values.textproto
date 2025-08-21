@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "scan_packages_without_lock"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 295969873
+  # description: Scans packages for accessibility service/activity info without holding the A11yMS lock
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.accessibility/scan_packages_without_lock_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.accessibility/scan_packages_without_lock_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.accessibility/scan_packages_without_lock_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "tri_state_checked"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 333784774
+  # description: Feature flag for adding tri-state checked api
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.accessibility/tri_state_checked_flag_values.textproto : ENABLED
+}

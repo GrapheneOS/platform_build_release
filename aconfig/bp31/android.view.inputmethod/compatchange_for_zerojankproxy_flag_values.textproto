@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "compatchange_for_zerojankproxy"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # purpose: PURPOSE_BUGFIX
+  # bug: 352594277
+  # description: Version-gate the sync/async nature of IMM#show/hideSoftInput() when using zeroJankProxy.
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.view.inputmethod/compatchange_for_zerojankproxy_flag_values.textproto : ENABLED
+}

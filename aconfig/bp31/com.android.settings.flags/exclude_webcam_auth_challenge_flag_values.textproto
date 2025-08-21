@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "exclude_webcam_auth_challenge"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: safety_center
+  # purpose: PURPOSE_BUGFIX
+  # bug: 349370229
+  # description: Gates whether to exclude webcam from USB preferences auth challenge.
+  # trace: packages/apps/Settings/aconfig/settings_connecteddevice_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.flags/exclude_webcam_auth_challenge_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/exclude_webcam_auth_challenge_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "enable_current_mode_type_binder_cache"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362572732
+  # description: Enables the use of binder caching for current running mode type.
+  # trace: frameworks/base/core/java/android/app/ui_mode_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/enable_current_mode_type_binder_cache_flag_values.textproto : ENABLED
+}

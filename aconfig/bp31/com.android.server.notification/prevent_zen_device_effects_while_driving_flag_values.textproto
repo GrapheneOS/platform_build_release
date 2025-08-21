@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "prevent_zen_device_effects_while_driving"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 390389174
+  # description: Don't apply certain device effects (such as grayscale) from active zen rules, if a rule of TYPE_DRIVING is active
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.notification/prevent_zen_device_effects_while_driving_flag_values.textproto : ENABLED
+}

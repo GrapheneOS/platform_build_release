@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "media_projection_grey_error_text"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 400877402
+  # description: Set the error text color to grey when app sharing is hidden by the requesting app
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/media_projection_grey_error_text_flag_values.textproto : ENABLED
+}

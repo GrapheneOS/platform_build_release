@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "telemetry_apis_framework_initialization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 324241334
+  # description: Control framework initialization APIs of telemetry APIs feature.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/telemetry_apis_framework_initialization_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/telemetry_apis_framework_initialization_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/telemetry_apis_framework_initialization_flag_values.textproto : ENABLED
+}

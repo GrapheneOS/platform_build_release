@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dream_preview_tap_dismiss"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 416412668
+  # description: Dismisses dream in preview on tap
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/dream_preview_tap_dismiss_flag_values.textproto : ENABLED
+}

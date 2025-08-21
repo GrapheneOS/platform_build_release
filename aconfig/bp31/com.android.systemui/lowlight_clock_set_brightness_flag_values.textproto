@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "lowlight_clock_set_brightness"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 419096438
+  # description: Sets brightness to minimum when using lowlight clock
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/lowlight_clock_set_brightness_flag_values.textproto : ENABLED
+}

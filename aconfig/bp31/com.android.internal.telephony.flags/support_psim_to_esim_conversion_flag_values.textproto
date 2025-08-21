@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "support_psim_to_esim_conversion"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 315073761
+  # description: Support the psim to esim conversion.
+  # trace: frameworks/opt/telephony/flags/subscription.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/support_psim_to_esim_conversion_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/support_psim_to_esim_conversion_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/support_psim_to_esim_conversion_flag_values.textproto : ENABLED
+}

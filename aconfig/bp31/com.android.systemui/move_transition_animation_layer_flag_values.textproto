@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "move_transition_animation_layer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 390422470
+  # description: Enables moving the launching window on top of the origin window in the Animation library.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/move_transition_animation_layer_flag_values.textproto : ENABLED
+}

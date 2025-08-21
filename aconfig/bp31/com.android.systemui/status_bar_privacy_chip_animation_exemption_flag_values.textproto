@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_privacy_chip_animation_exemption"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 422243884
+  # description: Exempt the default camera app from the privacy chip animation.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_privacy_chip_animation_exemption_flag_values.textproto : ENABLED
+}

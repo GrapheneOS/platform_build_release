@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "remove_next_wallpaper_component"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 365991991
+  # description: Remove deprecated field WallpaperData#nextWallpaperComponent. Only effective after rebooting.
+  # trace: frameworks/base/core/java/android/app/wallpaper.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/remove_next_wallpaper_component_flag_values.textproto : ENABLED
+}

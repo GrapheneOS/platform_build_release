@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "conditionally_ignore_preferred_input_device"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 303079083
+  # description: Allows to ignore preferred device requests in getInputDeviceForAttributes() depending on the calling context.
+  # trace: frameworks/av/media/audio/aconfig/audioserver.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.media.audioserver/conditionally_ignore_preferred_input_device_flag_values.textproto : ENABLED
+}

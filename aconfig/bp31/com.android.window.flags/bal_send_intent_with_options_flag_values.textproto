@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "bal_send_intent_with_options"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 339720406
+  # description: Add options parameter to IntentSender.sendIntent.
+  # trace: frameworks/base/core/java/android/window/flags/responsible_apis.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/bal_send_intent_with_options_flag_values.textproto : ENABLED
+}

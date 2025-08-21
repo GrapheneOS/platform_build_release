@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "optimization_apdu_sender"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 335257880
+  # description: This flag controls optimization of apdu sender class.
+  # trace: frameworks/opt/telephony/flags/uicc.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/optimization_apdu_sender_flag_values.textproto : ENABLED
+}

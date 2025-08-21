@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "send_hover_events_based_on_event_stream"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 314251047
+  # description: Send hover enter and exit based on the state of the hover event stream rather than the internal state of the touch explorer state machine. Because of the nondeterministic nature of gesture detection when done in talkback, relying on the internal state can cause crashes.
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.accessibility/send_hover_events_based_on_event_stream_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.accessibility/send_hover_events_based_on_event_stream_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.accessibility/send_hover_events_based_on_event_stream_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "override_key_behavior_permission_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 309018874
+  # description: enable override key behavior permission APIs
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.input.flags/override_key_behavior_permission_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.input.flags/override_key_behavior_permission_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/override_key_behavior_permission_apis_flag_values.textproto : ENABLED
+}

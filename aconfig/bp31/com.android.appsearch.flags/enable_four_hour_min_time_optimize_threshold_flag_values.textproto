@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_four_hour_min_time_optimize_threshold"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.appsearch
+  # namespace: appsearch
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385020106
+  # description: Sets the minimum time interval threshold between successive optimize calls to 4 hours.
+  # trace: packages/modules/AppSearch/flags/appsearch.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.appsearch.flags/enable_four_hour_min_time_optimize_threshold_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "ringer_mode_affects_alarm"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 312456558
+  # description: Support a configuration where ringer mode affects alarm stream
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.audio/ringer_mode_affects_alarm_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.audio/ringer_mode_affects_alarm_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audio/ringer_mode_affects_alarm_flag_values.textproto : ENABLED
+}

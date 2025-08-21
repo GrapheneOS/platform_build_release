@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "remove_pending_hid_connection"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 377705101
+  # description: Remove the pending BTA HH connection instance when the device is removed
+  # trace: packages/modules/Bluetooth/flags/hid.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/remove_pending_hid_connection_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_usb_data_signal_staking"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: preload_safety
+  # bug: 287498482
+  # description: Enables signal API with staking
+  # trace: frameworks/base/core/java/android/hardware/usb/flags/system_sw_usb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.hardware.usb.flags/enable_usb_data_signal_staking_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.usb.flags/enable_usb_data_signal_staking_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.usb.flags/enable_usb_data_signal_staking_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_permission_to_access_hidden_profiles"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 321988638
+  # description: Add permission to access API hidden users data via system APIs
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/enable_permission_to_access_hidden_profiles_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/enable_permission_to_access_hidden_profiles_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/enable_permission_to_access_hidden_profiles_flag_values.textproto : ENABLED
+}

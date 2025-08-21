@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "handwriting_end_of_line_tap"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 323376217
+  # description: Initiate handwriting when stylus taps at the end of a line in a focused non-empty TextView with the cursor at the end of that line
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/handwriting_end_of_line_tap_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/handwriting_end_of_line_tap_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/handwriting_end_of_line_tap_flag_values.textproto : ENABLED
+}

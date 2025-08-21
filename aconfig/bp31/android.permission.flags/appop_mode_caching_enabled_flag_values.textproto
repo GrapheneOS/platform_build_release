@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "appop_mode_caching_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 366013082
+  # description: Enable AppOp mode caching in AppOpsManager
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/appop_mode_caching_enabled_flag_values.textproto : ENABLED
+}

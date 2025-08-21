@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "allows_screen_size_decoupled_from_status_bar_and_cutout"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: large_screen_experiences_app_compat
+  # bug: 291870756
+  # description: When necessary, configuration decoupled from status bar and display cutout
+  # trace: frameworks/base/core/java/android/window/flags/large_screen_experiences_app_compat.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/allows_screen_size_decoupled_from_status_bar_and_cutout_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/allows_screen_size_decoupled_from_status_bar_and_cutout_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/allows_screen_size_decoupled_from_status_bar_and_cutout_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "remove_depart_target_from_motion"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395035430
+  # description: Remove DepartingAnimationTarget from BackMotionEvent
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/remove_depart_target_from_motion_flag_values.textproto : ENABLED
+}

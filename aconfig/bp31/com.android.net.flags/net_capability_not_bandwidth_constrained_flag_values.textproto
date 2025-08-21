@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.net.flags"
+  name: "net_capability_not_bandwidth_constrained"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 343823469
+  # description: Flag for NET_CAPABILITY_NOT_BANDWIDTH_CONSTRAINED API
+  # trace: packages/modules/Connectivity/common/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.net.flags/net_capability_not_bandwidth_constrained_flag_values.textproto : ENABLED
+}

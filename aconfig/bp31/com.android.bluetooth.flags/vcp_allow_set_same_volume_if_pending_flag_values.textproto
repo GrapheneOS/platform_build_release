@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "vcp_allow_set_same_volume_if_pending"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 386758535
+  # description: Allow to set the same volume during already pending operation
+  # trace: packages/modules/Bluetooth/flags/vcp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/vcp_allow_set_same_volume_if_pending_flag_values.textproto : ENABLED
+}

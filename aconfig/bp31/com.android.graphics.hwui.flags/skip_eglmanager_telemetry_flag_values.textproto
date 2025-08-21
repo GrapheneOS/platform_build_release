@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "skip_eglmanager_telemetry"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 347911216
+  # description: Skip telemetry in EglManager's calls to eglCreateContext to avoid polluting telemetry
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.hwui.flags/skip_eglmanager_telemetry_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "system_ui_post_animation_end"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 300035126
+  # description: Run AnimatorListener#onAnimationEnd on next frame for SystemUI
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/system_ui_post_animation_end_flag_values.textproto : ENABLED
+}

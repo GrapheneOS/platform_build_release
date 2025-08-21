@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dream_overlay_bouncer_swipe_direction_filtering"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 333632464
+  # description: do not initiate bouncer swipe when the direction is opposite of the expansion
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/dream_overlay_bouncer_swipe_direction_filtering_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/dream_overlay_bouncer_swipe_direction_filtering_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/dream_overlay_bouncer_swipe_direction_filtering_flag_values.textproto : ENABLED
+}

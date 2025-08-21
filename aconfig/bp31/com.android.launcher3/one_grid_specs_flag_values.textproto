@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "one_grid_specs"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 364711064
+  # description: Defines the new specs for grids based on OneGrid
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/one_grid_specs_flag_values.textproto : ENABLED
+}

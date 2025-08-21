@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "camera_ae_mode_low_light_boost"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 312803148
+  # description: An AE mode that enables increased brightening in low light scenes
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.camera.flags/camera_ae_mode_low_light_boost_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.camera.flags/camera_ae_mode_low_light_boost_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.camera.flags/camera_ae_mode_low_light_boost_flag_values.textproto : ENABLED
+}

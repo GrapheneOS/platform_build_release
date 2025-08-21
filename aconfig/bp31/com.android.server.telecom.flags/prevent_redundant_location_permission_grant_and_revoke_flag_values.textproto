@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "prevent_redundant_location_permission_grant_and_revoke"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 345386002
+  # description: avoid redundant action of grant and revoke location permission for multiple emergency calls
+  # trace: packages/services/Telecomm/flags/telecom_call_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.telecom.flags/prevent_redundant_location_permission_grant_and_revoke_flag_values.textproto : ENABLED
+}

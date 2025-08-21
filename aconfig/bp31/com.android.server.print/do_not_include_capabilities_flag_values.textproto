@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.print"
+  name: "do_not_include_capabilities"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: printing
+  # bug: 291281543
+  # description: Do not use the flag Context.BIND_INCLUDE_CAPABILITIES when binding to the service
+  # trace: frameworks/base/services/print/java/com/android/server/print/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.print/do_not_include_capabilities_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.media.midi"
+  name: "virtual_ump"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 291115176
+  # description: Enable virtual UMP MIDI.
+  # trace: frameworks/av/media/audio/aconfig/midi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.media.midi/virtual_ump_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.media.midi/virtual_ump_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.media.midi/virtual_ump_flag_values.textproto : ENABLED
+}

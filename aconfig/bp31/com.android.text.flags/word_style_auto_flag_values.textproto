@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "word_style_auto"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # bug: 280005585
+  # description: A feature flag that implements line break word style auto.
+  # trace: frameworks/base/core/java/android/text/flags/24Q3.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/word_style_auto_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/word_style_auto_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/word_style_auto_flag_values.textproto : ENABLED
+}

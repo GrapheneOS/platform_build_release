@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_provide_read_only_pfd"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 358130861
+  # description: This flag enables the APIs for providing read-only ParcelFileDescriptors to the WearableSensingService.
+  # trace: frameworks/base/core/java/android/app/wearable/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.wearable/enable_provide_read_only_pfd_flag_values.textproto : ENABLED
+}

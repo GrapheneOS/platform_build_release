@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dream_overlay_updated_ui"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 368587927
+  # description: Flag to enable updated UI for dream overlay
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/dream_overlay_updated_ui_flag_values.textproto : ENABLED
+}

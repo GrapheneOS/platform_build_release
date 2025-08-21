@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "gnss_hal_use_endpoint_messaging"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: context_hub
+  # purpose: PURPOSE_BUGFIX
+  # bug: 407810084
+  # description: Flag guarding the use of endpoint messaging for the GNSS HAL
+  # trace: system/chre/chre_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.chre.flags/gnss_hal_use_endpoint_messaging_flag_values.textproto : ENABLED
+}

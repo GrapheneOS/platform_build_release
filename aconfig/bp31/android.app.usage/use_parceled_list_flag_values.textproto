@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.usage"
+  name: "use_parceled_list"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 301254110
+  # description: Flag for parcelable usage event list
+  # trace: frameworks/base/core/java/android/app/usage/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.usage/use_parceled_list_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.usage/use_parceled_list_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.usage/use_parceled_list_flag_values.textproto : ENABLED
+}

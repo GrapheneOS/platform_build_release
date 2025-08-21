@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.flags"
+  name: "modifier_shortcut_manager_multiuser"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # purpose: PURPOSE_BUGFIX
+  # bug: 351963350
+  # description: Update Modifier Shortcut Manager to work correctly with multiple users, including HSUM
+  # trace: frameworks/base/services/core/java/com/android/server/flags/services.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.flags/modifier_shortcut_manager_multiuser_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.flags/modifier_shortcut_manager_multiuser_flag_values.textproto : ENABLED
+}

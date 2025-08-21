@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "magnetic_notification_swipes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 390179908
+  # description: Add support for magnetic behavior on horizontal notification swipes.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/magnetic_notification_swipes_flag_values.textproto : ENABLED
+}

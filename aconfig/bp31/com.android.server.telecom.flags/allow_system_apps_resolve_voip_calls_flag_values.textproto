@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "allow_system_apps_resolve_voip_calls"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 353579043
+  # description: Allow system apps such as accessibility to accept and end VOIP calls.
+  # trace: packages/services/Telecomm/flags/telecom_api_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/allow_system_apps_resolve_voip_calls_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.server"
+  name: "telemetry_apis_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 324153471
+  # description: Control service portion of telemetry APIs feature.
+  # trace: frameworks/base/services/java/com/android/server/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.server/telemetry_apis_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.server/telemetry_apis_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.server/telemetry_apis_service_flag_values.textproto : ENABLED
+}

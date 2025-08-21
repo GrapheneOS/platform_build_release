@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "use_google_sans_flex"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 393610034
+  # description: Use Google Sans Flex font.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.intentresolver/use_google_sans_flex_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.nearby.flags"
+  name: "powered_off_finding"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: nearby
+  # bug: 307898240
+  # description: Controls whether the Powered Off Finding feature is enabled
+  # trace: packages/modules/Connectivity/common/nearby_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.nearby.flags/powered_off_finding_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.nearby.flags/powered_off_finding_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.nearby.flags/powered_off_finding_flag_values.textproto : ENABLED
+}

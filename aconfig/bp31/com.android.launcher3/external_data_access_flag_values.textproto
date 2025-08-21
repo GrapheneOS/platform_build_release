@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "external_data_access"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395145453
+  # description: For LauncherProvider bug fixes and new static permissions as part of the cross oem backup / restore effort.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/external_data_access_flag_values.textproto : ENABLED
+}

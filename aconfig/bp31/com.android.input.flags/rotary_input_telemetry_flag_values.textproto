@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "rotary_input_telemetry"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 370353565
+  # description: Enable telemetry for rotary input
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/rotary_input_telemetry_flag_values.textproto : ENABLED
+}

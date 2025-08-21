@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "donot_push_error_code_to_app_when_connected"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 365844219
+  # description: donot send error code to app when sock is already is connected, this can cause unwanted bytes even after socket is disconnected
+  # trace: packages/modules/Bluetooth/flags/sockets.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/donot_push_error_code_to_app_when_connected_flag_values.textproto : ENABLED
+}

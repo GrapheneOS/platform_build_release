@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_built_in_speaker_route_suitability_statuses"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 279555229
+  # description: Make MediaRoute2Info provide information about routes suitability for transfer.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_built_in_speaker_route_suitability_statuses_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_built_in_speaker_route_suitability_statuses_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_built_in_speaker_route_suitability_statuses_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.codec"
+  name: "thumbnail_block_model"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # bug: 329521645
+  # description: Feature flag for using block model decoder in thumbnail generation
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.codec/thumbnail_block_model_flag_values.textproto : ENABLED
+}

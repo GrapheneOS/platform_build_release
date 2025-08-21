@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.uprobestats.flags"
+  name: "executable_method_file_offsets"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 296108553
+  # description: Whether the ART executable method file offsets API is available. Mirrors identical flag in com.android.art.
+  # trace: packages/modules/UprobeStats/src/flag.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.uprobestats.flags/executable_method_file_offsets_flag_values.textproto : ENABLED
+}

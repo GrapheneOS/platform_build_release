@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "notify_initial_ims_provisioning_status"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 330082572
+  # description: This flag allows to notify initial IMS provisioning status when IFeatureProvisioningCallback registered or ImsService connected
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/notify_initial_ims_provisioning_status_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/notify_initial_ims_provisioning_status_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/notify_initial_ims_provisioning_status_flag_values.textproto : ENABLED
+}

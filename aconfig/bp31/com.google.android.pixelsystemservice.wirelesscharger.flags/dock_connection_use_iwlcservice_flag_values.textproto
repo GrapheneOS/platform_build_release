@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.pixelsystemservice.wirelesscharger.flags"
+  name: "dock_connection_use_iwlcservice"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_energizer
+  # bug: 343347677
+  # description: Switches the DockConnectionUseCase implementation to using IWlcService
+  # trace: vendor/google/apps/PersistentBackgroundServices/wirelesscharger/aconfig/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/com.google.android.pixelsystemservice.wirelesscharger.flags/dock_connection_use_iwlcservice_flag_values.textproto : ENABLED
+}

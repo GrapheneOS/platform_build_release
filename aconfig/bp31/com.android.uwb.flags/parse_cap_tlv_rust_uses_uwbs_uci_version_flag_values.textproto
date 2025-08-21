@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "parse_cap_tlv_rust_uses_uwbs_uci_version"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 301834443
+  # description: Parse the UWBS Capability tag(s) based on it's Fira UCI version
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.uwb.flags/parse_cap_tlv_rust_uses_uwbs_uci_version_flag_values.textproto : ENABLED
+}

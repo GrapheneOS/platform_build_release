@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "bta_dm_defer_device_discovery_state_change_until_rnr_complete"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 321170442
+  # description: Fix double-sending device discovery state change when canceling RNR
+  # trace: packages/modules/Bluetooth/flags/bta_dm.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/bta_dm_defer_device_discovery_state_change_until_rnr_complete_flag_values.textproto : ENABLED
+}

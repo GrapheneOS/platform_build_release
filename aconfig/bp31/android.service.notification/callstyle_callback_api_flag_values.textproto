@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.notification"
+  name: "callstyle_callback_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 305095040
+  # description: Guards the new CallStyleNotificationEventsCallback
+  # trace: frameworks/base/core/java/android/service/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.notification/callstyle_callback_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.notification/callstyle_callback_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.notification/callstyle_callback_api_flag_values.textproto : ENABLED
+}

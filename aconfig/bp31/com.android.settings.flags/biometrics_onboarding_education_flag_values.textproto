@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "biometrics_onboarding_education"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: biometrics_integration
+  # bug: 370940762
+  # description: This flag controls whether the onboarding education settings UX should be enabled
+  # trace: packages/apps/Settings/aconfig/settings_biometrics_integration_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settings.flags/biometrics_onboarding_education_flag_values.textproto : ENABLED
+}

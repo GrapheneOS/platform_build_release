@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.content.pm"
+  name: "get_package_storage_stats"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 332905331
+  # description: Add dumpsys entry point for package StorageStats
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.pm/get_package_storage_stats_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.pm/get_package_storage_stats_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.pm/get_package_storage_stats_flag_values.textproto : ENABLED
+}

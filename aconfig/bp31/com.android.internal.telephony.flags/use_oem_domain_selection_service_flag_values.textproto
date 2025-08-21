@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "use_oem_domain_selection_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 258112541
+  # description: This flag controls OEMs' domain selection service supported.
+  # trace: frameworks/opt/telephony/flags/domainselection.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/use_oem_domain_selection_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/use_oem_domain_selection_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/use_oem_domain_selection_service_flag_values.textproto : ENABLED
+}

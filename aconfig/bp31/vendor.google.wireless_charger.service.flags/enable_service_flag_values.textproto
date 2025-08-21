@@ -1,0 +1,12 @@
+flag_value {
+  package: "vendor.google.wireless_charger.service.flags"
+  name: "enable_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: system_sw_battery
+  # bug: 283865245
+  # description: This flag controls wlcservice release
+  # trace: vendor/google/interfaces/wireless_charger/service/aidl/default/aconfig/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp2a/vendor.google.wireless_charger.service.flags/enable_service_flag_values.textproto : ENABLED
+}

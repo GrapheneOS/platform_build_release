@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.server"
+  name: "voiceinteractionmanagerservice_get_resources_in_init_thread"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 406841419
+  # description: Move VoiceInteractionManagerService getResources away from the boot critical path
+  # trace: frameworks/base/services/java/com/android/server/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.server/voiceinteractionmanagerservice_get_resources_in_init_thread_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_launch_radius"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 396054791
+  # description: Fixes a discrepancy in corner radius between expanding notification and opening window during launch animations.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/notifications_launch_radius_flag_values.textproto : ENABLED
+}

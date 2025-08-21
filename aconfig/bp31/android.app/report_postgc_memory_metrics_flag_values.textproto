@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "report_postgc_memory_metrics"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 331243037
+  # description: Controls whether to report memory metrics post GC cleanup
+  # trace: frameworks/base/core/java/android/app/metrics.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/report_postgc_memory_metrics_flag_values.textproto : ENABLED
+}

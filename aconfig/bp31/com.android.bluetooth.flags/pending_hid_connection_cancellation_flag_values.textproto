@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "pending_hid_connection_cancellation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381135214
+  # description: Properly cancel the pending connection to the already added devices
+  # trace: packages/modules/Bluetooth/flags/hid.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/pending_hid_connection_cancellation_flag_values.textproto : ENABLED
+}

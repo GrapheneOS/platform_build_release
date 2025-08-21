@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "area_id_config_access"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 290801790
+  # description: Controls whether apps can use the new access level APIs added to AreaIdConfig
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/area_id_config_access_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/area_id_config_access_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/area_id_config_access_flag_values.textproto : ENABLED
+}

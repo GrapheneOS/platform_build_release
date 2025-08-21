@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "selinux_sdk_sandbox_audit"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: sdk_sandbox
+  # bug: 295861450
+  # description: Enables the SELinux domain sdk_sandbox_audit
+  # trace: packages/modules/AdServices/sdksandbox/flags/sandbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.sdksandbox.flags/selinux_sdk_sandbox_audit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.sdksandbox.flags/selinux_sdk_sandbox_audit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.sdksandbox.flags/selinux_sdk_sandbox_audit_flag_values.textproto : ENABLED
+}

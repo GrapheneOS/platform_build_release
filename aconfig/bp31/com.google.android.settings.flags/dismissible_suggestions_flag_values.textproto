@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.settings.flags"
+  name: "dismissible_suggestions"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 327060630
+  # description: Flag to gate support of dismissing suggestions where applicable
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/aconfig/settings_core.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.settings.flags/dismissible_suggestions_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.flags/dismissible_suggestions_flag_values.textproto : ENABLED
+}

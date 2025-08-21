@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "shade_header_blur_font_color"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 393609960
+  # description: Updates the font colors of the shade header for blur
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/shade_header_blur_font_color_flag_values.textproto : ENABLED
+}

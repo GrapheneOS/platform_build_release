@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.sdk"
+  name: "major_minor_versioning_scheme"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: android_sdk
+  # bug: 350458259
+  # description: Use the new SDK major.minor versioning scheme (e.g. Android 40.1) which replaces the old single-integer scheme (e.g. Android 15).
+  # trace: frameworks/base/android-sdk-flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.sdk/major_minor_versioning_scheme_flag_values.textproto : ENABLED
+}

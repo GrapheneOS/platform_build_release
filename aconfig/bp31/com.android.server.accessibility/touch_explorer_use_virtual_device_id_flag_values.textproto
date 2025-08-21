@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "touch_explorer_use_virtual_device_id"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 364408887
+  # description: Use a VIRTUAL device id for injected TouchExplorer events to avoid temporary conflicts with real pointer touches still on the screen when TouchExplorer starts up.
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.accessibility/touch_explorer_use_virtual_device_id_flag_values.textproto : ENABLED
+}

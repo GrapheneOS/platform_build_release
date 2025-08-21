@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_top_ui_controller"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 411061512
+  # description: Extracts top ui requests into TopUiController
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/enable_top_ui_controller_flag_values.textproto : ENABLED
+}

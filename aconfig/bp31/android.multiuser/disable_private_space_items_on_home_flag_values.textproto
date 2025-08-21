@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "disable_private_space_items_on_home"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # bug: 287975131
+  # description: Disables adding items belonging to Private Space on Home Screen manually as well as automatically
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/disable_private_space_items_on_home_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/disable_private_space_items_on_home_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/disable_private_space_items_on_home_flag_values.textproto : ENABLED
+}

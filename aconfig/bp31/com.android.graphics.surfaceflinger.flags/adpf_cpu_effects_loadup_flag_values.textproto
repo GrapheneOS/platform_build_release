@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "adpf_cpu_effects_loadup"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: window_surfaces
+  # purpose: PURPOSE_BUGFIX
+  # bug: 409887260
+  # description: Enables CPU loadup hints for effects using client composition
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.surfaceflinger.flags/adpf_cpu_effects_loadup_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "enable_contextual_tip_for_mute_volume"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 337737048
+  # description: Enables the contextual tip for muting the volume.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/enable_contextual_tip_for_mute_volume_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/enable_contextual_tip_for_mute_volume_flag_values.textproto : ENABLED
+}

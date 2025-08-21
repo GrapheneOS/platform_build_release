@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "pic_isolate_cache_by_uid"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 373752556
+  # description: Ensure that different UIDs use different caches
+  # trace: frameworks/base/core/java/android/app/performance.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/pic_isolate_cache_by_uid_flag_values.textproto : ENABLED
+}

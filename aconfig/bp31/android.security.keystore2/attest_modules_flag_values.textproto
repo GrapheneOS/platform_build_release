@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.security.keystore2"
+  name: "attest_modules"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: hardware_backed_security
+  # bug: 369375199
+  # description: Support attestation of modules
+  # trace: system/security/keystore2/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.security.keystore2/attest_modules_flag_values.textproto : ENABLED
+}

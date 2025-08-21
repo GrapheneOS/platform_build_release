@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notifications_hun_shared_animation_values"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 393369891
+  # description: Adds a shared class for fetching HUN animation values.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/notifications_hun_shared_animation_values_flag_values.textproto : ENABLED
+}

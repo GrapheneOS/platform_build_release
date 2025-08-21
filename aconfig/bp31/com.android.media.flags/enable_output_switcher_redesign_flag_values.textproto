@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_output_switcher_redesign"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_better_together
+  # bug: 388296370
+  # description: Enables visual update for the Media Output Switcher
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.media.flags/enable_output_switcher_redesign_flag_values.textproto : ENABLED
+}

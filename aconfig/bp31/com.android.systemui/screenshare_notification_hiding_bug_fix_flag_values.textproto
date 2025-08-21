@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "screenshare_notification_hiding_bug_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 312784809
+  # description: Various bug fixes for notification redaction while screensharing
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/screenshare_notification_hiding_bug_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/screenshare_notification_hiding_bug_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/screenshare_notification_hiding_bug_fix_flag_values.textproto : ENABLED
+}

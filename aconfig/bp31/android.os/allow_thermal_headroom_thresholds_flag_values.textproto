@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.os"
+  name: "allow_thermal_headroom_thresholds"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 288119641
+  # description: Enable thermal headroom thresholds API
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.os/allow_thermal_headroom_thresholds_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.os/allow_thermal_headroom_thresholds_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.os/allow_thermal_headroom_thresholds_flag_values.textproto : ENABLED
+}

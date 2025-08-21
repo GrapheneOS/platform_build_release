@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "release_surface_on_transition_finish"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 407719374
+  # description: Reduce offscreen layers which rely on GC to release
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/release_surface_on_transition_finish_flag_values.textproto : ENABLED
+}

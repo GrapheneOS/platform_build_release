@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.hardware.devicestate.feature.flags"
+  name: "device_state_property_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # bug: 293636629
+  # description: Updated DeviceState hasProperty API
+  # trace: frameworks/base/core/java/android/hardware/devicestate/feature/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.hardware.devicestate.feature.flags/device_state_property_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.devicestate.feature.flags/device_state_property_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.devicestate.feature.flags/device_state_property_api_flag_values.textproto : ENABLED
+}

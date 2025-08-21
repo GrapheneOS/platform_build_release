@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.sdksandbox.flags"
+  name: "selinux_input_selector"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: sdk_sandbox
+  # purpose: PURPOSE_BUGFIX
+  # bug: 295861450
+  # description: Bug fix for the SDK sandbox selinux input selector
+  # trace: packages/modules/AdServices/sdksandbox/flags/sandbox_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.sdksandbox.flags/selinux_input_selector_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.sdksandbox.flags/selinux_input_selector_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.sdksandbox.flags/selinux_input_selector_flag_values.textproto : ENABLED
+}

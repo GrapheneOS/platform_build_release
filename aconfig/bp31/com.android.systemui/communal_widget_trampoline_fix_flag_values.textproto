@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "communal_widget_trampoline_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 350468769
+  # description: fixes activity starts caused by non-activity trampolines from widgets.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/communal_widget_trampoline_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/communal_widget_trampoline_fix_flag_values.textproto : ENABLED
+}

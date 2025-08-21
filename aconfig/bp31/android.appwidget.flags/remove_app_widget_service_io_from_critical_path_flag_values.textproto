@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "remove_app_widget_service_io_from_critical_path"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: app_widgets
+  # purpose: PURPOSE_BUGFIX
+  # bug: 312949280
+  # description: Move state file IO to non-critical path
+  # trace: frameworks/base/core/java/android/appwidget/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.appwidget.flags/remove_app_widget_service_io_from_critical_path_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.appwidget.flags/remove_app_widget_service_io_from_critical_path_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.appwidget.flags/remove_app_widget_service_io_from_critical_path_flag_values.textproto : ENABLED
+}

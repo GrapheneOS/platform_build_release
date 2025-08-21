@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.power.optimization"
+  name: "streamlined_connectivity_battery_stats"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 323970018
+  # description: Feature flag for streamlined connectivity battery stats
+  # trace: frameworks/base/services/core/java/com/android/server/power/stats/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.optimization/streamlined_connectivity_battery_stats_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.optimization/streamlined_connectivity_battery_stats_flag_values.textproto : ENABLED
+}

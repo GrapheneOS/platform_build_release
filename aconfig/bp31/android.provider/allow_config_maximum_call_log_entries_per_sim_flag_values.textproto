@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.provider"
+  name: "allow_config_maximum_call_log_entries_per_sim"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_FEATURE
+  # bug: 352235494
+  # description: Allow partners to modify the maximum number of call log size for each sim card.
+  # trace: frameworks/base/core/java/android/provider/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.provider/allow_config_maximum_call_log_entries_per_sim_flag_values.textproto : ENABLED
+}

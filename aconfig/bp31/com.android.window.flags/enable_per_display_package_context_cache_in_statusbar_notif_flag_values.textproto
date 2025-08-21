@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_per_display_package_context_cache_in_statusbar_notif"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 388886443
+  # description: Enables per-display package context caching in StatusBarNotification
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/enable_per_display_package_context_cache_in_statusbar_notif_flag_values.textproto : ENABLED
+}

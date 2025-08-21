@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-android.companion-all",
+  package: "android.companion",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

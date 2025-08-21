@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "mirror_mode_shared_surfaces"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 298899993
+  # description: Support setting and getting mirror mode for shared surfaces
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.camera.flags/mirror_mode_shared_surfaces_flag_values.textproto : ENABLED
+}

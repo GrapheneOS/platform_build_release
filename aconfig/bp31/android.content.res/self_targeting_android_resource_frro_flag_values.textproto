@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.res"
+  name: "self_targeting_android_resource_frro"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: customization_picker
+  # bug: 377545987
+  # description: Fixes bug in Launcher preview by enabling overlays targeting 'android'
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.content.res/self_targeting_android_resource_frro_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.google.android.apps.pixel.impulse.flags"
+  name: "enable_impulse_user_aware_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_system_service
+  # purpose: PURPOSE_BUGFIX
+  # bug: 369256879
+  # description: This flag controls whether PixelImpulse is refactored to be user aware
+  # trace: vendor/google/apps/PersistentBackgroundServices/pixelimpulse/aconfig/pixelimpulse_flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.apps.pixel.impulse.flags/enable_impulse_user_aware_refactor_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "untrusted_embedding_state_sharing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # bug: 293647332
+  # description: Feature flag to enable state sharing in untrusted embedding when apps opt in.
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/untrusted_embedding_state_sharing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/untrusted_embedding_state_sharing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/untrusted_embedding_state_sharing_flag_values.textproto : ENABLED
+}

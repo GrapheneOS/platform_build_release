@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.location.flags"
+  name: "enable_location_bypass"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # bug: 301150056
+  # description: Enable location bypass feature
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.location.flags/enable_location_bypass_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.location.flags/enable_location_bypass_flag_values.textproto : ENABLED
+}

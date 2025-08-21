@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.ranging.flags"
+  name: "ranging_cs_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 331206299
+  # description: This flags controls channel sounding in generic ranging
+  # trace: packages/modules/Uwb/ranging/flags/ranging_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.ranging.flags/ranging_cs_enabled_flag_values.textproto : ENABLED
+}

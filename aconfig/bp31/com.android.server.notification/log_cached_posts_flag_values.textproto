@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "log_cached_posts"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392740866
+  # description: Logs an event if notify was called from a cached process state
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.notification/log_cached_posts_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_support_for_archiving"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 210590852
+  # description: Enables support for archived apps in Launcher3, such as empty progress bar etc.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/enable_support_for_archiving_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/enable_support_for_archiving_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/enable_support_for_archiving_flag_values.textproto : ENABLED
+}

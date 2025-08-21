@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "sync_local_overrides_removal_new_storage"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 361643653
+  # description: When DeviceConfig overrides are deleted, delete new storage overrides too.
+  # trace: frameworks/base/packages/SettingsProvider/src/com/android/providers/settings/device_config_service.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.providers.settings/sync_local_overrides_removal_new_storage_flag_values.textproto : ENABLED
+}

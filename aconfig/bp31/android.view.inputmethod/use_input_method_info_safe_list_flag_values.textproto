@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "use_input_method_info_safe_list"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # purpose: PURPOSE_BUGFIX
+  # bug: 339761278
+  # description: Use InputMethodInfoSafeList for more reliable binder IPCs
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.inputmethod/use_input_method_info_safe_list_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.inputmethod/use_input_method_info_safe_list_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.inputmethod/use_input_method_info_safe_list_flag_values.textproto : ENABLED
+}

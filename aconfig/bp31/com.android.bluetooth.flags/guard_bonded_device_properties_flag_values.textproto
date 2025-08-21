@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "guard_bonded_device_properties"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 376928594
+  # description: Don't update device properties for bonded devices from the device discovery results
+  # trace: packages/modules/Bluetooth/flags/security.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/guard_bonded_device_properties_flag_values.textproto : ENABLED
+}

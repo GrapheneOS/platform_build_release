@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.widget.flags"
+  name: "big_picture_style_discard_empty_icon_bitmap_drawables"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 335878768
+  # description: BigPictureStyle: Ignore Icon BitmapDrawables without Bitmaps
+  # trace: frameworks/base/core/java/android/widget/flags/notification_widget_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.widget.flags/big_picture_style_discard_empty_icon_bitmap_drawables_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.widget.flags/big_picture_style_discard_empty_icon_bitmap_drawables_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.widget.flags/big_picture_style_discard_empty_icon_bitmap_drawables_flag_values.textproto : ENABLED
+}

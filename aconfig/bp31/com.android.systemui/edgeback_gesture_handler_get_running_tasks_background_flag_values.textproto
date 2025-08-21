@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "edgeback_gesture_handler_get_running_tasks_background"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 325041960
+  # description: Decide whether to get the running tasks from activity manager in EdgebackGestureHandler class on the background thread.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/edgeback_gesture_handler_get_running_tasks_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/edgeback_gesture_handler_get_running_tasks_background_flag_values.textproto : ENABLED
+}

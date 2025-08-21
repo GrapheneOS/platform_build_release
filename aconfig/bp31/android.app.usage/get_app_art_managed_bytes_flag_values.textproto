@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.usage"
+  name: "get_app_art_managed_bytes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395548922
+  # description: Bug fixing flag for optional collection of app ART managed file stats
+  # trace: frameworks/base/core/java/android/app/usage/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.usage/get_app_art_managed_bytes_flag_values.textproto : ENABLED
+}

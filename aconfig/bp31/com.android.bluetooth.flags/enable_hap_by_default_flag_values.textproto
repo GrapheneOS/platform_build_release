@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "enable_hap_by_default"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 345826775
+  # description: On device that support HAP, enable it by default and disable ASHA
+  # trace: packages/modules/Bluetooth/flags/hap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/enable_hap_by_default_flag_values.textproto : ENABLED
+}

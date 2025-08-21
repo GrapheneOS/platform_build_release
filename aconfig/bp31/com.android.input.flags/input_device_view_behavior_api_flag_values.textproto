@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "input_device_view_behavior_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 246946631
+  # description: Controls the API to provide InputDevice view behavior.
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.input.flags/input_device_view_behavior_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.input.flags/input_device_view_behavior_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/input_device_view_behavior_api_flag_values.textproto : ENABLED
+}

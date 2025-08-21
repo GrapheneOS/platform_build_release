@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "disable_audio_sharing_auto_pick_fallback_in_ui"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 383469911
+  # description: Do not auto pick audio sharing fallback device in UI
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/disable_audio_sharing_auto_pick_fallback_in_ui_flag_values.textproto : ENABLED
+}

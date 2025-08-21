@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "collect_logcat_on_run_synchronously"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: stability
+  # bug: 324222683
+  # description: Allow logcat collection on synchronous dropbox collection
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/collect_logcat_on_run_synchronously_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "hearing_devices_dialog_related_tools"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 341648471
+  # description: Shows the related tools for hearing devices dialog.
+  # trace: frameworks/base/packages/SystemUI/aconfig/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/hearing_devices_dialog_related_tools_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/hearing_devices_dialog_related_tools_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/hearing_devices_dialog_related_tools_flag_values.textproto : ENABLED
+}

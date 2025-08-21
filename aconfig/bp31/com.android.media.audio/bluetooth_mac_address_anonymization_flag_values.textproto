@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "bluetooth_mac_address_anonymization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 285588444
+  # description: Enable Bluetooth MAC address anonymization when reporting audio device descriptors to non privileged apps.
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.audio/bluetooth_mac_address_anonymization_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.audio/bluetooth_mac_address_anonymization_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audio/bluetooth_mac_address_anonymization_flag_values.textproto : ENABLED
+}

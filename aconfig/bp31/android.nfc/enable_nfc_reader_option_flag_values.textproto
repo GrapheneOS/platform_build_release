@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.nfc"
+  name: "enable_nfc_reader_option"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 291187960
+  # description: Flag for NFC reader option API changes
+  # trace: frameworks/base/nfc-non-updatable/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.nfc/enable_nfc_reader_option_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.nfc/enable_nfc_reader_option_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.nfc/enable_nfc_reader_option_flag_values.textproto : ENABLED
+}

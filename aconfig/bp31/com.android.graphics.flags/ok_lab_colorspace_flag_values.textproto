@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.flags"
+  name: "ok_lab_colorspace"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 344038816
+  # description: Add OkLab ColorSpace support
+  # trace: frameworks/base/graphics/java/android/framework_graphics.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.graphics.flags/ok_lab_colorspace_flag_values.textproto : ENABLED
+}

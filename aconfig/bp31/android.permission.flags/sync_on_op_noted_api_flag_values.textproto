@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "sync_on_op_noted_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 372910217
+  # description: New setOnOpNotedCallback API to allow subscribing to only sync ops.
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/sync_on_op_noted_api_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "udfps_screen_off_unlock_flicker"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # purpose: PURPOSE_BUGFIX
+  # bug: 384986206
+  # description: Controls the fix of flicker of udfps screen-off unlock
+  # trace: frameworks/base/packages/SystemUI/aconfig/biometrics_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/udfps_screen_off_unlock_flicker_flag_values.textproto : ENABLED
+}

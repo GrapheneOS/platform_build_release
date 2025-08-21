@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.net.ct.flags"
+  name: "certificate_transparency_job"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: network_security
+  # bug: 319829948
+  # description: Enable daily job service for certificate transparency instead of flags listener
+  # trace: packages/modules/Connectivity/common/networksecurity_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.net.ct.flags/certificate_transparency_job_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "respect_hierarchy_surface_visibility"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 383241933
+  # description: Ensure consistent surface visibility with window hierarchy
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/respect_hierarchy_surface_visibility_flag_values.textproto : ENABLED
+}

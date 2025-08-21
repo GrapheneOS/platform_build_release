@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "prevent_duplicate_uuid_intent"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 361182196
+  # description: Avoid sending duplicate service UUID intent when fetchUuidsWithSdp() API is called
+  # trace: packages/modules/Bluetooth/flags/service_discovery.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/prevent_duplicate_uuid_intent_flag_values.textproto : ENABLED
+}

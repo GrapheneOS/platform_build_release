@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "incall_handover_policy"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 376765521
+  # description: Support IWLAN handover policy based on incall.
+  # trace: frameworks/opt/telephony/flags/data.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/incall_handover_policy_flag_values.textproto : ENABLED
+}

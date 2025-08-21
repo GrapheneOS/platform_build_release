@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.google.android.settings.future.biometrics.faceenroll.flags"
+  name: "pixel_face_enroll_too_dark_string"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: biometrics_integration
+  # purpose: PURPOSE_BUGFIX
+  # bug: 361871543
+  # description: This flag controls whether a default string for FACE_ACQUIRED_TOO_DARK should be replaced
+  # trace: vendor/unbundled_google/packages/SettingsGoogle/future/biometrics/faceenroll/aconfig/biometrics_integration_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap4a/com.google.android.settings.future.biometrics.faceenroll.flags/pixel_face_enroll_too_dark_string_flag_values.textproto : ENABLED
+  # trace: vendor/google/release/aconfig/bp1a/com.google.android.settings.future.biometrics.faceenroll.flags/pixel_face_enroll_too_dark_string_flag_values.textproto : ENABLED
+}

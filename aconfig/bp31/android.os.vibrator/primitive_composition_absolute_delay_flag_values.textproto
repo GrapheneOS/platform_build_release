@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "primitive_composition_absolute_delay"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: haptics
+  # purpose: PURPOSE_FEATURE
+  # bug: 373357740
+  # description: Enables functionality to create primitive compositions with absolute delays
+  # trace: frameworks/base/core/java/android/os/vibrator/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os.vibrator/primitive_composition_absolute_delay_flag_values.textproto : ENABLED
+}

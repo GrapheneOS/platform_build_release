@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "allow_call_on_same_connection_mgr"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 414261900
+  # description: If two incoming calls are received at the same time from the same connection service, allow the CS to handle the second call.
+  # trace: packages/services/Telecomm/flags/telecom_calls_manager_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.telecom.flags/allow_call_on_same_connection_mgr_flag_values.textproto : ENABLED
+}

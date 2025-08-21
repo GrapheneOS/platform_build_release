@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_multi_instance_menu_taskbar"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 355237285
+  # description: Menu in Taskbar with options to launch and manage multiple instances of the same app
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.launcher3/enable_multi_instance_menu_taskbar_flag_values.textproto : ENABLED
+}

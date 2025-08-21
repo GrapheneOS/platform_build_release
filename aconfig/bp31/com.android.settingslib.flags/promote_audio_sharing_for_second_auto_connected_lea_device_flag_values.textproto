@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "promote_audio_sharing_for_second_auto_connected_lea_device"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: cross_device_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395786392
+  # description: Show audio sharing promote notification or dialog when the second lea device is auto connected
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settingslib.flags/promote_audio_sharing_for_second_auto_connected_lea_device_flag_values.textproto : ENABLED
+}

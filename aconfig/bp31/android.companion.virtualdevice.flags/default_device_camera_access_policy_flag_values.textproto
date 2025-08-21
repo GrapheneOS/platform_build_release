@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.companion.virtualdevice.flags"
+  name: "default_device_camera_access_policy"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 371173368
+  # description: API for default device camera access policy
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.companion.virtualdevice.flags/default_device_camera_access_policy_flag_values.textproto : ENABLED
+}

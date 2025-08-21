@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.ondeviceintelligence.flags"
+  name: "enable_on_device_intelligence"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: ondeviceintelligence
+  # bug: 304755128
+  # description: Make methods on OnDeviceIntelligenceManager available for local inference.
+  # trace: packages/modules/NeuralNetworks/flags/ondevice_intelligence.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.ondeviceintelligence.flags/enable_on_device_intelligence_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.ondeviceintelligence.flags/enable_on_device_intelligence_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.ondeviceintelligence.flags/enable_on_device_intelligence_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.notification"
+  name: "notification_minimalism"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 330387368
+  # description: Minimize the notifications to show on the lockscreen.
+  # trace: frameworks/base/services/core/java/com/android/server/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.notification/notification_minimalism_flag_values.textproto : ENABLED
+}

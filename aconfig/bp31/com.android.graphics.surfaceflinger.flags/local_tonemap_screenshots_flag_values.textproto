@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "local_tonemap_screenshots"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 329464641
+  # description: Enables local tonemapping when capturing screenshots
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/local_tonemap_screenshots_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/local_tonemap_screenshots_flag_values.textproto : ENABLED
+}

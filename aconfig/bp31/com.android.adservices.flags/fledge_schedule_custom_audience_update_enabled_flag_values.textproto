@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_schedule_custom_audience_update_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices
+  # bug: 323297322
+  # description: Enables Schedule Custom Audience Update API
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/fledge_schedule_custom_audience_update_enabled_flag_values.textproto : ENABLED
+}

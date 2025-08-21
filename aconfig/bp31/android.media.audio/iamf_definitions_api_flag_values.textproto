@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.audio"
+  name: "iamf_definitions_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 337522902
+  # description: API definitions for the IAMF format
+  # trace: frameworks/av/media/audio/aconfig/audio_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.audio/iamf_definitions_api_flag_values.textproto : ENABLED
+}

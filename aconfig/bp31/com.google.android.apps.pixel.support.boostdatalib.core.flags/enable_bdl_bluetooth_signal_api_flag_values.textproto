@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.apps.pixel.support.boostdatalib.core.flags"
+  name: "enable_bdl_bluetooth_signal_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_support
+  # bug: 397550047
+  # description: This flag controls whether bluetooth signal api is enabled.
+  # trace: vendor/google/apps/PersistentBackgroundServices/adapter/boostdatalayer/src/com/google/android/apps/pixel/support/boostdatalib/core/flags/aconfig/flag_declarations.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.apps.pixel.support.boostdatalib.core.flags/enable_bdl_bluetooth_signal_api_flag_values.textproto : ENABLED
+}

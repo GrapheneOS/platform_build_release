@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.wm.shell"
+  name: "enable_taskbar_navbar_unification"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multitasking
+  # bug: 309671494
+  # description: Enables taskbar / navbar unification
+  # trace: frameworks/base/libs/WindowManager/Shell/aconfig/multitasking.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.wm.shell/enable_taskbar_navbar_unification_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.wm.shell/enable_taskbar_navbar_unification_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.wm.shell/enable_taskbar_navbar_unification_flag_values.textproto : ENABLED
+}

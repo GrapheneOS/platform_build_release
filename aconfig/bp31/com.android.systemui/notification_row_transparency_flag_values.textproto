@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_row_transparency"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 392187268
+  # description: Enables transparency on the Notification Shade.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/notification_row_transparency_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "auto_disable_observe_mode"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # purpose: PURPOSE_BUGFIX
+  # bug: 347728416
+  # description: Automatically disable observe mode if preferred service is misbehaving
+  # trace: packages/modules/Nfc/NfcNci/flags/nfc_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.nfc.flags/auto_disable_observe_mode_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.nfc.flags/auto_disable_observe_mode_flag_values.textproto : ENABLED
+}

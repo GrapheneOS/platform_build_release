@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notify_power_manager_user_activity_background"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 325203885
+  # description: Decide whether to notify the user activity to power manager in the background thread.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/notify_power_manager_user_activity_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/notify_power_manager_user_activity_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/notify_power_manager_user_activity_background_flag_values.textproto : ENABLED
+}

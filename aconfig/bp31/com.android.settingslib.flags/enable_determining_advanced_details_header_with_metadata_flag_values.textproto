@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "enable_determining_advanced_details_header_with_metadata"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: pixel_cross_device_control
+  # purpose: PURPOSE_BUGFIX
+  # bug: 328556903
+  # description: Use metadata instead of device type to determine whether a bluetooth device should use advanced details header.
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.settingslib.flags/enable_determining_advanced_details_header_with_metadata_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.settingslib.flags/enable_determining_advanced_details_header_with_metadata_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settingslib.flags/enable_determining_advanced_details_header_with_metadata_flag_values.textproto : ENABLED
+}

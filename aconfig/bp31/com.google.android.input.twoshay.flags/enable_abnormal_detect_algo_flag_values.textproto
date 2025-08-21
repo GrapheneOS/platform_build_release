@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.input.twoshay.flags"
+  name: "enable_abnormal_detect_algo"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: system_sw_touch
+  # bug: 375213421
+  # description: Enable feature algo.
+  # trace: vendor/google/input/twoshay/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.input.twoshay.flags/enable_abnormal_detect_algo_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.adservices.flags"
+  name: "fledge_get_ad_selection_data_seller_configuration_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.adservices
+  # namespace: adservices
+  # bug: 342332791
+  # description: Enable the seller configuration feature for the getAdSelectionData API
+  # trace: packages/modules/AdServices/adservices/flags/adservices_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.adservices.flags/fledge_get_ad_selection_data_seller_configuration_enabled_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_monitor_unicast_source_when_managed_by_broadcast_delegator"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 378661060
+  # description: Monitor stream for primary devices which manages external sources
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/leaudio_monitor_unicast_source_when_managed_by_broadcast_delegator_flag_values.textproto : ENABLED
+}

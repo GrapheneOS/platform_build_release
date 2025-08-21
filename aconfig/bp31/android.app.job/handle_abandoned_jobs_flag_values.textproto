@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.job"
+  name: "handle_abandoned_jobs"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 372529068
+  # description: Detect, report and take action on jobs that maybe abandoned by the app without calling jobFinished.
+  # trace: frameworks/base/apex/jobscheduler/framework/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.job/handle_abandoned_jobs_flag_values.textproto : ENABLED
+}

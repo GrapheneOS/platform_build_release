@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_overview_icon_menu"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_overview
+  # bug: 360205084
+  # description: Enable updated overview icon and menu within task.
+  # trace: packages/apps/Launcher3/aconfig/launcher_overview.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/enable_overview_icon_menu_flag_values.textproto : ENABLED
+}

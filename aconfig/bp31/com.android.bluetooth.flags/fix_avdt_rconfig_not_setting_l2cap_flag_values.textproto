@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "fix_avdt_rconfig_not_setting_l2cap"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 361717220
+  # description: Set L2CAP flushable and high priority after A2DP reconfigure
+  # trace: packages/modules/Bluetooth/flags/a2dp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/fix_avdt_rconfig_not_setting_l2cap_flag_values.textproto : ENABLED
+}

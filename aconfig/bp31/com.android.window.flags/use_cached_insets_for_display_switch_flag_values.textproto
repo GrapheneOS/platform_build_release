@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "use_cached_insets_for_display_switch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 266197298
+  # description: Reduce intermediate insets changes for display switch
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/use_cached_insets_for_display_switch_flag_values.textproto : ENABLED
+}

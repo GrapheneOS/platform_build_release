@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.systemui"
+  name: "enable_whiskey"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: pixel_energizer
+  # bug: 406894719
+  # description: Enable Project Whiskey
+  # trace: vendor/unbundled_google/packages/SystemUIGoogle/aconfig/systemuigoogle.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.systemui/enable_whiskey_flag_values.textproto : ENABLED
+}

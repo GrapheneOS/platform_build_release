@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_vector_cursor_a11y_settings"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 302275042
+  # description: Feature flag to enable accessibility settings for vector cursors.
+  # trace: frameworks/base/core/java/android/view/flags/view_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.view.flags/enable_vector_cursor_a11y_settings_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.flags/enable_vector_cursor_a11y_settings_flag_values.textproto : ENABLED
+}

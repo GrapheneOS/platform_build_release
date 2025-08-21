@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "update_sco_state_correctly_on_rfcomm_disconnect_during_codec_nego"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 351778741
+  # description: Flag to set the SCO state correctly on RFCOMM disconnection during Codec Negotiation
+  # trace: packages/modules/Bluetooth/flags/hfp.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.bluetooth.flags/update_sco_state_correctly_on_rfcomm_disconnect_during_codec_nego_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/update_sco_state_correctly_on_rfcomm_disconnect_during_codec_nego_flag_values.textproto : ENABLED
+}

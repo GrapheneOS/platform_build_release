@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "remove_dream_overlay_hide_on_touch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 329091030
+  # description: Removes logic to hide the dream overlay on user interaction, as it conflicts with various transitions
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/remove_dream_overlay_hide_on_touch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/remove_dream_overlay_hide_on_touch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/remove_dream_overlay_hide_on_touch_flag_values.textproto : ENABLED
+}

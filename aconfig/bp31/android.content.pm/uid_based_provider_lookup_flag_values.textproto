@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "uid_based_provider_lookup"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 334024639
+  # description: Feature flag to check whether a given UID can access a content provider
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.content.pm/uid_based_provider_lookup_flag_values.textproto : ENABLED
+}

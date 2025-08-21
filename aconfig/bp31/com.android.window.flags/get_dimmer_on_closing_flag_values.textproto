@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "get_dimmer_on_closing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 329233513
+  # description: Change check for when to ignore a closing task's dim
+  # trace: frameworks/base/core/java/android/window/flags/windowing_frontend.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/get_dimmer_on_closing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/get_dimmer_on_closing_flag_values.textproto : ENABLED
+}

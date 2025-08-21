@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "hardware_color_styles"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 347286986
+  # description: Enables loading initial colors based ion hardware color
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/hardware_color_styles_flag_values.textproto : ENABLED
+}

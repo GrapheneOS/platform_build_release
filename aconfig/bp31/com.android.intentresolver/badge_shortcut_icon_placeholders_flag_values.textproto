@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "badge_shortcut_icon_placeholders"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 349847176
+  # description: Badge shortcut icon placeholders with app icon.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.intentresolver/badge_shortcut_icon_placeholders_flag_values.textproto : ENABLED
+}

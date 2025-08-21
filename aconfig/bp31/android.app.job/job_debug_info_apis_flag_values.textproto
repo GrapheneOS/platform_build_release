@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.job"
+  name: "job_debug_info_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 293491637
+  # description: Add APIs to let apps attach debug information to jobs
+  # trace: frameworks/base/apex/jobscheduler/framework/aconfig/job.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.job/job_debug_info_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.job/job_debug_info_apis_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.job/job_debug_info_apis_flag_values.textproto : ENABLED
+}

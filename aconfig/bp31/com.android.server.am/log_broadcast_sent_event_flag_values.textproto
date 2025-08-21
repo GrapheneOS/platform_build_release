@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "log_broadcast_sent_event"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 355261986
+  # description: Log the broadcast send event to Statsd
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.am/log_broadcast_sent_event_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/log_broadcast_sent_event_flag_values.textproto : ENABLED
+}

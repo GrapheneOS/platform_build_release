@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app"
+  name: "pinner_service_client_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 307594624
+  # description: Control exposing PinnerService APIs.
+  # trace: frameworks/base/core/java/android/app/pinner-client.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app/pinner_service_client_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app/pinner_service_client_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/pinner_service_client_api_flag_values.textproto : ENABLED
+}

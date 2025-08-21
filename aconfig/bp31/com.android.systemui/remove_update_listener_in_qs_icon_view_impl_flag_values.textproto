@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "remove_update_listener_in_qs_icon_view_impl"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 327078684
+  # description: Remove update listeners in QsIconViewImpl class to avoid memory leak.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/remove_update_listener_in_qs_icon_view_impl_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/remove_update_listener_in_qs_icon_view_impl_flag_values.textproto : ENABLED
+}

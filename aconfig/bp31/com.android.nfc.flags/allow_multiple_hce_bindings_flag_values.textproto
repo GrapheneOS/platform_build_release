@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.flags"
+  name: "allow_multiple_hce_bindings"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 365533082
+  # description: Allow HostEmulationManager to bind to multiple non-payment services at a time
+  # trace: packages/modules/Nfc/NfcNci/flags/multiple_services_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.nfc.flags/allow_multiple_hce_bindings_flag_values.textproto : ENABLED
+}

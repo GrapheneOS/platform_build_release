@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.flags"
+  name: "enable_scroll_feedback_for_touch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_frameworks
+  # bug: 382135785
+  # description: Enables touchscreen haptic scroll feedback
+  # trace: frameworks/base/core/java/android/view/flags/scroll_feedback_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.flags/enable_scroll_feedback_for_touch_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.hardware.devicestate.feature.flags"
+  name: "device_state_rdm_v2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # bug: 372486634
+  # description: Enables Rear Display Mode V2, where the inner display shows the user a UI affordance for exiting the state
+  # trace: frameworks/base/core/java/android/hardware/devicestate/feature/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.hardware.devicestate.feature.flags/device_state_rdm_v2_flag_values.textproto : ENABLED
+}

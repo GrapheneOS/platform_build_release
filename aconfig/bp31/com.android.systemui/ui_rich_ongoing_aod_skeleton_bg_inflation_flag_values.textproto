@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "ui_rich_ongoing_aod_skeleton_bg_inflation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 416714129
+  # description: Offload AOD Skeleton inflation to the background thread
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/ui_rich_ongoing_aod_skeleton_bg_inflation_flag_values.textproto : ENABLED
+}

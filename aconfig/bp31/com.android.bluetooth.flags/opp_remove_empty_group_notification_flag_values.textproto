@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "opp_remove_empty_group_notification"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395546332
+  # description: As a solution of removing empty group notification, don't use group summary anymore
+  # trace: packages/modules/Bluetooth/flags/opp.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/opp_remove_empty_group_notification_flag_values.textproto : ENABLED
+}

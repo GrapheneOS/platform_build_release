@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "dont_timeout_destroyed_calls"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381684580
+  # description: When create connection timeout is hit, if call is already destroyed, skip anomaly
+  # trace: packages/services/Telecomm/flags/telecom_anomaly_report_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.telecom.flags/dont_timeout_destroyed_calls_flag_values.textproto : ENABLED
+}

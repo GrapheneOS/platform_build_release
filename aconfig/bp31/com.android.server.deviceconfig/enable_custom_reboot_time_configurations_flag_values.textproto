@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.deviceconfig"
+  name: "enable_custom_reboot_time_configurations"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.configinfrastructure
+  # namespace: core_experiments_team_internal
+  # bug: 322076175
+  # description: This flags controls allowing devices to configure the reboot window and frequency.
+  # trace: packages/modules/ConfigInfrastructure/service/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.deviceconfig/enable_custom_reboot_time_configurations_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.deviceconfig/enable_custom_reboot_time_configurations_flag_values.textproto : ENABLED
+}

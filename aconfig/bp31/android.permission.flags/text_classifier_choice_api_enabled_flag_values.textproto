@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "text_classifier_choice_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 377229653
+  # description: API change to enable getTextClassifier by type
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/text_classifier_choice_api_enabled_flag_values.textproto : ENABLED
+}

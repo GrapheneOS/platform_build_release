@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "always_draw_magnification_fullscreen_border"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 291891390
+  # description: Always draw fullscreen orange border in fullscreen magnification
+  # trace: frameworks/base/core/java/android/window/flags/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.window.flags/always_draw_magnification_fullscreen_border_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.window.flags/always_draw_magnification_fullscreen_border_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.window.flags/always_draw_magnification_fullscreen_border_flag_values.textproto : ENABLED
+}

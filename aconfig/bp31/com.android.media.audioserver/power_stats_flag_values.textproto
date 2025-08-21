@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "power_stats"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 350114693
+  # description: Add power stats tracking and management.
+  # trace: frameworks/av/media/audio/aconfig/audioserver.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.audioserver/power_stats_flag_values.textproto : ENABLED
+}

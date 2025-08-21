@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.backup"
+  name: "enable_clear_pipe_after_restore_file"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: onboarding
+  # bug: 320633449
+  # description: Enables clearing the pipe buffer after restoring a single file to a BackupAgent.
+  # trace: frameworks/base/services/backup/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.backup/enable_clear_pipe_after_restore_file_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.backup/enable_clear_pipe_after_restore_file_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.backup/enable_clear_pipe_after_restore_file_flag_values.textproto : ENABLED
+}

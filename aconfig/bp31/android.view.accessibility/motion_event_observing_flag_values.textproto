@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "motion_event_observing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 297595990
+  # description: Allows accessibility services to intercept but not consume motion events from specified sources.
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.accessibility/motion_event_observing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.accessibility/motion_event_observing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.accessibility/motion_event_observing_flag_values.textproto : ENABLED
+}

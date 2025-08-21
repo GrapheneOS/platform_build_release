@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.security.keystore2"
+  name: "count_keys_per_uid"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: hardware_backed_security
+  # bug: 395078130
+  # description: Track counts of keys per-uid
+  # trace: system/security/keystore2/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.security.keystore2/count_keys_per_uid_flag_values.textproto : ENABLED
+}

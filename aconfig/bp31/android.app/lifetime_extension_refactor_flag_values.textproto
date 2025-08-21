@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "lifetime_extension_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 299448097
+  # description: Enables moving notification lifetime extension management from SystemUI to Notification Manager Service
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.app/lifetime_extension_refactor_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_interface_name_device_filter"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: usb
+  # bug: 312828160
+  # description: Feature flag to enable interface name as a parameter for device filter
+  # trace: frameworks/base/core/java/android/hardware/usb/flags/usb_framework_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.usb.flags/enable_interface_name_device_filter_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.usb.flags/enable_interface_name_device_filter_flag_values.textproto : ENABLED
+}

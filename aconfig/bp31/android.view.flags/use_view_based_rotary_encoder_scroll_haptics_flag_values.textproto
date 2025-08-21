@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.flags"
+  name: "use_view_based_rotary_encoder_scroll_haptics"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: toolkit
+  # bug: 299587011
+  # description: If enabled, the rotary encoder scroll haptic implementation in the View class will be used, and the HapticScrollFeedbackProvider logic for rotary encoder haptic will be muted.
+  # trace: frameworks/base/core/java/android/view/flags/scroll_feedback_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.flags/use_view_based_rotary_encoder_scroll_haptics_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.flags/use_view_based_rotary_encoder_scroll_haptics_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.flags/use_view_based_rotary_encoder_scroll_haptics_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.aconfig.flags"
+  name: "invoke_updatable_aflags"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 385383899
+  # description: When enabled, the system aflags binary invokes the updatable aflags.
+  # trace: build/make/tools/aconfig/aconfig_flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.aconfig.flags/invoke_updatable_aflags_flag_values.textproto : ENABLED
+}

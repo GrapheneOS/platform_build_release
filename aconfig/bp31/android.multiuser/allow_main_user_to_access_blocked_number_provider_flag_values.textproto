@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.multiuser"
+  name: "allow_main_user_to_access_blocked_number_provider"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # bug: 338579331
+  # description: Allow MAIN user to access blocked number provider
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/allow_main_user_to_access_blocked_number_provider_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/allow_main_user_to_access_blocked_number_provider_flag_values.textproto : ENABLED
+}

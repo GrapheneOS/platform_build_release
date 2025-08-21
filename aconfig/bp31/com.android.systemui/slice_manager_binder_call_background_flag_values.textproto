@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "slice_manager_binder_call_background"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 322745650
+  # description: Move the ISliceManager#getPinnedSpecs binder call to the background thread.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/slice_manager_binder_call_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/slice_manager_binder_call_background_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/slice_manager_binder_call_background_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "close_hid_if_uhid_ready_too_slow"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 362665394
+  # description: Close HID if UHID takes too long to be ready
+  # trace: packages/modules/Bluetooth/flags/hid.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/close_hid_if_uhid_ready_too_slow_flag_values.textproto : ENABLED
+}

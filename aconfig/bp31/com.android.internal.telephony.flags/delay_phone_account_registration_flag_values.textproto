@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "delay_phone_account_registration"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 349731543
+  # description: Fix bug where telephony would try to register for PhoneAccounts when Telecom isn't ready yet
+  # trace: frameworks/opt/telephony/flags/calling.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/delay_phone_account_registration_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/delay_phone_account_registration_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_battery_stats_for_all_displays"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 366112793
+  # description: Flag to enable battery stats for all displays.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.display.feature.flags/enable_battery_stats_for_all_displays_flag_values.textproto : ENABLED
+}

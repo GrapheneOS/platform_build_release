@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.uwb.flags"
+  name: "data_transfer_phase_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.uwb
+  # namespace: uwb
+  # bug: 319596317
+  # description: Implement CR-1022, CR-1047: Used to update data transfer phase config
+  # trace: packages/modules/Uwb/flags/uwb_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.uwb.flags/data_transfer_phase_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.uwb.flags/data_transfer_phase_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.uwb.flags/data_transfer_phase_config_flag_values.textproto : ENABLED
+}

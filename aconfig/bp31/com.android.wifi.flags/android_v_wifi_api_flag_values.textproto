@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.wifi.flags"
+  name: "android_v_wifi_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.wifi
+  # namespace: wifi
+  # bug: 319927407
+  # description: For new API added to Android V
+  # trace: packages/modules/Wifi/flags/wifi_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.wifi.flags/android_v_wifi_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.wifi.flags/android_v_wifi_api_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.wifi.flags/android_v_wifi_api_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_privileged_routing_for_media_routing_control"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 305919655
+  # description: Allow access to privileged routing capabilities to MEDIA_ROUTING_CONTROL holders.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_privileged_routing_for_media_routing_control_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_privileged_routing_for_media_routing_control_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_privileged_routing_for_media_routing_control_flag_values.textproto : ENABLED
+}

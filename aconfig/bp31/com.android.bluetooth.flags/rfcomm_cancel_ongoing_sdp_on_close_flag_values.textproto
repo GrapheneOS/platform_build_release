@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "rfcomm_cancel_ongoing_sdp_on_close"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 370916753
+  # description: Make sure the ongoing SDP is cleaned up when the socket is closed
+  # trace: packages/modules/Bluetooth/flags/rfcomm.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/rfcomm_cancel_ongoing_sdp_on_close_flag_values.textproto : ENABLED
+}

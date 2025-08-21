@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "lowlight_clock_uses_keyguard_charging_status"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 424297980
+  # description: Make sure keyguard and low-light clock show the same charging status.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/lowlight_clock_uses_keyguard_charging_status_flag_values.textproto : ENABLED
+}

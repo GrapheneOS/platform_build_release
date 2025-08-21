@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "headless_device_owner_single_user_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 289515470
+  # description: Add Headless DO support.
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/headless_device_owner_single_user_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/headless_device_owner_single_user_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/headless_device_owner_single_user_enabled_flag_values.textproto : ENABLED
+}

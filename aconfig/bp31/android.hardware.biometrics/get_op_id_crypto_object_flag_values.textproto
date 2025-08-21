@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "get_op_id_crypto_object"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 307601768
+  # description: Feature flag for adding a get operation id api to CryptoObject.
+  # trace: frameworks/base/core/java/android/hardware/biometrics/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.hardware.biometrics/get_op_id_crypto_object_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.hardware.biometrics/get_op_id_crypto_object_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.hardware.biometrics/get_op_id_crypto_object_flag_values.textproto : ENABLED
+}

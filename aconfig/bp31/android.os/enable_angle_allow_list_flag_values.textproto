@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "enable_angle_allow_list"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: gpu
+  # bug: 370845648
+  # description: Whether to read from angle allowlist to determine if app should use ANGLE
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os/enable_angle_allow_list_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "exclude_task_from_recents"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_sdk
+  # purpose: PURPOSE_BUGFIX
+  # bug: 404726350
+  # description: Enables WCT to set whether the task should be excluded from the Recents list
+  # trace: frameworks/base/core/java/android/window/flags/windowing_sdk.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/exclude_task_from_recents_flag_values.textproto : ENABLED
+}

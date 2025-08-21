@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.location.motionstate"
+  name: "release_motion_state_feature_flag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: device_idle
+  # bug: 360177219
+  # description: Enables motion state feature designed to generate motion metrics stat on power consumption of various subsystems when devices are in motion vs not in-motion 
+  # trace: vendor/google/sensors/common/libsueznanoappclients/aconfig_motion_state_flag.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/android.location.motionstate/release_motion_state_feature_flag_flag_values.textproto : ENABLED
+}

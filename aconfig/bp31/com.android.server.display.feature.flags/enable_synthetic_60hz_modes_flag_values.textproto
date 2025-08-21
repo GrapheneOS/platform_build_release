@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_synthetic_60hz_modes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 338183249
+  # description: Feature flag for DisplayManager to enable synthetic 60Hz modes for vrr displays
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/enable_synthetic_60hz_modes_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_synthetic_60hz_modes_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.contentcapture.flags"
+  name: "ccapi_baklava_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 380381249
+  # description: Feature flag for baklava content capture API
+  # trace: frameworks/base/core/java/android/view/contentcapture/flags/content_capture_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.contentcapture.flags/ccapi_baklava_enabled_flag_values.textproto : ENABLED
+}

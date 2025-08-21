@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "dream_biometric_prompt_fixes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 413511537
+  # description: Flags the behavior of  turning off dream back gesture disablement and gesture handling when the biometric prompt is showing
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/dream_biometric_prompt_fixes_flag_values.textproto : ENABLED
+}

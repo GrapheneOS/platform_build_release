@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "rpa_offload_to_bt_controller"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 378398874
+  # description: Offload LE RPA rotation to BT controller. go/rpa-offload-to-bt-controller
+  # trace: packages/modules/Bluetooth/flags/gap.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/rpa_offload_to_bt_controller_flag_values.textproto : ENABLED
+}

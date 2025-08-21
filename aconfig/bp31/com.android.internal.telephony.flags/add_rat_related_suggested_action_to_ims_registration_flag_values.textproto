@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "add_rat_related_suggested_action_to_ims_registration"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # bug: 290573256
+  # description: This flag is for adding suggested actions related to RAT to ims registration
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/add_rat_related_suggested_action_to_ims_registration_flag_values.textproto : ENABLED
+}

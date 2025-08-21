@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "relayout_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: autofill
+  # purpose: PURPOSE_BUGFIX
+  # bug: 381226145
+  # description: Fixing relayout issue. Guarding enabling device config flags
+  # trace: frameworks/base/services/autofill/bugfixes.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.service.autofill/relayout_fix_flag_values.textproto : ENABLED
+}

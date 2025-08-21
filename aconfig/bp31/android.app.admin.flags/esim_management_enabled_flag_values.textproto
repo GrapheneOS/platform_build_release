@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "esim_management_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 295301164
+  # description: Enable APIs to provision and manage eSIMs
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/esim_management_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/esim_management_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/esim_management_enabled_flag_values.textproto : ENABLED
+}

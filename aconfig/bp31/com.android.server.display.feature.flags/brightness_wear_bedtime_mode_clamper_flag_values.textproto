@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "brightness_wear_bedtime_mode_clamper"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 293613040
+  # description: Feature flag for the Wear Bedtime mode brightness clamper
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/brightness_wear_bedtime_mode_clamper_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/brightness_wear_bedtime_mode_clamper_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/brightness_wear_bedtime_mode_clamper_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "perform_cross_stack_redial_check_for_emergency_call"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 389190613
+  # description: This flag performs a quick cross stack redial if the subscription is being invalid and an exception occurs, while an emergency call is in progress.
+  # trace: frameworks/opt/telephony/flags/domainselection.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.internal.telephony.flags/perform_cross_stack_redial_check_for_emergency_call_flag_values.textproto : ENABLED
+}

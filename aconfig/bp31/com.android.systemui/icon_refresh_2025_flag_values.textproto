@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "icon_refresh_2025"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 391605373
+  # description: Build time flag for 2025 icon refresh
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/icon_refresh_2025_flag_values.textproto : ENABLED
+}

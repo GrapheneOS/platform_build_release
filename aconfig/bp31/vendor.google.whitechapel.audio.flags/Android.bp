@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-vendor.google.whitechapel.audio.flags-all",
+  package: "vendor.google.whitechapel.audio.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

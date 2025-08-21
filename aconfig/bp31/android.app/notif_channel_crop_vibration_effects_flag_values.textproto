@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app"
+  name: "notif_channel_crop_vibration_effects"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 345881518
+  # description: Limits the size of vibration effects that can be stored in a NotificationChannel
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.app/notif_channel_crop_vibration_effects_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/notif_channel_crop_vibration_effects_flag_values.textproto : ENABLED
+}

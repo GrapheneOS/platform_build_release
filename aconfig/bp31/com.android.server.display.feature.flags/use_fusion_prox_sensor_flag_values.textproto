@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "use_fusion_prox_sensor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # bug: 306203895
+  # description: Feature flag to control usage of a Fusion Proximity sensor if configued.
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/use_fusion_prox_sensor_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/use_fusion_prox_sensor_flag_values.textproto : ENABLED
+}

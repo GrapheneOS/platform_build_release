@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "allow_switching_hid_and_hogp"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 320762367
+  # description: Allow switching between HID and HOGP supported on the same device
+  # trace: packages/modules/Bluetooth/flags/hid.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.bluetooth.flags/allow_switching_hid_and_hogp_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.bluetooth.flags/allow_switching_hid_and_hogp_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/allow_switching_hid_and_hogp_flag_values.textproto : ENABLED
+}

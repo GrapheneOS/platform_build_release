@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_omit_accelerometer_rotation_restore"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 414591058
+  # description: Prevents restoring the ACCELEROMETER_ROTATION setting on foldable devices 
+  # during backup and restore
+  # trace: frameworks/base/core/java/android/window/flags/device_state_auto_rotate_setting.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.window.flags/enable_omit_accelerometer_rotation_restore_flag_values.textproto : ENABLED
+}

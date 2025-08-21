@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "archiving_read_only"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: permissions
+  # bug: 278553670
+  # description: Feature flag to enable the archiving feature.
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.permission.flags/archiving_read_only_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.permission.flags/archiving_read_only_flag_values.textproto : ENABLED
+}

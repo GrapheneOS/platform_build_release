@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "verify_key_event"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input_method
+  # bug: 331730488
+  # description: Verify KeyEvents in IME
+  # trace: frameworks/base/core/java/android/view/inputmethod/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.inputmethod/verify_key_event_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.audio"
+  name: "stereo_spatialization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_audio
+  # bug: 303920722
+  # description: Enable stereo channel mask for spatialization.
+  # trace: frameworks/av/media/audio/aconfig/audio.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.audio/stereo_spatialization_flag_values.textproto : ENABLED
+}

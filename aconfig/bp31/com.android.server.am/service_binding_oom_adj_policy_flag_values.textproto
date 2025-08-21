@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "service_binding_oom_adj_policy"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 318717054
+  # description: Optimize the service bindings by different policies like skipping oom adjuster
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.am/service_binding_oom_adj_policy_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.am/service_binding_oom_adj_policy_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/service_binding_oom_adj_policy_flag_values.textproto : ENABLED
+}

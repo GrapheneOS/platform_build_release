@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "perfetto_sdk_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: system_performance
+  # bug: 303199244
+  # description: Tracing using Perfetto SDK.
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.os/perfetto_sdk_tracing_flag_values.textproto : ENABLED
+}

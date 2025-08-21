@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_always_check_underlying_networks"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 352162710
+  # description: For status bar connectivity UI, always check underlying networks for wifi and carrier merged information, regardless of the sepcified transport type
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/status_bar_always_check_underlying_networks_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/status_bar_always_check_underlying_networks_flag_values.textproto : ENABLED
+}

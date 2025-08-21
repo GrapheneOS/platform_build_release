@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.companion.virtual.flags"
+  name: "vdm_custom_ime"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 287269288
+  # description: Enable custom IME API
+  # trace: frameworks/base/core/java/android/companion/virtual/flags/deprecated_flags_do_not_edit.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.companion.virtual.flags/vdm_custom_ime_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.companion.virtual.flags/vdm_custom_ime_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.companion.virtual.flags/vdm_custom_ime_flag_values.textproto : ENABLED
+}

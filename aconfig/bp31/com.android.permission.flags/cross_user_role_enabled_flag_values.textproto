@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "cross_user_role_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: permissions
+  # bug: 367732307
+  # description: This flag enables cross-user roles support and API
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.permission.flags/cross_user_role_enabled_flag_values.textproto : ENABLED
+}

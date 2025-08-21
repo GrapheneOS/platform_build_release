@@ -1,0 +1,12 @@
+flag_value {
+  package: "face.flags.policy"
+  name: "enable_camera_availability_listener"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: vendor
+  # namespace: pixel_biometrics_face
+  # bug: 351268511
+  # description: Enables using camera availability listener
+  # trace: vendor/google/biometrics/face/tuscany/flags/flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/face.flags.policy/enable_camera_availability_listener_flag_values.textproto : ENABLED
+}

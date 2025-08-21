@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.biometrics"
+  name: "face_vhal_feature"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: biometrics_framework
+  # bug: 294254230
+  # description: This flag controls tunscany virtual HAL feature
+  # trace: frameworks/base/services/core/java/com/android/server/biometrics/biometrics.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.biometrics/face_vhal_feature_flag_values.textproto : ENABLED
+}

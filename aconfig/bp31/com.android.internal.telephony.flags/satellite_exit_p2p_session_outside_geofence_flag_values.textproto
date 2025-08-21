@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "satellite_exit_p2p_session_outside_geofence"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 391926447
+  # description: Exit P2P satellite session outside geofence
+  # trace: frameworks/opt/telephony/flags/satellite.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.internal.telephony.flags/satellite_exit_p2p_session_outside_geofence_flag_values.textproto : ENABLED
+}

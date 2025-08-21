@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.contentprotection.flags"
+  name: "rapid_clear_notifications_by_listener_app_op_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: content_protection
+  # bug: 289080543
+  # description: If true, an appop is logged when a notification is rapidly cleared by a notification listener.
+  # trace: frameworks/base/core/java/android/view/contentprotection/flags/content_protection_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.contentprotection.flags/rapid_clear_notifications_by_listener_app_op_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.contentprotection.flags/rapid_clear_notifications_by_listener_app_op_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.contentprotection.flags/rapid_clear_notifications_by_listener_app_op_enabled_flag_values.textproto : ENABLED
+}

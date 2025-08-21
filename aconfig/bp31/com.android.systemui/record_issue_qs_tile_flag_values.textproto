@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "record_issue_qs_tile"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 305049544
+  # description: Replace Record Trace QS Tile with expanded Record Issue QS Tile
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/record_issue_qs_tile_flag_values.textproto : ENABLED
+}

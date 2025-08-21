@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "unregister_unresolvable_accounts"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # bug: 281061708
+  # description: When set, Telecom will unregister accounts if the service is not resolvable
+  # trace: packages/services/Telecomm/flags/telecom_non_critical_security_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/unregister_unresolvable_accounts_flag_values.textproto : ENABLED
+}

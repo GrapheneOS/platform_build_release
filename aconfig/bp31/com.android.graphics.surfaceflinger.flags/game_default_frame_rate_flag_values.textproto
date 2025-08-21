@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "game_default_frame_rate"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 286084594
+  # description: This flag guards the new behavior with the addition of Game Default Frame Rate feature.
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/game_default_frame_rate_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/game_default_frame_rate_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/game_default_frame_rate_flag_values.textproto : ENABLED
+}

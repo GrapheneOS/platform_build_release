@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "offload_implementation"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: context_hub
+  # bug: 361573382
+  # description: Enables support for generic offload
+  # trace: system/chre/chre_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.chre.flags/offload_implementation_flag_values.textproto : ENABLED
+}

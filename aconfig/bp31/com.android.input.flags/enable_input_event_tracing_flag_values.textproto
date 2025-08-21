@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "enable_input_event_tracing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 210460522
+  # description: Set to true to enable input event tracing, including always-on tracing on non-user builds
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.input.flags/enable_input_event_tracing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.input.flags/enable_input_event_tracing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/enable_input_event_tracing_flag_values.textproto : ENABLED
+}

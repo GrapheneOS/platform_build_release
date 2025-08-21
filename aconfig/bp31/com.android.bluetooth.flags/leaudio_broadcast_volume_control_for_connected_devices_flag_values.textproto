@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "leaudio_broadcast_volume_control_for_connected_devices"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 307408418
+  # description: Allow volume control for connected devices
+  # trace: packages/modules/Bluetooth/flags/leaudio.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.bluetooth.flags/leaudio_broadcast_volume_control_for_connected_devices_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.bluetooth.flags/leaudio_broadcast_volume_control_for_connected_devices_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/leaudio_broadcast_volume_control_for_connected_devices_flag_values.textproto : ENABLED
+}

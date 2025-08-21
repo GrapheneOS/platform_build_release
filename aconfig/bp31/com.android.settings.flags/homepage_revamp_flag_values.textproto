@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "homepage_revamp"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 321612737
+  # description: Feature flag to enable new settings homepage UX.
+  # trace: packages/apps/Settings/aconfig/settings_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.flags/homepage_revamp_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.flags/homepage_revamp_flag_values.textproto : ENABLED
+}

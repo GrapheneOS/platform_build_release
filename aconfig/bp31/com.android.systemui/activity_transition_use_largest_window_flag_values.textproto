@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "activity_transition_use_largest_window"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 323294573
+  # description: Target largest opening window during activity transitions.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.systemui/activity_transition_use_largest_window_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/activity_transition_use_largest_window_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/activity_transition_use_largest_window_flag_values.textproto : ENABLED
+}

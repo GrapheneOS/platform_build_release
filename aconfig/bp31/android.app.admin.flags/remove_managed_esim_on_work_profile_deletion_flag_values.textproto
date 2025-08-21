@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "remove_managed_esim_on_work_profile_deletion"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 347925470
+  # description: Remove managed eSIM when work profile is deleted
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app.admin.flags/remove_managed_esim_on_work_profile_deletion_flag_values.textproto : ENABLED
+}

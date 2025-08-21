@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "rebuild_adapters_on_target_pinning"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 230703572
+  # description: Rebuild and swap adapters when a target gets (un)pinned to avoid flickering.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.intentresolver/rebuild_adapters_on_target_pinning_flag_values.textproto : ENABLED
+}

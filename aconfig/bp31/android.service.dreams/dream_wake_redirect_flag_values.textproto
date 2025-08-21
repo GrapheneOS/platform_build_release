@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "dream_wake_redirect"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 334083490
+  # description: This flag enables using a host to handle displaying a dream's overlay rather than relying on the dream's window
+  # trace: frameworks/base/core/java/android/service/dreams/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.service.dreams/dream_wake_redirect_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.dreams/dream_wake_redirect_flag_values.textproto : ENABLED
+}

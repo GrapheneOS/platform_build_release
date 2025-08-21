@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.net"
+  name: "use_metered_firewall_chains"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 336693007
+  # description: Use metered firewall chains to control access to metered networks
+  # trace: frameworks/base/services/core/java/com/android/server/net/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.net/use_metered_firewall_chains_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.net/use_metered_firewall_chains_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.net/use_metered_firewall_chains_flag_values.textproto : ENABLED
+}

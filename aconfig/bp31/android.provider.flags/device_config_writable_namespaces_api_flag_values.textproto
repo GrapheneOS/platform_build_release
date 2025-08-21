@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.provider.flags"
+  name: "device_config_writable_namespaces_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.configinfrastructure
+  # namespace: psap_ai
+  # bug: 364083026
+  # description: API flag for accessing DeviceConfig writable namespaces
+  # trace: packages/modules/ConfigInfrastructure/framework/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.provider.flags/device_config_writable_namespaces_api_flag_values.textproto : ENABLED
+}

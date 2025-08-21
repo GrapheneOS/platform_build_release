@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "show_taskbar_pinning_popup_from_anywhere"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 297325541
+  # description: Shows the pinning popup view after long-pressing or right-clicking anywhere on the pinned taskbar
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/show_taskbar_pinning_popup_from_anywhere_flag_values.textproto : ENABLED
+}

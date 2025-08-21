@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.notification"
+  name: "ranking_update_ashmem"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 249848655
+  # description: This flag controls moving ranking update contents into ashmem
+  # trace: frameworks/base/core/java/android/service/notification/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.notification/ranking_update_ashmem_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.notification/ranking_update_ashmem_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.notification/ranking_update_ashmem_flag_values.textproto : ENABLED
+}

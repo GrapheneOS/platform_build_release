@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.net.thread.flags"
+  name: "thread_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: thread_network
+  # bug: 301473012
+  # description: Controls whether the Android Thread feature is enabled
+  # trace: packages/modules/Connectivity/common/thread_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.net.thread.flags/thread_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.net.thread.flags/thread_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.net.thread.flags/thread_enabled_flag_values.textproto : ENABLED
+}

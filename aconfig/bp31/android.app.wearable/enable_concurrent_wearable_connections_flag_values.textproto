@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app.wearable"
+  name: "enable_concurrent_wearable_connections"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 358133158
+  # description: This flag enables the APIs for providing multiple concurrent connections to the WearableSensingService.
+  # trace: frameworks/base/core/java/android/app/wearable/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app.wearable/enable_concurrent_wearable_connections_flag_values.textproto : ENABLED
+}

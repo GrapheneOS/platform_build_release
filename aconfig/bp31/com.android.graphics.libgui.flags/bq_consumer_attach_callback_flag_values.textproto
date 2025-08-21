@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "bq_consumer_attach_callback"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 353202582
+  # description: Controls IProducerListener to have consumer side attach callback
+  # trace: frameworks/native/libs/gui/libgui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.libgui.flags/bq_consumer_attach_callback_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.libgui.flags/bq_consumer_attach_callback_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.libgui.flags/bq_consumer_attach_callback_flag_values.textproto : ENABLED
+}

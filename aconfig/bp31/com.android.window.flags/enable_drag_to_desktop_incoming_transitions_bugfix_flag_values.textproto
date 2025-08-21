@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_drag_to_desktop_incoming_transitions_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 397135730
+  # description: Enables bugfix handling incoming transitions during the DragToDesktop transition.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_drag_to_desktop_incoming_transitions_bugfix_flag_values.textproto : ENABLED
+}

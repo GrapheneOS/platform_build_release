@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "csw_service_interface_is_null"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 364811868
+  # description: fix potential NPE in onCreateConnection when the ServiceInterface is cleared out
+  # trace: packages/services/Telecomm/flags/telecom_connection_service_wrapper_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.telecom.flags/csw_service_interface_is_null_flag_values.textproto : ENABLED
+}

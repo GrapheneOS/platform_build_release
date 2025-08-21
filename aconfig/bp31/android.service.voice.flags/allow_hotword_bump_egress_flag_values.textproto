@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.voice.flags"
+  name: "allow_hotword_bump_egress"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: machine_learning
+  # bug: 290951024
+  # description: This flag allows hotword detection service to egress reason code for hotword bump.
+  # trace: frameworks/base/core/java/android/service/voice/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.voice.flags/allow_hotword_bump_egress_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.voice.flags/allow_hotword_bump_egress_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.voice.flags/allow_hotword_bump_egress_flag_values.textproto : ENABLED
+}

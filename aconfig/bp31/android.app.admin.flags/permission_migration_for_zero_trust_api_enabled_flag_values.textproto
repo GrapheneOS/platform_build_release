@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "permission_migration_for_zero_trust_api_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # bug: 289520697
+  # description: (API) Migrate existing APIs to permission based, and enable DMRH to call them to collect Zero Trust signals.
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/permission_migration_for_zero_trust_api_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/permission_migration_for_zero_trust_api_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/permission_migration_for_zero_trust_api_enabled_flag_values.textproto : ENABLED
+}

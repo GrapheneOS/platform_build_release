@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.os.vibrator"
+  name: "normalized_pwle_effects"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: haptics
+  # purpose: PURPOSE_FEATURE
+  # bug: 341052318
+  # description: Enables functionality to create PWLE effects using advanced and simple APIs
+  # trace: frameworks/base/core/java/android/os/vibrator/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.os.vibrator/normalized_pwle_effects_flag_values.textproto : ENABLED
+}

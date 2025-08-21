@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_chips_modernization"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 372657935
+  # description: Deprecate OngoingCallController and implement OngoingActivityChipsin compose
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_chips_modernization_flag_values.textproto : ENABLED
+}

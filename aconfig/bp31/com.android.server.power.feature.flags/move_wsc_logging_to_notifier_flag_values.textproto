@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "move_wsc_logging_to_notifier"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: power
+  # bug: 352602149
+  # description: Feature flag to move logging of WakelockStateChanged atoms from BatteryStatsImpl to Notifier.
+  # trace: frameworks/base/services/core/java/com/android/server/power/feature/power_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.power.feature.flags/move_wsc_logging_to_notifier_flag_values.textproto : ENABLED
+}

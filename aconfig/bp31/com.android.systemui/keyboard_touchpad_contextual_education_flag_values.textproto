@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "keyboard_touchpad_contextual_education"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 317496783
+  # description: Allow showing education for physical keyboard and touchpad
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/keyboard_touchpad_contextual_education_flag_values.textproto : ENABLED
+}

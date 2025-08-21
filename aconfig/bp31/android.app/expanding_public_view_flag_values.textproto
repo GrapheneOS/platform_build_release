@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "expanding_public_view"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 398853084
+  # description: enables user expanding the public view of a notification
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/android.app/expanding_public_view_flag_values.textproto : ENABLED
+}

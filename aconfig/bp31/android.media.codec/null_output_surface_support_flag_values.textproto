@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.media.codec"
+  name: "null_output_surface_support"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: codec_fwk
+  # bug: 325550522
+  # description: Feature flag for null output Surface support
+  # trace: frameworks/av/media/aconfig/codec_fwk.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.media.codec/null_output_surface_support_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.media.codec/null_output_surface_support_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.media.codec/null_output_surface_support_flag_values.textproto : ENABLED
+}

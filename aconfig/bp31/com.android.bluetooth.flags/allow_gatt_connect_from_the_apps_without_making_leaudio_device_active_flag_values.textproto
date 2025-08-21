@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "allow_gatt_connect_from_the_apps_without_making_leaudio_device_active"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 389274300
+  # description: Allows for GATT connection without making LeAudio device active after connection
+  # trace: packages/modules/Bluetooth/flags/connectivity.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/allow_gatt_connect_from_the_apps_without_making_leaudio_device_active_flag_values.textproto : ENABLED
+}

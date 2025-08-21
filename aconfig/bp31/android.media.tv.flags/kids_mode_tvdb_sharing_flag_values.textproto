@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.media.tv.flags"
+  name: "kids_mode_tvdb_sharing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_tv
+  # bug: 288383796
+  # description: Performance and Storage Optimization in Google TV Kids Mode.
+  # trace: frameworks/base/media/java/android/media/tv/flags/media_tv.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.media.tv.flags/kids_mode_tvdb_sharing_flag_values.textproto : ENABLED
+}

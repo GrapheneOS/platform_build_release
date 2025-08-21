@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "feature_combination_query"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: camera_platform
+  # bug: 309627704
+  # description: Query feature combination support and session specific characteristics
+  # trace: frameworks/av/camera/camera_platform.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.camera.flags/feature_combination_query_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.camera.flags/feature_combination_query_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.camera.flags/feature_combination_query_flag_values.textproto : ENABLED
+}

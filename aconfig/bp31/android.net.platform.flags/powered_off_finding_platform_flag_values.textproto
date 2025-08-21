@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.net.platform.flags"
+  name: "powered_off_finding_platform"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nearby
+  # bug: 307898240
+  # description: Controls whether the Powered Off Finding feature is enabled
+  # trace: frameworks/base/core/java/android/net/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.net.platform.flags/powered_off_finding_platform_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.net.platform.flags/powered_off_finding_platform_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.net.platform.flags/powered_off_finding_platform_flag_values.textproto : ENABLED
+}

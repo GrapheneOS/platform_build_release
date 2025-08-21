@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.settings.accessibility"
+  name: "check_prebundled_is_preinstalled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: accessibility
+  # purpose: PURPOSE_BUGFIX
+  # bug: 353888087
+  # description: Checks that all 'prebundled' components, used for grouping, are also preinstalled
+  # trace: packages/apps/Settings/aconfig/accessibility/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.settings.accessibility/check_prebundled_is_preinstalled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.settings.accessibility/check_prebundled_is_preinstalled_flag_values.textproto : ENABLED
+}

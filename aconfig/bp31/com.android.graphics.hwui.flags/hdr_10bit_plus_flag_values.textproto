@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.hwui.flags"
+  name: "hdr_10bit_plus"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 284159488
+  # description: Use 10101010 and FP16 formats for HDR-UI when available
+  # trace: frameworks/base/libs/hwui/aconfig/hwui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.hwui.flags/hdr_10bit_plus_flag_values.textproto : ENABLED
+}

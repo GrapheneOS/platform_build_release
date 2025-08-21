@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_windowing_edge_drag_resize"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # bug: 337782092
+  # description: Enables edge drag resizing for stylus input (cursor is enabled by default)
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_windowing_edge_drag_resize_flag_values.textproto : ENABLED
+}

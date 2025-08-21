@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.service.chooser"
+  name: "fix_resolver_memory_leak"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # purpose: PURPOSE_BUGFIX
+  # bug: 346671041
+  # description: ResolverActivity memory leak (through the AppPredictor callback) fix
+  # trace: frameworks/base/core/java/android/service/chooser/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.chooser/fix_resolver_memory_leak_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.chooser/fix_resolver_memory_leak_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.chooser/fix_resolver_memory_leak_flag_values.textproto : ENABLED
+}

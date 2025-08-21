@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "bind_wallpaper_service_on_its_own_thread_during_a_user_switch"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # bug: 302100344
+  # description: Bind wallpaper service on its own thread instead of system_server's main handler during a user switch.
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/bind_wallpaper_service_on_its_own_thread_during_a_user_switch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/bind_wallpaper_service_on_its_own_thread_during_a_user_switch_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/bind_wallpaper_service_on_its_own_thread_during_a_user_switch_flag_values.textproto : ENABLED
+}

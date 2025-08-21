@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "onboarding_consentless_bugreports"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 340439309
+  # description: Allow subsequent bugreports to skip user consent within a time frame
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/onboarding_consentless_bugreports_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/onboarding_consentless_bugreports_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/onboarding_consentless_bugreports_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.app"
+  name: "redact_sensitive_content_notifications_on_lockscreen"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 343631648
+  # description: redacts notifications on the lockscreen if they have the 'sensitiveContent' flag
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/redact_sensitive_content_notifications_on_lockscreen_flag_values.textproto : ENABLED
+}

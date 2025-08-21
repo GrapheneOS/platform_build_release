@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.multiuser"
+  name: "use_private_space_icon_in_biometric_prompt"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: profile_experiences
+  # purpose: PURPOSE_BUGFIX
+  # bug: 333528540
+  # description: Update the biometric prompt from generic Settings icon to private space icon
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/use_private_space_icon_in_biometric_prompt_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/use_private_space_icon_in_biometric_prompt_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/use_private_space_icon_in_biometric_prompt_flag_values.textproto : ENABLED
+}

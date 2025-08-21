@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "inherit_task_bounds_for_trampoline_task_launches"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392815318
+  # description: Forces trampoline task launches to inherit the bounds of the previous instance /nbefore is closes to prevent each task from cascading.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/inherit_task_bounds_for_trampoline_task_launches_flag_values.textproto : ENABLED
+}

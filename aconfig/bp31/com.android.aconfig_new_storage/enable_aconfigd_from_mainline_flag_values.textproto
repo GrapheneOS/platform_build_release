@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.aconfig_new_storage"
+  name: "enable_aconfigd_from_mainline"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # bug: 369808805
+  # description: When enabled, launch aconfigd from config infra module.
+  # trace: system/server_configurable_flags/aconfigd/new_aconfig_storage.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.aconfig_new_storage/enable_aconfigd_from_mainline_flag_values.textproto : ENABLED
+}

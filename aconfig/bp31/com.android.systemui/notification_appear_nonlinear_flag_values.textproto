@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_appear_nonlinear"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 397658189
+  # description: Fix linear usage of notification appear
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/notification_appear_nonlinear_flag_values.textproto : ENABLED
+}

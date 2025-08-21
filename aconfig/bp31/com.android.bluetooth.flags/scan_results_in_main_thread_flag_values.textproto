@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "scan_results_in_main_thread"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 392693506
+  # description: Use main thread for handling scan results
+  # trace: packages/modules/Bluetooth/flags/le_scanning.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/scan_results_in_main_thread_flag_values.textproto : ENABLED
+}

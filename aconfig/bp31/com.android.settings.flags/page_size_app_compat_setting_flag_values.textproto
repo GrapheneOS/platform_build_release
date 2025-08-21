@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "page_size_app_compat_setting"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: devoptions_settings
+  # bug: 371049373
+  # description: Flag to enable page size app compat mode from Settings.
+  # trace: packages/apps/Settings/aconfig/settings_development_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settings.flags/page_size_app_compat_setting_flag_values.textproto : ENABLED
+}

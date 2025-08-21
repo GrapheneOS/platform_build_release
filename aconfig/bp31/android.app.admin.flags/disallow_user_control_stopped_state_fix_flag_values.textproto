@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "disallow_user_control_stopped_state_fix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: enterprise
+  # purpose: PURPOSE_BUGFIX
+  # bug: 330688482
+  # description: Ensure DPM.setUserControlDisabledPackages() clears FLAG_STOPPED for the app
+  # trace: frameworks/base/core/java/android/app/admin/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.admin.flags/disallow_user_control_stopped_state_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.admin.flags/disallow_user_control_stopped_state_fix_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.admin.flags/disallow_user_control_stopped_state_fix_flag_values.textproto : ENABLED
+}

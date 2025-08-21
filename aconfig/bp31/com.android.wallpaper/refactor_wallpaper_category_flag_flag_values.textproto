@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "refactor_wallpaper_category_flag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: customization_picker
+  # bug: 290840060
+  # description: Enables wallpaper category selection according to recommended architecture when flag is turned on.
+  # trace: packages/apps/WallpaperPicker2/aconfig/customization_picker.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.wallpaper/refactor_wallpaper_category_flag_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.apps.nexuslauncher"
+  name: "default_layout_gemini_widget_fixed"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 410594432
+  # description: Adds the Gemini widget to the default layout
+  # trace: vendor/unbundled_google/packages/NexusLauncher/aconfig/launcher.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/bp3a/com.google.android.apps.nexuslauncher/default_layout_gemini_widget_fixed_flag_values.textproto : ENABLED
+}

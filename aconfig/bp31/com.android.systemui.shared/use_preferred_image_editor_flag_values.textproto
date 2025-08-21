@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui.shared"
+  name: "use_preferred_image_editor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 391401141
+  # description: Prefer the editor in config_preferredScreenshotEditor if component is present/enabled on the system
+  # trace: frameworks/libs/systemui/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui.shared/use_preferred_image_editor_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.clipboard"
+  name: "clipboard_get_event_logging"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 402542624
+  # description: Log the clipboard retrieval event in statsd
+  # trace: frameworks/base/services/core/java/com/android/server/clipboard/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.clipboard/clipboard_get_event_logging_flag_values.textproto : ENABLED
+}

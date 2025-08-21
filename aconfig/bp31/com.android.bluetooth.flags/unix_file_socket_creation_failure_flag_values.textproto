@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "unix_file_socket_creation_failure"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # bug: 318886332
+  # description: New socket exception code for better logging and error handling
+  # trace: packages/modules/Bluetooth/flags/sockets.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.bluetooth.flags/unix_file_socket_creation_failure_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.bluetooth.flags/unix_file_socket_creation_failure_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/unix_file_socket_creation_failure_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.power.batterysaver"
+  name: "update_auto_turn_on_notification_string_and_action"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 336960905
+  # description: Improve the string and hightligh settings item for battery saver auto-turn-on notification
+  # trace: frameworks/base/services/core/java/com/android/server/power/batterysaver/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.power.batterysaver/update_auto_turn_on_notification_string_and_action_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.batterysaver/update_auto_turn_on_notification_string_and_action_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.batterysaver/update_auto_turn_on_notification_string_and_action_flag_values.textproto : ENABLED
+}

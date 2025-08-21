@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.providers.media.flags"
+  name: "enable_mime_type_fix_for_android_15"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.mediaprovider
+  # namespace: mediaprovider
+  # bug: 376910932
+  # description: This flag enables the fix for MIME type mapping in Android 15, correcting the faulty mime.types entries.
+  # trace: packages/providers/MediaProvider/mediaprovider_flags.aconfig : DISABLED
+  # trace: vendor/google_shared/build/release/aconfig/mainline_2025_06/com.android.providers.media.flags/enable_mime_type_fix_for_android_15_flag_values.textproto : ENABLED
+}

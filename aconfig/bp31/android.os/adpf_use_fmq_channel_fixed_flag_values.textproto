@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.os"
+  name: "adpf_use_fmq_channel_fixed"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: game
+  # bug: 315894228
+  # description: Guards use of the FMQ channel for ADPF with a readonly flag
+  # trace: frameworks/base/core/java/android/os/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/android.os/adpf_use_fmq_channel_fixed_flag_values.textproto : ENABLED
+}

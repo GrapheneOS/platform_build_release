@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "answer_audio_only_when_answering_via_mmi_code"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 286499659
+  # description: This flag changes the media type when answering incoming call via MMI code
+  # trace: frameworks/opt/telephony/flags/ims.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.internal.telephony.flags/answer_audio_only_when_answering_via_mmi_code_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/answer_audio_only_when_answering_via_mmi_code_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/answer_audio_only_when_answering_via_mmi_code_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.policy.feature.flags"
+  name: "force_foldables_tent_mode_with_screen_wakelock"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: windowing_frontend
+  # purpose: PURPOSE_BUGFIX
+  # bug: 363174979
+  # description: Switching displays on a foldable device later if screen wakelock is present
+  # trace: frameworks/base/services/foldables/devicestateprovider/src/com/android/server/policy/feature/device_state_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.server.policy.feature.flags/force_foldables_tent_mode_with_screen_wakelock_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "trace_update_app_freeze_state_lsp"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 345547733
+  # description: Output process oom adj and other metadata to trace in updateAppFreezeStateLSP
+  # trace: frameworks/base/services/core/java/com/android/server/am/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.am/trace_update_app_freeze_state_lsp_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.am/trace_update_app_freeze_state_lsp_flag_values.textproto : ENABLED
+}

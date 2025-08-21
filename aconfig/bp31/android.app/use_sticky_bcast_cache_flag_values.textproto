@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "use_sticky_bcast_cache"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # purpose: PURPOSE_BUGFIX
+  # bug: 356148006
+  # description: Use cache for sticky broadcast intents
+  # trace: frameworks/base/core/java/android/app/activity_manager.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.app/use_sticky_bcast_cache_flag_values.textproto : ENABLED
+}

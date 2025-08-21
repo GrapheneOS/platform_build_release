@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "ignore_xml_for_read_only_flags"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 345007098
+  # description: When enabled, ignore any flag in the SettingsProvider XML for RO flags.
+  # trace: frameworks/base/packages/SettingsProvider/src/com/android/providers/settings/device_config_service.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.providers.settings/ignore_xml_for_read_only_flags_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.providers.settings/ignore_xml_for_read_only_flags_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.providers.settings/ignore_xml_for_read_only_flags_flag_values.textproto : ENABLED
+}

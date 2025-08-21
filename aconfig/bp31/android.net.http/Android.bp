@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-bp31-android.net.http-all",
+  package: "android.net.http",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}

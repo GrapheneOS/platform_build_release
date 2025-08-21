@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.providers.settings"
+  name: "support_local_overrides_sysprops"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 366022906
+  # description: When DeviceConfig overrides are deleted, delete new storage overrides too.
+  # trace: frameworks/base/packages/SettingsProvider/src/com/android/providers/settings/device_config_service.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.providers.settings/support_local_overrides_sysprops_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.internal.telephony.flags"
+  name: "unregister_sms_broadcast_receiver_from_cat_service"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telephony
+  # purpose: PURPOSE_BUGFIX
+  # bug: 338936403
+  # description: This flag will unregister the sms broadcast receiver in the CatService when the process is disposed.
+  # trace: frameworks/opt/telephony/flags/messaging.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.internal.telephony.flags/unregister_sms_broadcast_receiver_from_cat_service_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.internal.telephony.flags/unregister_sms_broadcast_receiver_from_cat_service_flag_values.textproto : ENABLED
+}

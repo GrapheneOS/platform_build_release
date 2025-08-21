@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "add_banners_to_privacy_sensitive_apps_for_aaos"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.permission
+  # namespace: permissions
+  # bug: 327489942
+  # description: Flag to display warning banners to privacy sensitive apps in AAOS.
+  # trace: packages/modules/Permission/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.permission.flags/add_banners_to_privacy_sensitive_apps_for_aaos_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.permission.flags/add_banners_to_privacy_sensitive_apps_for_aaos_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_desktop_tab_tearing_minimize_animation_bugfix"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: lse_desktop_experience
+  # purpose: PURPOSE_BUGFIX
+  # bug: 376459606
+  # description: Enabling a minimize animation when a new window is opened via tab tearing and the Desktop Windowing open windows limit is reached.
+  # trace: frameworks/base/core/java/android/window/flags/lse_desktop_experience.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.window.flags/enable_desktop_tab_tearing_minimize_animation_bugfix_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.content.pm"
+  name: "sdk_dependency_installer"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: package_manager_service
+  # bug: 370822870
+  # description: Feature flag to enable installation of missing sdk dependency of app
+  # trace: frameworks/base/core/java/android/content/pm/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.content.pm/sdk_dependency_installer_flag_values.textproto : ENABLED
+}

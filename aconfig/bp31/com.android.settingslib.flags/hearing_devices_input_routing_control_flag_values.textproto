@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settingslib.flags"
+  name: "hearing_devices_input_routing_control"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 349255906
+  # description: Enable the input routing control in device details and hearing devices dialog.
+  # trace: frameworks/base/packages/SettingsLib/aconfig/settingslib.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.settingslib.flags/hearing_devices_input_routing_control_flag_values.textproto : ENABLED
+}

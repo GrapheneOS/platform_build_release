@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "disable_handwriting_initiator_for_ime"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # purpose: PURPOSE_BUGFIX
+  # bug: 343304685
+  # description: Don't initiate handwriting for IME views.
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/disable_handwriting_initiator_for_ime_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/disable_handwriting_initiator_for_ime_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/disable_handwriting_initiator_for_ime_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.flags"
+  name: "enable_use_of_bluetooth_device_get_alias_for_mr2info_get_name"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 314324170
+  # description: Use BluetoothDevice.getAlias to populate the name of Bluetooth MediaRoute2Infos.
+  # trace: frameworks/base/media/java/android/media/flags/media_better_together.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.flags/enable_use_of_bluetooth_device_get_alias_for_mr2info_get_name_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.flags/enable_use_of_bluetooth_device_get_alias_for_mr2info_get_name_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.flags/enable_use_of_bluetooth_device_get_alias_for_mr2info_get_name_flag_values.textproto : ENABLED
+}

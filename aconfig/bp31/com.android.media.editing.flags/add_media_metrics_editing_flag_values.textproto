@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.media.editing.flags"
+  name: "add_media_metrics_editing"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: media_solutions
+  # bug: 297487694
+  # description: Add media metrics for transcoding/editing events.
+  # trace: frameworks/base/media/java/android/media/flags/editing.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.media.editing.flags/add_media_metrics_editing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.media.editing.flags/add_media_metrics_editing_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.media.editing.flags/add_media_metrics_editing_flag_values.textproto : ENABLED
+}

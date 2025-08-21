@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "flush_buffer_slots_to_uncache"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # purpose: PURPOSE_BUGFIX
+  # bug: 330806421
+  # description: Flush DisplayCommands for disabled displays in order to uncache requested buffers.
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.android.graphics.surfaceflinger.flags/flush_buffer_slots_to_uncache_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.surfaceflinger.flags/flush_buffer_slots_to_uncache_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.surfaceflinger.flags/flush_buffer_slots_to_uncache_flag_values.textproto : ENABLED
+}

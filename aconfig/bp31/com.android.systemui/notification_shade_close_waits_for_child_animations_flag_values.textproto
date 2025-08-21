@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "notification_shade_close_waits_for_child_animations"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 388298358
+  # description: Improve the locked-shade close animation after dismissing a single notification.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/notification_shade_close_waits_for_child_animations_flag_values.textproto : ENABLED
+}

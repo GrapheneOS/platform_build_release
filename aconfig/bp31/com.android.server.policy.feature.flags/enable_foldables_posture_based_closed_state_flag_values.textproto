@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.server.policy.feature.flags"
+  name: "enable_foldables_posture_based_closed_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: windowing_frontend
+  # bug: 309792734
+  # description: Enables smarter closed device state state for foldable devices
+  # trace: frameworks/base/services/foldables/devicestateprovider/src/com/android/server/policy/feature/device_state_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.policy.feature.flags/enable_foldables_posture_based_closed_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.policy.feature.flags/enable_foldables_posture_based_closed_state_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.policy.feature.flags/enable_foldables_posture_based_closed_state_flag_values.textproto : ENABLED
+}

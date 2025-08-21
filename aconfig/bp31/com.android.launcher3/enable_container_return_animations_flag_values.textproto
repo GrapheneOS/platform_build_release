@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_container_return_animations"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 341017746
+  # description: Enables the container return animation mirroring launches.
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.launcher3/enable_container_return_animations_flag_values.textproto : ENABLED
+}

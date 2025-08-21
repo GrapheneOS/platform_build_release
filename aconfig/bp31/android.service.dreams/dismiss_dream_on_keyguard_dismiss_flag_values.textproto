@@ -1,0 +1,15 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "dismiss_dream_on_keyguard_dismiss"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 333829441
+  # description: Dismisses the dream in the keyguard-going-away transition, preventing it from being visible
+  # trace: frameworks/base/core/java/android/service/dreams/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.dreams/dismiss_dream_on_keyguard_dismiss_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.dreams/dismiss_dream_on_keyguard_dismiss_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.dreams/dismiss_dream_on_keyguard_dismiss_flag_values.textproto : ENABLED
+}

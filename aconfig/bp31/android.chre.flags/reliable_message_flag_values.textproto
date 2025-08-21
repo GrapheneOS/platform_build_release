@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.chre.flags"
+  name: "reliable_message"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: context_hub
+  # bug: 314081414
+  # description: Enable the reliable message APIs
+  # trace: system/chre/chre_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.chre.flags/reliable_message_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.chre.flags/reliable_message_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.chre.flags/reliable_message_flag_values.textproto : ENABLED
+}

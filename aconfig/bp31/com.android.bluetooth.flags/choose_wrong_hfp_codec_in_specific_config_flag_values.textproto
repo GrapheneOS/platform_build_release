@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "choose_wrong_hfp_codec_in_specific_config"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 354070098
+  # description: Flag to fix codec selection in nego when the peer device only support NB and SWB.
+  # trace: packages/modules/Bluetooth/flags/hfp.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.bluetooth.flags/choose_wrong_hfp_codec_in_specific_config_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.bluetooth.flags/choose_wrong_hfp_codec_in_specific_config_flag_values.textproto : ENABLED
+}

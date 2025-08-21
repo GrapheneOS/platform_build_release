@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "resolve_missing_when_to_dream"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 419323985
+  # description: This flag controls settings app correcting for missing dream option
+  # trace: packages/apps/Settings/aconfig/settings_communal_flag_declarations.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settings.flags/resolve_missing_when_to_dream_flag_values.textproto : ENABLED
+}

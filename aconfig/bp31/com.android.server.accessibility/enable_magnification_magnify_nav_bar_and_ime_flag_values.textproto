@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.server.accessibility"
+  name: "enable_magnification_magnify_nav_bar_and_ime"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 342509709
+  # description: Whether to enable magnify navigation bar and ime on full screen
+  # trace: frameworks/base/services/accessibility/accessibility.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.accessibility/enable_magnification_magnify_nav_bar_and_ime_flag_values.textproto : ENABLED
+}

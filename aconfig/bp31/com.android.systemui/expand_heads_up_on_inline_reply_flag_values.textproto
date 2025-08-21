@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "expand_heads_up_on_inline_reply"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 346976443
+  # description: Expands heads up notification when users clicks reply button and activate inline reply
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/expand_heads_up_on_inline_reply_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_launcher_visual_refresh"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher
+  # bug: 395145453
+  # description: Adds refresh for font family, app longpress menu icons, and pagination dots
+  # trace: packages/apps/Launcher3/aconfig/launcher.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/enable_launcher_visual_refresh_flag_values.textproto : ENABLED
+}

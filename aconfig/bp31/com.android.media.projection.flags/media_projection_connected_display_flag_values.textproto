@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.media.projection.flags"
+  name: "media_projection_connected_display"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: virtual_devices
+  # bug: 362720120
+  # description: Enable recording connected display
+  # trace: frameworks/base/media/java/android/media/flags/projection.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.media.projection.flags/media_projection_connected_display_flag_values.textproto : ENABLED
+}

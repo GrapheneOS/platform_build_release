@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_font_updates"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 393609116
+  # description: Read only flag for using a new font in the status bar
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.systemui/status_bar_font_updates_flag_values.textproto : ENABLED
+}

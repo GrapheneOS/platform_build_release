@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "classic_flags_multi_user"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 345443431
+  # description: Make the classic feature flag loading multi user aware.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.systemui/classic_flags_multi_user_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/classic_flags_multi_user_flag_values.textproto : ENABLED
+}

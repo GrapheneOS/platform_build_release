@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_restrict_item_drag"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_search
+  # bug: 289223923
+  # description: This flag disables drag and drop for Private Space Items.
+  # trace: packages/apps/Launcher3/aconfig/launcher_search.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.launcher3/private_space_restrict_item_drag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.launcher3/private_space_restrict_item_drag_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.launcher3/private_space_restrict_item_drag_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "empty_names_are_invalid"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.bt
+  # namespace: bluetooth
+  # purpose: PURPOSE_BUGFIX
+  # bug: 395178934
+  # description: Make sure the names used in the stack are valid
+  # trace: packages/modules/Bluetooth/flags/adapter.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.bluetooth.flags/empty_names_are_invalid_flag_values.textproto : ENABLED
+}

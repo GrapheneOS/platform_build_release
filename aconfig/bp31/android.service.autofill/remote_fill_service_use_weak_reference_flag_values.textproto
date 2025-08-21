@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.autofill"
+  name: "remote_fill_service_use_weak_reference"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: autofill
+  # bug: 307972253
+  # description: Use weak reference to address binder leak problem
+  # trace: frameworks/base/services/autofill/bugfixes.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.service.autofill/remote_fill_service_use_weak_reference_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.service.autofill/remote_fill_service_use_weak_reference_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.autofill/remote_fill_service_use_weak_reference_flag_values.textproto : ENABLED
+}

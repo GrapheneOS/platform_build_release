@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.nfc.nci.flags"
+  name: "t5t_no_getsysinfo"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: nfc
+  # bug: 293959530
+  # description: Support for a pure NFC Forum T5T tag
+  # trace: packages/modules/Nfc/libnfc-nci/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.nfc.nci.flags/t5t_no_getsysinfo_flag_values.textproto : ENABLED
+}

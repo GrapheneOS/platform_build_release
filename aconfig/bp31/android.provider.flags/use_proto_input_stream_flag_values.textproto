@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.provider.flags"
+  name: "use_proto_input_stream"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.configinfrastructure
+  # namespace: core_experiments_team_internal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 390667838
+  # description: Use ProtoInputStream to deserialize protos instead of proto lite lib.
+  # trace: packages/modules/ConfigInfrastructure/framework/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.provider.flags/use_proto_input_stream_flag_values.textproto : ENABLED
+}

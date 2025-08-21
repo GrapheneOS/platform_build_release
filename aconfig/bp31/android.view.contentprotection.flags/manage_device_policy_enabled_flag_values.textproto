@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.view.contentprotection.flags"
+  name: "manage_device_policy_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: content_protection
+  # bug: 319477846
+  # description: If true, the APIs to manage content protection device policy will be enabled.
+  # trace: frameworks/base/core/java/android/view/contentprotection/flags/content_protection_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.view.contentprotection.flags/manage_device_policy_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.view.contentprotection.flags/manage_device_policy_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.view.contentprotection.flags/manage_device_policy_enabled_flag_values.textproto : ENABLED
+}

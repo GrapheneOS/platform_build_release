@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.intentresolver"
+  name: "shareousel_scroll_offscreen_selections"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: intentresolver
+  # bug: 351883537
+  # description: Whether to scroll items onscreen when they are partially offscreen and selected/unselected.
+  # trace: packages/modules/IntentResolver/aconfig/FeatureFlags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.intentresolver/shareousel_scroll_offscreen_selections_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.telecom.flags"
+  name: "cleanup_verify_call_state"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: telecom
+  # purpose: PURPOSE_BUGFIX
+  # bug: 404957140
+  # description: When a call disconnects, finish the VerifyCallStateChangeTransaction if the target state is not reached
+  # trace: packages/services/Telecomm/flags/telecom_call_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.server.telecom.flags/cleanup_verify_call_state_flag_values.textproto : ENABLED
+}

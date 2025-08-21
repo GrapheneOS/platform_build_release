@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_expressive_dismiss_task_motion"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: launcher_overview
+  # bug: 381239462
+  # description: Enables expressive motion and animations for dismissing a task in Overview.
+  # trace: packages/apps/Launcher3/aconfig/launcher_overview.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.launcher3/enable_expressive_dismiss_task_motion_flag_values.textproto : ENABLED
+}

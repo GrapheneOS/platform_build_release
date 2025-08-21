@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "window_blur_kawase2"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 353826438
+  # description: Flag for using Kawase2 algorithm for window blur
+  # trace: frameworks/native/services/surfaceflinger/surfaceflinger_flags_new.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.graphics.surfaceflinger.flags/window_blur_kawase2_flag_values.textproto : ENABLED
+}

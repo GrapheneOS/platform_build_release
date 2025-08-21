@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "improve_wakelock_latency"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: power
+  # bug: 339590565
+  # description: Feature flag for tracking the optimizations to improve the latency of acquiring and releasing a wakelock.
+  # trace: frameworks/base/services/core/java/com/android/server/power/feature/power_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.power.feature.flags/improve_wakelock_latency_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.power.feature.flags/improve_wakelock_latency_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,13 @@
+flag_value {
+  package: "android.app"
+  name: "restrict_audio_attributes_alarm"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 331793339
+  # description: Only alarm category notifs can use USAGE_ALARM
+  # trace: frameworks/base/core/java/android/app/notification.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.app/restrict_audio_attributes_alarm_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app/restrict_audio_attributes_alarm_flag_values.textproto : ENABLED
+}

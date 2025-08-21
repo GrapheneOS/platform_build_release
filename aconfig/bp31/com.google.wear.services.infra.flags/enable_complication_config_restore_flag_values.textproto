@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.wear.services.infra.flags"
+  name: "enable_complication_config_restore"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wear_services
+  # bug: 298362545
+  # description: Enables restore of the 'configured' state of complications during watch restore
+  # trace: vendor/google_clockwork_partners/packages/WearServices/src/com/google/wear/services/infra/flags/wear_services_flags.aconfig : DISABLED
+  # trace: vendor/google/release/aconfig/ap3a/com.google.wear.services.infra.flags/enable_complication_config_restore_flag_values.textproto : ENABLED
+}

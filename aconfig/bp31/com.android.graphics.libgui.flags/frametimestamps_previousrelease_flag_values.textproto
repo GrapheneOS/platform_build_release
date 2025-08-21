@@ -1,0 +1,14 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "frametimestamps_previousrelease"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: core_graphics
+  # bug: 310927247
+  # description: Controls a fence fixup for timestamp apis
+  # trace: frameworks/native/libs/gui/libgui_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.graphics.libgui.flags/frametimestamps_previousrelease_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.graphics.libgui.flags/frametimestamps_previousrelease_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.graphics.libgui.flags/frametimestamps_previousrelease_flag_values.textproto : ENABLED
+}

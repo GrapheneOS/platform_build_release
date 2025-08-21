@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.net.http"
+  name: "preload_httpengine_in_zygote"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: com.android.tethering
+  # namespace: android_core_networking
+  # bug: 380349437
+  # description: API Guard for preloading httpEngine in Zygote.
+  # trace: external/cronet/android/flags/preload_httpengine.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.net.http/preload_httpengine_in_zygote_flag_values.textproto : ENABLED
+}

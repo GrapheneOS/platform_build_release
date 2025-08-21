@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "user_encrypted_source"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # purpose: PURPOSE_BUGFIX
+  # bug: 333656491
+  # description: Get rid of the local cache and rely on UserManager.isUserUnlocked directly to determine whether user CE storage is encrypted.
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.systemui/user_encrypted_source_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "catalyst_sound_screen_25q3"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: android_settings
+  # bug: 352179685
+  # description: Flag for Sound & vibration in 25Q3
+  # trace: packages/apps/Settings/aconfig/catalyst/sound_screen.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.android.settings.flags/catalyst_sound_screen_25q3_flag_values.textproto : ENABLED
+}

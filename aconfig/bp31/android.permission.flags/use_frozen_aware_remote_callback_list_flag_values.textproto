@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "use_frozen_aware_remote_callback_list"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: permissions
+  # bug: 361157077
+  # description: Whether to use the new frozen-aware RemoteCallbackList API for op noted callbacks.
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.permission.flags/use_frozen_aware_remote_callback_list_flag_values.textproto : ENABLED
+}

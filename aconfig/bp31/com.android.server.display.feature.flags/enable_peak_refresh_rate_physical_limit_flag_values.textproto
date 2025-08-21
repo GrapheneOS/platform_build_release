@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.server.display.feature.flags"
+  name: "enable_peak_refresh_rate_physical_limit"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: display_manager
+  # purpose: PURPOSE_BUGFIX
+  # bug: 332413475
+  # description: Flag for adding physical refresh rate limit if smooth display setting is on 
+  # trace: frameworks/base/services/core/java/com/android/server/display/feature/display_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.server.display.feature.flags/enable_peak_refresh_rate_physical_limit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.display.feature.flags/enable_peak_refresh_rate_physical_limit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.display.feature.flags/enable_peak_refresh_rate_physical_limit_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.app.usage"
+  name: "report_usage_stats_permission"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: backstage_power
+  # bug: 296056771
+  # description: Feature flag for the new REPORT_USAGE_STATS permission.
+  # trace: frameworks/base/core/java/android/app/usage/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.app.usage/report_usage_stats_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.app.usage/report_usage_stats_permission_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.app.usage/report_usage_stats_permission_flag_values.textproto : ENABLED
+}

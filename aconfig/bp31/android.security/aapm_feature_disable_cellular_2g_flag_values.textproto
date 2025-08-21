@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.security"
+  name: "aapm_feature_disable_cellular_2g"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 377748286
+  # description: Android Advanced Protection Mode Feature: Disable Cellular 2G
+  # trace: frameworks/base/core/java/android/security/responsible_apis_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.security/aapm_feature_disable_cellular_2g_flag_values.textproto : ENABLED
+}

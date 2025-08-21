@@ -1,0 +1,15 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "complete_font_load_in_system_services_ready"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: text
+  # purpose: PURPOSE_BUGFIX
+  # bug: 327941215
+  # description: Fix to ensure that font loading is complete on system-services-ready boot phase.
+  # trace: frameworks/base/core/java/android/text/flags/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/com.android.text.flags/complete_font_load_in_system_services_ready_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/com.android.text.flags/complete_font_load_in_system_services_ready_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.text.flags/complete_font_load_in_system_services_ready_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.content.res"
+  name: "asset_file_descriptor_frro"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: resource_manager
+  # bug: 304478666
+  # description: Feature flag for passing in an AssetFileDescriptor to create an frro
+  # trace: frameworks/base/core/java/android/content/res/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.content.res/asset_file_descriptor_frro_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.content.res/asset_file_descriptor_frro_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.content.res/asset_file_descriptor_frro_flag_values.textproto : ENABLED
+}

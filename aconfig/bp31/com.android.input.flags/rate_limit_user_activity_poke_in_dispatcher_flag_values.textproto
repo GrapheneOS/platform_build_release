@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "rate_limit_user_activity_poke_in_dispatcher"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 320499729
+  # description: Move user-activity poke rate-limiting from PowerManagerService to InputDispatcher.
+  # trace: frameworks/native/libs/input/input_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp1a/com.android.input.flags/rate_limit_user_activity_poke_in_dispatcher_flag_values.textproto : ENABLED
+}

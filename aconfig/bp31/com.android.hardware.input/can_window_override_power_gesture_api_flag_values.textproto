@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "can_window_override_power_gesture_api"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 378736024
+  # description: Adds new API in WindowManager class to check if the window can override the power key double tap behavior.
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.hardware.input/can_window_override_power_gesture_api_flag_values.textproto : ENABLED
+}

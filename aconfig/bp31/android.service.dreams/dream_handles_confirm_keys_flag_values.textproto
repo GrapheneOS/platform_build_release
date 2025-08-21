@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.service.dreams"
+  name: "dream_handles_confirm_keys"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: communal
+  # purpose: PURPOSE_BUGFIX
+  # bug: 326975875
+  # description: This flag enables dreams processing confirm keys to show the bouncer or dismiss the keyguard
+  # trace: frameworks/base/core/java/android/service/dreams/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/android.service.dreams/dream_handles_confirm_keys_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.service.dreams/dream_handles_confirm_keys_flag_values.textproto : ENABLED
+}

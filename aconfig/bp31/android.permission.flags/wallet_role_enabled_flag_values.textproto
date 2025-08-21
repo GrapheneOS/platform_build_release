@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.permission.flags"
+  name: "wallet_role_enabled"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: wallet_integration
+  # bug: 283989236
+  # description: This flag is used to enabled the Wallet Role for all users on the device
+  # trace: frameworks/base/core/java/android/permission/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.permission.flags/wallet_role_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.permission.flags/wallet_role_enabled_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.permission.flags/wallet_role_enabled_flag_values.textproto : ENABLED
+}

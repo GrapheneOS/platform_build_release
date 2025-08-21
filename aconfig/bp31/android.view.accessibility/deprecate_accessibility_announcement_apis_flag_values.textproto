@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "deprecate_accessibility_announcement_apis"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: accessibility
+  # bug: 376727542
+  # description: Controls the deprecation of platform APIs related to disruptive accessibility announcements
+  # trace: frameworks/base/core/java/android/view/accessibility/flags/accessibility_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.view.accessibility/deprecate_accessibility_announcement_apis_flag_values.textproto : ENABLED
+}

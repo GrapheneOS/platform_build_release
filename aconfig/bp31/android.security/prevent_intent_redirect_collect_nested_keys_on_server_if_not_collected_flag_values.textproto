@@ -1,0 +1,12 @@
+flag_value {
+  package: "android.security"
+  name: "prevent_intent_redirect_collect_nested_keys_on_server_if_not_collected"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: responsible_apis
+  # bug: 361143368
+  # description: Prevent intent redirect attacks by collecting nested keys on server if not yet collected
+  # trace: frameworks/base/core/java/android/security/responsible_apis_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/android.security/prevent_intent_redirect_collect_nested_keys_on_server_if_not_collected_flag_values.textproto : ENABLED
+}

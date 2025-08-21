@@ -1,0 +1,13 @@
+flag_value {
+  package: "com.android.server.stats"
+  name: "apply_network_stats_poll_rate_limit"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: statsd
+  # bug: 352495181
+  # description: Apply a rate limit for polling network stats when pulling relevant atoms
+  # trace: frameworks/base/services/core/java/com/android/server/stats/stats_flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap4a/com.android.server.stats/apply_network_stats_poll_rate_limit_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/com.android.server.stats/apply_network_stats_poll_rate_limit_flag_values.textproto : ENABLED
+}

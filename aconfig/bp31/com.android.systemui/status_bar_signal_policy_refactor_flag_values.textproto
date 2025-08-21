@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_signal_policy_refactor"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: systemui
+  # bug: 264539100
+  # description: Use a settings observer for airplane mode and make StatusBarSignalPolicy startable
+  # trace: frameworks/base/packages/SystemUI/aconfig/systemui.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.systemui/status_bar_signal_policy_refactor_flag_values.textproto : ENABLED
+}

@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.location.flags"
+  name: "gnss_api_navic_l1"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: location
+  # bug: 302199306
+  # description: Flag for GNSS API for NavIC L1
+  # trace: frameworks/base/location/java/android/location/flags/location.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.location.flags/gnss_api_navic_l1_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.location.flags/gnss_api_navic_l1_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.location.flags/gnss_api_navic_l1_flag_values.textproto : ENABLED
+}

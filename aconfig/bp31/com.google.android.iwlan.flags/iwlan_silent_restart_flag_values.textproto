@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.google.android.iwlan.flags"
+  name: "iwlan_silent_restart"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system_ext
+  # namespace: iwlan_telephony
+  # bug: 392910631
+  # description: Clear tunnels and other resources in IWLAN and restart the process
+  # trace: packages/services/Iwlan/flags/main.aconfig : DISABLED
+  # trace: build/release/aconfig/bp3a/com.google.android.iwlan.flags/iwlan_silent_restart_flag_values.textproto : ENABLED
+}

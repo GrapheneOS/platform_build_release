@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.car.feature"
+  name: "android_vic_vehicle_properties"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: car_framework
+  # bug: 309529020
+  # description: Enables use of vehicle properties introduced in Android V
+  # trace: packages/services/Car/aconfig/flags.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.car.feature/android_vic_vehicle_properties_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.car.feature/android_vic_vehicle_properties_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.car.feature/android_vic_vehicle_properties_flag_values.textproto : ENABLED
+}

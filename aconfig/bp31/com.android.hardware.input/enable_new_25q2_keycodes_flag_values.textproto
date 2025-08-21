@@ -1,0 +1,12 @@
+flag_value {
+  package: "com.android.hardware.input"
+  name: "enable_new_25q2_keycodes"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: input
+  # bug: 365920375
+  # description: Enables new 25Q2 keycodes
+  # trace: frameworks/base/core/java/android/hardware/input/input_framework.aconfig : DISABLED
+  # trace: build/release/aconfig/bp2a/com.android.hardware.input/enable_new_25q2_keycodes_flag_values.textproto : ENABLED
+}

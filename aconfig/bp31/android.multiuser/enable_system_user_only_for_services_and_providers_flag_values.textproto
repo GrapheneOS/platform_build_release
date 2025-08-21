@@ -1,0 +1,14 @@
+flag_value {
+  package: "android.multiuser"
+  name: "enable_system_user_only_for_services_and_providers"
+  state: ENABLED
+  permission: READ_ONLY
+  # container: system
+  # namespace: multiuser
+  # bug: 302354856
+  # description: Enable systemUserOnly manifest attribute for services and providers.
+  # trace: frameworks/base/core/java/android/content/pm/multiuser.aconfig : DISABLED
+  # trace: build/release/aconfig/ap3a/android.multiuser/enable_system_user_only_for_services_and_providers_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/ap4a/android.multiuser/enable_system_user_only_for_services_and_providers_flag_values.textproto : ENABLED
+  # trace: build/release/aconfig/bp1a/android.multiuser/enable_system_user_only_for_services_and_providers_flag_values.textproto : ENABLED
+}
