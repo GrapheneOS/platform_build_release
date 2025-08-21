@@ -1,0 +1,3 @@
+name: "bp2f"
+inherits: "cur"
+aconfig_value_sets: "aconfig_value_set-bp31"
