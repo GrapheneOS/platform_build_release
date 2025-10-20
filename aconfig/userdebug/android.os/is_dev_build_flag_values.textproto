@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "is_dev_build"
+  state: ENABLED
+  permission: READ_ONLY
+}
