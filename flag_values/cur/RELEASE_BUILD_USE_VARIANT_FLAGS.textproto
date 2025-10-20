@@ -1,0 +1,4 @@
+name: "RELEASE_BUILD_USE_VARIANT_FLAGS"
+value: {
+  bool_value: true
+}
