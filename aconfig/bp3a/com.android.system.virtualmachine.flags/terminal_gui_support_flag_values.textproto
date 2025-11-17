@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.system.virtualmachine.flags"
+  name: "terminal_gui_support"
+  state: ENABLED
+  permission: READ_ONLY
+}
