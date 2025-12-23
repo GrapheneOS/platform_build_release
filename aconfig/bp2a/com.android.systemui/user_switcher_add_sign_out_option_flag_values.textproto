@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "user_switcher_add_sign_out_option"
+  state: ENABLED
+  permission: READ_ONLY
+}
