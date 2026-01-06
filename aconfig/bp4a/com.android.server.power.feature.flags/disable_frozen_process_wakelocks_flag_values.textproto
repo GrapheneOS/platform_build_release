@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.power.feature.flags"
-  name: "disable_frozen_process_wakelocks"
-  state: ENABLED
-  permission: READ_ONLY
-}
