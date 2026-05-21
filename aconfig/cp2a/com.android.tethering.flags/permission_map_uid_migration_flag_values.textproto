@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.tethering.flags"
+  name: "permission_map_uid_migration"
+  state: ENABLED
+  permission: READ_ONLY
+}
