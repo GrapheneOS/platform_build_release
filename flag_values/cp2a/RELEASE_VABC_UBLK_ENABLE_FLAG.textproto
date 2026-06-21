@@ -1,4 +1,0 @@
-name: "RELEASE_VABC_UBLK_ENABLE_FLAG"
-value {
-  bool_value: true
-}
