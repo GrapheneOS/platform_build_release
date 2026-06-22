@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "enable_android_photopicker"
+  state: ENABLED
+  permission: READ_ONLY
+}
