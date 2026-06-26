@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telecom.flags"
+  name: "register_bluetooth_receiver_for_all_users"
+  state: ENABLED
+  permission: READ_ONLY
+}
