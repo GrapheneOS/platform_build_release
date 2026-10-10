@@ -1,0 +1,7 @@
+aconfig_values {
+    name: "aconfig-values-platform_build_release-cp2a-com.android.graphics.bootanimation.flags-all",
+    package: "com.android.graphics.bootanimation.flags",
+    srcs: [
+        "*_flag_values.textproto",
+    ],
+}
