@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "bq_extendedallocate"
+  state: ENABLED
+  permission: READ_ONLY
+}
